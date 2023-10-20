@@ -1,0 +1,4 @@
+pandas==1.5.2
+flake8
+git+https://github.com/psf/black
+beautifulsoup4
