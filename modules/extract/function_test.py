@@ -39,7 +39,7 @@ def extract_details_card_from_html_page(html):
     else print error
     """
     json_object = {}
-    soup = bs(html)
+    soup = bs(html, "html.parser")
     json_object["details"] = []
     try:
         section_element = soup.find_all("section", {"data-testid": "Details"})
@@ -94,7 +94,7 @@ def extract_boxoffice_card_from_html_page(html):
     else print error
     """
     json_object = {}
-    soup = bs(html)
+    soup = bs(html, "html.parser")
     json_object["boxOffice"] = []
     try:
         section_element = soup.find_all("section", {"data-testid": "BoxOffice"})
@@ -134,7 +134,7 @@ def extract_techspecs_card_from_html_page(html):
     else print error
     """
     json_object = {}
-    soup = bs(html)
+    soup = bs(html, "html.parser")
     json_object["techspecs"] = []
     try:
         section_element = soup.find_all("section", {"data-testid": "TechSpecs"})
@@ -168,83 +168,6 @@ def extract_techspecs_card_from_html_page(html):
                 # div_text = div.get_text()
                 new_obj = {key_name: {"val": li_arr}}
                 json_object["techspecs"].append(new_obj)
-
-    return json_object
-
-
-def extract_cast_card_from_html_page(html):
-    """
-    Take the variable returned by read_html_file and use this function
-    to extract information from cast card. If it's successful add the
-    extraction to the final json object as a key value pair else print error
-    """
-    json_object = {}
-    json_object["actors"] = []
-    soup = bs(html)
-    try:
-        section_element = soup.find_all("section", {"data-testid": "title-cast"})
-    except Exception as e:
-        print("{} exception occured".format(e))
-
-    try:
-        cast_element = section_element[0].find_all(
-            "div", {"data-testid": "title-cast-item"}
-        )
-    except Exception as e:
-        print("{} exception occured".format(e))
-
-    try:
-        misc_element = section_element[0].find_all(
-            "li", {"class": "ipc-metadata-list__item"}
-        )
-    except Exception as e:
-        print("{} exception occured".format(e))
-
-    for i in cast_element:
-        try:
-            img = i.find("img").attrs["src"]
-        except Exception as e:
-            print("{} exception occured".format(e))
-            img = None
-        actor_name = i.find("a", {"data-testid": "title-cast-item__actor"}).get_text()
-        character_name = i.find(
-            "a", {"data-testid": "cast-item-characters-link"}
-        ).get_text()
-        new_obj = {
-            "image": img,
-            "actor_name": actor_name,
-            "character_name": character_name,
-        }
-        json_object["actors"].append(new_obj)
-
-    for i in misc_element:
-        lst = []
-        if i.find_all(
-            "a",
-            {
-                "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--link"
-            },
-        ):
-            key = i.find_all(
-                "a",
-                {
-                    "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--link"
-                },
-            )[0].get_text()
-        else:
-            key = i.find_all(
-                "span",
-                {
-                    "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--btn"
-                },
-            )[0].get_text()
-
-        tmp1 = i.find_all("li")
-        for j in tmp1:
-            if len(j) >= 1:
-                tmp2 = j.find("a").get_text()
-                lst.append(tmp2)
-        json_object[key] = lst
 
     return json_object
 
