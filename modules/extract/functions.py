@@ -39,7 +39,7 @@ def extract_details_card_from_html_page(html):
     else print error
     """
     json_object = {}
-    soup = bs(html)
+    soup = bs(html, "html.parser")
     json_object["details"] = []
     try:
         section_element = soup.find_all("section", {"data-testid": "Details"})
@@ -94,7 +94,7 @@ def extract_boxoffice_card_from_html_page(html):
     else print error
     """
     json_object = {}
-    soup = bs(html)
+    soup = bs(html, "html.parser")
     json_object["boxOffice"] = []
     try:
         section_element = soup.find_all("section", {"data-testid": "BoxOffice"})
@@ -134,7 +134,7 @@ def extract_techspecs_card_from_html_page(html):
     else print error
     """
     json_object = {}
-    soup = bs(html)
+    soup = bs(html, "html.parser")
     json_object["techspecs"] = []
     try:
         section_element = soup.find_all("section", {"data-testid": "TechSpecs"})
@@ -180,7 +180,7 @@ def extract_cast_card_from_html_page(html):
     """
     json_object = {}
     json_object["actors"] = []
-    soup = bs(html)
+    soup = bs(html, "html.parser")
     try:
         section_element = soup.find_all("section", {"data-testid": "title-cast"})
     except Exception as e:
@@ -190,6 +190,22 @@ def extract_cast_card_from_html_page(html):
         cast_element = section_element[0].find_all(
             "div", {"data-testid": "title-cast-item"}
         )
+        for i in cast_element:
+            try:
+                img = i.find("img").attrs["src"]
+            except Exception as e:
+                print("{} exception occured".format(e))
+                img = None
+            actor_name = i.find("a", {"data-testid": "title-cast-item__actor"}).get_text()
+            character_name = i.find(
+                "a", {"data-testid": "cast-item-characters-link"}
+            ).get_text()
+            new_obj = {
+                "image": img,
+                "actor_name": actor_name,
+                "character_name": character_name,
+            }
+            json_object["actors"].append(new_obj)
     except Exception as e:
         print("{} exception occured".format(e))
 
@@ -197,54 +213,40 @@ def extract_cast_card_from_html_page(html):
         misc_element = section_element[0].find_all(
             "li", {"class": "ipc-metadata-list__item"}
         )
-    except Exception as e:
-        print("{} exception occured".format(e))
-
-    for i in cast_element:
-        try:
-            img = i.find("img").attrs["src"]
-        except Exception as e:
-            print("{} exception occured".format(e))
-            img = None
-        actor_name = i.find("a", {"data-testid": "title-cast-item__actor"}).get_text()
-        character_name = i.find(
-            "a", {"data-testid": "cast-item-characters-link"}
-        ).get_text()
-        new_obj = {
-            "image": img,
-            "actor_name": actor_name,
-            "character_name": character_name,
-        }
-        json_object["actors"].append(new_obj)
-
-    for i in misc_element:
-        lst = []
-        if i.find_all(
-            "a",
-            {
-                "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--link"
-            },
-        ):
-            key = i.find_all(
+        for i in misc_element:
+            lst = []
+            if i.find_all(
                 "a",
                 {
                     "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--link"
                 },
-            )[0].get_text()
-        else:
-            key = i.find_all(
-                "span",
-                {
-                    "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--btn"
-                },
-            )[0].get_text()
+            ):
+                key = i.find_all(
+                    "a",
+                    {
+                        "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--link"
+                    },
+                )[0].get_text()
+            else:
+                key = i.find_all(
+                    "span",
+                    {
+                        "class": "ipc-metadata-list-item__label ipc-metadata-list-item__label--btn"
+                    },
+                )[0].get_text()
 
-        tmp1 = i.find_all("li")
-        for j in tmp1:
-            if len(j) >= 1:
-                tmp2 = j.find("a").get_text()
-                lst.append(tmp2)
-        json_object[key] = lst
+            tmp1 = i.find_all("li")
+            for j in tmp1:
+                if len(j) >= 1:
+                    tmp2 = j.find("a").get_text()
+                    lst.append(tmp2)
+            json_object[key] = lst
+    except Exception as e:
+        print("{} exception occured".format(e))
+
+    
+
+    
 
     return json_object
 

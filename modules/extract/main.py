@@ -5,7 +5,7 @@ extracts different cards from the imdb page
 
 """
 # file to test performance and correctness of the code
-from function_test import *
+from functions import *
 import os
 import time
 import json
@@ -16,13 +16,13 @@ def process_html_file(file_path):
     # parse html
     results = []
     write_path = "/home/server/2023/movies-project-oct/movies_project/data/json_dumps/"
-    file = read_html_file(file_path)
-
-    # results.append(extract_cast_card_from_html_page(file))
+    file = read_html_file(file_path)  
     results.append(extract_first_card_from_html_page(file))
+    results.append(extract_cast_card_from_html_page(file))
     results.append(extract_details_card_from_html_page(file))
     results.append(extract_boxoffice_card_from_html_page(file))
     results.append(extract_techspecs_card_from_html_page(file))
+
     # Write the array of objects to a JSON file
     movie_name_new = file_path.split("/movie-")[1].split(".")[0]
     json_file = write_path + movie_name_new + ".json"
@@ -34,7 +34,7 @@ if __name__ == "__main__":
     t0 = time.time()
     data_path = "/home/server/2023/movies-project-oct/imdb/outputs_18oct/"
     html_files_list = os.listdir(data_path)
-    num_files_to_execute = 1
+    num_files_to_execute = len(html_files_list)
     file_paths = []
     for movie_name in html_files_list[:num_files_to_execute]:
         file_paths.append(data_path + movie_name)
