@@ -1,0 +1,220 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ham on Rye"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjViNzIwMWQtM2Y4Ny00NDBiLWJkZmMtZWFmZjMwZDdmMzIwXkEyXkFqcGdeQXVyNTMzMDc0MzI@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Mystery"
+                ]
+            },
+            {
+                "plot": "A bizarre rite of passage at the local deli determines the fate of a generation of teenagers, leading some to escape their suburban town and dooming others to remain."
+            },
+            {
+                "imdb-rating": "5.9/10"
+            },
+            {
+                "metascore": "14"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Haley Bodell",
+                "character_name": "Haley"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTQ5M2MyMzctNDhhMC00NzBjLTg5YzAtNmViOWU4MTM5MWU1XkEyXkFqcGdeQXVyNTg1MzE1MDA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Audrey Boos",
+                "character_name": "Gwen"
+            },
+            {
+                "image": null,
+                "actor_name": "Gabriella Herrera",
+                "character_name": "Trish"
+            },
+            {
+                "image": null,
+                "actor_name": "Adam Torres",
+                "character_name": "Marick"
+            },
+            {
+                "image": null,
+                "actor_name": "Luke Darga",
+                "character_name": "Tommy"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Hernandez",
+                "character_name": "Artie"
+            },
+            {
+                "image": null,
+                "actor_name": "Blake Borders",
+                "character_name": "Jim"
+            },
+            {
+                "image": null,
+                "actor_name": "Cole Devine",
+                "character_name": "Sloan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTVhZDQxNjQtMzRiNC00MGI3LWI2NzctMGZjYmMzZGMxY2E0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Timothy Taylor",
+                "character_name": "Bronco"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2EyNWU1MjEtY2E2ZC00NzEzLWE4MjEtMGI5ZmJiYjBjOWUxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Gregory Falatek",
+                "character_name": "Garth"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmE0YTM0MWEtOWU4OS00ZDI1LWIxODQtNjQzZjViNjQ4ZDMwXkEyXkFqcGdeQXVyMzU4NDYwNw@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+                "actor_name": "Laura Wernette",
+                "character_name": "Dorothy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAyMzQ5ODA1Nl5BMl5BanBnXkFtZTYwMzk1NTQz._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Lori Beth Denberg",
+                "character_name": "Uno Queen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzMzY2VmOTYtYjFjMi00MTVmLWE4ZDAtM2UwOWY5NzVhZmViXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Danny Tamberelli",
+                "character_name": "Uno King"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2YyMTcyOTktMWMzYS00NWFlLWExZmUtMzBlMDBjNjQzMDUyXkEyXkFqcGdeQXVyMjg2ODEwOTI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Clayton Snyder",
+                "character_name": "Stoned Uno"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTQyZjNkZGUtZTNkNy00NzRmLTk0MWYtZWI0NTA5ZjY3ZGRiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Aaron Schwartz",
+                "character_name": "Uno Bro"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzUzNGE1YTYtY2QyYy00OWM0LTk5MTQtYjg3YmY2YTA4MjA3XkEyXkFqcGdeQXVyNTMzMDc0MzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David Croley Broyles",
+                "character_name": "Ollie"
+            },
+            {
+                "image": null,
+                "actor_name": "Henry Nolin",
+                "character_name": "Nicky"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmVhZGYxMmMtMDBkMi00NWU0LTgwMzQtNGMyMzFiYzgwMmFiXkEyXkFqcGdeQXVyODU0MjEzNzc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Hal Rothwell",
+                "character_name": "Nicholas"
+            }
+        ],
+        "Director": [
+            "Tyler Taormina"
+        ],
+        "Writers": [
+            "Tyler Taormina",
+            "Eric Berger"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 11, 2021 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt8529134/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official Instagram"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/Ham-on-Rye-1840406412690482/",
+                        "https://www.instagram.com/HamOnRyeFilm"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Tago Clearing Film Studio",
+                        "Omnes Films"
+                    ],
+                    "link": [
+                        "/company/co0701839?ref_=tt_dt_co_1",
+                        "/company/co0701840?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.66 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

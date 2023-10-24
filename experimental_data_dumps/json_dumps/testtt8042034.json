@@ -1,0 +1,155 @@
+[
+    {
+        "first": [
+            {
+                "title": "Darrel Janz: A Life in the News"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWFlMGY0OGItODFiMC00ODZlLTgxODQtMzdlYzdjY2VkNGJjXkEyXkFqcGdeQXVyNjk0NzUzMTU@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Al Giesbrecht",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Kevin Green",
+                "character_name": "Self - Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "Barb Higgins",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Darrel Janz",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Frieda Janz",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dick Klippenstein",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Thompson MacDonald",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ken Newans",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Lloyd Robertson",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dora Wall",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Phil Bruch"
+        ],
+        "Writer": [
+            "Kevin Green"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 24, 2013 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt8042034/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Calgary, Alberta, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Calgary%2C%20Alberta%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "CTV Calgary"
+                    ],
+                    "link": [
+                        "/company/co0687147?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

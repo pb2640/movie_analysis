@@ -1,0 +1,100 @@
+[
+    {
+        "first": [
+            {
+                "title": "Dluwang: the Past from the Trash"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGY5ZTQ3M2ItNGMwZC00OGZkLTlkOGEtMDQ5ODJkOWJmYTMxXkEyXkFqcGdeQXVyNzg4MjI1MzE@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 5, 2017 (Indonesia)"
+                    ],
+                    "link": [
+                        "/title/tt10886704/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Indonesia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=ID&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Page for this documentary at festival nsubmission website"
+                    ],
+                    "link": [
+                        "https://filmfreeway.com/Dluwang"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Indonesian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=id&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$10,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

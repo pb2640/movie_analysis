@@ -1,0 +1,139 @@
+[
+    {
+        "first": [
+            {
+                "title": "Squeegee"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMmM4ZGJhNTAtYmQ1My00YzM5LTk3YTQtOTFlNjMwZTQ4MDU5XkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "A high-powered businesswoman meets a high-rise window-washer for an erotic rendezvous on opposite sides of her skyscraper window."
+            },
+            {
+                "imdb-rating": "6.6/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Blair McKenzie",
+                "character_name": "Window Washer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDc4MjIzMTcxOV5BMl5BanBnXkFtZTcwMzA2MDkyMQ@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Amy Rutherford",
+                "character_name": "Lori"
+            }
+        ],
+        "Director": [
+            "Morgan Krantz"
+        ],
+        "Writer": [
+            "Morgan Krantz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 25, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12347764/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/Squeegee-107303167660170/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Toronto, Ontario, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Toronto%2C%20Ontario%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Krantz Pictures"
+                    ],
+                    "link": [
+                        "/company/co0800832?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

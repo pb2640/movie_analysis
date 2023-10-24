@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "Pee-wee's Big Adventure: Production Sketches and Storyboards"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGNiODEwYjktZmRhNi00MmMzLTgyMjgtZGU1ZjAwMzU2M2U2XkEyXkFqcGdeQXVyMTcxNTk0NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David L. Snyder",
+                "character_name": "Self - Art Director & Production Designer on 'Pee-wee's Big Adventure' (1985)"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 4, 2008 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7875542/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Warner Bros."
+                    ],
+                    "link": [
+                        "https://www.facebook.com/PeeWeesBigAdventure/",
+                        "https://www.warnerbros.com/pee-wees-big-adventure"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Warner Bros. Home Entertainment",
+                        "Warner Home Video"
+                    ],
+                    "link": [
+                        "/company/co0567645?ref_=tt_dt_co_1",
+                        "/company/co0059995?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "12 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            }
+        ]
+    }
+]

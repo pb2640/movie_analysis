@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "Exposure"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZGVkODdmZTctNzcyNi00MDI1LThmNDMtNmNmYzFhZGVlYTM0XkEyXkFqcGdeQXVyMDIxMjc0MQ@@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Crime",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "As a young couple fights for survival in the harsh California desert, they confront the choices that brought them to a crossroads in their relationship."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzAxYTZjNDgtYjg0OS00NTJiLWJiNzMtYTA1YTA0MmFlN2ZhXkEyXkFqcGdeQXVyMjI3ODk5NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "P.J. King",
+                "character_name": "Craig Webster"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmM5NzRmNmUtYWZmZC00NzljLThiMDItMzg0YmM3M2U4ZjZhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Chasen Bauer",
+                "character_name": "Gregory"
+            },
+            {
+                "image": null,
+                "actor_name": "Renahy Aulani",
+                "character_name": "Amy"
+            }
+        ],
+        "Director": [
+            "J.D. Funari"
+        ],
+        "Writer": [
+            "Peter Hanson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 15, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6190144/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.exposure-movie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$25,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

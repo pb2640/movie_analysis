@@ -1,0 +1,176 @@
+[
+    {
+        "first": [
+            {
+                "title": "America's Deadliest Sharks"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Up to 175 species of shark live in the oceans around the United States but only a handful of those have been known to attack humans. Despite that, we have more shark attacks here every year ... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Chuck Bangley",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ty Bretz",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Patrick Bruff",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike Coots",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTczODMxOTYzNF5BMl5BanBnXkFtZTgwMDAxODk0NDE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Chris Cuomo",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Julian Elizondo",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dean Grubbs",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dan Huber",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Carson Jewell",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Eric Larsen",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Chris Myers",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzMwODI0ODA0N15BMl5BanBnXkFtZTcwNjQ1MTIzMQ@@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Mason Pettit",
+                "character_name": "Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "Nick Romano",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Debbie Salamone",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Karin Stei",
+                "character_name": "Self"
+            }
+        ],
+        "Writers": [
+            "Simon Boyce",
+            "Mea Trenor",
+            "Tom Zdunich"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 2020 (Netherlands)"
+                    ],
+                    "link": [
+                        "/title/tt13138892/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Earth Touch",
+                        "Lenzworks",
+                        "National Geographic Studios"
+                    ],
+                    "link": [
+                        "/company/co0441679?ref_=tt_dt_co_1",
+                        "/company/co0560186?ref_=tt_dt_co_2",
+                        "/company/co0512191?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "44 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "first": [
+            {
+                "title": "7 Videos: #1"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 minute"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            }
+        ]
+    }
+]

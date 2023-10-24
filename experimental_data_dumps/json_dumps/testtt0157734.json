@@ -1,0 +1,116 @@
+[
+    {
+        "first": [
+            {
+                "title": "Har Har Mahadev"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjA1Y2U3MmQtMGViMS00NmE1LWFjMzQtMmRiNGUzNmZiMmVhXkEyXkFqcGdeQXVyNDQ0ODI2MQ@@._V1_QL75_UY281_CR82,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "The complete Shivpuran on celluloid."
+            },
+            {
+                "imdb-rating": "7.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTA1NjJiOTQtMTIxNC00MzI1LWJhZTgtZjhmNTZmZGVhZmRjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Dara Singh Randhawa",
+                "character_name": "Bhagwan Shiv"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA4NTQxMTUtMGMxMy00ZGU2LTkwMGEtYjQxYWFhYTlmNjlhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jayshree Gadkar",
+                "character_name": "Devi Parvati"
+            }
+        ],
+        "Director": [
+            "Chandrakant"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1974 (India)"
+                    ],
+                    "link": [
+                        "/title/tt0157734/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Joy Films"
+                    ],
+                    "link": [
+                        "/company/co0078804?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

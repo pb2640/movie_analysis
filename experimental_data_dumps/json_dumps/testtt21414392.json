@@ -1,0 +1,104 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ripples Under the Skin"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNGI5YTExNWMtNGI2Ni00MDZjLTk5ZjMtNmQ3ZWQzNjE5OGU1XkEyXkFqcGdeQXVyNjg0NzEyODk@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "'Ripples Under the Skin' is a story of contestations - contestation of space, resources, claims, narratives... of a community struggling to carve out a living out of a dying profession conte... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 4, 2022 (India)"
+                    ],
+                    "link": [
+                        "/title/tt21414392/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Bihar, India"
+                    ],
+                    "link": [
+                        "/search/title?locations=Bihar%2C%20India&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Films Division of the Ministry of Information and Broadcasting"
+                    ],
+                    "link": [
+                        "/company/co0192476?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "29 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

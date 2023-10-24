@@ -1,0 +1,125 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Films of Roger Corman"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZWIyZmRiOWMtYjM4ZC00ZGE4LWE4NDgtNTUzMTcyMjIxMWVkXkEyXkFqcGdeQXVyNDkyODgyMjE@._V1_QL75_UX190_CR0,28,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Biography"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "James Cameron",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjU3NjM1MjE0OF5BMl5BanBnXkFtZTcwOTY1Njk5Mg@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Roger Corman",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY1NzY0OTQ0OF5BMl5BanBnXkFtZTcwNDY1Njk5Mg@@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Jonathan Demme",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIzMDE0MzAzOV5BMl5BanBnXkFtZTYwODQxMDQ1._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Bruce Dern",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk4OTI3MTEzNl5BMl5BanBnXkFtZTYwMDczMTQz._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Carl Franklin",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkzMDczMjUxNF5BMl5BanBnXkFtZTcwODY1Njk5Mg@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Ron Howard",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzMzMTM2NTQ4NF5BMl5BanBnXkFtZTcwODQ1OTkxMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Diane Ladd",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dave Mann",
+                "character_name": "Self - Voice Over Announcer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Martin Scorsese",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU5Mjk2NzQ5OV5BMl5BanBnXkFtZTcwMDQ2OTQ4Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Nancy Sinatra",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Robert J. Emery"
+        ],
+        "Writer": [
+            "Robert J. Emery"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 1999 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0560797/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Wellspring Productions"
+                    ],
+                    "link": [
+                        "/company/co0142353?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            }
+        ]
+    }
+]

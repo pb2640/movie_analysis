@@ -1,0 +1,175 @@
+[
+    {
+        "first": [
+            {
+                "title": "Where the Action Is"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjhlNDkyZGQtYmNkNC00NjNlLTk1NDItZDIwMmFmY2RiMGZmXkEyXkFqcGdeQXVyNDcwODI0Ng@@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Crime",
+                    "Drama",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "A gambler is smuggled into a billionaire's house to undertake a gambling duel."
+            },
+            {
+                "imdb-rating": "6.8/10"
+            },
+            {
+                "metascore": "5"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI2MjYwODU2Ml5BMl5BanBnXkFtZTYwMDY3NjM2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Edd Byrnes",
+                "character_name": "Eddie Vallance"
+            },
+            {
+                "image": null,
+                "actor_name": "James Berwick",
+                "character_name": "'Daddy' Burns"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI3Mzk5Mjk1MF5BMl5BanBnXkFtZTcwNDUwMTMxNA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Ingrid Pitt",
+                "character_name": "Ilse"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM1Nzc4NTU4Ml5BMl5BanBnXkFtZTgwOTc5MzYyMjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Trevor Baxter",
+                "character_name": "Winters"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2FkYWZlYjUtZDBkNC00Yzk5LWEwNzAtNGQ1ZDRhM2UwMjA3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR5,0,140,140_.jpg",
+                "actor_name": "George Innes",
+                "character_name": "Zac"
+            },
+            {
+                "image": null,
+                "actor_name": "Frank Coda",
+                "character_name": "Pursell"
+            },
+            {
+                "image": null,
+                "actor_name": "Oliver MacGreevy",
+                "character_name": "Henry"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODk4ZWQ4NDItMmE5Zi00NTNmLWEzYTEtN2JjODk5YzhhNGI4XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_QL75_UY140_CR15,0,140,140_.jpg",
+                "actor_name": "Larry Cross",
+                "character_name": "Tommy Vaughan"
+            },
+            {
+                "image": null,
+                "actor_name": "Suzanna Williams",
+                "character_name": "Maid"
+            },
+            {
+                "image": null,
+                "actor_name": "Ray Marioni",
+                "character_name": "Croupier"
+            }
+        ],
+        "Director": [
+            "Don Leaver"
+        ],
+        "Writer": [
+            "Brian Clemens"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 8, 1975 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt0073890/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "BBC Elstree Centre/ATV Studios, Borehamwood, Hertfordshire, England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=BBC%20Elstree%20Centre%2FATV%20Studios%2C%20Borehamwood%2C%20Hertfordshire%2C%20England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "American Broadcasting Company (ABC)",
+                        "Associated Television (ATV)",
+                        "Dick Clark Productions"
+                    ],
+                    "link": [
+                        "/company/co0037052?ref_=tt_dt_co_1",
+                        "/company/co0103244?ref_=tt_dt_co_2",
+                        "/company/co0061493?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White",
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

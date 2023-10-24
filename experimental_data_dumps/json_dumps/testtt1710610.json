@@ -1,0 +1,136 @@
+[
+    {
+        "first": [
+            {
+                "title": "A Call for Arms!"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzA0OTU0MTItMTYwZS00NTU5LWFkYmQtMzZkMWJhYTA3NDg4XkEyXkFqcGdeQXVyMTQwMzQ1MA@@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The Call for Arms is a 1940 British propaganda short film, directed by Brian Desmond Hurst and starring Jean Gillie and Rene Ray. The film was commissioned by the Ministry of Information and... Read all"
+            },
+            {
+                "imdb-rating": "4.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2RlMDY4NDEtMmFiNC00NzE5LWExMzAtYjNjNzkzNmE2NjA5XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jean Gillie",
+                "character_name": "Irene"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTZlM2EyZTctZGQ2NC00N2JjLTg3NzktNTc3MWRhZTNiNjAyXkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+                "actor_name": "Rene Ray",
+                "character_name": "Joan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzYwOWFkOTQtNzQwYS00YzlhLTliZmItYmQ3ODYzZTFkMWFlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kathleen Harrison",
+                "character_name": "Mrs. James"
+            },
+            {
+                "image": null,
+                "actor_name": "Colleen Nolan",
+                "character_name": "Forewoman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWExOWY4ZjUtYzMyZS00NWM5LThjZWMtYTBjN2YwNDYzMzVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Vi Kaley",
+                "character_name": "Newswoman"
+            }
+        ],
+        "Director": [
+            "Brian Desmond Hurst"
+        ],
+        "Writers": [
+            "Rodney Ackland",
+            "Brian Desmond Hurst",
+            "Terence Young"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1940 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt1710610/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "D&P Productions"
+                    ],
+                    "link": [
+                        "/company/co0103873?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

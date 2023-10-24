@@ -1,0 +1,138 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Amber Light"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDBlOGJmZTYtNWQxOS00MzRiLThmZDgtODNhZjlmMDNhMzJiXkEyXkFqcGdeQXVyOTMzODAyOQ@@._V1_QL75_UY281_CR178,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "A film about whisky, Scotland, and the weird and wonderful stuff in between."
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Dave Broom",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ryan Chetiyawardana",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Alasdair Gray",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Iain McArthur",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Francis J. Murphy II",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ian Rankin",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jas Scott",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Adam Park"
+        ],
+        "Writer": [
+            "Dave Broom"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 22, 2019 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt10394178/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$3,225"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 33 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

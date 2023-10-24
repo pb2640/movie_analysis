@@ -1,0 +1,135 @@
+[
+    {
+        "first": [
+            {
+                "title": "Vater"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzYwYTViMGMtMGIwYi00ZDZkLWI0Y2UtZGIyYjkyOTEzYmUyXkEyXkFqcGdeQXVyNDA3NTgzMzE@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjk4MWU1NjctZGJkOS00N2UwLTg1MTUtZWU0ZGU4MjdlZmM3XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Rosa von Praunheim",
+                "character_name": "Man in Berlin"
+            },
+            {
+                "image": null,
+                "actor_name": "Christian Bachmann",
+                "character_name": "Herr M\u00fcller"
+            }
+        ],
+        "Director": [
+            "Christian Bachmann"
+        ],
+        "Writer": [
+            "Christian Bachmann"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Austria"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "website of production"
+                    ],
+                    "link": [
+                        "http://www.restfilm.at/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "German"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title?locations=Germany&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Restfilm"
+                    ],
+                    "link": [
+                        "/company/co0413428?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20ac2,500 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "13 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ghosts of the Ozarks"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjY0MDk4YjMtODcyNC00ODk1LThkOTctNTJjZjI3ZDc1NjExXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_QL75_UY281_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror",
+                    "Mystery",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "In post-Civil War Arkansas, a young doctor is mysteriously summoned to a remote town in the Ozarks only to discover that the utopian paradise is filled with secrets and surrounded by a menac... Read all"
+            },
+            {
+                "imdb-rating": "4.6/10"
+            },
+            {
+                "metascore": "25"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGZmMzJhMWQtYjk4MS00NDdlLTkxZTQtNmJkZmZjZDA4MDFhXkEyXkFqcGdeQXVyMTQ0ODU1NTU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Thomas Hobson",
+                "character_name": "James 'Doc' McCune"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjYyMTkyY2EtMTk4Yi00MWFjLWI5MGYtNTUzODg5NWMyZGVhXkEyXkFqcGdeQXVyNTI4MjQ0OQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Phil Morris",
+                "character_name": "Matthew McCune"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDdjMGVmMDItYWUwNi00N2NkLTg2YjktZDlmOTQzZTFlZmFmXkEyXkFqcGdeQXVyMTA0Mzc4NDc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tara Perry",
+                "character_name": "Annie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk0ODkwNjM5M15BMl5BanBnXkFtZTcwNzQ3NjgyMw@@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Tim Blake Nelson",
+                "character_name": "Torb"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTA4ODQ5NjU0NTdeQTJeQWpwZ15BbWU4MDM5NDgxMjIx._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Angela Bettis",
+                "character_name": "Lucille"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjEzODYyNjg3NV5BMl5BanBnXkFtZTcwMzYwOTgyNg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David Arquette",
+                "character_name": "Douglas"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAxNDg3ODc1Nl5BMl5BanBnXkFtZTcwNzE1NTAzMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David Aaron Baker",
+                "character_name": "Jesse"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGRmM2NmZTgtMTdiMy00NmM1LWFjOTQtODA5M2VjNWY3NWI0XkEyXkFqcGdeQXVyNDIzMzQ0NjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Joseph Ruud",
+                "character_name": "William"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjEyNTAzNTk5NF5BMl5BanBnXkFtZTcwOTMzMTMzMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Neva Howell",
+                "character_name": "Miss Roberts"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmQwZjBlNzYtMmZjMC00MTVhLTk3YjgtZTQ2ZGYwZDFjYzMxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Brandon Gibson",
+                "character_name": "Mick"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzIyODBiOTgtZTFjZC00YjBmLTkyZmYtNDQ5NjRhZTdjYmE5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Scott Dean",
+                "character_name": "Micah"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzliNmZhN2ItMmY1Ny00NDNiLWE2ZGUtZmEzMTBkYmY0YzcyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Graham Gordy",
+                "character_name": "Samuel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTdlZjg0MTQtMmQ5YS00ZDBlLWE1OTMtNmJlYzhmMTA0ZDE2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Ed Lowry",
+                "character_name": "Dovvy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2VmNjg1OTUtODIzYi00OWNkLWI0NTAtOTE5OTEyOWE0ZGRhXkEyXkFqcGdeQXVyNzcxMjgzNTY@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Skylar Olivia Flanagan",
+                "character_name": "Emma"
+            },
+            {
+                "image": null,
+                "actor_name": "Aaron Preusch",
+                "character_name": "Joe"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTZiM2Q4MTktNDU2Yi00MWUxLWEzNGItYjk4N2NjMDkzM2Y5XkEyXkFqcGdeQXVyODYzNDU1NzQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Taylor Alden",
+                "character_name": "Rebecca"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGNhOGY4ZmItMjg4Yy00OTFkLTgwZTgtNDI2YmIwMzU0YTlhXkEyXkFqcGdeQXVyMzgwNDI0OTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Corbin Pitts",
+                "character_name": "Young William"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmM2MDJhZjMtYmY2My00NDNmLWI0ZTMtYzI3MGE3OTFjYzZiXkEyXkFqcGdeQXVyNjcwNzA3MTM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Skyler Elyse Philpot",
+                "character_name": "Young Annie"
+            }
+        ],
+        "Directors": [
+            "Matt Glass",
+            "Jordan Wayne Long"
+        ],
+        "Writers": [
+            "Sean Anthony Davis",
+            "Jordan Wayne Long",
+            "Tara Perry"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 3, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11186952/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Amazon"
+                    ],
+                    "link": [
+                        "https://amzn.to/3Ubb6SF"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Arkansas, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Arkansas%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "HCT Media"
+                    ],
+                    "link": [
+                        "/company/co0582525?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$91,731"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 47 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39:1"
+                    ]
+                }
+            }
+        ]
+    }
+]

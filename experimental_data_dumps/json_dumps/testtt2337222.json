@@ -1,0 +1,70 @@
+[
+    {
+        "first": [
+            {
+                "title": "Strategizing for Gender Equality in Africa: The Women's Colloquium in Liberia"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Hundreds of African women and international delegates joined Liberian president Ellen Johnson Sirleaf to strategize about how women leaders can help bring a lasting peace. In March 2009, wom... Read all"
+            },
+            {
+                "imdb-rating": "4.0/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Liberia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=LR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "4 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

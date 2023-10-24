@@ -1,0 +1,103 @@
+[
+    {
+        "first": [
+            {
+                "title": "Crazy Ex-Girlfriend: Oh My God I Think It's Over"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzliMjZmN2YtMjljNi00ZWQ3LWFiYTItMTBhNmI0NWYxNGUzXkEyXkFqcGdeQXVyNjY5MjIyMTk@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "\"Crazy Ex-Girlfriend: Oh My God I Think It's Over\" is a peek behind the curtain as the team behind the award-winning comedy series \"Crazy Ex-Girlfriend\" wraps up its final season. We watch a... Read all"
+            },
+            {
+                "imdb-rating": "8.1/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 5, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10799632/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "The CW Seed (United States)"
+                    ],
+                    "link": [
+                        "https://www.cwseed.com/shows/crazy-ex-girlfriend-omg/cxg-oh-my-god-i-think-its-over/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Indie City Films"
+                    ],
+                    "link": [
+                        "/company/co0375123?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "42 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

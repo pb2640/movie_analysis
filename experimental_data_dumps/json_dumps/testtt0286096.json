@@ -1,0 +1,98 @@
+[
+    {
+        "first": [
+            {
+                "title": "Short Stick Dance"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A native dance peculiar to India. Very odd and interesting. Strange costumes and stranger motions."
+            },
+            {
+                "imdb-rating": "3.6/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 1895 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0286096/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Black Maria Studio, West Orange, New Jersey, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Black%20Maria%20Studio%2C%20West%20Orange%2C%20New%20Jersey%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Edison Manufacturing Company"
+                    ],
+                    "link": [
+                        "/company/co0037035?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            }
+        ]
+    }
+]

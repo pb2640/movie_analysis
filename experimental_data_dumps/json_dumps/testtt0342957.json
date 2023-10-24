@@ -1,0 +1,123 @@
+[
+    {
+        "first": [
+            {
+                "title": "Sammy's Scandalous Scheme"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDk3NGRhNDktODgxMC00MDZjLTk2NTYtMjhhYTI0YWJkMTkzXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UY281_CR81,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Sammy can't get any attention from his girlfriend Dot because all she can think of is Charlie Chaplin. She sends Chaplin an enticing letter and Sammy a rejection, but the two get mixed up, s... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDk3NGRhNDktODgxMC00MDZjLTk2NTYtMjhhYTI0YWJkMTkzXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Sammy Burns",
+                "character_name": "Sammy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDU0Yzk1ZDgtOGFjMy00MjA3LTkwMzEtNGUwNTg0ZTdiMmUxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dot Farley",
+                "character_name": "Dottie"
+            }
+        ],
+        "Director": [
+            "Gilbert P. Hamilton"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 1915 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0342957/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Vogue Motion Picture Company"
+                    ],
+                    "link": [
+                        "/company/co0014047?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

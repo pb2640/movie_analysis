@@ -1,0 +1,185 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Legion Hall Bombing"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzZhNjg0Y2EtNDYzMS00YzUzLWFmMzYtMTZkNzlkODQ3NzQ2XkEyXkFqcGdeQXVyMDIzNDc0MA@@._V1_QL75_UY281_CR85,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The story of the trial of Willie Gallagher, convicted of bombing the Strabane (Northern Ireland) British Legion Hall in 1976."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI0NzI0NTgzN15BMl5BanBnXkFtZTYwMzQxMDky._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Niall Toibin",
+                "character_name": "The Defence Counsel"
+            },
+            {
+                "image": null,
+                "actor_name": "Ewen White",
+                "character_name": "The Prosecuting Counsel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg0MzEwMjYwNl5BMl5BanBnXkFtZTYwNjgzNTg1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David Kelly",
+                "character_name": "The Judge"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIzNzE3NzE1OF5BMl5BanBnXkFtZTcwNDczODMxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jim Norton",
+                "character_name": "The Detective Sergeant"
+            },
+            {
+                "image": null,
+                "actor_name": "Eamonn Boyce",
+                "character_name": "The Detective Constable"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Kavanagh",
+                "character_name": "The 1st Accused"
+            },
+            {
+                "image": null,
+                "actor_name": "Raymond Campbell",
+                "character_name": "The 2nd Accused"
+            },
+            {
+                "image": null,
+                "actor_name": "George Shane",
+                "character_name": "The 2nd Accused's Father"
+            },
+            {
+                "image": null,
+                "actor_name": "May Ollis",
+                "character_name": "1st (Female) Witness"
+            },
+            {
+                "image": null,
+                "actor_name": "Shay Gorman",
+                "character_name": "2nd (Male) Witness"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTFkYmE1MmEtMDczNy00YzM4LWIyNjQtMTQ0ZmViMTNlY2RhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "James Duggan",
+                "character_name": "3rd Witness - Bomb Expert"
+            },
+            {
+                "image": null,
+                "actor_name": "Vass Anderson",
+                "character_name": "The Doctor"
+            },
+            {
+                "image": null,
+                "actor_name": "Jeananne Crowley",
+                "character_name": "Clerk of the Court"
+            }
+        ],
+        "Director": [
+            "Roland Joff\u00e9"
+        ],
+        "Writer": [
+            "Caryl Churchill"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 22, 1978 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt0237402/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "BBC Programme Website"
+                    ],
+                    "link": [
+                        "https://www.bbc.co.uk/programmes/b00cnhjw"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "British Broadcasting Corporation (BBC)"
+                    ],
+                    "link": [
+                        "/company/co0043107?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "first": [
+            {
+                "title": "Patikim ng pinya"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjQ3NTVhN2QtMGQ4Zi00NmQ2LWEzNmMtM2U3YjQ1ZmQ5MmQwXkEyXkFqcGdeQXVyMTQ2MzQzMDAz._V1_QL75_UX190_CR0,19,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Seductive fruit vendor Myra (Rosanna Roces) finds it to her advantage to be charming and gracious to men. She falls in love at first sight with a handsome young stranger and experiences swee... Read all"
+            },
+            {
+                "imdb-rating": "7.8/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTBiODU5M2ItNTY2MS00NjJkLTgzYWUtZjJjMjRmZmYwMGY5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Rosanna Roces",
+                "character_name": "Myra"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjYyOTkxNTUtNWMzMy00YWZlLTk3ZmYtMmI3Nzg1MGQxZDRhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Leandro Baldemor",
+                "character_name": "Juanito"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWZhODI5OTMtMDk4MC00Njc2LWJmMjQtNmFiMzc1ZmI1MWQ3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Natasha Ledesma",
+                "character_name": "Loretta"
+            },
+            {
+                "image": null,
+                "actor_name": "Dencio Padilla",
+                "character_name": "Attorney"
+            },
+            {
+                "image": null,
+                "actor_name": "Carol Dauden",
+                "character_name": "Cynthia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWJiYTU4Y2ItZmU0ZS00ZjcwLWEwOWMtNzlkNTVmZThhYTE3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Anton Bernardo",
+                "character_name": "Edgar"
+            },
+            {
+                "image": null,
+                "actor_name": "Joey Galvez",
+                "character_name": "Paolo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODVmZTQ3OTAtYzI0NC00NjllLThmMjQtNjA5YTg1MDJkNjlmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Vangie Labalan",
+                "character_name": "Vendor #1"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTc2MTZlYjctYThjYy00NGFlLWIyODAtMzVlYjMwYTcxOTZhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UY140_CR70,0,140,140_.jpg",
+                "actor_name": "Luz Fernandez",
+                "character_name": "Edgar's Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Jinky Oda",
+                "character_name": "Lina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2YzOTJjMzUtYjBkZS00YTYzLWJlNGItZDQzMmE1YmExM2M2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Lou Veloso",
+                "character_name": "Punong-guro"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWFlM2E2ODctZjM1Yi00NTI0LTg3ZGYtMzhhYjk0MzgxNTNjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Joy Viado",
+                "character_name": "Vendor #2"
+            },
+            {
+                "image": null,
+                "actor_name": "Bert Mansueto",
+                "character_name": "Kapitan"
+            },
+            {
+                "image": null,
+                "actor_name": "Dante Castro",
+                "character_name": "Police"
+            },
+            {
+                "image": null,
+                "actor_name": "Bert Cayanan",
+                "character_name": "New House Owner"
+            },
+            {
+                "image": null,
+                "actor_name": "Lucy Quinto",
+                "character_name": "Ms. Santillan"
+            },
+            {
+                "image": null,
+                "actor_name": "Edgar Ebro",
+                "character_name": "Pineapple buyer"
+            },
+            {
+                "image": null,
+                "actor_name": "Boy Gomez",
+                "character_name": "Kargador"
+            }
+        ],
+        "Director": [
+            "Abbo Dela Cruz"
+        ],
+        "Writers": [
+            "Humilde 'Meek' Roxas",
+            "Salvador Royales",
+            "Genaro 'Nerdie' Cruz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 7, 1996 (Philippines)"
+                    ],
+                    "link": [
+                        "/title/tt0378540/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Philippines"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=PH&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Filipino",
+                        "Tagalog"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fil&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=tl&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Seiko Films"
+                    ],
+                    "link": [
+                        "/company/co0031198?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 32 minutes"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "first": [
+            {
+                "title": "Elli Makra - 42277 Wuppertal"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWMwOGYxYTMtM2EwNS00ZWFmLWI1YzYtMDkwZmRjMDQ2MTc3XkEyXkFqcGdeQXVyMzUwMzI0ODE@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Elli is Greek. She has lived in Germany since she was a child. She doesn't want to live like her sisters in a Greek world of illusion. She doesn't want her brutal ex-husband back. It's enoug... Read all"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Anna Lalasidou",
+                "character_name": "Elli"
+            },
+            {
+                "image": null,
+                "actor_name": "Niki Papadopoulos",
+                "character_name": "Niki"
+            },
+            {
+                "image": null,
+                "actor_name": "Anastasia Avenidou-Bartram",
+                "character_name": "Tassia"
+            },
+            {
+                "image": null,
+                "actor_name": "Kiriakoula Bloukou",
+                "character_name": "Anna"
+            },
+            {
+                "image": null,
+                "actor_name": "Panagiotis Chatzimoissiadis",
+                "character_name": "Takis"
+            },
+            {
+                "image": null,
+                "actor_name": "Georgios Lambretas",
+                "character_name": "Kostas"
+            },
+            {
+                "image": null,
+                "actor_name": "Sophie Schwerter",
+                "character_name": "Christine"
+            },
+            {
+                "image": null,
+                "actor_name": "Vassilis Sachinidis",
+                "character_name": "Alex"
+            },
+            {
+                "image": null,
+                "actor_name": "Konstantin Skordili Frogoudakis",
+                "character_name": "Haris"
+            },
+            {
+                "image": null,
+                "actor_name": "Antonios Gazetas",
+                "character_name": "\u00e4lterer Ehemann"
+            },
+            {
+                "image": null,
+                "actor_name": "Areti Ahrweiler",
+                "character_name": "\u00e4ltere Ehefrau"
+            },
+            {
+                "image": null,
+                "actor_name": "Kaliopi Melskotte",
+                "character_name": "Brautmutter"
+            },
+            {
+                "image": null,
+                "actor_name": "Dimitros Bakaloudis",
+                "character_name": "Spiros"
+            },
+            {
+                "image": null,
+                "actor_name": "Danae Andrikopoulos",
+                "character_name": "Band"
+            },
+            {
+                "image": null,
+                "actor_name": "Konstantinos Andrikopoulos",
+                "character_name": "Band"
+            },
+            {
+                "image": null,
+                "actor_name": "Takis Vadiakas",
+                "character_name": "Band"
+            },
+            {
+                "image": null,
+                "actor_name": "Nikolaos Rondelis",
+                "character_name": "Band"
+            }
+        ],
+        "Director": [
+            "Athanasios Karanikolas"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 23, 2008 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt1016081/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "German",
+                        "Greek"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=el&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Wuppertal, North Rhine-Westphalia, Germany"
+                    ],
+                    "link": [
+                        "/search/title?locations=Wuppertal%2C%20North%20Rhine-Westphalia%2C%20Germany&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Zweites Deutsches Fernsehen (ZDF)",
+                        "unafilm"
+                    ],
+                    "link": [
+                        "/company/co0078814?ref_=tt_dt_co_1",
+                        "/company/co0159972?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$2,483"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 22 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby SR"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

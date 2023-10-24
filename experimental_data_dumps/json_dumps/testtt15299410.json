@@ -1,0 +1,123 @@
+[
+    {
+        "first": [
+            {
+                "title": "Lady Gaga: Glory"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTJmN2RmMzQtY2Y0Yy00M2Y3LWI1YjgtM2UzNDEyN2I5MjY1XkEyXkFqcGdeQXVyMTA1NTIxMzA3._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Music"
+                ]
+            },
+            {
+                "plot": "While an outrageous fashion sense, elaborate videos, and spectacular stage sets are her norm, it's the music of 'Monster Mother' Lady Gaga that has led to her explosive career full of fame a... Read all"
+            },
+            {
+                "imdb-rating": "6.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg1NjQwMzU4MF5BMl5BanBnXkFtZTgwNTk5NjQ4NjE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Lady Gaga",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWE5OTcyZDItNGU5Mi00NzcyLTlmYWItOGJhYTVmNWMyMzc0XkEyXkFqcGdeQXVyMjY0MTQ3NTg@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Maria Pendolino",
+                "character_name": "Narrator"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 1, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt15299410/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Distribution website"
+                    ],
+                    "link": [
+                        "http://www.LegacyDistribution.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Entertain Me Productions",
+                        "Legacy Distribution"
+                    ],
+                    "link": [
+                        "/company/co0837272?ref_=tt_dt_co_1",
+                        "/company/co0319207?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$300,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            }
+        ]
+    }
+]

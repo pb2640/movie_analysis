@@ -1,0 +1,67 @@
+[
+    {
+        "first": [
+            {
+                "title": "To Sit with Her"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "Leon Wu, a Taiwanese-American trans man makes a pilgrimage to visit his maternal 97-year-old grandmother in rural Taiwan."
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Taiwan"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=TW&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

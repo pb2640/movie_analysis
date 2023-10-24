@@ -1,0 +1,86 @@
+[
+    {
+        "first": [
+            {
+                "title": "Words! Words! Words!"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A poetic short about the satisfaction of unrequited love."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Stephen Dunn"
+        ],
+        "Writer": [
+            "Stephen Dunn"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Toronto, Ontario, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Toronto%2C%20Ontario%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Stephen Dunn Films"
+                    ],
+                    "link": [
+                        "/company/co0289194?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hooghan"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjkyYjJiYjEtNzM1YS00NWFlLThhZmItMTEyZDg1N2Y3MzJiXkEyXkFqcGdeQXVyNDQzODc2OTA@._V1_QL75_UY281_CR130,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short",
+                    "Biography"
+                ]
+            },
+            {
+                "plot": "Larry A. and Carmelita B. Lowe tell their family history over images of a Hogan, a traditional Navajo dwelling, being built."
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 17, 2018 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt8980710/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Navajo"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=nv&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

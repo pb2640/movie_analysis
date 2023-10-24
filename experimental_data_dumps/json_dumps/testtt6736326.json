@@ -1,0 +1,92 @@
+[
+    {
+        "first": [
+            {
+                "title": "Forbidden Knowledge: From Giants to Atlantis"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjcwOTU2ZTAtYTczMC00ZjdjLTg4ZmItYjI3NGQxOTI3NTQ5XkEyXkFqcGdeQXVyMTc0ODg5NTQ@._V1_QL75_UY281_CR14,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "The history of Planet Earth is not what we have been told throughout the centuries, far from it. From our true origins and evolution, to occult secrets hidden from the masses since time imme... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.reality-entertainment.com/films/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Reality Entertainment (RE)"
+                    ],
+                    "link": [
+                        "/company/co0238475?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$1,000,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 hours 40 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

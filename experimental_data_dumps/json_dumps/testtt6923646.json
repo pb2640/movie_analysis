@@ -1,0 +1,114 @@
+[
+    {
+        "first": [
+            {
+                "title": "Strawberries Will Save the World"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDgyOGVkMjItNzU1Yy00NWE0LTg4MGItYjEwMzMzMDlmZGZiXkEyXkFqcGdeQXVyNDM1ODkxNDg@._V1_QL75_UY281_CR214,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Yuko Okumura is the biggest strawberry enthusiast living in Bloomington, Indiana. A member of an online community of strawberry lovers, she shares her strawberry collection and obsession wit... Read all"
+            },
+            {
+                "imdb-rating": "5.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Shohaku Okumura",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Yuko Okumura",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Yoko Okumura"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 15, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6923646/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Bloomington, Indiana, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Bloomington%2C%20Indiana%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$2,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

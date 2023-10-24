@@ -1,0 +1,138 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Turn of the Screw"
+            },
+            {
+                "genres": [
+                    "Music"
+                ]
+            },
+            {
+                "plot": "A young governess with two children becomes convinced that the house and grounds are haunted."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Ed Lyon",
+                "character_name": "Prologue"
+            },
+            {
+                "image": null,
+                "actor_name": "Sally Matthews",
+                "character_name": "The Governess"
+            },
+            {
+                "image": null,
+                "actor_name": "Henri de Beauffort",
+                "character_name": "Miles"
+            },
+            {
+                "image": null,
+                "actor_name": "Katharina Bierweiler",
+                "character_name": "Flora"
+            },
+            {
+                "image": null,
+                "actor_name": "Carole Wilson",
+                "character_name": "Mrs. Grose"
+            },
+            {
+                "image": null,
+                "actor_name": "Giselle Allen",
+                "character_name": "Miss Jessel"
+            },
+            {
+                "image": null,
+                "actor_name": "Julian Hubbard",
+                "character_name": "Peter Quint"
+            }
+        ],
+        "Director": [
+            "Myriam Hoyer"
+        ],
+        "Writers": [
+            "Henry James",
+            "Myfanwy Piper"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2021 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt14950512/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Belgium"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=BE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://www.mezzo.tv/en/Opera/%27The-Turn-of-the-Screw%27-by-Benjamin-Britten-at-La-Monnaie-7470"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "La Monnaie / De Munt"
+                    ],
+                    "link": [
+                        "/company/co0385232?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 46 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

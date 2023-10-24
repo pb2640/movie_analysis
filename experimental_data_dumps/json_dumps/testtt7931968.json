@@ -1,0 +1,133 @@
+[
+    {
+        "first": [
+            {
+                "title": "Narcissister Organ Player"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmNkOTYxZjUtOTU2NS00ZjM2LTllN2EtMjI0MDBkNmFjZTI4XkEyXkFqcGdeQXVyMTQxNzc5NTU@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Against the backdrop of her provocative and inventive performance, Narcissister reflects on the personal impact of her mother's illness and death."
+            },
+            {
+                "imdb-rating": "6.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Narcissister",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Narcissister"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 7, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7931968/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://www.sundance.org/projects/organ-player#/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "French"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=fr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$15,334"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$1,983"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Nov 11, 2018"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$15,334"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 31 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "first": [
+            {
+                "title": "Doomsday Chronicles"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjNmYTc4MTgtNGU0MC00ZDVkLTliYzgtNzY3ZGU0NmZhYTgyXkEyXkFqcGdeQXVyMjY3MjEwMQ@@._V1_QL75_UX190_CR0,11,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Plagued by wars, pollution and natural disasters, is man destined to self-destruction before the 20th century folds? Or can he escape the total annihilation the future may hold?"
+            },
+            {
+                "imdb-rating": "5.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTE5ODQzMTYxOF5BMl5BanBnXkFtZTYwMTc0MDI0._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "William Schallert",
+                "character_name": "Host"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTA5NjljNDgtMGExZC00ZmVlLTgyNmYtNDBmN2Y3ODhiNTQ5XkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Linus Pauling",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWQwZjk2ZDQtNmViNy00MDlhLWEwMWMtYmNkOWViNjEyZTY4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_QL75_UY140_CR54,0,140,140_.jpg",
+                "actor_name": "Daniel Ellsberg",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "David Scott",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "James Thornton"
+        ],
+        "Writers": [
+            "Kenneth J. Morris",
+            "John Purvis",
+            "Xavier Reyes"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Jerry Johnson & Associates",
+                        "The Associates Group"
+                    ],
+                    "link": [
+                        "/company/co0106945?ref_=tt_dt_co_1",
+                        "/company/co0106946?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 34 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

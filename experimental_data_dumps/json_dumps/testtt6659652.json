@@ -1,0 +1,186 @@
+[
+    {
+        "first": [
+            {
+                "title": "Descent Into the Maelstrom"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYmU0ZTU5MTItYmYxOS00NWYxLWExOTktYzg5NDg1YjM5NmExXkEyXkFqcGdeQXVyNzQwMjE2NDI@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "A group of outsiders get together in 1974 Sydney, and RADIO BIRDMAN is born with a mission - to keep compromise from their art. Birdman are turned off and kicked out of venue after venue. Th... Read all"
+            },
+            {
+                "imdb-rating": "7.8/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Alley Brereton",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Warwick Gilbert",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Pip Hoyle",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ron Keeley",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Chris Masuak",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Julie Mostyn",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jules Normington",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Deniz Tek",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Rob Younger",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Jonathan Sequeira"
+        ],
+        "Writer": [
+            "Jonathan Sequeira"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 20, 2017 (Australia)"
+                    ],
+                    "link": [
+                        "/title/tt6659652/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Australia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/radiobirdmanfilm/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Sydney, New South Wales, Australia"
+                    ],
+                    "link": [
+                        "/search/title?locations=Sydney%2C%20New%20South%20Wales%2C%20Australia&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Living Eyes"
+                    ],
+                    "link": [
+                        "/company/co0633587?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "A$50,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 50 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

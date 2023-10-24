@@ -1,0 +1,144 @@
+[
+    {
+        "first": [
+            {
+                "title": "Casting Pearls"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTY4MjgyMTExMF5BMl5BanBnXkFtZTcwMTY3NjA1MQ@@._V1_QL75_UX190_CR0,7,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "'Casting Pearls' illustrates the difficulties trans women face in Hollywood via a hectic series of auditions endured by a transgender actress. Calpernia Addams stars as 'The Actress' who wea... Read all"
+            },
+            {
+                "imdb-rating": "7.2/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDUzMjQ3MF5BMl5BanBnXkFtZTYwOTU3NDcy._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Calpernia Addams",
+                "character_name": "The Actress"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI5OTE5NTk1N15BMl5BanBnXkFtZTcwNTkzNjIzMQ@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Andrea James",
+                "character_name": "Off-camera characters"
+            }
+        ],
+        "Director": [
+            "Andrea James"
+        ],
+        "Writers": [
+            "Calpernia Addams",
+            "Andrea James"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 13, 2007 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1059780/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.deepstealth.com/film/casting_pearls/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Hollywood, Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Hollywood%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Deep Stealth Productions"
+                    ],
+                    "link": [
+                        "/company/co0004206?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

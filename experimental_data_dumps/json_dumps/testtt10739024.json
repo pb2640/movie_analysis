@@ -1,0 +1,217 @@
+[
+    {
+        "first": [
+            {
+                "title": "Some Smoke and a Red Locker"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzU5ZjExNzYtMWQ1NC00ZGExLWE3MTUtZDg2MDQyYWNhODg2XkEyXkFqcGdeQXVyNzk5ODY5Njk@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Fantasy",
+                    "Sci-Fi"
+                ]
+            },
+            {
+                "plot": "When a monster transporting time machine gets the two stoner brothers - Rufus and Brutus - Into trouble, they find shelter in the woods and start a monster army to fight back."
+            },
+            {
+                "imdb-rating": "6.7/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Andr\u00e9 Bertel",
+                "character_name": "Cop1"
+            },
+            {
+                "image": null,
+                "actor_name": "Roland Bialke",
+                "character_name": "Mummy"
+            },
+            {
+                "image": null,
+                "actor_name": "Nadin Charlotte Bickert",
+                "character_name": "Cashier"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmQ4NjBmOTEtZTc0ZC00ZjQ1LWE3NTktZTE2ZmQ2N2ZiNDU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Fred Aaron Blake",
+                "character_name": "Sci"
+            },
+            {
+                "image": null,
+                "actor_name": "Boris Bouanani",
+                "character_name": "Werwolf"
+            },
+            {
+                "image": null,
+                "actor_name": "Jakob Brandt",
+                "character_name": "Cop3"
+            },
+            {
+                "image": null,
+                "actor_name": "Adakan Isler",
+                "character_name": "Guest1"
+            },
+            {
+                "image": null,
+                "actor_name": "Cherry Lewis",
+                "character_name": "Bartender"
+            },
+            {
+                "image": null,
+                "actor_name": "Norman Lindner",
+                "character_name": "Cop2"
+            },
+            {
+                "image": null,
+                "actor_name": "Oliver M\u00f6ller",
+                "character_name": "Vampire"
+            },
+            {
+                "image": null,
+                "actor_name": "Eva Rolle",
+                "character_name": "Mrs. Jones"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Rolle",
+                "character_name": "Agent Spike"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Schonk",
+                "character_name": "Cop2"
+            },
+            {
+                "image": null,
+                "actor_name": "Ren\u00e9 Sch\u00f6nfelder",
+                "character_name": "Guest2"
+            },
+            {
+                "image": null,
+                "actor_name": "Narsh Alexei Smith",
+                "character_name": "Rufus"
+            },
+            {
+                "image": null,
+                "actor_name": "Mateusz Szymkowiak",
+                "character_name": "Cop4"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Tietz",
+                "character_name": "Uncle Joe"
+            },
+            {
+                "image": null,
+                "actor_name": "Alexander Tsypilev",
+                "character_name": "Brutus"
+            }
+        ],
+        "Director": [
+            "Zetkin Yikilmis"
+        ],
+        "Writer": [
+            "Zetkin Yikilmis"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 16, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10739024/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Fan site",
+                        "Homepage"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/Some-Smoke-and-a-Red-Locker-625328581253715/",
+                        "http://www.some-smoke.de/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Berlin, Germany"
+                    ],
+                    "link": [
+                        "/search/title?locations=Berlin%2C%20Germany&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Yikilmis Filmproduktion",
+                        "Goldcat films"
+                    ],
+                    "link": [
+                        "/company/co0757794?ref_=tt_dt_co_1",
+                        "/company/co0757795?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 33 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

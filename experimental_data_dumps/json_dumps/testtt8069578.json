@@ -1,0 +1,245 @@
+[
+    {
+        "first": [
+            {
+                "title": "Daffodils"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTBmZmEzNDgtODI0MC00Y2JjLWIwMmQtNjNmNGY3ODA1ODFlXkEyXkFqcGdeQXVyNTg1NDAxODM@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Biography",
+                    "Drama",
+                    "Musical"
+                ]
+            },
+            {
+                "plot": "A bittersweet love story told with beautiful re-imaginings of iconic New Zealand songs."
+            },
+            {
+                "imdb-rating": "5.8/10"
+            },
+            {
+                "metascore": "16"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTAzZWZjZjUtYmYxMi00MmYwLWFlOGMtYjNiMTlhZGVhMjM1XkEyXkFqcGdeQXVyNTc3Njg0MTY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Rose McIver",
+                "character_name": "Rose"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTdlNmIwMjQtMzgwYi00NGI4LThlNDgtNzI5MTdiMzJhMTI2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "George Mason",
+                "character_name": "Eric"
+            },
+            {
+                "image": null,
+                "actor_name": "Kimbra",
+                "character_name": "Maisie"
+            },
+            {
+                "image": null,
+                "actor_name": "Fen Ikner",
+                "character_name": "Lips Drummer"
+            },
+            {
+                "image": null,
+                "actor_name": "Stephanie Brown",
+                "character_name": "Lips Keyboardist"
+            },
+            {
+                "image": null,
+                "actor_name": "Tola Newbery",
+                "character_name": "Greg"
+            },
+            {
+                "image": null,
+                "actor_name": "Ben Childs",
+                "character_name": "Dave"
+            },
+            {
+                "image": null,
+                "actor_name": "Turei Reidy",
+                "character_name": "Tavern Owner"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI2NDI1MDA3Ml5BMl5BanBnXkFtZTgwMTcwMjE0MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tandi Wright",
+                "character_name": "Eileen"
+            },
+            {
+                "image": null,
+                "actor_name": "Gavin Rutherford",
+                "character_name": "Keith"
+            },
+            {
+                "image": null,
+                "actor_name": "Zach Newton",
+                "character_name": "Christopher"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDZhNTI2NTMtZDI1OC00N2U0LTgyZTktNjM1NzRkYTkwYjIyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Alice May Connolly",
+                "character_name": "Pip"
+            },
+            {
+                "image": null,
+                "actor_name": "Hanna Tevita",
+                "character_name": "Gail"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTA5MjUyMTUtNjExMi00ZWU2LThhNTEtMzNkMzY2ZGQ0NjdkXkEyXkFqcGdeQXVyNTQ3NDg3NTU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Emma Draper",
+                "character_name": "Brunette Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Nick Blake",
+                "character_name": "Cinema Manager"
+            },
+            {
+                "image": null,
+                "actor_name": "Abby Damen",
+                "character_name": "Jude"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWIzNzg3MTctODU0MC00NTI2LWFiNDgtMGI5ODBhODQyNGYxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mark Mitchinson",
+                "character_name": "Barry"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWVjNWY0ZjMtZDc1NC00Yjc5LWEzZjktMTBjNmQ1OTE2NjRmXkEyXkFqcGdeQXVyMzcxNzgzNTY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Katie Wolfe",
+                "character_name": "Isabel"
+            }
+        ],
+        "Director": [
+            "David Stubbs"
+        ],
+        "Writer": [
+            "Rochelle Bright"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 21, 2019 (New Zealand)"
+                    ],
+                    "link": [
+                        "/title/tt8069578/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "New Zealand"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NZ&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official Instagram"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/DaffodilsMovie/",
+                        "https://www.instagram.com/DaffodilsMovie/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Waikato, New Zealand"
+                    ],
+                    "link": [
+                        "/search/title?locations=Waikato%2C%20New%20Zealand&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Libertine Pictures",
+                        "KHF Media",
+                        "NZ On Air"
+                    ],
+                    "link": [
+                        "/company/co0573746?ref_=tt_dt_co_1",
+                        "/company/co0414132?ref_=tt_dt_co_2",
+                        "/company/co0837269?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$769,121"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 33 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

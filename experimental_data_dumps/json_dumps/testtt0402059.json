@@ -1,0 +1,79 @@
+[
+    {
+        "first": [
+            {
+                "title": "Better Dead Than Gay"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Simon Harvey was a gay man unable to reconcile his gay feelings with his strict christian upbringing. At the age of 26 he killed himself. Simon's father said \"To discover my son was gay was ... Read all"
+            },
+            {
+                "imdb-rating": "8.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 29, 1996 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0402059/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "52 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

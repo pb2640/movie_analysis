@@ -1,0 +1,62 @@
+[
+    {
+        "first": [
+            {
+                "title": "Animation from Cape Dorset"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "6.6/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Inuktitut"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=iu&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "19 minutes"
+                }
+            }
+        ]
+    }
+]

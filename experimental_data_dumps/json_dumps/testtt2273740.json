@@ -1,0 +1,126 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Guy Who's Fucking Your Girlfriend"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDg1NWZjMTYtMDdmMy00OWMzLWFhZDItYTAzYjI0ZTg0NmYzXkEyXkFqcGdeQXVyMTAzOTU5MjQ1._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "When a heartbroken boyfriend and his best friend take revenge on the man who's sleeping with his girlfriend, everything spins wildly and inappropriately out of control."
+            },
+            {
+                "imdb-rating": "7.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTAwOTAyNzIzMDZeQTJeQWpwZ15BbWU3MDExOTk1Mzc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Cooper Barnes",
+                "character_name": "Miller"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODJhMzk2YTQtMDBkZi00NjAxLTgyOWMtMDNjNDUyYmNjYzlhXkEyXkFqcGdeQXVyMTczODYwNzk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Kali Cook",
+                "character_name": "Annie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGVhMjExMDEtNGExOS00NjIxLTg5ZjctOWE3NDI0ODRjNzllXkEyXkFqcGdeQXVyMjYxMTYzODM@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+                "actor_name": "Heath Cullens",
+                "character_name": "Pete"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGI1MTBlN2MtYjVjMS00MGNkLTg2NDctMjlmZDRlZTY4ZWNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Poncho Hodges",
+                "character_name": "Eugene"
+            }
+        ],
+        "Director": [
+            "Shane Mack"
+        ],
+        "Writer": [
+            "Shane Mack"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 27, 2013 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt2273740/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "24 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

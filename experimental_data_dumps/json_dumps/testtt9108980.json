@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ocean's 8: A Heist in Heels"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Gary Ross, co-writer Olivia Milch, costume designer Sarah Edwards and the cast discuss the film's many wardrobe changes and variations."
+            },
+            {
+                "imdb-rating": "6.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Gary Leva"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 11, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9108980/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Site"
+                    ],
+                    "link": [
+                        "http://www.oceans8movie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Leva FilmWorks",
+                        "Warner Bros."
+                    ],
+                    "link": [
+                        "/company/co0135090?ref_=tt_dt_co_1",
+                        "/company/co0002663?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "12 minutes"
+                }
+            }
+        ]
+    }
+]

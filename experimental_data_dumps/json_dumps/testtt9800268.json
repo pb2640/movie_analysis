@@ -1,0 +1,136 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Colour"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2ExMjBhNjktMTI0Yy00ZjM2LTk4NDktZWJiNjdlOWViMWNiXkEyXkFqcGdeQXVyNjYzMzk0MTY@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "As Ammi starts to write a letter to his old friend, whose disappearance he can neither understand nor cope with, a supernatural force in the shape of a colour starts to seize his cottage and... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Florian Festag",
+                "character_name": "Ammi"
+            }
+        ],
+        "Director": [
+            "Cem Karayakas"
+        ],
+        "Writer": [
+            "Jelena L\u00fctzel"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 5, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9800268/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Instagram"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/coloured_ammi/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title?locations=Germany&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Internationale Filmschule K\u00f6ln (IFS)"
+                    ],
+                    "link": [
+                        "/company/co0164833?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "Cinemascope"
+                    ]
+                }
+            }
+        ]
+    }
+]

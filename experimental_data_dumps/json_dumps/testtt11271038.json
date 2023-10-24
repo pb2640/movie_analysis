@@ -1,0 +1,271 @@
+[
+    {
+        "first": [
+            {
+                "title": "Licorice Pizza"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjkwMzIxYzMtOTVkMS00NDQxLThkMjItNzgxN2RiNjdlNTliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973."
+            },
+            {
+                "imdb-rating": "7.1/10"
+            },
+            {
+                "metascore": "870"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmExOGJlMWUtZDg2Ni00MzZjLWE1MjUtNWJiMDc0NTI4ODk1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Alana Haim",
+                "character_name": "Alana"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWJlMzNkNzQtNzc4MS00ODY4LWJkZDQtYmQ3ZjE5MWRmZTRlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Cooper Hoffman",
+                "character_name": "Gary"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc1NjMzMjY3NF5BMl5BanBnXkFtZTcwMzkxNjQzMg@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Sean Penn",
+                "character_name": "Jack Holden"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTIwNjE4OTQ3M15BMl5BanBnXkFtZTYwMzIzMjcy._V1_QL75_UY140_CR1,0,140,140_.jpg",
+                "actor_name": "Tom Waits",
+                "character_name": "Rex Blau"
+            },
+            {
+                "image": null,
+                "actor_name": "Will Angarola",
+                "character_name": "Kirk"
+            },
+            {
+                "image": null,
+                "actor_name": "Griff Giacchino",
+                "character_name": "Mark"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjAxM2Y3ZjItZWYyMi00Y2FmLTllN2YtNTA1OGI2MmUyMDg2XkEyXkFqcGdeQXVyNDA0MzgyODk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "James Kelley",
+                "character_name": "Tim"
+            },
+            {
+                "image": null,
+                "actor_name": "Dexter Demme",
+                "character_name": "Cherry Bomb Kid"
+            },
+            {
+                "image": null,
+                "actor_name": "River Cornwell",
+                "character_name": "Cherry Bomb Kid"
+            },
+            {
+                "image": null,
+                "actor_name": "Harrison Bray",
+                "character_name": "Cherry Bomb Kid"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGQyODBiYjktZGI2Mi00NDhhLWJkODEtYWYxMGJkNWM0MTQxXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Sasha Spielberg",
+                "character_name": "Tiny Toes Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Karissa Reynafarje",
+                "character_name": "Tiny Toes Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Savannah Ioakimedes",
+                "character_name": "Tiny Toes Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Dorie Samovitz",
+                "character_name": "Tiny Toes Girl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODBiMWQyNDItYjhjZi00Y2M4LTgzMDQtY2I1N2E1Yzk4NDI4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Anna Cordell",
+                "character_name": "Tiny Toes Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Adam Somner",
+                "character_name": "Tiny Toes Photographer"
+            },
+            {
+                "image": null,
+                "actor_name": "Joshua Carl Allen",
+                "character_name": "Tiny Toes Photographer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzgxODAzMDUwNl5BMl5BanBnXkFtZTcwMDc5NTQ0Mw@@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Patrick Hoelck",
+                "character_name": "Tiny Toes Photographer"
+            }
+        ],
+        "Director": [
+            "Paul Thomas Anderson"
+        ],
+        "Writer": [
+            "Paul Thomas Anderson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 25, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11271038/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Licorice Pizza (Japan)",
+                        "United Artists Releasing (United States)"
+                    ],
+                    "link": [
+                        "https://licorice-pizza.jp/",
+                        "https://www.unitedartistsreleasing.com/licorice-pizza/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Japanese",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ja&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Rive Gauche Cafe - 14106 Ventura Blvd, Sherman Oaks, Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Rive%20Gauche%20Cafe%20-%2014106%20Ventura%20Blvd%2C%20Sherman%20Oaks%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Metro-Goldwyn-Mayer (MGM)",
+                        "Focus Features",
+                        "Bron Creative"
+                    ],
+                    "link": [
+                        "/company/co0007143?ref_=tt_dt_co_1",
+                        "/company/co0042399?ref_=tt_dt_co_2",
+                        "/company/co0609239?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$40,000,000 (estimated)"
+                }
+            },
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$17,318,007"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$345,157"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Nov 28, 2021"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$33,273,940"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 hours 13 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

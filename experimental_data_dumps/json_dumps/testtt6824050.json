@@ -1,0 +1,198 @@
+[
+    {
+        "first": [
+            {
+                "title": "Rudy Ruettiger: The Walk On"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTVmYmJlNTUtNmRiZi00NWFjLTg5MTQtZWRjMTgzN2IwMTlkXkEyXkFqcGdeQXVyNDE0OTA0ODM@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Sport"
+                ]
+            },
+            {
+                "plot": "Documentary of sport's most famous and favorite underdog, Daniel \"Rudy\" Ruettiger. First hand stories follow his pursuit of a life long dream to play football at the University of Notre Dame... Read all"
+            },
+            {
+                "imdb-rating": "7.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Paul Bergen",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike Bonifer",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ross Browner",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Richie Contartesi",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Danch",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Terry Gannon",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Bill Martinov",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dennis McGowan",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2ExYjdiMTMtMzNmNC00OWQ2LTlhYTktYWQ0NGM0YTliZDNhXkEyXkFqcGdeQXVyODU1MDUxNzg@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Alan J. Mintz",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Larry Moriarty",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Bernie Ruettiger",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmViYzMxYzEtM2ZlZi00MTM0LWE3ODYtMGMxODZiZjU3MzdkXkEyXkFqcGdeQXVyNDE0OTA0ODM@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+                "actor_name": "Daniel 'Rudy' Ruettiger",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Francis Ruettiger",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "John Ruettiger",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Mick Ruettiger",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tim Ruettiger",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Pat Sarb",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Luther Snavely",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Nick Nanton"
+        ],
+        "Writer": [
+            "Emily Hache"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "South Bend, Indiana, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=South%20Bend%2C%20Indiana%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "DNA Films"
+                    ],
+                    "link": [
+                        "/company/co0624678?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 18 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

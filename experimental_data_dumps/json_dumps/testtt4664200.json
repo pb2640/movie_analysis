@@ -1,0 +1,103 @@
+[
+    {
+        "first": [
+            {
+                "title": "Sapphic Press"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTkzMjQ0MjcwM15BMl5BanBnXkFtZTgwMzI3NTc2NTE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "A frustrated owner of a feminist academic press faces extinction after a slew of feminist bookstores close down across the country."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Courtney Banks",
+                "character_name": "Lauren"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2QyNDI4MjktZWU5MC00MGFlLTg2M2UtZjIxODAyZmE2OWJmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lianna Carrera",
+                "character_name": "Jarod"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjlmZjYxMTUtOThhOS00ZDAxLTk0MGEtMDIwOWNlMTczZTM2XkEyXkFqcGdeQXVyMjM5NjI2OTU@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Sapna Kumar",
+                "character_name": "Anita Batra"
+            },
+            {
+                "image": null,
+                "actor_name": "Lisa Laureta",
+                "character_name": "Simone"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzkyZTI2YTQtMWZjNS00YzhjLWE0NjctMjkwNjA0ZWJhOWY4XkEyXkFqcGdeQXVyMTY3MTIxNzA@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Blair Shapiro",
+                "character_name": "Margaret"
+            }
+        ],
+        "Director": [
+            "Lu Louis"
+        ],
+        "Writers": [
+            "Wendy Jo Carlton",
+            "Sapna Kumar",
+            "Meredyth Wilson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "12 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

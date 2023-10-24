@@ -1,0 +1,167 @@
+[
+    {
+        "first": [
+            {
+                "title": "Tarzan: The Epic Adventures"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWMzYTc1YmEtZjI4Ny00NjI2LWJmNWUtNDIyNTcxYzBiZDhkXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_QL75_UY281_CR14,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Adventure"
+                ]
+            },
+            {
+                "plot": "Tarzan has a tough encounter with arms dealer Nikolai who then kidnaps Colette and wants to sell her in Africa. Tarzan gets captured, escapes and follows Nikolai who has teamed up with nethe... Read all"
+            },
+            {
+                "imdb-rating": "5.9/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzI4N2JmMjktMWViOC00MGU0LTkzMTktZmNkMGFhYjZlNWNlXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Joe Lara",
+                "character_name": "Tarzan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjNkNWJlYjMtMWU4Mi00YmZlLThiNWYtMmVjOTMxNjBmZTY0XkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Aaron Seville",
+                "character_name": "Timba"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjkxYzAzMzgtYWIxMy00MGExLWIwYTUtOWNkYzIxYjRlZWU5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Sam Ayers",
+                "character_name": "Slave Auctioneer"
+            },
+            {
+                "image": null,
+                "actor_name": "Lloyd L. Corricelli",
+                "character_name": "Micah"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWRlNzBjNjYtNzdjMS00ZTBmLWJkMDktMDdkYjBkYTIwNWJlXkEyXkFqcGdeQXVyMTE2MDYyMjg@._V1_QL75_UX140_CR0,32,140,140_.jpg",
+                "actor_name": "Piper Dellums",
+                "character_name": "Princess Mahlo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQxODkxMzE1Ml5BMl5BanBnXkFtZTgwODQzODUxMjE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lydie Denier",
+                "character_name": "Olga de Coude"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzM3NzlkZmUtNzk1My00ODY3LWFjZjMtNDcwMmQ3NmE3MGE1XkEyXkFqcGdeQXVyMTQ2NjY0MjI@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Andrew Divoff",
+                "character_name": "Nicholai Rokoff"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODc4NGU4NGQtMjM5OS00NGFiLWJiYzctYWU0NTZkMjU1YzBmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Corinna Everson",
+                "character_name": "Mara"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzNkZGQzZWItNDllNi00ZGFmLThiMjMtY2I1NWU2YWI1YWE1XkEyXkFqcGdeQXVyNjgyMjE5ODk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Meredith Inglesby",
+                "character_name": "Prostitute"
+            },
+            {
+                "image": null,
+                "actor_name": "Andr\u00e9 Tardieu",
+                "character_name": "Gendarme"
+            }
+        ],
+        "Director": [
+            "Brian Yuzna"
+        ],
+        "Writer": [
+            "Burton Armus"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Keller Entertainment Group (United States)"
+                    ],
+                    "link": [
+                        "http://kellerentertainment.com/show.cfm?action=detail&show_id=27"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "South Africa"
+                    ],
+                    "link": [
+                        "/search/title?locations=South%20Africa&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Keller Entertainment Group"
+                    ],
+                    "link": [
+                        "/company/co0007667?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "first": [
+            {
+                "title": "Footlights"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjY2ZWQ2ZjMtYWRlOS00NThiLWI5YmItNTU0NjIwYzY0MTYxXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_QL75_UY281_CR7,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Exotic Russian actress Lisa Parsinova tires of her glamorous life on the New York stage and returns, under her actual identity as Lizzie Parsons, to her small New England hometown. But she i... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWFiMDljZjgtNjZkOC00NDAzLWJhZTItMjQzOTRlNGRmZWMwXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+                "actor_name": "Elsie Ferguson",
+                "character_name": "Lisa Parsinova"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkxMTg0OTY2OV5BMl5BanBnXkFtZTYwOTUxNTU2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Reginald Denny",
+                "character_name": "Brett Page"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjExNTgzOTY3N15BMl5BanBnXkFtZTgwNzE0OTg0MzE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Marc McDermott",
+                "character_name": "Oswald Kane"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY4ODM0ODUwMV5BMl5BanBnXkFtZTYwOTkxNjAz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Octavia Handworth",
+                "character_name": "Etta"
+            }
+        ],
+        "Director": [
+            "John S. Robertson"
+        ],
+        "Writers": [
+            "Josephine Lovett",
+            "Rita Weiman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 1, 1921 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0012185/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Paramount Pictures"
+                    ],
+                    "link": [
+                        "/company/co0023400?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

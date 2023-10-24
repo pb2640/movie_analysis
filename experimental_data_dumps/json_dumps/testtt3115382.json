@@ -1,0 +1,177 @@
+[
+    {
+        "first": [
+            {
+                "title": "Titan the Urban Samurai"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjcyMTFmMzEtMGM0MC00ZGRkLThhNjMtYjgwYWZiZmI1ZmFmXkEyXkFqcGdeQXVyNTE2MzAxNjM@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Titan comes from Japan to protect his daughter Alisha. Through his investigation he decides to become a crime fighter in the urban city's."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Aldric Baker",
+                "character_name": "Titan"
+            },
+            {
+                "image": null,
+                "actor_name": "Ferris Davis Jr.",
+                "character_name": "Drago"
+            },
+            {
+                "image": null,
+                "actor_name": "Alison Crozier",
+                "character_name": "Alisha Reynolds"
+            },
+            {
+                "image": null,
+                "actor_name": "Ronald Berrian",
+                "character_name": "Jerome Pierce"
+            },
+            {
+                "image": null,
+                "actor_name": "Karl Benson",
+                "character_name": "Sensei Washington"
+            },
+            {
+                "image": null,
+                "actor_name": "Akhira Davis",
+                "character_name": "Darlene Windy"
+            },
+            {
+                "image": null,
+                "actor_name": "Priscilla Molina",
+                "character_name": "Paula Haywood"
+            },
+            {
+                "image": null,
+                "actor_name": "Andre Hicks",
+                "character_name": "Vorn Washington"
+            },
+            {
+                "image": null,
+                "actor_name": "Chamar Tools",
+                "character_name": "Warren King"
+            },
+            {
+                "image": null,
+                "actor_name": "Samuel Benson",
+                "character_name": "Frank Beam"
+            },
+            {
+                "image": null,
+                "actor_name": "Lamar Chambliss",
+                "character_name": "Kiheem Strong"
+            },
+            {
+                "image": null,
+                "actor_name": "Christ Smith",
+                "character_name": "Leonard Wall"
+            },
+            {
+                "image": null,
+                "actor_name": "Sayfullaah Al-Amriykiy",
+                "character_name": "Warriors"
+            },
+            {
+                "image": null,
+                "actor_name": "Kareem Wright",
+                "character_name": "Warriors"
+            },
+            {
+                "image": null,
+                "actor_name": "Marshall d Walker",
+                "character_name": "Warriors"
+            },
+            {
+                "image": null,
+                "actor_name": "Joseph Innaurato",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWZhMzgyYWMtMmQzNi00Zjc0LThjODUtNThjNTc0NDk2MjY0XkEyXkFqcGdeQXVyMTUwNjM1OTkx._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Aimee Cassada",
+                "character_name": "April Williams"
+            },
+            {
+                "image": null,
+                "actor_name": "Woodrow Corthen Jr.",
+                "character_name": "Mr. Simon"
+            }
+        ],
+        "Director": [
+            "Johnnie Baker Jr."
+        ],
+        "Writer": [
+            "Johnnie Baker Jr."
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 21, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3115382/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

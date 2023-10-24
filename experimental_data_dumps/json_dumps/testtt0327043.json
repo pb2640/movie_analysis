@@ -1,0 +1,93 @@
+[
+    {
+        "first": [
+            {
+                "title": "Misguided Piss"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDdkOGYxMzYtY2VlNi00YTRkLWE1MTgtMjhjNWYxMDA4YTk0XkEyXkFqcGdeQXVyMTA3MTg2Ng@@._V1_QL75_UY281_CR150,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "When a nerd observes the nice things that can happen when a stream accidentaly goes astray, he decides to try the same tactic."
+            },
+            {
+                "imdb-rating": "5.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Shon D.K. Perun",
+                "character_name": "Pissing Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Justin Huddleston",
+                "character_name": "Other Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Craig Pinkston",
+                "character_name": "Waiting Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Rico Riconi",
+                "character_name": "Body Builder"
+            }
+        ],
+        "Director": [
+            "Jorge Ameer"
+        ],
+        "Writers": [
+            "Jorge Ameer",
+            "Craig Pinkston"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 19, 2002 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0327043/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "4 minutes"
+                }
+            }
+        ]
+    }
+]

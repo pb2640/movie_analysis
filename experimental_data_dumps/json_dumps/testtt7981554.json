@@ -1,0 +1,151 @@
+[
+    {
+        "first": [
+            {
+                "title": "KRISIS. Una terapia superheroica."
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTdiYWU2MzItZjczNi00NTk3LTk5NGUtOGE1MjMyYzAyMjMzXkEyXkFqcGdeQXVyODMyODc5MTY@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Sci-Fi"
+                ]
+            },
+            {
+                "plot": "In a world governed by violence and injustice, The Galactic Drifter - a superhero who has advised humanity for centuries -, visits Professor Kleinman to undergo therapy and regain his lost p... Read all"
+            },
+            {
+                "imdb-rating": "7.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Roger Bosch",
+                "character_name": "Nihilista"
+            },
+            {
+                "image": null,
+                "actor_name": "Joaqu\u00edn Daniel",
+                "character_name": "Profesor Kleinman"
+            },
+            {
+                "image": null,
+                "actor_name": "Blanca Fibla",
+                "character_name": "Presentadora telediario"
+            },
+            {
+                "image": null,
+                "actor_name": "Eric Goode",
+                "character_name": "Papa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDdjNjFkZjktNTY3OS00ODgxLWEzNmUtM2NjY2ZkMDk3YWVhXkEyXkFqcGdeQXVyOTgzNTI0OQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Steve Howard",
+                "character_name": "Donald Trump"
+            },
+            {
+                "image": null,
+                "actor_name": "Ramon Mic\u00f3",
+                "character_name": "Nihilista"
+            },
+            {
+                "image": null,
+                "actor_name": "Octavi Pujades",
+                "character_name": "Errante Gal\u00e1ctico"
+            }
+        ],
+        "Director": [
+            "Daniel F. Amselem"
+        ],
+        "Writers": [
+            "Daniel F. Amselem",
+            "Ivan Humanes"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 6, 2018 (Spain)"
+                    ],
+                    "link": [
+                        "/title/tt7981554/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Spain"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=ES&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "OFFICIAL WEBSITE OF THE SHORT FILM",
+                        "Web"
+                    ],
+                    "link": [
+                        "http://www.krisis-shortfilm.com/",
+                        "http://www.krisis-shortfilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Barcelona, Catalonia, Spain"
+                    ],
+                    "link": [
+                        "/search/title?locations=Barcelona%2C%20Catalonia%2C%20Spain&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Luxor Cinema"
+                    ],
+                    "link": [
+                        "/company/co0685676?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            }
+        ]
+    }
+]

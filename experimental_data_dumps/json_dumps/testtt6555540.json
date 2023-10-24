@@ -1,0 +1,54 @@
+[
+    {
+        "first": [
+            {
+                "title": "When You Arrive"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "When a Tijuana people smuggler decides to quit for a better life, he hires a documentary filmmaker to record his last days. But when his past catches up with him, camera and filmmaker become... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "United States",
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Chocolate Albino Productions"
+                    ],
+                    "link": [
+                        "/company/co0308479?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

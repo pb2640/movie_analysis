@@ -1,0 +1,101 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Realization of a Negro's Ambition"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2NjMjQ0MDEtMmM4Yi00OWJkLTg3NGYtZTA2MTBiZGYyY2E3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk0NDg2NTc@._V1_QL75_UX190_CR0,5,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A junior Negro oil engineer rescues a white woman and earns the chance to succeed in the oil business."
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Harry A. Gant"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Lincoln Motion Picture Company"
+                    ],
+                    "link": [
+                        "/company/co0026361?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

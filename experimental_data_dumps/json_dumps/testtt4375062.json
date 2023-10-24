@@ -1,0 +1,222 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Painting: The Art of Slaying"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTIzODY4ODU4Ml5BMl5BanBnXkFtZTgwOTUzNDgxNDE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "Edward Alfonso Lexington, the talentless son of a deceased famous artist will stop at nothing to be famous himself. He lures unsuspecting artists to his home to paint and then signs his name... Read all"
+            },
+            {
+                "imdb-rating": "6.1/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmEwOTExY2ItYTYwZi00MGRjLTgwM2QtZGU5ZDgyZDc4Y2E1XkEyXkFqcGdeQXVyMTM5OTU5MTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Robert Homer Mollohan",
+                "character_name": "Edward Alfonso Lexington"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTdhNDEyZTYtYTE1Ni00ZjM5LTkzZDUtNDYzZWI1M2JhYTFhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Joe Dalo",
+                "character_name": "Aytas"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmM0NTA2MjQtYTgxNC00YTYwLWFhZjYtYTc1ZDZjYjJjNDNlXkEyXkFqcGdeQXVyOTEwNjE5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Henry Hereford",
+                "character_name": "Hollace"
+            },
+            {
+                "image": null,
+                "actor_name": "Merilee Brasch",
+                "character_name": "Cassandra"
+            },
+            {
+                "image": null,
+                "actor_name": "Caleb Lane",
+                "character_name": "Sven"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDI1YTk3MDMtYjQ3ZS00YzY0LWI1ZDEtYzQwOGZjYjNkNWI2L2ltYWdlXkEyXkFqcGdeQXVyMjExNDU3ODA@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Ivet Corvea",
+                "character_name": "Marie Lavaux"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmI2MmRjZjYtY2Q3Mi00MDc1LWE5ZmItYTBmOWMwMDYwYjM4XkEyXkFqcGdeQXVyMjYwOTY1NDg@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Allexa D'Alessio",
+                "character_name": "Debby"
+            },
+            {
+                "image": null,
+                "actor_name": "Andy David Bowland",
+                "character_name": "Jack"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY1ODc3NjE2MV5BMl5BanBnXkFtZTgwMjY0NjAwODE@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Janet Fontaine",
+                "character_name": "Drina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGQ1ZTYxZGEtNmQ2MS00NjhjLTgyOWQtZmVjOTI4MzM4MjhiXkEyXkFqcGdeQXVyMzM0OTQzNg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ronnie Marmo",
+                "character_name": "Alfonso Lexington"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODAyNWFiOWUtOTQzMS00NTQyLTkyMjMtZTAwNDk4MDE2ZjY4XkEyXkFqcGdeQXVyMTM1MTc0NTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Michael Laurie",
+                "character_name": "Gunther"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDkwZjY1OTctOWM5Yy00NjRhLTkwNGMtZjI0Zjk2OTY3NDg1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "John Patrick Kelly",
+                "character_name": "Dentist"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWEzYTkwNWYtYTk4Mi00MmY4LWJkYWQtZmIzZDQyYjJiNWRhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+                "actor_name": "J'Antonio Baguez",
+                "character_name": "Pablo"
+            },
+            {
+                "image": null,
+                "actor_name": "Vanessa Bogner",
+                "character_name": "Waitress"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTMwZDA3NDYtY2QyYi00NGFlLTg5YWUtZDVhZTdhNWJmMWNkXkEyXkFqcGdeQXVyNTk3NDU0MQ@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "James Mendoza",
+                "character_name": "Belzebaub"
+            },
+            {
+                "image": null,
+                "actor_name": "Charlie Brumbly",
+                "character_name": "Deceased Artist"
+            },
+            {
+                "image": null,
+                "actor_name": "Jaqui Long",
+                "character_name": "Deceased Artist"
+            },
+            {
+                "image": null,
+                "actor_name": "Nic Oliverio",
+                "character_name": "Deceased Artist"
+            }
+        ],
+        "Director": [
+            "Robert Rothbard"
+        ],
+        "Writers": [
+            "Sally Lamb",
+            "Robert Rothbard"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 21, 2015 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4375062/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Facebook",
+                        "full film"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/pages/The-Painting/532246543583678",
+                        "https://vimeo.com/788816655"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Immanuel Productions"
+                    ],
+                    "link": [
+                        "/company/co0428035?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 36 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

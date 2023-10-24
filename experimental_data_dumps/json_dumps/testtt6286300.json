@@ -1,0 +1,108 @@
+[
+    {
+        "first": [
+            {
+                "title": "A-Bombs Over Nevada"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzkxZDFkMzgtZDlmYy00OTMzLWFjMjAtYmI3OTMzZTA4NDQ5XkEyXkFqcGdeQXVyMjA1MjQzNDY@._V1_QL75_UY281_CR165,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "History"
+                ]
+            },
+            {
+                "plot": "A series of nuclear bomb test conducted outside Las Vegas in the 1950s and early 60s"
+            },
+            {
+                "imdb-rating": "8.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 5, 2016 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6286300/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "network page"
+                    ],
+                    "link": [
+                        "http://www.smithsonianchannel.com/shows/a-bombs-over-nevada/0/3423161"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "1895 Films"
+                    ],
+                    "link": [
+                        "/company/co0367697?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "51 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

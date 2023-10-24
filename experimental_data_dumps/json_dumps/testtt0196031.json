@@ -1,0 +1,100 @@
+[
+    {
+        "first": [
+            {
+                "title": "Pugilatori"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "From the middle of an amateur boxing match to its dramatic technical knock-out, the camera follows the quick ballet of the boxers. The action is followed by a variety of spectators, some wil... Read all"
+            },
+            {
+                "imdb-rating": "6.6/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 1951 (Italy)"
+                    ],
+                    "link": [
+                        "/title/tt0196031/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Italy"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Italian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=it&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Lux Film"
+                    ],
+                    "link": [
+                        "/company/co0042375?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "11 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

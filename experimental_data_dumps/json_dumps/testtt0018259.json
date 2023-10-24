@@ -1,0 +1,161 @@
+[
+    {
+        "first": [
+            {
+                "title": "Perils of the Jungle"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTEyYmE3YTQtNjJhNS00NmFhLWFkNmItMmVjYmJlNmNhYTVjL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Crime"
+                ]
+            },
+            {
+                "plot": "A young woman and her father search for hidden treasure in the African jungle."
+            },
+            {
+                "imdb-rating": "7.0/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTg3NjE0ZGEtYTFiMS00NjZiLWI3MDctNDRkYjExOTdhN2JjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+                "actor_name": "Eugenia Gilbert",
+                "character_name": "Phyllis Marley"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTQwYzJkNDItZTBkNy00NzA5LTk4ZmEtYTczODZlM2JkODFhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "Frank Merrill",
+                "character_name": "Rod Bedford"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2I5MzU4YzAtNWI1ZS00NTRmLWFmZDktNjc4YmY0ZmNhMjFhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Bobby Nelson",
+                "character_name": "Kimpo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDU5MTM4OTItM2U5My00ODM3LThjMmItYWI5NjUwOTVlMzMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Milburn Morante",
+                "character_name": "Marks"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDhhOWE2MzYtNDQ3NC00YzJkLWFhYTItMGJkYjAzYzkyYWU3L2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Albert J. Smith",
+                "character_name": "Brute Hanley"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTNmN2UwMDYtNTdjMy00YTk2LWI3NjAtNTI3MzEwMGNhZTY3L2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Will Herman",
+                "character_name": "Moto"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTJlZTZjZTktNmJmNy00YjA3LWI4YTctNzNjNDYyNTA1ZWE2L2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Walter Maly",
+                "character_name": "Stephens"
+            },
+            {
+                "image": null,
+                "actor_name": "Harry Belmour",
+                "character_name": "Alexander Marley"
+            },
+            {
+                "image": null,
+                "actor_name": "Frank D. Hutter",
+                "character_name": "Renee"
+            }
+        ],
+        "Director": [
+            "Jack Nelson"
+        ],
+        "Writer": [
+            "Harry L. Fraser"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 1, 1927 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0018259/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Weiss Brothers Artclass Pictures"
+                    ],
+                    "link": [
+                        "/company/co0128383?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 hours 20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "first": [
+            {
+                "title": "Aquilegia"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjdhYWUzNTAtZGM1ZC00NmQyLWEzYTEtMDQzMTM5MzlhMzBlXkEyXkFqcGdeQXVyMTE3NTEyNTQ1._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Following an incident during a performance, a recovering dancer finds herself dealing with supernatural manifestation that will put her sanity at risk."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Am\u00e9lie Jouane",
+                "character_name": "Blair"
+            },
+            {
+                "image": null,
+                "actor_name": "Sylvie Roques",
+                "character_name": "The lady"
+            },
+            {
+                "image": null,
+                "actor_name": "Pauline Redor",
+                "character_name": "Helena Bakalova"
+            },
+            {
+                "image": null,
+                "actor_name": "Evangelina Soldatova",
+                "character_name": "The dancer"
+            }
+        ],
+        "Directors": [
+            "Cl\u00e9mence Agenet",
+            "L\u00e9onie Briand"
+        ],
+        "Writers": [
+            "Cl\u00e9mence Agenet",
+            "L\u00e9onie Briand"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "official instagram page"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/wakeorsleepfilms/?hl=fr"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "French"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "ESRA Bretagne"
+                    ],
+                    "link": [
+                        "/company/co0371671?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20ac3,200 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

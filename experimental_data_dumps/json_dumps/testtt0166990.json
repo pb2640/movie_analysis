@@ -1,0 +1,95 @@
+[
+    {
+        "first": [
+            {
+                "title": "Animated Stories from the Bible: Music Video - Volume 1"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2U0MTUyNDYtYmUwNC00OTdhLWJjYjgtOGUwOGY4MTA5MzVkXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_QL75_UX190_CR0,23,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "In the land of Nod, just east of Eden, a master storyteller relates the story of Genesis. Voices are Marc Singer, Stephanie Zimbalist, Tim Curry, and Melissa Anderson."
+            },
+            {
+                "imdb-rating": "7.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc5MTQ2OTYwOF5BMl5BanBnXkFtZTYwMzEzMTA1._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Tim Curry",
+                "character_name": "God"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUyNjkwNjQ3OV5BMl5BanBnXkFtZTcwMzg3NTMzMQ@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Stephanie Zimbalist",
+                "character_name": "Eve"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcxNjUyNTg2NF5BMl5BanBnXkFtZTYwNjc2MDM0._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Marc Singer",
+                "character_name": "Adam"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWE2NjQ4MzEtOTZiMS00YzZiLWI0MmEtMjIyZTEzOGQ2OWI2XkEyXkFqcGdeQXVyNTUyNzIyNzc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Melissa Sue Anderson",
+                "character_name": "Snake"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

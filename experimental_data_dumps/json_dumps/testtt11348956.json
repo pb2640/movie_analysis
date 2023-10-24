@@ -1,0 +1,231 @@
+[
+    {
+        "first": [
+            {
+                "title": "Playing Cupid"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDhhOTczZTgtYmZjOS00NWQ3LTg0MzctMGJlNDI2YmVkMjVlXkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "In the halls of Austen Middle School, a newly single middle-school teacher is covertly set up with a divorced dad after his daughter - one of her students - begins a matchmaking business for... Read all"
+            },
+            {
+                "imdb-rating": "6.4/10"
+            },
+            {
+                "metascore": "24"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmZmOGE2ZDAtZDNjNi00MDU4LThiYWEtNGE5MzliYWMxYjhiXkEyXkFqcGdeQXVyNDcxNjkzNg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Laura Vandervoort",
+                "character_name": "Kerri Fox"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDhjZWVhOWUtMWUwZi00ZGE5LWFhYjctOTEzYjYxMzIwMWI3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nicholas Gonzalez",
+                "character_name": "David Martinez"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWQwOWE2NDgtMzQyYy00YzJmLTgyZDktOWU4N2U4Njc1ZWZkXkEyXkFqcGdeQXVyMTI5MTc5MzU3._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mia Quaranta de la Rosa",
+                "character_name": "Clara Martinez"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk3MDJhNWEtOTVhNi00NGM1LTgxNDItYTE3N2ZiZWMxZTRhXkEyXkFqcGdeQXVyMzI1NzM2MTU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Latonya Williams",
+                "character_name": "Marnie Rossmore"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjRiNWE1OWQtYWEyZS00MTBhLThkMWYtMjU4MDkyNDllYWMxXkEyXkFqcGdeQXVyMjUzNjc0Njk@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+                "actor_name": "Aria DeMaris",
+                "character_name": "Eva Martinez"
+            },
+            {
+                "image": null,
+                "actor_name": "Ava Frica",
+                "character_name": "Alivia"
+            },
+            {
+                "image": null,
+                "actor_name": "Shadan Saul Guerrero",
+                "character_name": "Andrea"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjhjODA4MjEtMTBmMC00ODY5LWIzZGItM2U1NTA4YmQwZWI5XkEyXkFqcGdeQXVyNjg0MjI4Mzg@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Nolan Hupp",
+                "character_name": "Trevor"
+            },
+            {
+                "image": null,
+                "actor_name": "George Moran",
+                "character_name": "Vinnie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjJjMjkxZGItZDgzNC00ZWE2LWE4MTUtZWY5NDAxNDI4MGJhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tristan Jensen",
+                "character_name": "Adam"
+            },
+            {
+                "image": null,
+                "actor_name": "Christine Lippa",
+                "character_name": "Ellen Fox"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjJjYzljOGItY2U0NC00MzczLThiOWYtMmEyNTFmNjBkMGQyXkEyXkFqcGdeQXVyMTA2Mzc3Ng@@._V1_QL75_UX140_CR0,32,140,140_.jpg",
+                "actor_name": "David Stuart",
+                "character_name": "Bink"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTBjMjliODgtN2Q2ZS00NWYzLTlhYzUtMTlhODc2ZTk1ZTEzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Paula Giroday",
+                "character_name": "Misty"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWY4NDdhMDEtZTQxMC00OTcyLTkwNWUtZmRhYmU4ZjM5MjhlXkEyXkFqcGdeQXVyNDAxNDEyOTQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Georgie Daburas",
+                "character_name": "Gavin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDJjMjJmZTctMjk1Ni00NGM4LTgwZjctYjc0NjRkYTc5YjYzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Everick Golding",
+                "character_name": "Superintendant"
+            },
+            {
+                "image": null,
+                "actor_name": "Berlin Westwood",
+                "character_name": "Adam's Girl"
+            }
+        ],
+        "Director": [
+            "David Weaver"
+        ],
+        "Writers": [
+            "Jenny Meyerhoff",
+            "Nina Weinman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 13, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11348956/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Hallmark Channel Press (United States)",
+                        "The Hallmark Channel (United States)"
+                    ],
+                    "link": [
+                        "https://www.crownmediapress.com/Shows/PRShowDetail?SiteID=142&FeedBoxID=845&NodeID=302&ShowType=&ShowTitle=Playing+Cupid",
+                        "https://www.hallmarkchannel.com/playing-cupid"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "British Columbia, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=British%20Columbia%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Hallmark Channel",
+                        "Timeless Pictures",
+                        "Basset Hound Distribution"
+                    ],
+                    "link": [
+                        "/company/co0032922?ref_=tt_dt_co_1",
+                        "/company/co0818141?ref_=tt_dt_co_2",
+                        "/company/co0772098?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 24 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

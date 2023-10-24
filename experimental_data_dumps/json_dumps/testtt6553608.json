@@ -1,0 +1,166 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bangarang"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWVkODhiYjEtYTlkMC00MDRkLWFmZGEtNjc4NGYyOGRlZTlkXkEyXkFqcGdeQXVyMzIxNTU1OTM@._V1_QL75_UY281_CR75,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Adventure",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "In this prequel to Hook (1991), we see the origins of Rufio as he makes his way to Neverland."
+            },
+            {
+                "imdb-rating": "6.7/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjk2ZTQwOTYtMDMwMy00Yzc1LWE5NzctZmQ4NzcxMzBhODM5XkEyXkFqcGdeQXVyNzcxNzIyOTQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sheaden Gabriel",
+                "character_name": "Roofus"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzkwYzMwYWUtMDI0My00M2I2LWIzNTYtOWUyM2FiMmEyYjU1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Dante Basco",
+                "character_name": "Principal Cullen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzdlMjYwMjYtNTRlMS00ZTY2LWFkYzQtYmNiNDBlNWNmMTcyXkEyXkFqcGdeQXVyNDM4Nzc5OTU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Olivia Trujillo",
+                "character_name": "Ella"
+            },
+            {
+                "image": null,
+                "actor_name": "Keilyn Bryant",
+                "character_name": "Julani"
+            },
+            {
+                "image": null,
+                "actor_name": "Tyler Ross",
+                "character_name": "Sid"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDljZDQ0YmUtYmMxNS00ZmZhLWEzNjQtYzBlOGUzYTZkZTZiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Cheryl Tsai",
+                "character_name": "Roofus's Mom"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTA0NTg3OTk3MjheQTJeQWpwZ15BbWU4MDc5NzY4NTAy._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jasika Nicole",
+                "character_name": "Shuana"
+            },
+            {
+                "image": null,
+                "actor_name": "Jasmine Bonsignore",
+                "character_name": "Playground Kid"
+            },
+            {
+                "image": null,
+                "actor_name": "Kaitlyn Kaylee Brown",
+                "character_name": "Playground Kid"
+            }
+        ],
+        "Director": [
+            "Jonah Feingold"
+        ],
+        "Writers": [
+            "Jonah Feingold",
+            "Jeremy Mittleman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 26, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6553608/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Play Productions",
+                        "Feingold Films",
+                        "TheMachine"
+                    ],
+                    "link": [
+                        "/company/co0638322?ref_=tt_dt_co_1",
+                        "/company/co0336192?ref_=tt_dt_co_2",
+                        "/company/co0622236?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "17 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

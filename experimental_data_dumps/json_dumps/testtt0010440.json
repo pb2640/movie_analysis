@@ -1,0 +1,160 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Marriage Price"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzE2NjdmZGQtN2ZlZS00NzJiLTg4ZGItODc2MTNkZTIyMDMyXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Romance",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A tough fellow from out West falls for young woman who is being pursued by a smarmy high-society type."
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWFiMDljZjgtNjZkOC00NDAzLWJhZTItMjQzOTRlNGRmZWMwXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UY140_CR47,0,140,140_.jpg",
+                "actor_name": "Elsie Ferguson",
+                "character_name": "Helen Tremaine"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGUzNGZhMTYtMzdiOC00M2M0LTk2ZWMtODdkZTg4MjU0OGQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Wyndham Standing",
+                "character_name": "Frederick Lawton"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzI4NDMwNTAyOV5BMl5BanBnXkFtZTcwNzMxMDUzOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Lionel Atwill",
+                "character_name": "Kenneth Gordon"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Schable",
+                "character_name": "Archie Van Orden"
+            },
+            {
+                "image": null,
+                "actor_name": "Maud Hosford",
+                "character_name": "Amelia Lawton"
+            },
+            {
+                "image": null,
+                "actor_name": "Marie Temper",
+                "character_name": "Evie Hitchins"
+            },
+            {
+                "image": null,
+                "actor_name": "Clairette Anthony",
+                "character_name": "The Other Woman"
+            },
+            {
+                "image": null,
+                "actor_name": "Zelda Crosby",
+                "character_name": "Undetermined Role"
+            }
+        ],
+        "Director": [
+            "Emile Chautard"
+        ],
+        "Writers": [
+            "Eve Unsell",
+            "Griswold Wheeler"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 9, 1919 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0010440/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Famous Players-Lasky Corporation"
+                    ],
+                    "link": [
+                        "/company/co0047533?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "50 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

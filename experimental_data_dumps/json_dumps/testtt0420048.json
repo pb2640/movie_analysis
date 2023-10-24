@@ -1,0 +1,122 @@
+[
+    {
+        "first": [
+            {
+                "title": "Orientation"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjYxM2NmYzQtZDllNS00OTM4LTkxMDEtYTI3MDMzNmU0ZmRiXkEyXkFqcGdeQXVyNTMyODM3MTg@._V1_QL75_UY281_CR89,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Spoof of typical university orientation films, about a freshman's life at university."
+            },
+            {
+                "imdb-rating": "6.0/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Ivan Reitman"
+        ],
+        "Writer": [
+            "Ivan Reitman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1968 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt0420048/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "McMaster University, Hamilton, Ontario, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=McMaster%20University%2C%20Hamilton%2C%20Ontario%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "McMaster Film Board"
+                    ],
+                    "link": [
+                        "/company/co0131199?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "23 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

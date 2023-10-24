@@ -1,0 +1,98 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mute"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTgzOGNlNWQtOTUxNS00NWRmLTkxNzYtZDc1ZjI0OTg4MjBiXkEyXkFqcGdeQXVyMTI0MjkxMzU1._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Ivan wants to be an actor more than anything in his life. He is taking acting classes and getting ready to apply to drama university. But there is one big problem. He can't speak. Would this... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Oles Dmytrenko",
+                "character_name": "Ivan"
+            }
+        ],
+        "Director": [
+            "Kyrylo Zemlyanyi"
+        ],
+        "Writer": [
+            "Kyrylo Zemlyanyi"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 13, 2019 (Ukraine)"
+                    ],
+                    "link": [
+                        "/title/tt13091280/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ukraine"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=UA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Ukrainian",
+                        "Russian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=uk&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ru&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "11 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

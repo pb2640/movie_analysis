@@ -1,0 +1,126 @@
+[
+    {
+        "first": [
+            {
+                "title": "Taylor Tomlinson: Quarter-Life Crisis"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMWI1YzRiZDUtMzZhMC00Yzk0LWI4MGItMmRjZTI1MjY0NzYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "She's halfway through her 20s, and she's over it. Too old to party, too young to settle down, comedian Taylor Tomlinson takes aim at her life choices."
+            },
+            {
+                "imdb-rating": "7.4/10"
+            },
+            {
+                "metascore": "26"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjFkMDcyZDYtYjdiYy00NTM2LWIwZWItYTZlYmIxNDJjNDFmXkEyXkFqcGdeQXVyODkzNDk3MDg@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Taylor Tomlinson",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Marcus Raboy"
+        ],
+        "Writer": [
+            "Taylor Tomlinson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 3, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11738792/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "The Aladdin theater, Portland, Oregon, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=The%20Aladdin%20theater%2C%20Portland%2C%20Oregon%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 1 minute"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

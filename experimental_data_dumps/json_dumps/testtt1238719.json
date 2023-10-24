@@ -1,0 +1,96 @@
+[
+    {
+        "first": [
+            {
+                "title": "Anna Freud: Under Analysis"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGU0MjEwMDItZjcxNS00ODZlLWFiMmMtMGRmNDdmMThmZDBhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Biography"
+                ]
+            },
+            {
+                "plot": "A life chronicle of the youngest child of Sigmund and Martha Freud - her childhood in Vienna, her analysis by her own father, her prominence in the creation and development of child psychoan... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 1, 2003 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1238719/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Austin, Texas, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Austin%2C%20Texas%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Vibegirl Productions"
+                    ],
+                    "link": [
+                        "/company/co0239221?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "54 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

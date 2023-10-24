@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "My Body, Its Choice"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZWY2MThkOGItZmFhZC00OTA0LWI4ZTYtMzcxZDgwNzIwNGI1XkEyXkFqcGdeQXVyMTE3MTY3NjM2._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDJiZWIyOTQtOWNkNC00OWVmLWJmOWQtMWUyYjJlMmYyNzc2XkEyXkFqcGdeQXVyNjQ4NjA5MDc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lindsey Martin",
+                "character_name": "Kelly"
+            }
+        ],
+        "Director": [
+            "McKenzi Vanderberg"
+        ],
+        "Writer": [
+            "McKenzi Vanderberg"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 20, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14082360/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$1,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

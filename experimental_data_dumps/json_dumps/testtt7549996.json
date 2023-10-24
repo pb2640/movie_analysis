@@ -1,0 +1,265 @@
+[
+    {
+        "first": [
+            {
+                "title": "Judy"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYmE0OTE5NWItMGYyZi00MzUxLWFjN2QtYzBkZGRjZGVmMGFmXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,6,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Biography",
+                    "Drama",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts."
+            },
+            {
+                "imdb-rating": "6.8/10"
+            },
+            {
+                "metascore": "518"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmI2NTU4NTYtNTdiZi00YjNhLTk5ZGUtMmFkZjBjYTliYjg1XkEyXkFqcGdeQXVyNzczNzg0ODc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ren\u00e9e Zellweger",
+                "character_name": "Judy Garland"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjlmMmQ2MzktMzY3Zi00ZWRiLThiOTAtNDMyYWY2YTBmYzU3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jessie Buckley",
+                "character_name": "Rosalyn Wilder"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc3NTMzMzQzN15BMl5BanBnXkFtZTgwNDAxODcwNzE@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Finn Wittrock",
+                "character_name": "Mickey Deans"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjY1OTk4MDgtNmU1Mi00ODBjLTk3YjktNTI1ZGExYTE3MGY4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Rufus Sewell",
+                "character_name": "Sid Luft"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY3OTc4MTgyN15BMl5BanBnXkFtZTcwNTAxNjA3Mg@@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Michael Gambon",
+                "character_name": "Bernard Delfont"
+            },
+            {
+                "image": null,
+                "actor_name": "Richard Cordery",
+                "character_name": "Louis B. Mayer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmIyMDM3N2ItZjJhYS00ZjJkLWI1ZDQtNTNhOTU2ODkzMjNiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR5,0,140,140_.jpg",
+                "actor_name": "Royce Pierreson",
+                "character_name": "Burt Rhodes"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDFmZDI4NmUtNGM1MS00ODNjLWFjOWUtYjZhMWY3MTM1ZWNiXkEyXkFqcGdeQXVyODcyNjA1ODc@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Darci Shaw",
+                "character_name": "Young Judy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYzNTMwOTEwOF5BMl5BanBnXkFtZTYwNzQwMjAz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Andy Nyman",
+                "character_name": "Dan"
+            },
+            {
+                "image": null,
+                "actor_name": "Daniel Cerqueira",
+                "character_name": "Stan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWJkZWEyMWYtYWI1MS00ZTY0LTg2MTAtYjUzMWIwZDhjNmViXkEyXkFqcGdeQXVyNzI5MjUxNjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Bella Ramsey",
+                "character_name": "Lorna Luft"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTIwNDA2ZmEtMDc1YS00M2UxLTllZGYtNjA3ZTA0YzNhZjZhXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Lewin Lloyd",
+                "character_name": "Joey Luft"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTgyOWQxYTMtZDk0Zi00MTk5LTgxMjEtZjAzMGM5MDI1NzIwXkEyXkFqcGdeQXVyNjE2MDg3Njk@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Tom Durant Pritchard",
+                "character_name": "Ken Frisch"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU2NDQ2NzExN15BMl5BanBnXkFtZTgwOTIxNTM0MjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "John Dagleish",
+                "character_name": "Lonnie Donegan"
+            },
+            {
+                "image": null,
+                "actor_name": "Adrian Lukis",
+                "character_name": "Dr Hargreaves"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjg2Mzc1YTgtOTdhNi00OGQzLWE4OWItZjZkMTUyODA0YmYzXkEyXkFqcGdeQXVyMjY3OTkxOTI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Gemma-Leah Devereux",
+                "character_name": "Liza Minnelli"
+            },
+            {
+                "image": null,
+                "actor_name": "Gus Barry",
+                "character_name": "Mickey Rooney"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDlmNmZmMTktZGFjMy00MzlhLWEyMzItZTIxMzFkMzg0NGMzXkEyXkFqcGdeQXVyMTExMTc3NzU5._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Jodie McNee",
+                "character_name": "Vivian"
+            }
+        ],
+        "Director": [
+            "Rupert Goold"
+        ],
+        "Writers": [
+            "Tom Edge",
+            "Peter Quilter"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 4, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7549996/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "France",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/Judythefilm/",
+                        "https://www.judythefilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "West London Film Studios, London, England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=West%20London%20Film%20Studios%2C%20London%2C%20England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Path\u00e9",
+                        "BBC Films",
+                        "Ingenious Media"
+                    ],
+                    "link": [
+                        "/company/co0022869?ref_=tt_dt_co_1",
+                        "/company/co0103694?ref_=tt_dt_co_2",
+                        "/company/co0209925?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$24,313,888"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$2,916,548"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Sep 29, 2019"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$45,987,812"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 58 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Atmos"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

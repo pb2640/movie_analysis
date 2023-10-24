@@ -1,0 +1,95 @@
+[
+    {
+        "first": [
+            {
+                "title": "PizzaBoy"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzA3MmJmODEtZTUwOC00NTc2LTk1MDMtMDA5ZTViYzhhNGM0XkEyXkFqcGdeQXVyODk5NzQ4MDU@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Action",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A story about a thirteen-year-old boy named Kostik, an extra-budgetary pizza delivery on his bike. Once he steals a march of a criminal group and a deadly gang warfare starts."
+            },
+            {
+                "imdb-rating": "5.8/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Anton Sushkevich"
+        ],
+        "Writer": [
+            "Anton Sushkevich"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2011 (Russia)"
+                    ],
+                    "link": [
+                        "/title/tt2359227/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Russia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=RU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Russian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=ru&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "29 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "first": [
+            {
+                "title": "Yamna's Blessing"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTM1ZDhjYWEtOWFhNi00OTM4LWE1NjYtMjQ3ODc3ODI5NGVkXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Yamna is an 82-year-old miracle-worker and righteous woman from Sderot. The film depicts her unique character and rituals, her eastern culture and her effort to bequeath her mystical power t... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 6, 2021 (Israel)"
+                    ],
+                    "link": [
+                        "/title/tt15112588/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Israel"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IL&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hebrew"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=he&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Ilanit Swissa Productions"
+                    ],
+                    "link": [
+                        "/company/co0871863?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "55 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

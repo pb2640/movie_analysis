@@ -1,0 +1,80 @@
+[
+    {
+        "first": [
+            {
+                "title": "1974"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmM3NjBhNzctMTZmYS00MGM1LWI2NDctNTZkZjI3YmM1ZmZlXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_QL75_UY281_CR114,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Animation"
+                ]
+            },
+            {
+                "plot": "-A constellation of stars spread over the wall of an artist's studio metamorphose into a tumult of organic forms, which explode into a whirling, sparkling, luminous display. The human presen... Read all"
+            },
+            {
+                "imdb-rating": "5.5/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "National Film Board of Canada (NFB)"
+                    ],
+                    "link": [
+                        "/company/co0006414?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

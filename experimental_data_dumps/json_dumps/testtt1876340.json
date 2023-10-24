@@ -1,0 +1,102 @@
+[
+    {
+        "first": [
+            {
+                "title": "Idle Chatter"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Says how much he likes ballet. He wonders why the girls are always running with no one chasing them. And the male dancers are always running to the female dancers. Then he does an amalgam of... Read all"
+            },
+            {
+                "imdb-rating": "5.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Murray Roth"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 16, 1930 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1876340/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Warner Bros."
+                    ],
+                    "link": [
+                        "/company/co0002663?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

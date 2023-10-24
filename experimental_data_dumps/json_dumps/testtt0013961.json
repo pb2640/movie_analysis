@@ -1,0 +1,166 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cupid's Fireman"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTkxM2I2Y2UtMjcwMy00YTQzLWFjZjMtMzVjMjRhZGFhYTFhXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_QL75_UY281_CR58,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Andy McGee joins the fire-department with intentions of becoming as good a fireman as his father who died in the line of duty. While on duty in the theatre district, Andy meets Agnes Evans, ... Read all"
+            },
+            {
+                "imdb-rating": "4.8/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQxNjc2MzQwNV5BMl5BanBnXkFtZTgwNDk5NDc0MzE@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Buck Jones",
+                "character_name": "Andy McGee"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkxOTA1MDc2OV5BMl5BanBnXkFtZTYwNzgyNjU2._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Marian Nixon",
+                "character_name": "Agnes Evans"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTc4YzMyZjktNzYxMC00ZjkxLTkzZWQtMWYzNzU4MmNjN2RkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Brooks Benedict",
+                "character_name": "Bill Evans"
+            },
+            {
+                "image": null,
+                "actor_name": "Eileen O'Malley",
+                "character_name": "Elizabeth Stevens"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTVhMzQwMDgtNTdlYS00NGI5LWE1MTUtMThlNTRiMGVkMGNlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+                "actor_name": "Lucy Beaumont",
+                "character_name": "Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Al Fremont",
+                "character_name": "Fire-Department Chief"
+            },
+            {
+                "image": null,
+                "actor_name": "Charles McHugh",
+                "character_name": "Old Man Turner"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzgwODIxZWItMTMxYS00MzZjLWE1ZTktZWI3MTI3NTIyMmRkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Mary Warren",
+                "character_name": "Molly Turner"
+            },
+            {
+                "image": null,
+                "actor_name": "Louis King",
+                "character_name": "Veteran"
+            }
+        ],
+        "Director": [
+            "William A. Wellman"
+        ],
+        "Writers": [
+            "Richard Harding Davis",
+            "Eugene B. Lewis"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 16, 1923 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0013961/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Fox Film Corporation"
+                    ],
+                    "link": [
+                        "/company/co0028775?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "57 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "Gods from Space"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2YzMDEwMjUtNjJlYy00MTg1LWI2NmItNzY4NmFlZmYwZjU0XkEyXkFqcGdeQXVyNjYxMDc0Mzg@._V1_QL75_UY281_CR130,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "In 1955, a British taxi driver began to receive messages from outer space. He founded a religion where prayer can be stored in a battery, Jesus was an alien, and an unusual but kind-hearted ... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 21, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7643024/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "University of Southern California, School of Cinematic Arts"
+                    ],
+                    "link": [
+                        "/company/co0214052?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

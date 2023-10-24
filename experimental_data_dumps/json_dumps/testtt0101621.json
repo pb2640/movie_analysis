@@ -1,0 +1,194 @@
+[
+    {
+        "first": [
+            {
+                "title": "Crack Me Up"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMWM4NTgyZTEtZTMwYy00MjdkLWIzMWYtODQ5NTBjNTlhZTA5XkEyXkFqcGdeQXVyNjE1NTYzNg@@._V1_QL75_UX190_CR0,13,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Adventure",
+                    "Crime",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A naive cameraman (Tim Brazzil) is beaten by crooks and given shelter in an L.A. bordello by a tough hooker (Daphna Kastner)."
+            },
+            {
+                "imdb-rating": "6.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "John Ackerman",
+                "character_name": "Eaney"
+            },
+            {
+                "image": null,
+                "actor_name": "Gabriele Andreoli",
+                "character_name": "Ricky"
+            },
+            {
+                "image": null,
+                "actor_name": "Anne Marie Bates",
+                "character_name": "Plant lady"
+            },
+            {
+                "image": null,
+                "actor_name": "Kitty G. Beat",
+                "character_name": "Girlfriend"
+            },
+            {
+                "image": null,
+                "actor_name": "Nickey Beat",
+                "character_name": "Bartender 2"
+            },
+            {
+                "image": null,
+                "actor_name": "James Benlacki",
+                "character_name": "Sal"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Bernstein",
+                "character_name": "Man on phone"
+            },
+            {
+                "image": null,
+                "actor_name": "Marc-Andr\u00e9 Berthiaume",
+                "character_name": "French customer"
+            },
+            {
+                "image": null,
+                "actor_name": "Kermit J. Booker",
+                "character_name": "Meaney"
+            },
+            {
+                "image": null,
+                "actor_name": "Tim Brazzil",
+                "character_name": "Louie B."
+            },
+            {
+                "image": null,
+                "actor_name": "Vernon Buckwald",
+                "character_name": "Mr. b"
+            },
+            {
+                "image": null,
+                "actor_name": "Kevin Carothers",
+                "character_name": "Dancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Mickey Catrall",
+                "character_name": "Customer 1"
+            },
+            {
+                "image": null,
+                "actor_name": "Stan Chaney",
+                "character_name": "Rock star"
+            },
+            {
+                "image": null,
+                "actor_name": "David Charles",
+                "character_name": "Detective Harry Bork"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2UzM2M3NzYtNGJlOC00MmRjLTlhMDYtODFhOGRkMWZlZmM5XkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Colleen Coffey",
+                "character_name": "Jane"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU2MDgxOTE3OF5BMl5BanBnXkFtZTcwNTY1Nzk5Mw@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Mary Crosby",
+                "character_name": "Stacey"
+            },
+            {
+                "image": null,
+                "actor_name": "Janet Cunningham",
+                "character_name": "Elizabeth"
+            }
+        ],
+        "Director": [
+            "Bashar Shbib"
+        ],
+        "Writers": [
+            "Daphna Kastner",
+            "Bashar Shbib",
+            "Maryse Wilder"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Oneira Pictures International"
+                    ],
+                    "link": [
+                        "/company/co0065058?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

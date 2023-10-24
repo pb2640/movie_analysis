@@ -1,0 +1,171 @@
+[
+    {
+        "first": [
+            {
+                "title": "Christmas in the Jungle"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjliYWEwZTQtYTcwMS00MjRmLTg3MGMtYmIzNmZhMDdhODQ2XkEyXkFqcGdeQXVyMTg5OTkwNDg@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "plot": "Paula moves to a new exotic place with her family. While her new life is exciting, she feels the place and her whole family is missing Christmas spirit. Together with Akhim they decide to go... Read all"
+            },
+            {
+                "imdb-rating": "5.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTY2NDliM2MtZDEzMC00OWYzLWE2MTAtMzY3MGJkY2NhYmNiXkEyXkFqcGdeQXVyNzM4MTEwOTg@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "P\u00e4\u00e4ru Oja",
+                "character_name": "Andreas"
+            },
+            {
+                "image": null,
+                "actor_name": "Inga Alsina",
+                "character_name": "Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Rukman Rosadi",
+                "character_name": "Police Inspector"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWYxOThhOTEtM2U3OS00YzU0LTg4MTQtNTU4N2Y5MTQwNDhhXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+                "actor_name": "T\u00f5nu Kark",
+                "character_name": "Christmas shaman"
+            },
+            {
+                "image": null,
+                "actor_name": "Muhammad Nur Qomaruddin",
+                "character_name": "QOMAR"
+            },
+            {
+                "image": null,
+                "actor_name": "Viktorija Bencik",
+                "character_name": "Bosses wife"
+            },
+            {
+                "image": null,
+                "actor_name": "Saara Pius",
+                "character_name": "Anna"
+            },
+            {
+                "image": null,
+                "actor_name": "Onal Majan",
+                "character_name": "Local Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Bojan Emersic",
+                "character_name": "Boss"
+            },
+            {
+                "image": null,
+                "actor_name": "Diajeng Shinta",
+                "character_name": "Maid"
+            },
+            {
+                "image": null,
+                "actor_name": "Sisi Leora Titasya",
+                "character_name": "Jungle Tribe Dancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Yulistia Yarno Putri",
+                "character_name": "Jungle Tribe Dancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Elizabete Liepa",
+                "character_name": "Kate"
+            },
+            {
+                "image": null,
+                "actor_name": "Maris Olte",
+                "character_name": "Father"
+            },
+            {
+                "image": null,
+                "actor_name": "Franciscus Daniel",
+                "character_name": "Jungle Tribe Musician"
+            },
+            {
+                "image": null,
+                "actor_name": "Winayu Ainun",
+                "character_name": "Local girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Seskia",
+                "character_name": "Susu"
+            },
+            {
+                "image": null,
+                "actor_name": "Dexa Hachiah",
+                "character_name": "Local Woman"
+            }
+        ],
+        "Director": [
+            "Jaak Kilmi"
+        ],
+        "Writers": [
+            "Lote Eglite",
+            "Andres Keil"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 1, 2020 (Estonia)"
+                    ],
+                    "link": [
+                        "/title/tt11318886/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Stellar Film",
+                        "Studio Locomotive"
+                    ],
+                    "link": [
+                        "/company/co0710943?ref_=tt_dt_co_1",
+                        "/company/co0259162?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$18,531"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 33 minutes"
+                }
+            }
+        ]
+    }
+]

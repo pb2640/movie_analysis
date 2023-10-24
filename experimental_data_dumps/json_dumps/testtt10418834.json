@@ -1,0 +1,132 @@
+[
+    {
+        "first": [
+            {
+                "title": "An Afternoon with Romantics"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzM1YmFmY2YtMmQ1ZC00OGRkLTkyMWItOWUxNmY3NDlkMjVlXkEyXkFqcGdeQXVyMTAzNzU5OTQy._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Five famous writers are brought back from time, to talk about their writings and mess around."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Quentin Gallagher",
+                "character_name": "Edgar Allan Poe"
+            },
+            {
+                "image": null,
+                "actor_name": "Nicholas Hollcraft",
+                "character_name": "Walt Whitman"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Madden",
+                "character_name": "Victor Hugo"
+            },
+            {
+                "image": null,
+                "actor_name": "Colin Wade",
+                "character_name": "Nathaniel Hawthorne"
+            },
+            {
+                "image": null,
+                "actor_name": "Ethan Witsaman",
+                "character_name": "Washington Irving"
+            }
+        ],
+        "Director": [
+            "Quentin Gallagher"
+        ],
+        "Writers": [
+            "Quentin Gallagher",
+            "Nicholas Hollcraft",
+            "Joe Madden"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 11, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10418834/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "YouTube link"
+                    ],
+                    "link": [
+                        "https://m.youtube.com/watch?v=OXSlBdfocuE"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Deutsch Jungen Produktion"
+                    ],
+                    "link": [
+                        "/company/co0748881?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

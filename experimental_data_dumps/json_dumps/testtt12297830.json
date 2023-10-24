@@ -1,0 +1,104 @@
+[
+    {
+        "first": [
+            {
+                "title": "Piracy. It's a Crime."
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjg5MjdlNTktZmYxNy00OTA2LTk3YWMtMjlkZjA5MTk5MjYxXkEyXkFqcGdeQXVyMTc0NDM1MDQ@._V1_QL75_UY281_CR192,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A teenage girl downloads a film illegally. And a thief steals a car, a handbag, a TV and a movie. This is an advert against piracy."
+            },
+            {
+                "imdb-rating": "9.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2004 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12297830/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Singapore"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=SG&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Federation Against Copyright Theft (FACT)",
+                        "Motion Picture Association (MPA)",
+                        "Intellectual Property Office of Singapore"
+                    ],
+                    "link": [
+                        "/company/co0799595?ref_=tt_dt_co_1",
+                        "/company/co0140145?ref_=tt_dt_co_2",
+                        "/company/co0799596?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 minute"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

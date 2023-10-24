@@ -1,0 +1,144 @@
+[
+    {
+        "first": [
+            {
+                "title": "Betty Williams: Contagious Courage"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGQ3NGRlZDgtOTMyMi00MzZhLWJjMjUtY2ZjZDc5YmVmMWNhXkEyXkFqcGdeQXVyMjM4MTI4NjU@._V1_QL75_UX190_CR0,6,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "This is the story of a young mother living in Northern Ireland fifty years ago, as her country teetered on the brink of civil war. With never-before-seen footage and behind-the-scenes interv... Read all"
+            },
+            {
+                "imdb-rating": "8.1/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Betty Williams",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Brenden MacDonald",
+                "character_name": "Narrator"
+            }
+        ],
+        "Director": [
+            "Dawn Gifford Engle"
+        ],
+        "Writer": [
+            "Dawn Gifford Engle"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 15, 2018 (Monaco)"
+                    ],
+                    "link": [
+                        "/title/tt7601714/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "PeaceJam Films"
+                    ],
+                    "link": [
+                        "https://peacejamfilms.org/2015/08/04/betty-williams-contagious-courage/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Ireland"
+                    ],
+                    "link": [
+                        "/search/title?locations=Ireland&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "PeaceJam Productions"
+                    ],
+                    "link": [
+                        "/company/co0384441?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$500,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

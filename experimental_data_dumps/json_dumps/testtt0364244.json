@@ -1,0 +1,69 @@
+[
+    {
+        "first": [
+            {
+                "title": "La Bronco colorada"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "La bronco colorada is a very good action movie."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Rafael Villase\u00f1or Kuri"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,244 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hocus Pocus 2"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTBkMGY0MTMtZmM1Yi00MWY1LWI0ZGYtY2Q1ZGM0MTQ5Nzk3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Family",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "Two young women accidentally bring back the Sanderson Sisters to modern day Salem and must figure out how to stop the child-hungry witches from wreaking havoc on the world."
+            },
+            {
+                "imdb-rating": "6.0/10"
+            },
+            {
+                "metascore": "729"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIyNjU3NDYyMl5BMl5BanBnXkFtZTcwODUyNjY0MQ@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Bette Midler",
+                "character_name": "Winifred Sanderson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjEzMDY0MzMxMV5BMl5BanBnXkFtZTcwMzMxNjQzMg@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Sarah Jessica Parker",
+                "character_name": "Sarah Sanderson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTNkMWNjNDEtNzkwMi00ZjlmLWE3YzQtZTU4ZDYzMmEwMjhkXkEyXkFqcGdeQXVyMTI4OTA2MDM3._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Kathy Najimy",
+                "character_name": "Mary Sanderson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWNmNjQwMTMtMTY4Ni00MDk4LTgzOTMtYjEwNzgzMjI4MWZkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Whitney Peak",
+                "character_name": "Becca"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDUwZDkwNDEtMGVlMC00MDZjLTgzM2UtNzMxMzg1Y2YwMzYxXkEyXkFqcGdeQXVyMTExNzQzMDE0._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Belissa Escobedo",
+                "character_name": "Izzy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTI2OWM4YjgtMjY2Yy00OGY4LTg0MjktOGIwMDQ2ZTYzYzlmXkEyXkFqcGdeQXVyNjMzMTI0NTI@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Lilia Buckingham",
+                "character_name": "Cassie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWE2NzgwODEtMzBlMy00Y2Y2LThhNjItMWU2YzYxY2UxODRjXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Froy Gutierrez",
+                "character_name": "Mike"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjczMmViNzQtZTgwMy00MzYxLWE1MWQtZjc4ZGI4MDI2NzE0XkEyXkFqcGdeQXVyMzEyNzUwNTc@._V1_QL75_UY140_CR1,0,140,140_.jpg",
+                "actor_name": "Sam Richardson",
+                "character_name": "Gilbert"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYzNDY4MDc0OF5BMl5BanBnXkFtZTYwODM4MDY0._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Doug Jones",
+                "character_name": "Billy Butcherson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGE2YWM1MjQtODBlMS00ZjVmLTg2YzEtZjk0ZDdmMjRlMDRhXkEyXkFqcGdeQXVyMTI2Nzk2ODk3._V1_QL75_UY140_CR1,0,140,140_.jpg",
+                "actor_name": "Tony Hale",
+                "character_name": "Mayor"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMzMDJkMDctZmEzOC00YThhLTg5NmMtNDg1MDFkZDgwZDFlXkEyXkFqcGdeQXVyMTAxNTY1MjY2._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Taylor Henderson",
+                "character_name": "Young Winifred"
+            },
+            {
+                "image": null,
+                "actor_name": "Nina Kitchen",
+                "character_name": "Young Mary"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmRkYmY0NmMtZDg0NC00YjIxLWFjYTUtM2U5ZWVjNTgzY2YyXkEyXkFqcGdeQXVyNTcxOTI5OTA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Juju Journey Brener",
+                "character_name": "Young Sarah"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjBlM2VkZTQtMDBmOS00NzY4LTgzNWYtN2I4YTZmZDIzZDk5XkEyXkFqcGdeQXVyMTU3MTQ5NDM1._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Thomas Fitzgerald",
+                "character_name": "John Pritchett"
+            },
+            {
+                "image": null,
+                "actor_name": "Brett Cramp",
+                "character_name": "Mr. Pritchett"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWE4NzdhZGQtMzEzZS00ODlmLWIxZDItNTY2NjY0NzFhYjU2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kim Niemi",
+                "character_name": "Townsperson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTYwYzI4ZGEtOWU0OS00YWI5LWE4M2UtZDk4ODAyNmZkYzExXkEyXkFqcGdeQXVyMjQ1MDA1MTE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Alison Weller",
+                "character_name": "Townsperson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWMzMjczY2ItNWQ5Yi00Y2YwLThiNTYtNjQ1NDU5ZTNjMmUyXkEyXkFqcGdeQXVyODE3MzQ2MDM@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Holly Cinnamon",
+                "character_name": "Townsperson"
+            }
+        ],
+        "Director": [
+            "Anne Fletcher"
+        ],
+        "Writers": [
+            "Jen D'Angelo",
+            "David Kirschner",
+            "Blake Harris"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 30, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11909878/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Disney+"
+                    ],
+                    "link": [
+                        "https://www.disneyplus.com/movies/hocus-pocus-2/4Q5cWHlnVCun"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Newport Rhode Island, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Newport%20Rhode%20Island%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Walt Disney Pictures",
+                        "David Kirschner Productions"
+                    ],
+                    "link": [
+                        "/company/co0008970?ref_=tt_dt_co_1",
+                        "/company/co0057460?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$100,000,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 43 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Atmos",
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.20 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

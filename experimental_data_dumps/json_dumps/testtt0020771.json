@@ -1,0 +1,151 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Climax"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTY4N2U0MTAtNTg0Mi00ZDBkLWI2YTgtMzRkZTEwZTNkMmE3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_QL75_UY281_CR20,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "Young Italian girl wants to become a great opera singer."
+            },
+            {
+                "imdb-rating": "6.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM3MDE3NjAxMl5BMl5BanBnXkFtZTcwMjExMDExOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jean Hersholt",
+                "character_name": "Luigi Golfanti"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDU2NzZhNzItOGI3ZS00YTAxLTgwNTMtNjZhMDZmMDI0ZTM5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kathryn Crawford",
+                "character_name": "Adella Golfanti"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGY4ZjIwZDktNzIzMC00MWI2LWIxMDgtOTE3MDkzZTFjNDUwXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "LeRoy Mason",
+                "character_name": "Dr. Gardoni"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDQ5OGJiOTEtYzY1Yy00NWQ1LTg0M2YtNGU5OGVjODg4ZTBkXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,129,140,140_.jpg",
+                "actor_name": "John Reinhardt",
+                "character_name": "Pietro Golfanti"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmQ0NGQ3NTctMGM2YS00MmQ3LTg5NmQtNzliYWJlMDRjZjA0XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Henry Armetta",
+                "character_name": "Anton Donatelli"
+            }
+        ],
+        "Director": [
+            "Renaud Hoffman"
+        ],
+        "Writers": [
+            "Lillian Ducey",
+            "Julien Josephson",
+            "Edward Locke"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 26, 1930 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0020771/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Universal Studios - 100 Universal City Plaza, Universal City, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Universal%20Studios%20-%20100%20Universal%20City%20Plaza%2C%20Universal%20City%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Universal Pictures"
+                    ],
+                    "link": [
+                        "/company/co0005073?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.20 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

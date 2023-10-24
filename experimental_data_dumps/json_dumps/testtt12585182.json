@@ -1,0 +1,134 @@
+[
+    {
+        "first": [
+            {
+                "title": "Uninhibited"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzI4MGViY2EtNzllMy00ZTg5LWFmMzItYTIyMDkyYTVjMzZiXkEyXkFqcGdeQXVyMTA3MTg2Ng@@._V1_QL75_UX190_CR0,11,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "7.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Billy Castro",
+                "character_name": "Alex"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGQ0MjFkNmEtOWU2NC00NjA1LTgyOTItNTMyYTFkZjhjNGYzXkEyXkFqcGdeQXVyMTA3MTg2Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Ted Downs",
+                "character_name": "Cody"
+            },
+            {
+                "image": null,
+                "actor_name": "Yen Nguyen",
+                "character_name": "Naima"
+            }
+        ],
+        "Director": [
+            "Jorge Ameer"
+        ],
+        "Writer": [
+            "Jorge Ameer"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 8, 2004 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12585182/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "official site"
+                    ],
+                    "link": [
+                        "https://www.ariztical.com/filmsAZ/straight_men.html"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Hollywood, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Hollywood%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "A.J. Productions"
+                    ],
+                    "link": [
+                        "/company/co0038293?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

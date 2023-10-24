@@ -1,0 +1,165 @@
+[
+    {
+        "first": [
+            {
+                "title": "Week-End Wives"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDJkYmNmNGMtMDE5Yy00MzI1LTk1ZmEtMWY3Y2FkNDU4ZWY4XkEyXkFqcGdeQXVyMTczMjA2Nzk@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "A lawyer spends the weekend with a married actress at the same hotel as his wife and her lover."
+            },
+            {
+                "imdb-rating": "7.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzgxZDgwYTctMDEzYy00NGM5LWIyMzctOTkyOGFkNjc0OTJhXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Monty Banks",
+                "character_name": "Max Ammon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGJmNDc2OWQtYmUwZC00ZTI1LTlhNWQtY2NmOGU2MTE3M2JiXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Jameson Thomas",
+                "character_name": "Henri Monard"
+            },
+            {
+                "image": null,
+                "actor_name": "Estelle Brody",
+                "character_name": "Madame le Grand"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI2MTE5NjktNGE5ZC00ZTNlLThjODktNDVhZjQzMDMyZDdlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Annette Benson",
+                "character_name": "Helene Monard"
+            },
+            {
+                "image": null,
+                "actor_name": "George K. Gee",
+                "character_name": "Monsieur le Grand"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjE1Mjg0NTk0MF5BMl5BanBnXkFtZTgwMDg0NTQ3MTE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+                "actor_name": "Ernest Thesiger",
+                "character_name": "Bertram"
+            },
+            {
+                "image": null,
+                "actor_name": "Bebe Brune-Taylor",
+                "character_name": "Yvette"
+            },
+            {
+                "image": null,
+                "actor_name": "Koko Arrah",
+                "character_name": "Mickey"
+            }
+        ],
+        "Director": [
+            "Harry Lachman"
+        ],
+        "Writers": [
+            "Victor Kendall",
+            "Rex Taylor"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 25, 1929 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0020568/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Elstree Studios, Borehamwood, Hertfordshire, England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=Elstree%20Studios%2C%20Borehamwood%2C%20Hertfordshire%2C%20England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "British International Pictures (BIP)"
+                    ],
+                    "link": [
+                        "/company/co0103059?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 26 minutes"
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

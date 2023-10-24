@@ -1,0 +1,110 @@
+[
+    {
+        "first": [
+            {
+                "title": "New Scotland"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYmE3OTI4MWMtMjllZS00NTI0LWJkMTMtM2Q4NjVkNDljMzY0XkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "This short documentary from 1943 visits various Nova Scotians at home, work and leisure while giving a panoramic view of the province's coasts, farms and forests."
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1943 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt9637100/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "-The original movie"
+                    ],
+                    "link": [
+                        "https://www.nfb.ca/film/new_scotland/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Nova Scotia, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Nova%20Scotia%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "National Film Board of Canada (NFB)"
+                    ],
+                    "link": [
+                        "/company/co0006414?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

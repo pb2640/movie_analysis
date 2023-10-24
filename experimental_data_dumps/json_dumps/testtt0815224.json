@@ -1,0 +1,111 @@
+[
+    {
+        "first": [
+            {
+                "title": "Portrait of a Matador"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMGU5ZjZiYWUtODUzOC00ZjQzLTliODQtN2ZmOThjZTBiY2Q0XkEyXkFqcGdeQXVyNzk5MDQ0NA@@._V1_QL75_UY281_CR106,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A portrait visits a curse on the artist who painted it."
+            },
+            {
+                "imdb-rating": "5.3/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Anthony Tancred",
+                "character_name": "David Crane"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmEyYWQ0MzUtYmU1OC00ZTRhLWE2NTQtM2UzZTQzYjNhMjUwXkEyXkFqcGdeQXVyMzAwOTU1MTk@._V1_QL75_UY140_CR14,0,140,140_.jpg",
+                "actor_name": "Sandra Dorne",
+                "character_name": "Carmencita"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDI3ZTY0ZjEtYzNjOC00OGFhLTkzMTgtNTk4YTg3NjRmNDFjXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Yvonne Romain",
+                "character_name": "Maria"
+            }
+        ],
+        "Director": [
+            "Theodore Zichy"
+        ],
+        "Writers": [
+            "George Barraud",
+            "Douglas Sturgeon"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1958 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt0815224/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Supra Films"
+                    ],
+                    "link": [
+                        "/company/co0334136?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "23 minutes"
+                }
+            }
+        ]
+    }
+]

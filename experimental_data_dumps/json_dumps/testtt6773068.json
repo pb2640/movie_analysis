@@ -1,0 +1,161 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Borer"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWNmOGRjYWQtOGY0MS00MmEzLTkzNjctZjFjOWEwMmE1MDg4XkEyXkFqcGdeQXVyMTEwMDczMDk@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "The Borer follows a young man struggling to share his life with a parasitic organism."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Daniel Allen",
+                "character_name": "Richard"
+            },
+            {
+                "image": null,
+                "actor_name": "Georgia Bevins",
+                "character_name": "Lily"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjkxZDg5MTctZmQwMC00NDZkLWFlOTEtYWViMDE2NTg3YmVjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Craig Carr",
+                "character_name": "Tom"
+            },
+            {
+                "image": null,
+                "actor_name": "Keith Flood",
+                "character_name": "The Borer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDRmM2ZkZjYtNTI4NS00M2JkLWJiYWItN2JiMTkyZWUxODk4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Patrick O'Donnell",
+                "character_name": "Sullivan"
+            }
+        ],
+        "Director": [
+            "Dominic Hodge"
+        ],
+        "Writer": [
+            "Dominic Hodge"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 10, 2017 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt6773068/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Kickstarter Campaign"
+                    ],
+                    "link": [
+                        "https://www.kickstarter.com/projects/reddenimproductions/the-borer"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "MFA Bowl Preston, Greenbank Street, Preston, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=MFA%20Bowl%20Preston%2C%20Greenbank%20Street%2C%20Preston%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Red Denim Productions"
+                    ],
+                    "link": [
+                        "/company/co0637061?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u00a3150 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

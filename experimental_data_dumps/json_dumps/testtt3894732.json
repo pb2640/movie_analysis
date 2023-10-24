@@ -1,0 +1,156 @@
+[
+    {
+        "first": [
+            {
+                "title": "Erasmus: Not Everything Is Fun"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODIwNWYwODQtMTQyMy00ZTNjLTkzZmQtZDQxOWVhNTBkNjE0XkEyXkFqcGdeQXVyMjExMjI5NzI@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Crime",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A group of young students chooses Barcelona to do the program ERASMUS. All come with the same determination: amuse to the limit. Montse, Spanish student, receives in his house a group of ERA... Read all"
+            },
+            {
+                "imdb-rating": "4.5/10"
+            },
+            {
+                "metascore": "7"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Sergi Galiano",
+                "character_name": "Robert"
+            },
+            {
+                "image": null,
+                "actor_name": "Isabel Cherif",
+                "character_name": "Julia"
+            }
+        ],
+        "Director": [
+            "Pablo J. Cosco"
+        ],
+        "Writers": [
+            "Conesa Gambin Berta",
+            "Pablo J. Cosco",
+            "Miguel Pereira"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2020 (Spain)"
+                    ],
+                    "link": [
+                        "/title/tt3894732/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Argentina",
+                        "Spain"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AR&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=ES&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site",
+                        "Official Twitter"
+                    ],
+                    "link": [
+                        "http://www.erasmus-thefilm.com/",
+                        "https://twitter.com/erasmusthefilm"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Barcelona, Catalonia, Spain"
+                    ],
+                    "link": [
+                        "/search/title?locations=Barcelona%2C%20Catalonia%2C%20Spain&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "1977 Media",
+                        "Inga Films"
+                    ],
+                    "link": [
+                        "/company/co0912551?ref_=tt_dt_co_1",
+                        "/company/co0912245?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 11 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

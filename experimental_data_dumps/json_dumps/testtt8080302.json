@@ -1,0 +1,165 @@
+[
+    {
+        "first": [
+            {
+                "title": "Penguins"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjA4NDc2Njc3MV5BMl5BanBnXkFtZTgwMTcyNTAwNzM@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "A coming-of-age story about an Ad\u00e9lie penguin named Steve who joins millions of fellow males in the icy Antarctic spring on a quest to build a suitable nest, find a life partner and start a ... Read all"
+            },
+            {
+                "imdb-rating": "7.1/10"
+            },
+            {
+                "metascore": "27"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk2MDQwODEwNV5BMl5BanBnXkFtZTcwNjc4MTY0NA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ed Helms",
+                "character_name": "Narrator"
+            }
+        ],
+        "Directors": [
+            "Alastair Fothergill",
+            "Jeff Wilson",
+            "Mark Linfield"
+        ],
+        "Writer": [
+            "David Fowler"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 17, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8080302/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://nature.disney.com/penguins"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Antarctica"
+                    ],
+                    "link": [
+                        "/search/title?locations=Antarctica&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Disneynature",
+                        "Silverback Films"
+                    ],
+                    "link": [
+                        "/company/co0236496?ref_=tt_dt_co_1",
+                        "/company/co0255499?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$7,699,452"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$2,282,593"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Apr 21, 2019"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$7,699,452"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Atmos"
+                    ]
+                }
+            }
+        ]
+    }
+]

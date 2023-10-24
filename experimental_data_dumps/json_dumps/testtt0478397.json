@@ -1,0 +1,70 @@
+[
+    {
+        "first": [
+            {
+                "title": "Wormholes"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "7.7/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 4, 1992 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt0478397/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "California Institute of the Arts"
+                    ],
+                    "link": [
+                        "/company/co0072292?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            }
+        ]
+    }
+]

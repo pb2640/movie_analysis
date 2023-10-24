@@ -1,0 +1,92 @@
+[
+    {
+        "first": [
+            {
+                "title": "Scrappy's Relay Race"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTI3ZDRiODctZWRmZi00MzMzLTg4MGYtZGM2YzM0ZWYyNGI4XkEyXkFqcGdeQXVyMTM0NTcxNA@@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 30, 1934 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0152335/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Charles Mintz Productions"
+                    ],
+                    "link": [
+                        "/company/co0365004?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

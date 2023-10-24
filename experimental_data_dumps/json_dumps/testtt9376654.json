@@ -1,0 +1,99 @@
+[
+    {
+        "first": [
+            {
+                "title": "Proof"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzVjZDVmYjYtNmIzZS00MDUyLThmMWUtYjNjZmUwMjYwZmE5XkEyXkFqcGdeQXVyMzc2NzE2MDg@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A conscientious young gynecologist comes face-to-face with the reality of the 'women's ward' in a government city hospital."
+            },
+            {
+                "imdb-rating": "8.9/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Directors": [
+            "Nishtha Jain",
+            "Deepti Gupta"
+        ],
+        "Writer": [
+            "Nishtha Jain"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 2, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9376654/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby"
+                    ]
+                }
+            }
+        ]
+    }
+]

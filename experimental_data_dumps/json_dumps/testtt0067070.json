@@ -1,0 +1,161 @@
+[
+    {
+        "first": [
+            {
+                "title": "Evelyn"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BY2VhNTAzNDgtMjQwNi00ZjFlLTg5OGYtYjU2YTQ4MGE3Y2Y3XkEyXkFqcGdeQXVyMDIzNDc0MA@@._V1_QL75_UY281_CR86,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Frank is worried that he's over the hill when he reaches his 38th birthday. Conversations with his wife, lover and best friend do nothing to allay his concerns."
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY3NDU5NzQwOV5BMl5BanBnXkFtZTcwMjgxMTk5Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Edward Woodward",
+                "character_name": "The Man"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTM3MWU2N2EtMDcyNS00Zjg2LWFiN2EtYzUyOWRkYTgzMTFlXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Angela Scoular",
+                "character_name": "The Girl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY0MDk2NDM2M15BMl5BanBnXkFtZTcwOTY3ODExOA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Phyllida Law",
+                "character_name": "The Wife"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE4YmQ4NmQtNWM1NC00OTdjLTg2OGMtZjkxNjdlOGU5M2Q3XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Edward de Souza",
+                "character_name": "The Friend"
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Bolton",
+                "character_name": "The Young Man"
+            }
+        ],
+        "Director": [
+            "Piers Haggard"
+        ],
+        "Writer": [
+            "Rhys Adrian"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 28, 1971 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt0067070/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "BBC Programme Website"
+                    ],
+                    "link": [
+                        "https://www.bbc.co.uk/programmes/b00cnhjw"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "British Broadcasting Corporation (BBC)"
+                    ],
+                    "link": [
+                        "/company/co0043107?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "51 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

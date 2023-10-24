@@ -1,0 +1,164 @@
+[
+    {
+        "first": [
+            {
+                "title": "New York 2150"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZmMyMDc1ZDktZTQ1MS00OTQwLTg1ZjgtYzcxNTJiYWQ0ZjQ5XkEyXkFqcGdeQXVyMTYwOTM5NjI@._V1_QL75_UY281_CR17,0,190,281_.jpg"
+            },
+            {
+                "plot": "Intergalactic bounty hunter Jayden Jaxon partners with ex-cop Mac Cole to track down a psychotic killer for a generous fee. When their search brings Jayden back to his hometown, the ghosts o... Read all"
+            },
+            {
+                "imdb-rating": "7.9/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2U2M2NlOGYtNGY4Mi00MDVjLWI1Y2YtMDE1NzRlMzBkMmNjXkEyXkFqcGdeQXVyODE2MDQzNjc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Marcus Brandon",
+                "character_name": "Mac Cole"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTM1NjY2ZjMtODIwZi00NTQ4LWE2YTgtNzMwYThiYzJiOGEwXkEyXkFqcGdeQXVyNTQyODgyODI@._V1_QL75_UY140_CR12,0,140,140_.jpg",
+                "actor_name": "Douglas Stirling",
+                "character_name": "Ruddy"
+            },
+            {
+                "image": null,
+                "actor_name": "Sagar Patel",
+                "character_name": "Cooper"
+            },
+            {
+                "image": null,
+                "actor_name": "Timothy Kukucka",
+                "character_name": "Sam"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjU0ZjRmZDMtZTUzMy00MmQ1LWE2N2UtYTU5NmYzZDQ3ZGQ0XkEyXkFqcGdeQXVyODY2MTk1NjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Dana Weddell",
+                "character_name": "Mia"
+            },
+            {
+                "image": null,
+                "actor_name": "Jason Russell",
+                "character_name": "Dr. Connor"
+            },
+            {
+                "image": null,
+                "actor_name": "Keenan Livnwealthy Chilla",
+                "character_name": "Max"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Taylor",
+                "character_name": "Jin"
+            },
+            {
+                "image": null,
+                "actor_name": "Evan Michael Redd",
+                "character_name": "Izak Primer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzc2Mjc0MzEtYWE1Yi00M2Q0LTk4ZmMtNzZmOTAxZDY2NWRjXkEyXkFqcGdeQXVyNjMyOTkxNDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kalen J. Hall",
+                "character_name": "Jayden Jaxon"
+            },
+            {
+                "image": null,
+                "actor_name": "Jason Russell",
+                "character_name": "Dr. Conners"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 26, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6044118/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.newyork2150.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "New York City, New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=New%20York%20City%2C%20New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby SR"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

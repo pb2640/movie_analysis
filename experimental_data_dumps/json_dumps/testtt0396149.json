@@ -1,0 +1,198 @@
+[
+    {
+        "first": [
+            {
+                "title": "Nazi America: A Secret History"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjgwYjMyOGUtNzViNC00MDJiLTlmMjMtNmNjNzlhNzY0MTg5XkEyXkFqcGdeQXVyNjk3ODgyOA@@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "History",
+                    "War"
+                ]
+            },
+            {
+                "plot": "A history of the Nazi movement in the United States."
+            },
+            {
+                "imdb-rating": "7.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "D. Paul Thomas",
+                "character_name": "Narrator"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMwMmI5NTUtMWFiZi00YjI5LWJhZDQtMTA5MzhkNWNjMmFkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Adolf Hitler",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Susan Canedy",
+                "character_name": "Self - Author of 'America's Nazis'"
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Higham",
+                "character_name": "Self - Historian"
+            },
+            {
+                "image": null,
+                "actor_name": "Cornelia Wilhelm",
+                "character_name": "Self - Historian"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTZiNzc3NjQtMTNmMi00NjEyLTkyNWEtMDc3MDNiNWEyNWRiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR14,0,140,140_.jpg",
+                "actor_name": "Fritz Kuhn",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Herman Moses",
+                "character_name": "Self - Jewish War Veterans"
+            },
+            {
+                "image": null,
+                "actor_name": "Arthur Jacobs",
+                "character_name": "Self - Former Crystal City internee"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODA3NGZmN2ItNTNmNC00NTViLThhYmItZDVlZDkyYTAwZTlhXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_QL75_UY140_CR3,0,140,140_.jpg",
+                "actor_name": "George Lincoln Rockwell",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Frederick Simonelli",
+                "character_name": "Self - Author of 'American Fuehrer'"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGU1MmJlYWUtYTAzYS00YzVmLTk4NzAtZmU5N2EzMWE5ODQ2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Frank Collin",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Irv Rubin",
+                "character_name": "Self - Jewish Defense League"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWMxNWFhNDItNDdiMC00MmRlLTg3OTktN2YyYzgwMmRiZjcxXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David Goldberger",
+                "character_name": "Self - Former ACLU Lawyer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzFhNjYxMmUtNWQyZi00N2E0LTg2NTAtYTMwZDcyMTJiMDUzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "William L. Pierce",
+                "character_name": "Self - Author of 'The Turner Diaries'"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTQyNWM5OGYtOTRjMC00YWM5LThjMDEtNDYwMDEwMWVhOGFmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Alan Berg",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Gary Gerhardt",
+                "character_name": "Self - Co-Author of 'The Silent Brotherhood'"
+            },
+            {
+                "image": null,
+                "actor_name": "Judith Lee Berg",
+                "character_name": "Self - Alan Berg's Ex-Wife"
+            },
+            {
+                "image": null,
+                "actor_name": "Morris Dees",
+                "character_name": "Self - Southern Poverty Law Center"
+            }
+        ],
+        "Writer": [
+            "Greg DeHart"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Federal Correctional Complex, Florence, Colorado, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Federal%20Correctional%20Complex%2C%20Florence%2C%20Colorado%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Termite Art Productions"
+                    ],
+                    "link": [
+                        "/company/co0002035?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 32 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White",
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

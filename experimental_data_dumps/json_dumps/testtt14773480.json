@@ -1,0 +1,93 @@
+[
+    {
+        "first": [
+            {
+                "title": "They Heard Him Shout Allahu Akbar"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjdhZTY1Y2UtNzJjNC00YTg3LTg5ZjMtZjliZGY1OGYwOWYwXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UY281_CR244,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Sci-Fi"
+                ]
+            },
+            {
+                "plot": "Zaid, recently released from prison for an unknown crime, tries to reintegrate into his previous life, only to find that the arms of the state can control what he says and does."
+            },
+            {
+                "imdb-rating": "5.1/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODRhZDNkNTktZDljNi00NmMyLTkzYjUtM2U1NDM2ZjViNDBlXkEyXkFqcGdeQXVyNjYxMTgzMzQ@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Scott Karim",
+                "character_name": "Zaid"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTJiOGExNWUtZjM0ZS00Mzc2LTg4YjQtNzEzNjE0NzNmYzA5XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Emma D'Arcy",
+                "character_name": "Nurse"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmFkYzljZTItMjM2MS00NDNkLTk5ZDAtYjkxMzg1NDM4ZjEzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Francis Lovehall",
+                "character_name": "Man in Pub"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjM3ZjIxYzYtY2E3YS00NzMyLTkzZDEtMDczMWY0ODRmMmFhXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Theo Barklem-Biggs",
+                "character_name": "Man in Pub"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGExYjhlMTAtOGVkMi00MTdjLTgwZGQtN2IxYzgwZWNkOGI5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR1,0,140,140_.jpg",
+                "actor_name": "Kola Bokinni",
+                "character_name": "Man in Pub"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWFlNDI1Y2ItODY5ZS00NjUzLWJmNDYtYjg2Y2QwMzY0OGU2XkEyXkFqcGdeQXVyODAxODg4Mzg@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Kiza Deen",
+                "character_name": "Tannoy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmE3ZmUwZDQtZDA0Yy00NmRhLTljZGMtZDkyYjU4ZWQyYjgzXkEyXkFqcGdeQXVyMjQxNjQzMTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ria Zmitrowicz",
+                "character_name": "Ava"
+            }
+        ],
+        "Director": [
+            "Nadia Latif"
+        ],
+        "Writer": [
+            "Omar El-Khairy"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 2021 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt14773480/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

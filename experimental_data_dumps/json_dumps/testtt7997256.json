@@ -1,0 +1,225 @@
+[
+    {
+        "first": [
+            {
+                "title": "Love on Safari"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGU5ZjFjMzItY2NhMi00Mzk3LTk4ZjItYTExOWQ5YmQ1N2NhXkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "Web designer Kira of Chicago inherits a wildlife reserve in South Africa. There she meets head ranger Tom. Will she sell it and return to her accountant boyfriend Brad or...?"
+            },
+            {
+                "imdb-rating": "6.6/10"
+            },
+            {
+                "metascore": "44"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU1Nzc3NzAwMl5BMl5BanBnXkFtZTcwNzY1ODk0Mg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lacey Chabert",
+                "character_name": "Kira Slater"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDg2Y2UzNTktNzNmNC00NWM1LTlmZWUtYjk3Y2UyMWFhMTlkXkEyXkFqcGdeQXVyNTA4MDM2MA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Jon Cor",
+                "character_name": "Tom Anderson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDFkOWY4YmMtYmZlYy00OGE5LWI5NmMtNWE4OTYyMDQyNGZlXkEyXkFqcGdeQXVyMjA5Njk3MjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Brittany Bristow",
+                "character_name": "Ally Botsman"
+            },
+            {
+                "image": null,
+                "actor_name": "Abigail Kubeka",
+                "character_name": "Lwazi"
+            },
+            {
+                "image": null,
+                "actor_name": "Jonathan Roxmouth",
+                "character_name": "Brad Wilson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDA2MDY1ZjEtMGRlMC00MmRlLWI4OWQtMGU0ZTdiNzY1YjBmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Francis Chouler",
+                "character_name": "Artie Warrington"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDZjYTk4ZWQtMTZhOC00YWE5LTgyNDQtNTBkNjlhMTRmYWUwXkEyXkFqcGdeQXVyMTYzMTk3NTU3._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Patrick Lyster",
+                "character_name": "Glen Wood"
+            },
+            {
+                "image": null,
+                "actor_name": "Barbora Tellinger",
+                "character_name": "Evelyn Bagwell"
+            },
+            {
+                "image": null,
+                "actor_name": "Mark Richardson",
+                "character_name": "John Bagwell"
+            },
+            {
+                "image": null,
+                "actor_name": "John Indi",
+                "character_name": "S'bu"
+            },
+            {
+                "image": null,
+                "actor_name": "Sechaba Ramphele",
+                "character_name": "Artie's Assistant"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGY4NzM1ZDgtZjFjZi00Zjg2LWFjYmQtZjQ2OWMxZjAyZDI3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Schelaine Bennett",
+                "character_name": "Vicky Hernandez"
+            },
+            {
+                "image": null,
+                "actor_name": "Xabiso Ngqabe",
+                "character_name": "Jason (Attendant)"
+            },
+            {
+                "image": null,
+                "actor_name": "Lucas Saige Ndlovu",
+                "character_name": "Chief"
+            }
+        ],
+        "Director": [
+            "Leif Bristow"
+        ],
+        "Writer": [
+            "Elizabeth Stewart"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 28, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7997256/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Incendo Productions (Canada)",
+                        "The Hallmark Channel (United States)"
+                    ],
+                    "link": [
+                        "http://www.incendo.ca/productions/love-on-safari",
+                        "http://www.hallmarkchannel.com/love-on-safari"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Belabela, South Africa"
+                    ],
+                    "link": [
+                        "/search/title?locations=Belabela%2C%20South%20Africa&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Hallmark Channel",
+                        "Incendo Productions",
+                        "Leif Films"
+                    ],
+                    "link": [
+                        "/company/co0032922?ref_=tt_dt_co_1",
+                        "/company/co0228741?ref_=tt_dt_co_2",
+                        "/company/co0441680?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$2,100,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 24 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

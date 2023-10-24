@@ -1,0 +1,119 @@
+[
+    {
+        "first": [
+            {
+                "title": "Kiddo"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTA3MDlmNTUtMTE1MC00OThiLTg3NzQtNWM4MTcyNmZlMTEyXkEyXkFqcGdeQXVyMjEzNTE1MA@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "An expectant couple's parenting skills are put to the test when a hungry stranger shows up on their doorstep."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Paul Taylor"
+        ],
+        "Writer": [
+            "Paul Taylor"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 1, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14469282/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Queens, New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Queens%2C%20New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Kiddo Films"
+                    ],
+                    "link": [
+                        "/company/co0913586?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "12 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

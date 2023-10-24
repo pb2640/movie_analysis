@@ -1,0 +1,121 @@
+[
+    {
+        "first": [
+            {
+                "title": "Counter Histories: Rock Hill"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMGUzOTVlYWQtMWEwMC00ZjIxLWI0MjEtMzUyM2UxYTllNzU5L2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "History"
+                ]
+            },
+            {
+                "plot": "Meet the men who stood up for their rights by sitting down at the counter of the Rock Hill, SC Five and Dime. They asked for a cup of coffee and were instead met with violence, police brutal... Read all"
+            },
+            {
+                "imdb-rating": "7.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTg5NzAwOGEtMzZhNS00NzIzLWFiOTMtZGVkMWZiMWI5MjdiXkEyXkFqcGdeQXVyNTc5MTg4NzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jeremiah Fewell",
+                "character_name": "Lunchcounter Prostestor"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjU5NDE2YmMtMGZiNC00ZGViLTk5MGMtY2Y1YmI2NDFmODQ5XkEyXkFqcGdeQXVyNTg0Nzg5OTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Carol Parente",
+                "character_name": "Lady in Diner"
+            }
+        ],
+        "Director": [
+            "Frederick Taylor"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4364196/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Apple TV",
+                        "California Pictures"
+                    ],
+                    "link": [
+                        "https://tv.apple.com/us/movie/counter-histories-rock-hill/umc.cmc.15tw920i72orc3ws0d2c6suq2?action=play",
+                        "https://www.calpictures.com/product/791795"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Tomorrow Pictures"
+                    ],
+                    "link": [
+                        "/company/co0291351?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "53 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

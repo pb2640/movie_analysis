@@ -1,0 +1,199 @@
+[
+    {
+        "first": [
+            {
+                "title": "Det finns s\u00e5 m\u00e5nga v\u00e4gar - en film om John Holm"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWIxYzc1OTAtN2Q5Yy00MTE0LWFkYTEtYjBjOWUwMDIyOWZkXkEyXkFqcGdeQXVyMjI3MDczMjI@._V1_QL75_UX190_CR0,11,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Biography"
+                ]
+            },
+            {
+                "plot": "Meet one of Sweden's most secret singer/songwriters. Admired by artists like Per Gessle, Ulf Lundell and Marie Fredriksson. In the 1970s John Holm released - Sordin, Lagt kort ligger and Vec... Read all"
+            },
+            {
+                "imdb-rating": "7.2/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "John Holm",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Thomas Andersson Wij",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTE2MDM1YjYtZDE3My00NjI3LWI1YzgtYWUyMDlmYjYwMzIwXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UY140_CR17,0,140,140_.jpg",
+                "actor_name": "Per Gessle",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Carlberg",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Lasse Ermalm",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Stefan Wermelin",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Anders Burman",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Marie Bergman",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzU4M2FiYTEtMGEyNS00ODU1LTk1ZjAtNGViYjBhNjk5YWJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Claes af Geijerstam",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWYyZWQ4YmEtMWVkZS00N2RkLWIyYmEtMzhlNjRhNTNjN2RhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Rolf Wikstr\u00f6m",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Thomas Olofsson",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Arne Arvidson",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "H\u00e5kan Lahger",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Alex Holm",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Annika Jankell",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTgzYmI0NTUtYmFhZS00ZjM4LTlmYzgtMGVmMTUxNTdiMDRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Marie Fredriksson",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Hans Betzholtz",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Leif Allansson",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Johan von Sydow"
+        ],
+        "Writer": [
+            "Johan von Sydow"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 11, 2020 (Sweden)"
+                    ],
+                    "link": [
+                        "/title/tt13069624/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Sweden"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=SE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official website"
+                    ],
+                    "link": [
+                        "https://www.svtplay.se/video/28101832/det-finns-sa-manga-vagar-en-film-om-john-holm"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Swedish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=sv&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "SVT Kultur"
+                    ],
+                    "link": [
+                        "/company/co0811036?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 6 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

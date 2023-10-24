@@ -1,0 +1,99 @@
+[
+    {
+        "first": [
+            {
+                "title": "Assigned Sex"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDU5NDExYTAtMDdkNy00ODU0LTk0MzUtZWRmZmRkYmE2N2JmXkEyXkFqcGdeQXVyNDY4OTEwMjM@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "An exploration of how genderqueer people are treated in the Black community, through the lens of Angel, a 23-year-old preacher's kid assigned male at birth."
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6974878/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook Page",
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.facebook.com/assignedsex",
+                        "http://www.assignedsex.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Meshae Studios"
+                    ],
+                    "link": [
+                        "/company/co0656560?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

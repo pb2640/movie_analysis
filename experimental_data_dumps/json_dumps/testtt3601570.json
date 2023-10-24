@@ -1,0 +1,127 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bobby Hollingsworth: Army CID"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDZiZmY3OTMtZWQ2MS00YWQ5LWE4MDktMDViNTdmOWI1Y2UzXkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Bobby served in the United States Army for 10 years in a CID unit. During that time he was deployed once to Iraq in September 2006. He spends most of his free time with his wife and young so... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Bobby Hollingsworth",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Silvia Turchin"
+        ],
+        "Writer": [
+            "Adan Pulido"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 1, 2013 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3601570/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "El Dorado Films official website",
+                        "Kanopy"
+                    ],
+                    "link": [
+                        "http://www.eldoradofilms.com/",
+                        "https://www.kanopy.com/product/iraq-experience"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "El Dorado Films",
+                        "Veteran Documentary Corps"
+                    ],
+                    "link": [
+                        "/company/co0022187?ref_=tt_dt_co_1",
+                        "/company/co0679868?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$25,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

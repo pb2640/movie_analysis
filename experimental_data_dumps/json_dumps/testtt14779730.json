@@ -1,0 +1,157 @@
+[
+    {
+        "first": [
+            {
+                "title": "Matched"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTI2ZGI3MWUtOWEwOC00M2ZjLWFkNTQtYzAzMjVlZmI2ZGJkXkEyXkFqcGdeQXVyMzMwMjI2NA@@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A provocative character driven story that explores the obsessions, betrayals and psychosis of online dating. The movie is a modern day comedy-thriller that exposes our deepest desires, fears... Read all"
+            },
+            {
+                "imdb-rating": "3.1/10"
+            },
+            {
+                "metascore": "8"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Arielle Fray",
+                "character_name": "Kelly Kane"
+            },
+            {
+                "image": null,
+                "actor_name": "Sean Tapiero",
+                "character_name": "Dillan Lang"
+            },
+            {
+                "image": null,
+                "actor_name": "Natalia Cruz",
+                "character_name": "Vanessa"
+            },
+            {
+                "image": null,
+                "actor_name": "Alec Centeno",
+                "character_name": "Kyle"
+            },
+            {
+                "image": null,
+                "actor_name": "Megan Russel",
+                "character_name": "Jessica"
+            },
+            {
+                "image": null,
+                "actor_name": "Daniel Arana",
+                "character_name": "Cris Beard"
+            }
+        ],
+        "Director": [
+            "Salvatore Marotta"
+        ],
+        "Writer": [
+            "Salvatore Marotta"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 26, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14779730/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Movie Website"
+                    ],
+                    "link": [
+                        "https://www.matchedthemovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "SM Film Studios"
+                    ],
+                    "link": [
+                        "/company/co0864832?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 40 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2:1 Univision"
+                    ]
+                }
+            }
+        ]
+    }
+]

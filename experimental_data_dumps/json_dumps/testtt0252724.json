@@ -1,0 +1,92 @@
+[
+    {
+        "first": [
+            {
+                "title": "Modern Rhapsody"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjE4MjYyNDUzNF5BMl5BanBnXkFtZTcwNDE5Mzk5Mw@@._V1_QL75_UY281_CR15,0,190,281_.jpg"
+            },
+            {
+                "plot": "A Love letter to Merida in the Yucatan, Mexico chronicles the struggles and triumphs of a choreographer,who, obsessed with finding his long dormant creative voice and forming a dance company... Read all"
+            },
+            {
+                "imdb-rating": "4.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM3MDk5NTIzMV5BMl5BanBnXkFtZTcwNjU2NzgzMQ@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Edward Albert",
+                "character_name": "The choreographer"
+            }
+        ],
+        "Directors": [
+            "Elly Friedman",
+            "Andrea \u00c1lvarez S\u00e1nchez"
+        ],
+        "Writers": [
+            "Elly Friedman",
+            "Caroline Gallagher"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 1997 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0252724/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 43 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

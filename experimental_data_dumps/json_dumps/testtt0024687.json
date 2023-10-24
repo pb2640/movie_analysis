@@ -1,0 +1,160 @@
+[
+    {
+        "first": [
+            {
+                "title": "Torchy's Kitty Coup"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Torchy's boss' wife is throwing a society cat show with one problem: her women's group has no cats. Torchy is enlisted to find cats, and proves quite adept at that task."
+            },
+            {
+                "imdb-rating": "5.3/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTE3YmUwMTktYmUzZC00Nzg5LTkxMTctNjdiNzFhMGFjODFmXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,24,140,140_.jpg",
+                "actor_name": "Ray Cooke",
+                "character_name": "Torchy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM5NTM3MTc3MF5BMl5BanBnXkFtZTgwOTgzODE1MzE@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Franklin Pangborn",
+                "character_name": "Office Manager"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjhhZjFmNTMtYTE2NS00MGJmLTgzOTgtMTMwMWQyNzEzN2I5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Edmund Breese",
+                "character_name": "Edward (Hickory) Ellins"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGU3OTljOWMtZDMwNi00ODYxLTk3NDQtZmU2OTVhMjRjMTkyXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Marion Shockley",
+                "character_name": "Vee Ellins"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDU0Yzk1ZDgtOGFjMy00MjA3LTkwMzEtNGUwNTg0ZTdiMmUxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dot Farley",
+                "character_name": "Aunt Zenobia"
+            },
+            {
+                "image": null,
+                "actor_name": "Adeline Ashbury",
+                "character_name": "Vee's Girl Friend"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDlkY2RhMWQtNzY4ZC00NTE3LWIxNjItOTM0NjA5NDgzZjE0XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Charles K. French",
+                "character_name": "Physician"
+            },
+            {
+                "image": null,
+                "actor_name": "Sequoian Quartette",
+                "character_name": "Vocal Quartette"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmM1N2U1MjYtYTEwYy00NDRiLTgxYzAtNzM0M2QyMjI1ZjYzXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Alexander Pollard",
+                "character_name": "Martin - the Butler"
+            }
+        ],
+        "Director": [
+            "C.C. Burr"
+        ],
+        "Writers": [
+            "Sewell Ford",
+            "Ewart Adamson",
+            "Ernest Pagano"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 22, 1933 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0024687/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "C.C. Burr Productions"
+                    ],
+                    "link": [
+                        "/company/co0054675?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "21 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

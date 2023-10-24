@@ -1,0 +1,203 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bid for Love"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmYyYjY2OWMtYzVjNC00YTEzLTgwMDMtMTZlOTNlM2Y4MTU3XkEyXkFqcGdeQXVyNDQzMzQ3NTE@._V1_QL75_UX190_CR0,6,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "After being injured and sent to prison due to the actions of her drug trafficking ex-boyfriend, Sasha falls into the arms of Malik. However, he begins to control her life and alienate her fr... Read all"
+            },
+            {
+                "imdb-rating": "5.2/10"
+            },
+            {
+                "metascore": "16"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWI4MDI2ZTUtYWViMC00YmViLWI2ZDMtMjIxMTdmMTYwZDFiXkEyXkFqcGdeQXVyMjI3OTc1Mzk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Dawn Halfkenny",
+                "character_name": "Sasha"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2JmNGZjYTYtZThkZS00MDgzLWE3YWItNjdhZjQ3ZGUzYTA5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Blue Kimble",
+                "character_name": "Memphis"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzYwYWJjMjAtYmU0Zi00MjJmLTlkMjAtYWExZWU5MDkyYmUzXkEyXkFqcGdeQXVyNTQ1ODAwMDA@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Adrian Lockett",
+                "character_name": "Malik"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTcxNmY5MGEtMzEzOC00NjE2LWE2ZTAtOGYwMmFkMWM1YThmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+                "actor_name": "Tami Roman",
+                "character_name": "Dr. Simone"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjllOGM1YmYtMDk3NC00ZWExLThiNjUtYjAxYzQ2NzIyMTE4XkEyXkFqcGdeQXVyMTk2NTk4MTM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nikki Dixon",
+                "character_name": "Jewel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzBlZDM0MTEtNGI5MS00NGEzLWFjMmEtNmVlNjY1MTBiY2Q0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jermel Howard",
+                "character_name": "Detective Carter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTMwYTc3YzYtZDg5Mi00OTExLWJjMzMtOWZmZmNmNzBmNTAyXkEyXkFqcGdeQXVyNTIzMzM1MzY@._V1_QL75_UX140_CR0,59,140,140_.jpg",
+                "actor_name": "Ptosha Storey",
+                "character_name": "Angela"
+            },
+            {
+                "image": null,
+                "actor_name": "Kwaylon Rogers",
+                "character_name": "Titi"
+            },
+            {
+                "image": null,
+                "actor_name": "Jayda Cheaves",
+                "character_name": "Juvie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTgyY2Q4OWItYTFkZC00ZGNkLWE5ZjgtYzg3ZWE2NDdjZTg1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Charles Barry",
+                "character_name": "Congressman Thomas"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUwOTE3ODU4Nl5BMl5BanBnXkFtZTgwMTUyODk4MDI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nicole Crump",
+                "character_name": "Event Host"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWVmZWNlNGYtMmY0NS00YzAyLWFiNTktMTJkYTVjYjdmMzc4XkEyXkFqcGdeQXVyNzgxMTQ1MTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Pablo De Leon",
+                "character_name": "O'Dell Bennett"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTE2MjlkNjItYzUyZi00YTQ2LWFmZjctYzZmNWUxNjNhMWQzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Michael D. Foster",
+                "character_name": "Extra"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmQ2MDg5NTAtZmMxOS00ZDEyLWI4N2MtY2QyZGFiODcwMzYyXkEyXkFqcGdeQXVyNTY3ODExNjE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kenny Gardner",
+                "character_name": "James"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Goodlett",
+                "character_name": "Mr. Williams"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjBlY2RiZWMtMTNkZS00MWRhLWE0MjYtZWIwZTc2MzNkYWI0XkEyXkFqcGdeQXVyOTgzOTc1NjI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Porsha Hall",
+                "character_name": "Jackie"
+            },
+            {
+                "image": null,
+                "actor_name": "Chrishuara Haynie",
+                "character_name": "Extra At Banquet"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTc3N2I3MmEtMDZmOS00ZWU5LWI5MmMtOTc1M2U3M2IxNjE1XkEyXkFqcGdeQXVyMTg5NTM0MTg@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mia Hunt",
+                "character_name": "Shaunda Jenkins"
+            }
+        ],
+        "Director": [
+            "Arthur Muhammad"
+        ],
+        "Writers": [
+            "Erick S. Gray",
+            "N'Tyse"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 23, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14035054/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official website Bid for Love (2022)"
+                    ],
+                    "link": [
+                        "https://hocdauthau.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Sisters of Freedom"
+                    ],
+                    "link": [
+                        "/company/co0865969?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$300,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

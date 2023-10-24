@@ -1,0 +1,186 @@
+[
+    {
+        "first": [
+            {
+                "title": "I Was a Burlesque Queen"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOWJkODBiMWItNzhlOS00MTM5LTlkNGEtYzNkYWJmYWEyZDliXkEyXkFqcGdeQXVyOTI2MjI5MQ@@._V1_QL75_UY281_CR12,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Linda joins a burlesque troupe to get information for a book she's writing without her husband knowledge. She meets her husband's boss not knowing who he is. The boss takes a client and her ... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDcwNDUxMWMtNDgzZC00ODYzLTkxYzQtZjkwNTBkZmYzODRjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Elyse Knox",
+                "character_name": "Linda Prentiss"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmIwYjA5ZTItYWY0YS00OWViLWEzOTEtMGZmMDYzZDBlNzQyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Hubbard",
+                "character_name": "Roger Prentiss"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDYzOGY2N2QtM2JmNy00NzIxLTgwNTktNzgwMjA2NjA5Mjk0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Marie Wilson",
+                "character_name": "Margie LaVitte"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjI4MzliOTYtY2VhYi00NTllLWJhYzMtYmM4MzU4MTUyNWRiXkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Gordon Richards",
+                "character_name": "Sam Thompson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDFjNGNmNTAtZTY2OC00ZmFjLTg3ZjctM2EzMzBjZjlmY2UwXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Jack Norton",
+                "character_name": "Jim Benson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTVjY2ZhNTYtMTFkYS00OTFhLWIzNjQtZjY5NWE2OGRjNjZiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ralph Sanford",
+                "character_name": "Nunnally LaVitte"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjU4OTUzNDYzNF5BMl5BanBnXkFtZTgwMTcxODY3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Joyce Compton",
+                "character_name": "Mrs. Nunnally LaVitte"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmVjMzcyNGMtYzUxMi00OTAxLWIyODgtMzcyMTE4YWFmNWExXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Frank J. Scannell",
+                "character_name": "Eddie Morgan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGQzN2E2ODAtMTA3My00N2ZlLThiMjMtMzFmNjM4M2QxNTI3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Sir Lancelot",
+                "character_name": "Sir Lancelot"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2E0MTE5NDEtYzFmNy00M2NjLTk4ZDctZjY1MjgyNzQyODQ2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Leonard Bremen",
+                "character_name": "Sergeant Srubichka"
+            },
+            {
+                "image": null,
+                "actor_name": "Gerald Oliver Smith",
+                "character_name": "Butler"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjBmMzQ2MzEtN2NkYi00YmVmLWFmYzAtNzMxOWIwMmY1MTU2XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UY140_CR1,0,140,140_.jpg",
+                "actor_name": "Claire Carleton",
+                "character_name": "Myrtle"
+            },
+            {
+                "image": null,
+                "actor_name": "Allan Nixon",
+                "character_name": "Officer Jones"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM1M2E0Y2ItOGU1NC00OWVkLTliMTUtNjhkOTdlZDYxMjMyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Byron Foulger",
+                "character_name": "Book Shop Owner"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGI4MWEwZGYtZjc5MS00M2Q4LWI3NTktMjMwYjkyODJhZTlkXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Edward Gargan",
+                "character_name": "Frankie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjgzMWNhY2EtMzM5YS00MTJiLWI2M2EtN2ZkNmE4Yzc0ZjY5XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+                "actor_name": "Muni Seroff",
+                "character_name": "Maitre d'Hotel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzk3ZDUyMzEtNWNiNy00YWZhLWE1ZjctZWJhOTExODk2ZWEwXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+                "actor_name": "Mira McKinney",
+                "character_name": "Mrs. Thomson"
+            },
+            {
+                "image": null,
+                "actor_name": "Professor Lamberti",
+                "character_name": "Professor Lamberti"
+            }
+        ],
+        "Director": [
+            "Sidney W. Pink"
+        ],
+        "Writers": [
+            "Howard Harris",
+            "Dick Irving Hyland",
+            "Sidney W. Pink"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Matty Kemp Productions"
+                    ],
+                    "link": [
+                        "/company/co0142249?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

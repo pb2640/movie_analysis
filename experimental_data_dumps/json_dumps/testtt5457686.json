@@ -1,0 +1,125 @@
+[
+    {
+        "first": [
+            {
+                "title": "My Year with Helen"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODhiOWE2YzItZjc1Zi00ZmM0LTkxOTQtZTU1MzIwZDYzYmY0XkEyXkFqcGdeQXVyNDA3NTIzMQ@@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Travels alongside former New Zealand PM Helen Clark as she campaigns for UN Secretary-General and staying in daily contact with her 94-year-old father back home. A behind-the-scenes human vi... Read all"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Helen Clark",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Gaylene Preston"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 31, 2017 (New Zealand)"
+                    ],
+                    "link": [
+                        "/title/tt5457686/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "New Zealand"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NZ&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Website"
+                    ],
+                    "link": [
+                        "http://myyearwithhelen.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Gaylene Preston Productions"
+                    ],
+                    "link": [
+                        "/company/co0022867?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$199,085"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 33 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

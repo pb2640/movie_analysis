@@ -1,0 +1,119 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Scapegoat"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Western"
+                ]
+            },
+            {
+                "plot": "Tom Jackson, a young man of good family, is elected sheriff. He is in love with Nell Turner, whose brother, Jack, is a reckless young fellow and belongs to a gang of bank robbers. Tom is pop... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYzMDE2NDYxMV5BMl5BanBnXkFtZTYwMjAwOTM2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tom Mix",
+                "character_name": "Tom Jackson, the Scapegoat"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDk4ZjViNmEtZDZhYi00YzcxLWIyOGQtZGFlMzE1OWRhZGVmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Goldie Colwell",
+                "character_name": "Nell, Tom's Sister"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmQ2Y2EyM2QtOTRjZS00NjAzLTkyOGQtZmM1Y2Y4OTg1NGI0XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Leo D. Maloney",
+                "character_name": "Jack Turner"
+            }
+        ],
+        "Director": [
+            "Tom Mix"
+        ],
+        "Writer": [
+            "Tom Mix"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 24, 1914 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0004564/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Selig Polyscope Company"
+                    ],
+                    "link": [
+                        "/company/co0055935?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

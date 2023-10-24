@@ -1,0 +1,132 @@
+[
+    {
+        "first": [
+            {
+                "title": "Apuntes"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Eduardo L\u00f3pez Rojas",
+                "character_name": "Rosario"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzBiYjg0ZjYtNTEzMy00ODhjLWE1MzYtN2E3NWE2NmYwYTg5XkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Claudio Obreg\u00f3n",
+                "character_name": "Eduardo"
+            },
+            {
+                "image": null,
+                "actor_name": "Fernando Castillo",
+                "character_name": "Leandro"
+            },
+            {
+                "image": null,
+                "actor_name": "Roc\u00edo Saga\u00f3n",
+                "character_name": "Olga"
+            },
+            {
+                "image": null,
+                "actor_name": "Jos\u00e9 Mu\u00f1oz",
+                "character_name": "Quinanilla"
+            },
+            {
+                "image": null,
+                "actor_name": "Manuel Zozaya",
+                "character_name": "Mendoza"
+            },
+            {
+                "image": null,
+                "actor_name": "Olga Jurado",
+                "character_name": "Madre de Rosario"
+            },
+            {
+                "image": null,
+                "actor_name": "Juan \u00c1ngel Mart\u00ednez",
+                "character_name": "El Juan"
+            }
+        ],
+        "Director": [
+            "Ariel Z\u00fa\u00f1iga"
+        ],
+        "Writer": [
+            "Ariel Z\u00fa\u00f1iga"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 14, 1976 (Mexico)"
+                    ],
+                    "link": [
+                        "/title/tt0071156/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Oll\u00edn y Asociados"
+                    ],
+                    "link": [
+                        "/company/co0035977?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 28 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

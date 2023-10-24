@@ -1,0 +1,160 @@
+[
+    {
+        "first": [
+            {
+                "title": "Luchakali"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTE1ZWZlNzItMGM0MS00ZGRlLWEzZDItYTI3MGQ1YjM5NzU3XkEyXkFqcGdeQXVyNjU4NzkyMjE@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Crime"
+                ]
+            },
+            {
+                "plot": "A newly married woman manages to leave her mentally unstable husband who gets violent at regular intervals and decides to go back to her ex-boyfriend."
+            },
+            {
+                "imdb-rating": "7.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmIxZmYxODEtMzY2NC00Mjg5LWI4ODctODQ2MzM2ZTE0Mjk0XkEyXkFqcGdeQXVyMTMyMDYyMjEx._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Babushan Mohanty",
+                "character_name": "Tanmay Mohanty"
+            },
+            {
+                "image": null,
+                "actor_name": "Shriya Jha",
+                "character_name": "Monalisa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmZiZDc1YzMtMmU1ZC00YTAzLWEwMjUtMTQ4YWViYjAyYTNmXkEyXkFqcGdeQXVyMTQyNTQ1Njcz._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Samaresh Routray",
+                "character_name": "Kalidas Patnaik"
+            },
+            {
+                "image": null,
+                "actor_name": "Bijay Mohanty",
+                "character_name": "Mohan Das"
+            },
+            {
+                "image": null,
+                "actor_name": "Ajit Das",
+                "character_name": "Mona's father"
+            },
+            {
+                "image": null,
+                "actor_name": "Bikash Das",
+                "character_name": "Nira Kakei"
+            },
+            {
+                "image": null,
+                "actor_name": "Shweta Acharya",
+                "character_name": "Monalis's step mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Megha Ghosh",
+                "character_name": "Dancer in a song"
+            },
+            {
+                "image": null,
+                "actor_name": "Ankita Bhowmick",
+                "character_name": "Monalisa's friend"
+            },
+            {
+                "image": null,
+                "actor_name": "Kun Mun",
+                "character_name": "Monalisa' sister"
+            },
+            {
+                "image": null,
+                "actor_name": "Alina",
+                "character_name": "Monalis's friend"
+            }
+        ],
+        "Director": [
+            "Sushant Mani"
+        ],
+        "Writers": [
+            "Bapu Goswami",
+            "Sushant Mani",
+            "Red Saga"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 29, 2012 (India)"
+                    ],
+                    "link": [
+                        "/title/tt2385139/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://luchakali.odiaone.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Oriya"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=or&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Chakadola Production"
+                    ],
+                    "link": [
+                        "/company/co0379252?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "first": [
+            {
+                "title": "Lost in America"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjVmYTViYTItYTdmMC00ZGEyLTllNjgtZjJjNWQ0NjM5ZTA3XkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Following director Rotimi Rainwater, a former homeless youth, as he travels the country to shine a light on the epidemic of youth homelessness in America."
+            },
+            {
+                "imdb-rating": "7.5/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjlhN2YzMDYtOTcxYi00YWIwLTkwNTItNDNlMWY2ZDNkNzA5XkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Rosario Dawson",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE1NjcxMjIwMl5BMl5BanBnXkFtZTgwOTE3NjIwMzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tiffany Haddish",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIxNzc5MDAzOV5BMl5BanBnXkFtZTcwMDUxMjMxMw@@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Halle Berry",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc4NzA2Mzk3OV5BMl5BanBnXkFtZTcwNzI0MTM5Mg@@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Jon Bon Jovi",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc1NDU5MTM1Nl5BMl5BanBnXkFtZTcwODc4NTcxMw@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Jewel",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjc3YzY1NGYtYjZjOC00NTgyLTk1MDQtNTUzOGNjNjMzNDJjXkEyXkFqcGdeQXVyMjM4NTQyNDk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Mike Manning",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE3NjE1NTkwM15BMl5BanBnXkFtZTcwMjA3MjgxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Patrick Leahy",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjM1YmU5MTYtNDUwZi00ZDJjLTg0MjctYWY1ZTU3MmVlODI5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Rotimi Rainwater",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzBlYzVlMTktZmU4Yy00ZWU4LTlmMzctYzc0ODJmMzllM2Y5XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Rosa DeLauro",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjY5NDRkNGMtNmIyYy00NmQxLWJmMmUtMWJlNmM5ZDZmMjgwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Jackie Speier",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jorge L. Rivera",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Steven V. Vasquez Jr.",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jack Kingston",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2M2NWY1M2ItNzVjOS00NTIxLWE3NjgtMzEzN2I5N2I0MDBhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR1,0,140,140_.jpg",
+                "actor_name": "Karen Bass",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA0YmU1OTYtZGNkOC00N2QyLTg1MmMtMTE5MDI0MGIzYTU2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR11,0,140,140_.jpg",
+                "actor_name": "Eleanor Holmes Norton",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmI5MWY0YjYtZWQ5Yy00MGZlLWJmMDEtMmY0ZTk0MzI2MGIyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR27,0,140,140_.jpg",
+                "actor_name": "Jim McDermott",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Crystal Sky",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Laura Green Zeilinger",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Rotimi Rainwater"
+        ],
+        "Writer": [
+            "Rotimi Rainwater"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 10, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3448854/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official Site"
+                    ],
+                    "link": [
+                        "http://www.facebook.com/lostinamericafilm",
+                        "http://www.lostinamericafilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "San Francisco, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=San%20Francisco%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Village Entertainment",
+                        "Chhibber Mann Productions",
+                        "Def Pictures"
+                    ],
+                    "link": [
+                        "/company/co0151060?ref_=tt_dt_co_1",
+                        "/company/co0500682?ref_=tt_dt_co_2",
+                        "/company/co0043482?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$11,301"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$6,798"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Mar 1, 2020"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$11,301"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 45 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cosboi"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTU1NjFlYTktMDkwNi00ODZkLWE5ODQtMTcwMzUzMzA2OWRhXkEyXkFqcGdeQXVyMjE4NDk5NzQ@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A genderqueer teen experiments with their identity in a series of anonymous car rides -- accompanied by a Greek Chorus of TikToks. Cosboi explores cosplay, trans self-discovery, and the weir... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzFhM2ZjMjAtM2M3Yy00MjAwLWE2OTktZWI0Njg4N2NkNTViXkEyXkFqcGdeQXVyNTEwMDk3MzI@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "James Anthony Chiong",
+                "character_name": "Jerry"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmE3NWY5YWQtMjgwNS00OGU0LTgzMzMtNzcwOGVjZDBhNDUzXkEyXkFqcGdeQXVyNzk4MDIyMjI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sonny Golden",
+                "character_name": "Jake"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDE5MWM0ODctNTRiMi00MmJlLWJkYTctYjNhMjcyYTQ0OTgyXkEyXkFqcGdeQXVyNzg5NTkzMzY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sherry Kear",
+                "character_name": "Donna"
+            },
+            {
+                "image": null,
+                "actor_name": "Hope Raymond",
+                "character_name": "Tara"
+            }
+        ],
+        "Director": [
+            "Gosha Shapiro"
+        ],
+        "Writer": [
+            "Gosha Shapiro"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 27, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt17014016/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Field Trip"
+                    ],
+                    "link": [
+                        "/company/co0867494?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            }
+        ]
+    }
+]

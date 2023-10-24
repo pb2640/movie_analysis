@@ -1,0 +1,64 @@
+[
+    {
+        "first": [
+            {
+                "title": "Project Crossroads"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Two nuclear tests, Able and Baker, were the first tests conducted at the Pacific Proving Ground, near the Bikini Atoll in the Marshall Islands. This test series was called Project Crossroads... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1946 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9151080/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "U.S. Department of Energy"
+                    ],
+                    "link": [
+                        "/company/co0039201?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "42 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            }
+        ]
+    }
+]

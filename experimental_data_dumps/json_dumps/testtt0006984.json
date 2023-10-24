@@ -1,0 +1,119 @@
+[
+    {
+        "first": [
+            {
+                "title": "Luke's Washful Waiting"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMmQ2NGZlODUtZDQ2Zi00YzNlLTk3YTgtZjg0M2M2M2ViMTc0XkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Hi-jinx at a fire in a Chinese laundry."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA0ODc5MTIyOV5BMl5BanBnXkFtZTgwNDgxODIwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Harold Lloyd",
+                "character_name": "Lonesome Luke"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU3OTI5NDc5M15BMl5BanBnXkFtZTYwMjY1MjI2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Bebe Daniels",
+                "character_name": "The Girl"
+            }
+        ],
+        "Director": [
+            "Hal Roach"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 3, 1916 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0006984/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Rolin Films"
+                    ],
+                    "link": [
+                        "/company/co0100249?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

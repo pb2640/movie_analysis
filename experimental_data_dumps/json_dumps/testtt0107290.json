@@ -1,0 +1,264 @@
+[
+    {
+        "first": [
+            {
+                "title": "Jurassic Park"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Sci-Fi"
+                ]
+            },
+            {
+                "plot": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned din... Read all"
+            },
+            {
+                "imdb-rating": "8.2/10"
+            },
+            {
+                "metascore": "1.4K"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjUyMTU0MzA0MF5BMl5BanBnXkFtZTgwNTA4MTQ4NjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sam Neill",
+                "character_name": "Grant"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI3NzY0MDQxMF5BMl5BanBnXkFtZTcwNzMwMzcyNw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Laura Dern",
+                "character_name": "Ellie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jeff Goldblum",
+                "character_name": "Malcolm"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkwMDQzMTAwN15BMl5BanBnXkFtZTcwNTI4NTgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Richard Attenborough",
+                "character_name": "Hammond"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM1NzM1NDI0MV5BMl5BanBnXkFtZTcwNzk2NTgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Bob Peck",
+                "character_name": "Muldoon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUyNTE3MDY3OV5BMl5BanBnXkFtZTcwNjI2NTgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Martin Ferrero",
+                "character_name": "Gennaro"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "BD Wong",
+                "character_name": "Wu"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTcwNzA3MzMwOF5BMl5BanBnXkFtZTcwOTkzNjI5OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Joseph Mazzello",
+                "character_name": "Tim"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmM0MTE2NjgtYTRiYS00Y2UxLTg5MGItMmJhMzAyZTllMzRiXkEyXkFqcGdeQXVyMTI1MDQ4Nzg5._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ariana Richards",
+                "character_name": "Lex"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Samuel L. Jackson",
+                "character_name": "Arnold"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjM1N2MwY2ItMzRmMi00Nzc4LWEzOGEtZTdlZWI4OGQxYjdiXkEyXkFqcGdeQXVyNTUwNzA4Mw@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "Wayne Knight",
+                "character_name": "Nedry"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTExMTQ5NTI0MTFeQTJeQWpwZ15BbWU3MDU5NTQ2MTg@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Gerald R. Molen",
+                "character_name": "Harding"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzIxNWRhYzItZDUzOC00NzRmLWE3NTUtMzZhY2NkZWUzMGFlXkEyXkFqcGdeQXVyMzEyNDkzNQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+                "actor_name": "Miguel Sandoval",
+                "character_name": "Rostagno"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjcxMmI3NjAtMjllYS00NWM4LWEyOTgtNmZhMzgwYTU5MjUwXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Cameron Thor",
+                "character_name": "Dodgson"
+            },
+            {
+                "image": null,
+                "actor_name": "Christopher John Fields",
+                "character_name": "Volunteer #1"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU4ODg5Njc4Ml5BMl5BanBnXkFtZTcwNjI4MDgyMQ@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Whit Hertford",
+                "character_name": "Volunteer Boy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE3MjQwMzU5Nl5BMl5BanBnXkFtZTcwNTQxNzg5Nw@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Dean Cundey",
+                "character_name": "Mate"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjEyMjk4NTc2M15BMl5BanBnXkFtZTYwNDk1Mjcy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jophery C. Brown",
+                "character_name": "Worker in Raptor Pen"
+            }
+        ],
+        "Director": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Michael Crichton",
+            "David Koepp"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 11, 1993 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0107290/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/JurassicWorldUK/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Tehachapi Pass, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Tehachapi%20Pass%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Universal Pictures",
+                        "Amblin Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0005073?ref_=tt_dt_co_1",
+                        "/company/co0009119?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$63,000,000 (estimated)"
+                }
+            },
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$407,185,075"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$47,026,828"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Jun 13, 1993"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$1,113,138,548"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 hours 7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "DTS"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

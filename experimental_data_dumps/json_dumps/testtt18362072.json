@@ -1,0 +1,104 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bola de Cristal"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Winnie T. Sitt\u00f3n",
+                "character_name": "So\u00f1ador"
+            }
+        ],
+        "Director": [
+            "Facundo Escudero Salinas"
+        ],
+        "Writer": [
+            "Facundo Escudero Salinas"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2006 (Argentina)"
+                    ],
+                    "link": [
+                        "/title/tt18362072/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Argentina"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Link to title"
+                    ],
+                    "link": [
+                        "https://vimeo.com/16796266"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$100 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

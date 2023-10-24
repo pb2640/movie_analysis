@@ -1,0 +1,114 @@
+[
+    {
+        "first": [
+            {
+                "title": "Illusions & Mirrors"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzg5NTI5YTItNjg4YS00YzlhLWE4NGQtMWVlZjFjZjVmODAxXkEyXkFqcGdeQXVyMzU5ODEzMDU@._V1_QL75_UY281_CR116,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "ILLUSIONS and MIRRORS is about the futile attempt of chasing a shadow that wanders through the dunes of an empty beach. When it finally comes to an encounter in a deserted house, the young w... Read all"
+            },
+            {
+                "imdb-rating": "5.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Shirin Neshat"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 26, 2013 (Austria)"
+                    ],
+                    "link": [
+                        "/title/tt3227144/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Austria"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official website"
+                    ],
+                    "link": [
+                        "http://www.viennale.at/programmvorschau/trailer-2013"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "New York City, New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=New%20York%20City%2C%20New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Viennale"
+                    ],
+                    "link": [
+                        "/company/co0022406?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

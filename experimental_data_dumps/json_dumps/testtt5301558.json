@@ -1,0 +1,183 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Life of Adam"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTk5MjU2MTQ5OV5BMl5BanBnXkFtZTgwMDcxOTU2NzE@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "An independent group of journalists examine the official accounts and media reports of the Newtown shooter, Adam Lanza and discover fallacies, contradictions and endless anomalies."
+            },
+            {
+                "imdb-rating": "6.8/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAwNjY0NTg3NV5BMl5BanBnXkFtZTcwODQ2ODMzMg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Anderson Cooper",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDdlMTk3MjEtOTA2Ni00MzViLWI0MjYtYjk0MTg3MDViOTBkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jonathan Emord",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Paul Fox",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert A. King",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Kathleen Koenig",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Patrick Kwanashie",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Adam Lanza",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Nancy Lanza",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Lanza",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ryan Lanza",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTA1OTE1MTE5ODBeQTJeQWpwZ15BbWU3MDk1ODY4Njc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dannel Malloy",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Andrea McCarren",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "John Miller",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Richard Novia",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Peter Klein"
+        ],
+        "Writer": [
+            "Peter Klein"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 28, 2015 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5301558/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Independent Media Solidarity"
+                    ],
+                    "link": [
+                        "/company/co0511022?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$1,214 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 56 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mob Rules: Signs of the Time Live"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjUwZGU5ZGMtNTk2Yi00NTVkLWI4MjEtYzFiMTJjZGUxZmNjXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Live show filmed in the band's hometown of Wilhemshaven during the European tour supporting their \"Among the Gods\" studio album."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Klaus Dirks",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Matthias Mineur",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Oliver Fuhlhage",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sascha Onnen",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Thorsten Plorin",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Arved Mannott",
+                "character_name": "Self"
+            }
+        ],
+        "Directors": [
+            "Alexander Max Braune",
+            "Ronald Matthes"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 25, 2005 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt12240522/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

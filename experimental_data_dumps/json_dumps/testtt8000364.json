@@ -1,0 +1,85 @@
+[
+    {
+        "first": [
+            {
+                "title": "Beth's Three O'Clock with Dr. Harlow"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZWQ5OWFkMzctNjJmNi00ZWUxLWEzOTEtODkyMDY1ZTBlOWUyXkEyXkFqcGdeQXVyNDk4OTk5Njg@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Beth discloses a recent dream to her analyst. A vivid study of casual brutality and failed empathy, this surrealistic film intermixes stop motion animation with live action sequences."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Emma Penaz Eisner"
+        ],
+        "Writer": [
+            "Emma Penaz Eisner"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 22, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8000364/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "first": [
+            {
+                "title": "Dot"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjNjNmNkMWItN2Y5OC00MDg4LWJiMWYtMTMyNmI2MjE1ZDIxXkEyXkFqcGdeQXVyMjY0MDE2OTc@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Dot is the story of a couple seeking fertility treatment and how they're each affected by the strange, wondrous, and often gross process of making babies through science."
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 10, 2019 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt8321184/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Best Bits of Mr. Bean"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzIwYzJmZDUtNDVhMi00OGUwLWI0NTItOGZhMTZjMjk4ZGE1XkEyXkFqcGdeQXVyMzk1MjY5Njc@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "Mr. Bean and Teddy venture into the loft to look for an umbrella and uncover items from past experiences, like the time Mr. Bean had to dress himself on the way to the dentist, or the time h... Read all"
+            },
+            {
+                "imdb-rating": "8.3/10"
+            },
+            {
+                "metascore": "5"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzOTc3MV5BMl5BanBnXkFtZTcwNjcxMDkxNw@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Rowan Atkinson",
+                "character_name": "Mr. Bean"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE5MTI0ODU4OV5BMl5BanBnXkFtZTgwNzczMDM0MjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Caroline Quentin",
+                "character_name": "Traffic Warden"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg1MTQ5NTAzOF5BMl5BanBnXkFtZTcwMTU3ODIyOA@@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Richard Wilson",
+                "character_name": "Dentist"
+            },
+            {
+                "image": null,
+                "actor_name": "Dave O'Higgins",
+                "character_name": "Busker"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1ODkzMF5BMl5BanBnXkFtZTgwNTg2MTUzMzE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Angus Deayton",
+                "character_name": "Pool Attendant"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjExNDUzNTg0NF5BMl5BanBnXkFtZTgwMjYxMDQ0MjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Matilda Ziegler",
+                "character_name": "Christmas Guest"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIwMDY1NjYxNl5BMl5BanBnXkFtZTYwNzAwODky._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Richard Briers",
+                "character_name": "Man in Church"
+            },
+            {
+                "image": null,
+                "actor_name": "Robin Driscoll",
+                "character_name": "Man in Royal Line Up"
+            },
+            {
+                "image": null,
+                "actor_name": "Tina Maskell",
+                "character_name": "The Royal"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDA0ZDYyOGQtNGIxZS00NzljLTgyNWEtZDhlNTZiMGVjY2RkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Rudolph Walker",
+                "character_name": "Exam Invigilator"
+            },
+            {
+                "image": null,
+                "actor_name": "Paul Bown",
+                "character_name": "Exam Taker"
+            }
+        ],
+        "Directors": [
+            "John Birkin",
+            "John Howard Davies",
+            "Paul Weiland"
+        ],
+        "Writers": [
+            "Robin Driscoll",
+            "Richard Curtis",
+            "Rowan Atkinson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 15, 1995 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt0291751/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Tiger Aspect Productions"
+                    ],
+                    "link": [
+                        "/company/co0103644?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 12 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

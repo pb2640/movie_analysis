@@ -1,0 +1,137 @@
+[
+    {
+        "first": [
+            {
+                "title": "Prunes and Politics"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Edgar is running for county supervisor against his mother-in-law. Edgar, whose campaign is going nowhere, decides to try some dirty-tricks style tactics, such as turning mice loose at a ladi... Read all"
+            },
+            {
+                "imdb-rating": "5.2/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDE0ZDdlZjktYjVhYi00Y2I0LTk0YjAtZjExZjgzYjc5MTQ2XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UY140_CR3,0,140,140_.jpg",
+                "actor_name": "Edgar Kennedy",
+                "character_name": "Edgar"
+            },
+            {
+                "image": null,
+                "actor_name": "Pauline Drake",
+                "character_name": "Mrs. Kennedy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDU0Yzk1ZDgtOGFjMy00MjA3LTkwMzEtNGUwNTg0ZTdiMmUxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dot Farley",
+                "character_name": "Mother-in-law"
+            },
+            {
+                "image": null,
+                "actor_name": "Jack Rice",
+                "character_name": "Brother-in-law"
+            }
+        ],
+        "Director": [
+            "Ben Holmes"
+        ],
+        "Writers": [
+            "Charles E. Roberts",
+            "George Jeske"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 7, 1944 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0234533/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "RKO Studios - 780 N. Gower Street, Hollywood, Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=RKO%20Studios%20-%20780%20N.%20Gower%20Street%2C%20Hollywood%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "RKO Radio Pictures"
+                    ],
+                    "link": [
+                        "/company/co0041421?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "first": [
+            {
+                "title": "Smoke"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzk1ZmZiYTgtNjgyYS00MDNhLTkzODMtYjRhYWUwZDNhMWZiXkEyXkFqcGdeQXVyMjQ0Mzg0OTE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A house burned down sixteen years ago, yet the smoke remains."
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 12, 2015 (Kosovo)"
+                    ],
+                    "link": [
+                        "/title/tt4895710/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Serbia",
+                        "Kosovo"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=RS&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=XKV&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "DokuFest"
+                    ],
+                    "link": [
+                        "/company/co0463007?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Dig"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMWI1ZTRkMTUtZjU5ZS00ZmY2LThmMzQtMTRlZDU3Njc2YzE3XkEyXkFqcGdeQXVyMTEyNzAxODM0._V1_QL75_UY281_CR156,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A meeting between two men is interrupted when one of them decides to murder the other."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Jack Storey",
+                "character_name": "Murderer"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Storey",
+                "character_name": "Victim"
+            }
+        ],
+        "Director": [
+            "Sam Storey"
+        ],
+        "Writer": [
+            "Sam Storey"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 24, 2020 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt14023026/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u00a310 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            }
+        ]
+    }
+]

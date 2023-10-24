@@ -1,0 +1,229 @@
+[
+    {
+        "first": [
+            {
+                "title": "Enemies of Women"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjhkZGU2MzYtMDc3YS00MGQyLWExOTMtZGJiMThjZGJmNDNkXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_QL75_UX190_CR0,38,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "A Russian prince has to flee his country after fighting a duel. He falls in love with a duchess, but becomes jealous when he finds out she has a lover."
+            },
+            {
+                "imdb-rating": "4.5/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc5NzY5MTgwNV5BMl5BanBnXkFtZTYwMjc4NjQ2._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Lionel Barrymore",
+                "character_name": "Prince Lubimoff"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkxMTQxNDI2MV5BMl5BanBnXkFtZTYwNjE5MTI2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Alma Rubens",
+                "character_name": "Alicia - the Duchess de Lille"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGRhY2U4NWQtODJiOC00NjQyLWJjOTQtMmVjMmQwMzk5MmE5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Pedro de Cordoba",
+                "character_name": "Atilio Castro"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MjBhYWUtNzQxMy00Njc3LTg1MDAtZTVkZTg0NWVlMWQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Gareth Hughes",
+                "character_name": "Philip Spadoni"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQyNDM0MjQ2OV5BMl5BanBnXkFtZTgwMjg1MDEwNDE@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Gladys Hulette",
+                "character_name": "Vittoria Spadoni"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2E0MmM2MjMtZTA0ZS00OTJlLTk5ODItMGFjZjc5NjBlMjE5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "William H. Thompson",
+                "character_name": "Don Marcos Toledo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzJmM2VkYWItZGNmNi00MzllLTk3YjAtMzZiZWU3NTg2ZjU0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "William Collier Jr.",
+                "character_name": "Gaston de Lille"
+            },
+            {
+                "image": null,
+                "actor_name": "Mario Majeroni",
+                "character_name": "Duke de Lille"
+            },
+            {
+                "image": null,
+                "actor_name": "Betty Bouton",
+                "character_name": "Alicia's Maid"
+            },
+            {
+                "image": null,
+                "actor_name": "Jeanne Brindeau",
+                "character_name": "Madame Spadoni"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE5NjUyMzExOF5BMl5BanBnXkFtZTgwMTUxMDU4MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ivan Linow",
+                "character_name": "Terrorist"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTQ4ZTRlYmYtY2NkYy00ZTg2LTk2OTMtMjEwMzJkZmNiZDYwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Paul Panzer",
+                "character_name": "Cossack Officer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUzMzEwMzQwMF5BMl5BanBnXkFtZTgwOTE3NDQ3MTE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "Louis Wolheim",
+                "character_name": "Undetermined Secondary Role"
+            },
+            {
+                "image": null,
+                "actor_name": "Evelyn Arnold",
+                "character_name": "Dancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Maxina Arnold",
+                "character_name": "Dancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Constance Berry",
+                "character_name": "Polish Beauty"
+            },
+            {
+                "image": null,
+                "actor_name": "Arline Booth",
+                "character_name": "Swedish Beauty"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc3MTEwOTA4NV5BMl5BanBnXkFtZTYwNDQ4NzI2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Clara Bow",
+                "character_name": "Girl Dancing on Table"
+            }
+        ],
+        "Director": [
+            "Alan Crosland"
+        ],
+        "Writers": [
+            "Vicente Blasco Ib\u00e1\u00f1ez",
+            "John Lynch"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 2, 1923 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0014021/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Nice, France"
+                    ],
+                    "link": [
+                        "/search/title?locations=Nice%2C%20France&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Cosmopolitan Productions"
+                    ],
+                    "link": [
+                        "/company/co0073404?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$476,080"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 45 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

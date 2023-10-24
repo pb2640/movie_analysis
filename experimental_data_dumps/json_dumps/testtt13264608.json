@@ -1,0 +1,159 @@
+[
+    {
+        "first": [
+            {
+                "title": "The First Sunday After the First Full Moon"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDFkZDM4ZWQtOTJjMC00OTFkLTg3YjEtZGQ0NGU1NDY1OTU0XkEyXkFqcGdeQXVyOTIzMTA4ODI@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "When London-based DJ Egle returns to native Lithuania for an Easter celebration, she finds herself facing more than just the music."
+            },
+            {
+                "imdb-rating": "6.9/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Jolanta Dapkunaite",
+                "character_name": "Lile"
+            },
+            {
+                "image": null,
+                "actor_name": "Ina Kartasova",
+                "character_name": "Grandma"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTJkZTVhNzktNzlkYy00ZmQ3LWE2NWItNmNjNzFlMzQ4MTdkXkEyXkFqcGdeQXVyODc1NDc4NDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Elzbieta Latenaite",
+                "character_name": "Egle"
+            },
+            {
+                "image": null,
+                "actor_name": "Emilija Latenaite",
+                "character_name": "Emilija"
+            },
+            {
+                "image": null,
+                "actor_name": "Dalia Micheleviciute",
+                "character_name": "Mother"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzdmYzBkMDgtY2VhMi00ODI4LThhMGQtMGQ1NjE2NTY4NmFkXkEyXkFqcGdeQXVyMTQ1ODc0MTU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mindaugas Papinigis",
+                "character_name": "Arturas"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Tcherepashenets",
+                "character_name": "Stanley"
+            },
+            {
+                "image": null,
+                "actor_name": "Stanislovas Zekonis",
+                "character_name": "Kestutis"
+            }
+        ],
+        "Director": [
+            "Greta Griniute"
+        ],
+        "Writers": [
+            "Luke Flanagan",
+            "Greta Griniute"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 7, 2021 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt13264608/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Lithuania"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=LT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/thefirstsundayafter"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Lithuanian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=lt&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Svedasai, Lithuania"
+                    ],
+                    "link": [
+                        "/search/title?locations=Svedasai%2C%20Lithuania&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20ac5,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "first": [
+            {
+                "title": "Spittoon"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "5.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Roger Watkins"
+        ],
+        "Writers": [
+            "Paul M. Jensen",
+            "Genie Joseph",
+            "Roger Watkins"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 1, 1981 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0348090/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Tioga Productions Inc."
+                    ],
+                    "link": [
+                        "/company/co0089527?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

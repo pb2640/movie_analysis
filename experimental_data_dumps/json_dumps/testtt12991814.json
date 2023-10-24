@@ -1,0 +1,192 @@
+[
+    {
+        "first": [
+            {
+                "title": "Happy's"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjNjMWMwMWYtNWI1NS00OTNjLTg2MjAtZWZhMWRkNzI2Njg1XkEyXkFqcGdeQXVyMjgxNDIxNjE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Landon moves to town after receiving a suspicious scholarship, after the work-study program tied to his program falls through he is fortuitously guided by an eccentric attorney and employed ... Read all"
+            },
+            {
+                "imdb-rating": "6.3/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTVlMzBhMDktYTMyOC00YWFmLWFjM2EtMWI1ZmZjYWQ2NzM4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,18,140,140_.jpg",
+                "actor_name": "Luis Albert Acevedo Jr.",
+                "character_name": "Male TV News Reporter"
+            },
+            {
+                "image": null,
+                "actor_name": "MaKayla Beineke",
+                "character_name": "Lady at Richies"
+            },
+            {
+                "image": null,
+                "actor_name": "Lori Betz",
+                "character_name": "Lady at Jukebox"
+            },
+            {
+                "image": null,
+                "actor_name": "Brittany Bissa",
+                "character_name": "Short Girl at Jukebox"
+            },
+            {
+                "image": null,
+                "actor_name": "Clint Boevers",
+                "character_name": "Jerry"
+            },
+            {
+                "image": null,
+                "actor_name": "Kelsea Clements",
+                "character_name": "Blonde girl at Jukebox"
+            },
+            {
+                "image": null,
+                "actor_name": "Ben Collison",
+                "character_name": "Ben"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Cota",
+                "character_name": "Michele at the University"
+            },
+            {
+                "image": null,
+                "actor_name": "Caleb DeGraw",
+                "character_name": "Landon Ward"
+            },
+            {
+                "image": null,
+                "actor_name": "Gus Gustafson",
+                "character_name": "Gus"
+            },
+            {
+                "image": null,
+                "actor_name": "Kini Hudson",
+                "character_name": "Female TV News Reporter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjAwNDc1NGItN2Y1Ny00ZThmLWI4OGUtMjRiMWIzNWYyNWZlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Matt Lee Ingebritson",
+                "character_name": "Frank"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2YxOTcxZjQtMTczMi00ZjQ2LTk3OWEtOWI1NDNlYTY4N2M4XkEyXkFqcGdeQXVyOTE2MDk1MDU@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Corey Kerr",
+                "character_name": "Chef #1"
+            },
+            {
+                "image": null,
+                "actor_name": "Alli Klocke",
+                "character_name": "Schmidt Law Staff"
+            },
+            {
+                "image": null,
+                "actor_name": "Joey Loboda",
+                "character_name": "Claude Schmidt"
+            },
+            {
+                "image": null,
+                "actor_name": "Michaela Merchant",
+                "character_name": "Claires Blonde Friend"
+            },
+            {
+                "image": null,
+                "actor_name": "Kate Riley",
+                "character_name": "Claires Brunette Friend"
+            },
+            {
+                "image": null,
+                "actor_name": "Deandre Sipthekid Smith",
+                "character_name": "Chef #2"
+            }
+        ],
+        "Director": [
+            "Don Tjernagel"
+        ],
+        "Writers": [
+            "James Frazier",
+            "Don Tjernagel"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 29, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12991814/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Production Website"
+                    ],
+                    "link": [
+                        "http://www.donzilla.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            }
+        ]
+    }
+]

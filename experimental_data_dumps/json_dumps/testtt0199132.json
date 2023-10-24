@@ -1,0 +1,99 @@
+[
+    {
+        "first": [
+            {
+                "title": "Vuelvo a vivir, vuelvo a cantar"
+            },
+            {
+                "genres": [
+                    "Musical",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzFmNjZjZWItNWZhYS00OTdmLTg0MmQtZWQ4YzRkYmY2ZjRhXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_QL75_UY140_CR9,0,140,140_.jpg",
+                "actor_name": "Sab\u00fa",
+                "character_name": "Sabu"
+            }
+        ],
+        "Director": [
+            "Julio Saraceni"
+        ],
+        "Writers": [
+            "Norberto Aroldi",
+            "Fernando Siro"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 7, 1971 (Argentina)"
+                    ],
+                    "link": [
+                        "/title/tt0199132/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Argentina"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Buenos Aires, Federal District, Argentina"
+                    ],
+                    "link": [
+                        "/search/title?locations=Buenos%20Aires%2C%20Federal%20District%2C%20Argentina&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 38 minutes"
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

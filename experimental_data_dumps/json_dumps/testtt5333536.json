@@ -1,0 +1,105 @@
+[
+    {
+        "first": [
+            {
+                "title": "Family Mission: The TJ Lobraico Story"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDIwOTc3NGItOWQ0Mi00YThmLWJjYjEtNDNhZTk2ODBiMTdlXkEyXkFqcGdeQXVyMjA0MDk1ODQ@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Family Mission is a feature documentary based on the life of TJ Lobraico, a USAF Staff Sergeant from Connecticut who gave his life for his country in Afghanistan in 2013. TJ's mother, father... Read all"
+            },
+            {
+                "imdb-rating": "8.5/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 30, 2016 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5333536/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.familymissionmovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Mactavish Pictures"
+                    ],
+                    "link": [
+                        "/company/co0258354?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$250,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

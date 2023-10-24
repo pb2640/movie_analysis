@@ -1,0 +1,125 @@
+[
+    {
+        "first": [
+            {
+                "title": "Come Into the Garden, Maud"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTYwOTU4OTI5NV5BMl5BanBnXkFtZTcwMDI3MTI2MQ@@._V1_QL75_UY281_CR8,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A henpecked American visiting Europe is able to throw off his ghastly wife and find love."
+            },
+            {
+                "imdb-rating": "6.8/10"
+            },
+            {
+                "metascore": "5"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA1ODg0NjA0OF5BMl5BanBnXkFtZTcwNzA5ODM2MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Paul Scofield",
+                "character_name": "Verner Conklin"
+            },
+            {
+                "image": null,
+                "actor_name": "Bruce Lidington",
+                "character_name": "Felix"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQzODA5MzQyMV5BMl5BanBnXkFtZTgwMDMyNDkyNDE@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Geraldine McEwan",
+                "character_name": "Maud Caragnani"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDBkNjdlMzktOTdmYS00ZTNmLTliYmQtMjBlN2ExMmEyZTRlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Toby Robins",
+                "character_name": "Anna-Mary Conklin"
+            }
+        ],
+        "Director": [
+            "Cedric Messina"
+        ],
+        "Writer": [
+            "No\u00ebl Coward"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 7, 1982 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt0931445/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "British Broadcasting Corporation (BBC)"
+                    ],
+                    "link": [
+                        "/company/co0043107?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "56 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

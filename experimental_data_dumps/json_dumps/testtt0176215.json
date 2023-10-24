@@ -1,0 +1,172 @@
+[
+    {
+        "first": [
+            {
+                "title": "Talpra, Gy\u00f6z\u00f6!"
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "\u00c9va Alm\u00e1si",
+                "character_name": "Marg\u00f3, Jutka"
+            },
+            {
+                "image": null,
+                "actor_name": "Andr\u00e1s Ambrus",
+                "character_name": "Iskolaigazgat\u00f3"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTE2NWUzNmItOGY2Mi00YWMzLTg3NTUtNjQ5ZGMyMzcwNmRlXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+                "actor_name": "Erika Bodn\u00e1r",
+                "character_name": "Zsuzsa, az anya"
+            },
+            {
+                "image": null,
+                "actor_name": "Andr\u00e1s B\u00e1lint",
+                "character_name": "A bar\u00e1t, a rend\u00f5rhadnagy, a civilruh\u00e1s funkcion\u00e1rius"
+            },
+            {
+                "image": null,
+                "actor_name": "Kati Egri",
+                "character_name": "Al\u00edz"
+            },
+            {
+                "image": null,
+                "actor_name": "Cec\u00edlia Eszterg\u00e1lyos",
+                "character_name": "Erika, \u00e9nektan\u00edtv\u00e1ny"
+            },
+            {
+                "image": null,
+                "actor_name": "Istv\u00e1n Fony\u00f3",
+                "character_name": "Egy munk\u00e1s"
+            },
+            {
+                "image": null,
+                "actor_name": "L\u00e1szl\u00f3 Helyey",
+                "character_name": "Gy\u00f5z\u00f5"
+            },
+            {
+                "image": null,
+                "actor_name": "Istv\u00e1n Igl\u00f3di",
+                "character_name": "A f\u00e9rj, szociol\u00f3gus"
+            },
+            {
+                "image": null,
+                "actor_name": "Anna Kubik",
+                "character_name": "\u00c9va, Vera"
+            },
+            {
+                "image": null,
+                "actor_name": "Fl\u00f3ra K\u00e1d\u00e1r",
+                "character_name": "\u00f3v\u00f3n\u00e9ni"
+            },
+            {
+                "image": null,
+                "actor_name": "L\u00e1szl\u00f3 M\u00e9hes",
+                "character_name": "Nemzet\u00f5r"
+            },
+            {
+                "image": null,
+                "actor_name": "\u00d6d\u00f6n Rubold",
+                "character_name": "Nemzet\u00f5r"
+            },
+            {
+                "image": null,
+                "actor_name": "G\u00e1bor Salinger",
+                "character_name": "Nemzet\u00f5r"
+            },
+            {
+                "image": null,
+                "actor_name": "Mih\u00e1ly S\u00fck\u00f6sd",
+                "character_name": "Pszichi\u00e1ter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc2MDYxOTM2MV5BMl5BanBnXkFtZTcwNDE1NDAxMw@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+                "actor_name": "H\u00e9di Temessy",
+                "character_name": "Ildik\u00f3, a nagymama"
+            },
+            {
+                "image": null,
+                "actor_name": "L\u00e1szl\u00f3 Vajda",
+                "character_name": "G\u00e1bor, az apa"
+            }
+        ],
+        "Director": [
+            "Rezs\u00f6 Sz\u00f6r\u00e9ny"
+        ],
+        "Writers": [
+            "Rezs\u00f6 Sz\u00f6r\u00e9ny",
+            "Mih\u00e1ly S\u00fck\u00f6sd"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 10, 1983 (Hungary)"
+                    ],
+                    "link": [
+                        "/title/tt0176215/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Hungary"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=HU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hungarian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hu&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Objekt\u00edv Film"
+                    ],
+                    "link": [
+                        "/company/co0001020?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            }
+        ]
+    }
+]

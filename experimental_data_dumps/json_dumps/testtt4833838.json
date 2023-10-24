@@ -1,0 +1,213 @@
+[
+    {
+        "first": [
+            {
+                "title": "Summer Issues"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDYwMjEwYzEtMWIwYS00MzRkLTk4MTgtZDRjODkwN2VhOTFhXkEyXkFqcGdeQXVyNDYzNDQ0NjM@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A coming of age comedy about a young man in his final years of college that returns home to Massachusetts for his summer break. While there he ends up back at his old job working at a local ... Read all"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "7"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Vasilios Asimakos",
+                "character_name": "Sean"
+            },
+            {
+                "image": null,
+                "actor_name": "Adam Masnyk",
+                "character_name": "Eddie"
+            },
+            {
+                "image": null,
+                "actor_name": "Matthew Berke",
+                "character_name": "Patrick"
+            },
+            {
+                "image": null,
+                "actor_name": "Tom O'Donnell",
+                "character_name": "Mr. Jenkins"
+            },
+            {
+                "image": null,
+                "actor_name": "Eric Kelly",
+                "character_name": "The New Kid"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike Brais",
+                "character_name": "Mike"
+            },
+            {
+                "image": null,
+                "actor_name": "David R. Reid",
+                "character_name": "Frank"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjc3NGJjM2MtZjkzNS00OWRjLTk0ZmItMzRkMTczN2JiMGQ0XkEyXkFqcGdeQXVyMzA4ODg2MDQ@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Ana Marie Calise",
+                "character_name": "Lydia"
+            },
+            {
+                "image": null,
+                "actor_name": "Alyssa Di Rubbo",
+                "character_name": "Nikki"
+            },
+            {
+                "image": null,
+                "actor_name": "Kraig McLaughlin",
+                "character_name": "Dad"
+            },
+            {
+                "image": null,
+                "actor_name": "Jeff Anderson",
+                "character_name": "The Rapper"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmQyODk4N2QtMTM1Yy00OWU1LWJmMGMtNzcyYTZkOWZlZGEwXkEyXkFqcGdeQXVyNDYyMzczNzE@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Lin Hult",
+                "character_name": "Rude Customer"
+            },
+            {
+                "image": null,
+                "actor_name": "Victoria Lee Mitchell",
+                "character_name": "Lydia's Friend"
+            },
+            {
+                "image": null,
+                "actor_name": "Danielle Cardin",
+                "character_name": "Lydia's Friend #2"
+            },
+            {
+                "image": null,
+                "actor_name": "George Brais",
+                "character_name": "Agitated Homeowner"
+            },
+            {
+                "image": null,
+                "actor_name": "Briahna Gilbert",
+                "character_name": "Franks Daughter"
+            },
+            {
+                "image": null,
+                "actor_name": "Benjamin Selle",
+                "character_name": "Backroom Employee"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Hoey",
+                "character_name": "Outside Customer"
+            }
+        ],
+        "Director": [
+            "Eric Kelly"
+        ],
+        "Writers": [
+            "Adam Masnyk",
+            "Rory Cardin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4833838/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "website for the film"
+                    ],
+                    "link": [
+                        "http://www.AnotherTheoryProductions.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Worcester, Massachusetts, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Worcester%2C%20Massachusetts%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Another Theory Productions"
+                    ],
+                    "link": [
+                        "/company/co0544386?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 35 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

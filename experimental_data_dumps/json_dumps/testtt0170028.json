@@ -1,0 +1,88 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ig\u00e9zet"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Istv\u00e1n B\u00e1cskai Laur\u00f3"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 23, 1964 (Hungary)"
+                    ],
+                    "link": [
+                        "/title/tt0170028/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Hungary"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=HU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hungarian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hu&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Hunnia Filmst\u00fadi\u00f3"
+                    ],
+                    "link": [
+                        "/company/co0037169?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Silver Slave"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTc4ODExNjMyOV5BMl5BanBnXkFtZTgwODY1NjYxMjE@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Bernice Randall, who has forsaken the love of her sweetheart, Tom Richards, to marry for wealth, turns down Richards' proposal after the death of her husband, and she is denounced by him as ... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU2NzkwOTcxNV5BMl5BanBnXkFtZTgwMDM1OTY3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Irene Rich",
+                "character_name": "Bernice Randall"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTRkNzZkMmItMzkwMS00ZmExLThjYjYtODJkN2FkNzMxMmI4XkEyXkFqcGdeQXVyMjU4NzU2OTA@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+                "actor_name": "Audrey Ferris",
+                "character_name": "Janet Randall"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmE5N2Y0NzMtOTEyMS00NDdjLTk3OTctNjMzOTlhMTdmMTZlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Holmes Herbert",
+                "character_name": "Tom Richards"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGE4MDZhYTktMTI0Yy00OGI2LTg4NzctZmU4OTg5NWYyOWFiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Miljan",
+                "character_name": "Philip Caldwell"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjU0ZDE2MjQtYjI0YS00NjA4LTlhNjgtNDRjMjNiODc1YjA3XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Carroll Nye",
+                "character_name": "Larry Martin"
+            },
+            {
+                "image": null,
+                "actor_name": "Patty Falkenstein",
+                "character_name": "Little Janet"
+            }
+        ],
+        "Director": [
+            "Howard Bretherton"
+        ],
+        "Writers": [
+            "Anthony Coldeway",
+            "Peter Milne",
+            "Howard Smith"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 12, 1927 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0018405/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Warner%20Brothers%20Burbank%20Studios%20-%204000%20Warner%20Boulevard%2C%20Burbank%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Warner Bros."
+                    ],
+                    "link": [
+                        "/company/co0002663?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mahinhin vs. mahinhin"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "MEN FIGHT OVER MEN WITH VELVET GLOVES IN THIS SOPHISTICATED COMEDY ABOUT THE ALTERNATIVE LIFESTYLE OF FILIPINO MALE HOMOSEXUALS IN THE 1980s."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Dindo Fernando",
+                "character_name": "Billy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2Q2NWEwYzItNTZkNC00NmZmLWI4ODctMjQwMTQzMDY5ODBjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ronaldo Valdez",
+                "character_name": "Peter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDQ5OTJiNmItZTdhNC00MDFjLTkzNzYtN2I5MDNjMTgxYzBmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Edu Manzano",
+                "character_name": "Archie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWI2NTBlYjktZDBlYi00NDI0LWI5YTYtNzZlMTI4ZTEwYzMyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Carmi Martin",
+                "character_name": "Stella"
+            },
+            {
+                "image": null,
+                "actor_name": "Pinky De Leon",
+                "character_name": "The Lady Psychiatrist"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDBlOTcwOTctYjUwMC00ZTRiLWI4OTEtZDdlMGY1ZTQwYWUxL2ltYWdlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UY140_CR4,0,140,140_.jpg",
+                "actor_name": "Dante Rivero",
+                "character_name": "The Priest"
+            },
+            {
+                "image": null,
+                "actor_name": "Adul de Leon",
+                "character_name": "Aling Upeng"
+            },
+            {
+                "image": null,
+                "actor_name": "Martha Sevilla",
+                "character_name": "The Sister of Peter"
+            },
+            {
+                "image": null,
+                "actor_name": "Jose Garcia",
+                "character_name": "Papa Hagibis"
+            },
+            {
+                "image": null,
+                "actor_name": "Mario Escudero",
+                "character_name": "Professor Gomez"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Zialcita",
+                "character_name": "Martin"
+            },
+            {
+                "image": null,
+                "actor_name": "Johnny Vicar",
+                "character_name": "Black Brother"
+            },
+            {
+                "image": null,
+                "actor_name": "Bert Asuncion",
+                "character_name": "Black Brother"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Perlas",
+                "character_name": "Black Brother"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjM5NDJkODAtM2IxYS00MTg3LWI4ODAtMjIxZGY4YTg4YmMxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Augusto Victa",
+                "character_name": "The Lawyer"
+            },
+            {
+                "image": null,
+                "actor_name": "Rolly Papasin",
+                "character_name": "The Lawyer"
+            },
+            {
+                "image": null,
+                "actor_name": "Tata Esteban",
+                "character_name": "Django"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODE2MDFmYjYtNmE5Yy00MmE4LThkZWYtZjA2MTg1NmY5MDg2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UY140_CR95,0,140,140_.jpg",
+                "actor_name": "Elizabeth Oropesa",
+                "character_name": "Juana"
+            }
+        ],
+        "Director": [
+            "Danny L. Zialcita"
+        ],
+        "Writers": [
+            "Toto Belano",
+            "Danny L. Zialcita"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 14, 1981 (Philippines)"
+                    ],
+                    "link": [
+                        "/title/tt0474790/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Philippines"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=PH&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Filipino",
+                        "Tagalog",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fil&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=tl&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Metro Manila, Philippines"
+                    ],
+                    "link": [
+                        "/search/title?locations=Metro%20Manila%2C%20Philippines&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Sining Silangan Production"
+                    ],
+                    "link": [
+                        "/company/co0151417?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "first": [
+            {
+                "title": "Theo Von: Regular People"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzAxYjdiMWYtMjVjZS00ZjI1LWJhMTAtYzYyYzEyZjNiNjU2XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Von shares stories of his most memorable childhood friends, offers tips on how to effectively avoid work, and recounts the time he tried to play matchmaker in his hometown."
+            },
+            {
+                "imdb-rating": "5.4/10"
+            },
+            {
+                "metascore": "43"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Directors": [
+            "Lloyd Stanton",
+            "Paul Toogood"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 19, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt15579188/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 1 minute"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

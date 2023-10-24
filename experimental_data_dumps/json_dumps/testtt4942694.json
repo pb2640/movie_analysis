@@ -1,0 +1,230 @@
+[
+    {
+        "first": [
+            {
+                "title": "60 Seconds to Die"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWQ0MDdhMTgtMWFkNC00YTU0LTkxZDctMDE1MzM3NWQwNzRiXkEyXkFqcGdeQXVyMjM4ODgxOQ@@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A horror anthology uniting new filmmakers from across the globe to create a modern-day grind-house, in the style of the most shocking movies of the '70s."
+            },
+            {
+                "imdb-rating": "3.1/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Ethan Kavanagh",
+                "character_name": "The boy (segment: \"The boy in the dark\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Nicole Graziano",
+                "character_name": "Julie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGMwNWMxZGEtNzgzMi00ZDcwLTgwMWEtNjg3OGFkZTBjZDJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Dexter Fletcher",
+                "character_name": "Radio Announcer (segment \"Scab\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Walters",
+                "character_name": "Pedestrian (segment \"Scab\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Tony Hamer",
+                "character_name": "Eddy Harrison (segment: \"Don't Look At The Camera\")"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzExZDRkOTMtYTE3My00OGIyLWE5MGUtODgwZTFiYzc1ZDM0XkEyXkFqcGdeQXVyMjUxMDgwNA@@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Kim S\u00f8nderholm",
+                "character_name": "Roger Codger (segment \"Devil\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Tom Highway",
+                "character_name": "Tom Highway(Segment \"Type O Negative\")"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg5ODM2MDU3M15BMl5BanBnXkFtZTgwMDkxOTQzNDE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Addison Ginsberg",
+                "character_name": "The Boy (Segment \"Mask\")"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDA5ZDkyZTAtMzc0NC00ZTVhLTg4ODctYmEwNTczODdjMzc5XkEyXkFqcGdeQXVyNTgzMzk4NDQ@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Graham Fletcher-Cook",
+                "character_name": "Marty (Segment \"SCab\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Jude Dutton",
+                "character_name": "Jude (Segment\"Night of the Bae\")"
+            },
+            {
+                "image": null,
+                "actor_name": "George Capacete",
+                "character_name": "Jonas (segment \"Carnage\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Cacchioli",
+                "character_name": "Brian (segment \"Fun with Demons\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Hannah Harleen",
+                "character_name": "Hannah (segment \"O Killing Tree, O Killing Tree\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Clayton Hamburg",
+                "character_name": "Cousin Sinful (segment \"Christmas\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Franck Junca",
+                "character_name": "Zombie Man (segment \"Ravages\")"
+            },
+            {
+                "image": null,
+                "actor_name": "Jason Lockhart",
+                "character_name": "Professor (segment \"Good"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzRhNzVjMjctOTA0Yy00NGFjLWIyMWEtOGNiZDk3ZmFmZTFhXkEyXkFqcGdeQXVyMzM5MjM4MDY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Sophia Cacciola",
+                "character_name": "Doppelg\u00e4nger (segment \"Doppelg\u00e4nger\" \"ZoSo\"))"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTA3MDg4NzctNGExYS00ZTg2LWE0ZjAtOTQ2YTZhZGFhYTFmXkEyXkFqcGdeQXVyMTk1MzU3Nzc@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Glenn Berggoetz",
+                "character_name": "Man (segment \"No More\")"
+            }
+        ],
+        "Directors": [
+            "Matthew J. Adams",
+            "Eric Alfonsi",
+            "Ascorvius"
+        ],
+        "Writers": [
+            "Matthew J. Adams",
+            "Lee Ankrum",
+            "James Balsamo"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 5, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4942694/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/60secondstodie"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Flint, Michigan, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Flint%2C%20Michigan%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Vestra Pictures",
+                        "BAF Medias",
+                        "Evil Stew Productions"
+                    ],
+                    "link": [
+                        "/company/co0512016?ref_=tt_dt_co_1",
+                        "/company/co0574264?ref_=tt_dt_co_2",
+                        "/company/co0470814?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 34 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "first": [
+            {
+                "title": "Baffling Bunnies"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTY0ZDYxNDEtNzkxOS00YjI0LTllMzEtYjFkNzMyN2RiY2U5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_QL75_UY281_CR54,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "4.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Roy Halee",
+                "character_name": "Terry Bear"
+            },
+            {
+                "image": null,
+                "actor_name": "Doug Moye",
+                "character_name": "Papa Bear"
+            },
+            {
+                "image": null,
+                "actor_name": "Philip A. Scheib",
+                "character_name": "Terry Bear"
+            }
+        ],
+        "Director": [
+            "Connie Rasinski"
+        ],
+        "Writers": [
+            "Tom Morrison",
+            "Bob Kuwahara",
+            "Paul Terry"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 31, 1955 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0149775/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Terrytoons"
+                    ],
+                    "link": [
+                        "/company/co0028853?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "7 minutes"
+                }
+            }
+        ]
+    }
+]

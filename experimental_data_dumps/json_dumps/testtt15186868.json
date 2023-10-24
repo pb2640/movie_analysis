@@ -1,0 +1,109 @@
+[
+    {
+        "first": [
+            {
+                "title": "Razor Tail"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Horror",
+                    "Sport"
+                ]
+            },
+            {
+                "plot": "A skateboard slasher film showcasing an eager skateboarder, Christiana Means, doing whatever it takes to get noticed in a saturated industry."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Christiana Means",
+                "character_name": "Christiana"
+            }
+        ],
+        "Director": [
+            "Jeremy Castro-Cook"
+        ],
+        "Writer": [
+            "Jeremy Castro-Cook"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 17, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt15186868/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Filmmaker's website"
+                    ],
+                    "link": [
+                        "https://www.saladproductions.com/about"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Salad Productions"
+                    ],
+                    "link": [
+                        "/company/co0873853?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

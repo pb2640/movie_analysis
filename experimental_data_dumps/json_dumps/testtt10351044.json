@@ -1,0 +1,106 @@
+[
+    {
+        "first": [
+            {
+                "title": "Maxine Sullivan: Love to Be in Love"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWFjMTRkYzMtZGNkZi00NjJkLWEyMTItOTJjNmE1NzQxYzhiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY281_CR96,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "A long-overdue film portrait of the once famous, and now, largely forgotten jazz vocalist Maxine Sullivan. Sullivan won fame in the 1930s with swing renditions of traditional songs like \"Loc... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NDUwMDQ1OF5BMl5BanBnXkFtZTYwNzM4MTM2._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Louis Armstrong",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjQzNjY0MjE5M15BMl5BanBnXkFtZTYwMjU4MzU2._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Ella Fitzgerald",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Marian McPartland",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDdlN2U2ZmItNDAzNC00NGY0LThjNDMtOWQ5YjQ5ZmFhNDY3XkEyXkFqcGdeQXVyMjQwOTE1MzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Maxine Sullivan",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Greta Schiller"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1990 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt10351044/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "United Kingdom",
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "50 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

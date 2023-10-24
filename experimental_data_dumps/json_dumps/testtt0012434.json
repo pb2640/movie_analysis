@@ -1,0 +1,154 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mama's Affair"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTZiZmNhNmUtZjNiMy00NmZkLWFlYTEtOTZjNWYxYTQxMTFlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "Following a burlesque prologue showing Eve in the Garden of Eden eating the forbidden fruit, Mrs. Orrin, a wealthy, selfish, impulsive widow, contrives to keep her self-sacrificing daughter ... Read all"
+            },
+            {
+                "imdb-rating": "4.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgxODQ4NTMyMV5BMl5BanBnXkFtZTgwOTg3NTAwMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Constance Talmadge",
+                "character_name": "Eve Orrin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWE5YzFjY2YtNmVkNi00ZWU5LWIzYzUtNDk2Zjc4YzMzYjkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Effie Shannon",
+                "character_name": "Mrs. Orrin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2IxNWM2NTQtMWZiYi00OGExLTkxYTYtZGJkMjBhNGIyN2Y1XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kenneth Harlan",
+                "character_name": "Dr. Harmon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2U0ZjU4N2MtYmM1Ny00NWY5LWE0MzktOGZmMGU3YjhhODQzXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "George LeGuere",
+                "character_name": "Henry Marchant"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWJkMTRhMTItYjc4YS00NjM5LThmN2UtNTAyY2NiNWFjZTZiXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Katharine Kaelred",
+                "character_name": "Mrs. Marchant"
+            },
+            {
+                "image": null,
+                "actor_name": "Gertrude Le Brandt",
+                "character_name": "Bundy"
+            }
+        ],
+        "Director": [
+            "Victor Fleming"
+        ],
+        "Writers": [
+            "Rachel Barton Butler",
+            "John Emerson",
+            "Anita Loos"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 23, 1921 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0012434/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Constance Talmadge Film Company"
+                    ],
+                    "link": [
+                        "/company/co0010967?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

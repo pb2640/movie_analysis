@@ -1,0 +1,123 @@
+[
+    {
+        "first": [
+            {
+                "title": "An Encounter"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDEwYjY4MzAtNGM0MS00MTJlLTgxMjEtNzc3NWU1NTM3YzI5XkEyXkFqcGdeQXVyMTExNDE0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Two improbable friends dodge school and wander freely through Dublin until an encounter with a stranger leaves one of them utterly changed."
+            },
+            {
+                "imdb-rating": "7.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Moses Murphy",
+                "character_name": "Stephen"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Carney",
+                "character_name": "Jay"
+            },
+            {
+                "image": null,
+                "actor_name": "Gary Lydon",
+                "character_name": "The Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Carney",
+                "character_name": "Jay"
+            }
+        ],
+        "Director": [
+            "Kelly Campbell"
+        ],
+        "Writer": [
+            "Mark O'Halloran"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 20, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14190714/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ireland"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Dublin, Ireland"
+                    ],
+                    "link": [
+                        "/search/title?locations=Dublin%2C%20Ireland&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Cowtown Pictures"
+                    ],
+                    "link": [
+                        "/company/co0759584?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

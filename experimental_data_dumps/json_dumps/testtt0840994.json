@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "African Odyssey"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDUwYTI0MGMtMDhmYi00NGI5LWEzNDEtMDg5MzI1YjI3NDZiXkEyXkFqcGdeQXVyNDQzODQ0OQ@@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Tracking efforts by zoologists Delia and Mark Owens to begin new research in 1985 in Botswana's Kalahari Game Reserve, where the couple conducted landmark studies from 1974 to 1980."
+            },
+            {
+                "imdb-rating": "8.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkzOTIzMTQxM15BMl5BanBnXkFtZTgwOTQ4NTg3NjE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Peter Coyote",
+                "character_name": "Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "Delia Owens",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Mark Owens",
+                "character_name": "Self"
+            }
+        ],
+        "Writer": [
+            "James Lipscomb"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 20, 1988 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0840994/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "National Geographic Channel"
+                    ],
+                    "link": [
+                        "/company/co0139461?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "53 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

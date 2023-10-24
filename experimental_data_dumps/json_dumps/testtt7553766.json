@@ -1,0 +1,175 @@
+[
+    {
+        "first": [
+            {
+                "title": "Trauma is a Time Machine"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjU4ZTM0OTQtOWY5MS00YzFjLTgxY2MtNTQzZWJhYzkwYTUyXkEyXkFqcGdeQXVyNTg0MTEwNzk@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The film explores a woman's self destruction & healing from the traumatic after effects of rape within her relationship."
+            },
+            {
+                "imdb-rating": "3.3/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIxYWY0ZDQtZWRhZC00Y2JiLTg2YWMtYjc2MDc4Y2ZhZWRmXkEyXkFqcGdeQXVyMTg2NzQ4NDQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Augie Duke",
+                "character_name": "Helen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWRkMjhmY2EtNjhkMC00NDEyLWI1MjUtMmMxNDVjNTE2MmMwXkEyXkFqcGdeQXVyODA1NTkwMzk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Gabe Fazio",
+                "character_name": "Toby"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGI0MGU2NmEtOGFjNS00MjI0LWFiZTYtZWJkMTAwZTgwMmMwXkEyXkFqcGdeQXVyMTcwNTU3ODg0._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Elizabeth A. Davis",
+                "character_name": "Georgia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc0ZDk2MTktNDEwZC00MDYwLWI4MjItOGVhZDQ1MDM2NTk2XkEyXkFqcGdeQXVyMTIzODQ2MA@@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Robyn Peterson",
+                "character_name": "Woman at the bus stop"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGEzZDY5YWQtNjEwMy00YmJlLWFjZTEtNWM4NGNjMmQ1NGYzXkEyXkFqcGdeQXVyNTk3MjQ0NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ella Loudon",
+                "character_name": "Joan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTc0ZWE2ZGEtYmY2Zi00YjA1LTk0ZTQtNWMxMGE5MDZhYTIxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Max Duane",
+                "character_name": "Man One"
+            },
+            {
+                "image": null,
+                "actor_name": "Joseph Reiver",
+                "character_name": "Man Two"
+            },
+            {
+                "image": null,
+                "actor_name": "Karl Scully",
+                "character_name": "Karl"
+            }
+        ],
+        "Director": [
+            "Angelica Zollo"
+        ],
+        "Writer": [
+            "Angelica Zollo"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 6, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7553766/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Trauma is a Time Machine film website"
+                    ],
+                    "link": [
+                        "http://www.traumaisatimemachinefilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Constantly Curious Productions"
+                    ],
+                    "link": [
+                        "/company/co0802601?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$85,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 22 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD",
+                        "4:3"
+                    ]
+                }
+            }
+        ]
+    }
+]

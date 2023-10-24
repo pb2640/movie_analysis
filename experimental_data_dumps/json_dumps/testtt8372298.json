@@ -1,0 +1,256 @@
+[
+    {
+        "first": [
+            {
+                "title": "Swallow"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYmUxYzAxMTgtNzhjNC00YjI1LTlmMTItOGU0ZmZjZmQ5NmVlXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "Hunter, a newly pregnant housewife, finds herself increasingly compelled to consume dangerous objects. As her husband and his family tighten their control over her life, she must confront th... Read all"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "240"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWEyOTUzNzgtZmQ2My00NTg4LTgyNGYtNzQ5MGYwMjY3OGM1XkEyXkFqcGdeQXVyNjA0OTkxNjQ@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Haley Bennett",
+                "character_name": "Hunter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjgwYTkyZGEtNDY2ZS00YWU3LTg3MzktNGM3ZWU4MTgzYmQzXkEyXkFqcGdeQXVyNTkzMzIzOTc@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Austin Stowell",
+                "character_name": "Richie Conrad"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU3NDI2MzIyMV5BMl5BanBnXkFtZTgwMDM3MTc1MDI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Denis O'Hare",
+                "character_name": "Erwin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU4MTMxNjA0MF5BMl5BanBnXkFtZTcwMTAwNTUwOA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Elizabeth Marvel",
+                "character_name": "Katherine Conrad"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc3MTA0MTU3Ml5BMl5BanBnXkFtZTgwMTExOTQxNzE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "David Rasche",
+                "character_name": "Michael Conrad"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODQxNjE3OTUwN15BMl5BanBnXkFtZTcwODE4NTk4OQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Luna Lauren Velez",
+                "character_name": "Lucy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgxNDUxMDMxOF5BMl5BanBnXkFtZTgwODI0NTc0MjE@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Zabryna Guevara",
+                "character_name": "Alice"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2RmODA1OWYtMjVjNS00YmExLWJmNTctYTA4ZDI2ZTM4OTUwXkEyXkFqcGdeQXVyMjM3NTYwOQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Laith Nakli",
+                "character_name": "Luay"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDZlZWMxMTgtOGU3Yy00YTE0LWI0ODEtODAwMDY4MDAxMDViXkEyXkFqcGdeQXVyNjI3ODY3OQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Babak Tafti",
+                "character_name": "Aaron"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWMwYTgyYjYtMWQ0NC00ZDA3LTgzY2ItMDNjYWY5M2FmOWQ0XkEyXkFqcGdeQXVyNzg5MzI1NTc@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Nicole Kang",
+                "character_name": "Bev"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWUxNmY2ODYtZjE3Zi00NjM5LTljYmEtZjYzM2U2ZDQ5OGQwXkEyXkFqcGdeQXVyODg3NTgwMjI@._V1_QL75_UX140_CR0,44,140,140_.jpg",
+                "actor_name": "Olivia Perez",
+                "character_name": "Nim"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTYwMGM5ZDgtYmQ0ZS00MjRmLWE4ZTgtNjRiYTVmMGYzODNiXkEyXkFqcGdeQXVyMTI4NTk5NA@@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Kristi Kirk",
+                "character_name": "Lillian"
+            },
+            {
+                "image": null,
+                "actor_name": "Alyssa Bresnahan",
+                "character_name": "Jill"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWE4MGU4NjMtOGExZS00ZTkwLWFlNDEtMDNkNzI5NmNlM2Y3XkEyXkFqcGdeQXVyMTUxMDkwNzc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Maya Days",
+                "character_name": "Dr. Santos"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MjEyNDE4Ml5BMl5BanBnXkFtZTgwMDY0MDk5ODE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Elise Santora",
+                "character_name": "Dr. Reyes"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2FmNDc0OGMtZWI1My00NjMyLThhZDEtM2RhMDIyNmI4NzQxXkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Myra Lucretia Taylor",
+                "character_name": "Nurse"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc2MDU3NDE2OV5BMl5BanBnXkFtZTcwNTI4NDUwOA@@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Kathleen Butler",
+                "character_name": "Lydia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNThiNTI0M2UtNDljNC00YWFhLThiZjgtOTI4YmY2ZWU1MmQ5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR11,0,140,140_.jpg",
+                "actor_name": "McGregory Frederique",
+                "character_name": "Man Behind The Desk"
+            }
+        ],
+        "Director": [
+            "Carlo Mirabella-Davis"
+        ],
+        "Writer": [
+            "Carlo Mirabella-Davis"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 5, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8372298/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "IFC Films (United States)",
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://www.ifcfilms.com/films/swallow",
+                        "https://www.swallowmovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Arabic"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ar&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "The Fels, Highland, Ulster County, New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=The%20Fels%2C%20Highland%2C%20Ulster%20County%2C%20New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Charades",
+                        "Logical Pictures",
+                        "Stand Alone Productions"
+                    ],
+                    "link": [
+                        "/company/co0643524?ref_=tt_dt_co_1",
+                        "/company/co0572352?ref_=tt_dt_co_2",
+                        "/company/co0393272?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$33,419"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$12,850"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Mar 8, 2020"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$274,674"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 34 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

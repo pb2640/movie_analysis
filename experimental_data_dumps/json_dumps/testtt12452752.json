@@ -1,0 +1,168 @@
+[
+    {
+        "first": [
+            {
+                "title": "An Ideal Host"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDIzZTZhZWUtMzdkZS00MDAzLWE1MTMtZTU4ODEwOGI3NjE1XkEyXkFqcGdeQXVyMjI1MTU3NQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Horror",
+                    "Sci-Fi"
+                ]
+            },
+            {
+                "plot": "Liz just wants to host the perfect dinner party but an unexpected guest sends the evening into chaos, with potentially apocalyptic consequences."
+            },
+            {
+                "imdb-rating": "5.6/10"
+            },
+            {
+                "metascore": "5"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Nadia Collins",
+                "character_name": "Liz"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjE3MTVhYTYtODJkZC00MjAzLWEyYjItMTJjNTM5ZGE5OTA0XkEyXkFqcGdeQXVyMTE0NjE0OTM5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Evan Williams",
+                "character_name": "Jackson"
+            },
+            {
+                "image": null,
+                "actor_name": "Naomi Brockwell",
+                "character_name": "Daisy"
+            },
+            {
+                "image": null,
+                "actor_name": "St John Cowcher",
+                "character_name": "Brett"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmYxMjBhNTUtMzIwNS00OGM5LTk4ZjctOTVkOWViM2ZkZjhjXkEyXkFqcGdeQXVyNzAwODQxMzQ@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Mary Soudi",
+                "character_name": "Mara"
+            },
+            {
+                "image": null,
+                "actor_name": "Daniel Buckle",
+                "character_name": "Kyle"
+            },
+            {
+                "image": null,
+                "actor_name": "Tristan McInnes",
+                "character_name": "Jon"
+            },
+            {
+                "image": null,
+                "actor_name": "Andrea Gibbs",
+                "character_name": "Dawn"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDA1MDI4MjU0OV5BMl5BanBnXkFtZTcwNDM3ODY4Mg@@._V1_QL75_UY140_CR61,0,140,140_.jpg",
+                "actor_name": "Sam Longley",
+                "character_name": "Darryl"
+            }
+        ],
+        "Director": [
+            "Robert Woods"
+        ],
+        "Writer": [
+            "Tyler Jacob Jones"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 9, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12452752/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Australia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Donnybrook, Western Australia"
+                    ],
+                    "link": [
+                        "/search/title?locations=Donnybrook%2C%20Western%20Australia&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$13,700 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

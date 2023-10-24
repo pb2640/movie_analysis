@@ -1,0 +1,77 @@
+[
+    {
+        "first": [
+            {
+                "title": "Atrapados"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Dami\u00e1n Acosta Esparza"
+        ],
+        "Writers": [
+            "Jos\u00e9 Luis Gallego",
+            "Antonio Orellana"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Servicios de Televisi\u00f3n Mexicana S.A."
+                    ],
+                    "link": [
+                        "/company/co0054298?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

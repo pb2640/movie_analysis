@@ -1,0 +1,164 @@
+[
+    {
+        "first": [
+            {
+                "title": "16 Bars"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzk1NjYyMzAtNTk4My00NDI5LTk3OGYtODk5MzNiMGNiYjI1XkEyXkFqcGdeQXVyMTE1Njg3Mzc3._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Inmates in Virginia attempt to transcend the cycle of recidivism through an unlikely artistic collaboration behind bars with Grammy-winning hip hop artist Todd 'Speech' Thomas."
+            },
+            {
+                "imdb-rating": "7.3/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Speech Thomas",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Garland T. Carr",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tennyson Jackson",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Devonte James",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Anthony Johnston",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Sam Bathrick"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 4, 2020 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt10021622/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site",
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.16barsthefilm.com/",
+                        "http://www.16brsthefilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Richmond, Virginia, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Richmond%2C%20Virginia%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Resonant Pictures"
+                    ],
+                    "link": [
+                        "/company/co0036946?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$260,000 (estimated)"
+                }
+            },
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$10,985"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$2,662"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Nov 10, 2019"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$10,985"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 34 minutes"
+                }
+            }
+        ]
+    }
+]

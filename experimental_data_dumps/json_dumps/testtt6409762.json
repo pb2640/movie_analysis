@@ -1,0 +1,168 @@
+[
+    {
+        "first": [
+            {
+                "title": "Big Legend"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWJkZmFhOGUtNTlmZS00ZjM5LWExZDUtYzU1YjgwNjdhMGYwXkEyXkFqcGdeQXVyNjI2ODA4MDU@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Adventure",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "An ex-soldier ventures into the Pacific Northwest to uncover the truth behind his fiance's disappearance."
+            },
+            {
+                "imdb-rating": "4.7/10"
+            },
+            {
+                "metascore": "113"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTJlNGUxYjMtZjc2NC00YTI2LThkMTEtOGJjNTA1ZjNmNWVjXkEyXkFqcGdeQXVyMjIyMDY1NzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kevin Makely",
+                "character_name": "Tyler Laird"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzgzMGI3YjctNmIwZi00YzdmLWFiMmQtY2MyOTA2YzQ3ODlkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Todd A. Robinson",
+                "character_name": "Eli Verunde"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjA3ZDI4NGYtN2UzYS00NWIyLWJhYWMtYTM0OTQyZGM2Nzg1XkEyXkFqcGdeQXVyMzgzNDg1NzQ@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Summer Spiro",
+                "character_name": "Natalie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NTMxNjE2NF5BMl5BanBnXkFtZTgwMjAxODk5NzE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Amanda Wyss",
+                "character_name": "Dr. Wheeler"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2ZlZTc5ZWUtZmZiMi00YWNlLTlmNTMtZWI0MGFmMjBmOWVjXkEyXkFqcGdeQXVyMzIzODQxNzk@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Lance Henriksen",
+                "character_name": "Jackson Wells"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzllZmJjOWEtNmFkZi00NjM3LWE1MzAtYmQyOTZmNjY5N2QwXkEyXkFqcGdeQXVyMjMyNDM0Mg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Adrienne Barbeau",
+                "character_name": "Rita Laird"
+            },
+            {
+                "image": null,
+                "actor_name": "Skotty Masgai",
+                "character_name": "The Beast"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZThkNDQ3M2MtYzg0NC00NGRhLWE5NWItOWMxODE0MDNkNzFhXkEyXkFqcGdeQXVyMTIzMzE3NTM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ashley Platz",
+                "character_name": "Nurse Katie"
+            }
+        ],
+        "Director": [
+            "Justin Lee"
+        ],
+        "Writer": [
+            "Justin Lee"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 18, 2021 (Poland)"
+                    ],
+                    "link": [
+                        "/title/tt6409762/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Lewis River Falls- Gifford Pinchot National Forest, Washington State, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Lewis%20River%20Falls-%20Gifford%20Pinchot%20National%20Forest%2C%20Washington%20State%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Fresh Cats Productions",
+                        "Papa Octopus Productions"
+                    ],
+                    "link": [
+                        "/company/co0582526?ref_=tt_dt_co_1",
+                        "/company/co0587060?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 29 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

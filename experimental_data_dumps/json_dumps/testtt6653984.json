@@ -1,0 +1,156 @@
+[
+    {
+        "first": [
+            {
+                "title": "Three Distinct Impressions"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjc3ZTk1YWUtZWU1Mi00NGY1LWI5M2MtMmFmZTMzZjg3NmM4XkEyXkFqcGdeQXVyMzc1NTMxMDc@._V1_QL75_UY281_CR170,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "After agreeing to return a lost wallet on behalf of his ex, Parker navigates a house party that brings him into contact with peculiar strangers--and the scrambled nature of his own perceptio... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Bijan Karim",
+                "character_name": "Parker"
+            },
+            {
+                "image": null,
+                "actor_name": "Jacqueline Welbers",
+                "character_name": "Sydney"
+            },
+            {
+                "image": null,
+                "actor_name": "Kellen Jackson",
+                "character_name": "Rachita"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWI4MTQzYTgtMzRhZC00ODRkLWI5ZWMtYTA1OTQ5MmFlNGU5XkEyXkFqcGdeQXVyNjgyMTA5MzE@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Shane Leydon",
+                "character_name": "Shane"
+            },
+            {
+                "image": null,
+                "actor_name": "Anant Khehra",
+                "character_name": "Brandon"
+            },
+            {
+                "image": null,
+                "actor_name": "Aerlan Barrett",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sean Brennan",
+                "character_name": "Party Guy #1"
+            },
+            {
+                "image": null,
+                "actor_name": "Connor Campbell",
+                "character_name": "Photographer"
+            },
+            {
+                "image": null,
+                "actor_name": "Matt Catellier",
+                "character_name": "Tanglers Drummer"
+            },
+            {
+                "image": null,
+                "actor_name": "Alden Doyle",
+                "character_name": "Makeout Videotape Fan"
+            },
+            {
+                "image": null,
+                "actor_name": "Ross MacNab",
+                "character_name": "Tanglers Singer"
+            },
+            {
+                "image": null,
+                "actor_name": "Cole Young",
+                "character_name": "Tanglers Bassist"
+            }
+        ],
+        "Director": [
+            "Bijan Karim"
+        ],
+        "Writer": [
+            "Bijan Karim"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 2016 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt6653984/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "13 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

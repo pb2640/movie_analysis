@@ -1,0 +1,162 @@
+[
+    {
+        "first": [
+            {
+                "title": "Lucky Fugitives"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMGZmNTZmYjUtN2NhOS00NDU1LWJiZDAtMTA3ODBkYjFjNzE0XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UY281_CR84,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Jack Wycoff is a successful young author whose double is the notorious gangster Cy King. Mistakenly arrested, Wyckoff finds himself handcuffed to an attractive lady. Wycoff escapes custody a... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTMzODZhODItYTI3Yi00YzU0LWIxZjgtZDgzYjY2MjljNWIyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David Manners",
+                "character_name": "Jack Wycoff"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjEzNDAyY2MtZjdlMS00ODE2LWI0NjQtY2M4OWQ1Zjk2NzBjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Maxine Doyle",
+                "character_name": "Aline McLain"
+            },
+            {
+                "image": null,
+                "actor_name": "Reginald Hincks",
+                "character_name": "Donald McLain"
+            },
+            {
+                "image": null,
+                "actor_name": "James McGrath",
+                "character_name": "Sheriff"
+            },
+            {
+                "image": null,
+                "actor_name": "Garland B. Davidson",
+                "character_name": "Moriarity"
+            },
+            {
+                "image": null,
+                "actor_name": "Arthur Legge-Willis",
+                "character_name": "Chief of Police"
+            },
+            {
+                "image": null,
+                "actor_name": "Doreen Wilson",
+                "character_name": "Molly King"
+            },
+            {
+                "image": null,
+                "actor_name": "Fred Bass",
+                "character_name": "Kelly"
+            },
+            {
+                "image": null,
+                "actor_name": "Pat Carlyle",
+                "character_name": "Prince Alexis Gregory Timenoff"
+            }
+        ],
+        "Director": [
+            "Nick Grinde"
+        ],
+        "Writer": [
+            "Robert Watson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Vancouver Island, British Columbia, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Vancouver%20Island%2C%20British%20Columbia%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Kenneth J. Bishop Productions",
+                        "Central Films"
+                    ],
+                    "link": [
+                        "/company/co0036674?ref_=tt_dt_co_1",
+                        "/company/co0060098?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "first": [
+            {
+                "title": "Skate Kitchen"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTgwMTQ1ODY1N15BMl5BanBnXkFtZTgwMjM4NjQ3NTM@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A teenaged skateboarder makes friends with a bunch of other skateboarding girls in New York City."
+            },
+            {
+                "imdb-rating": "6.8/10"
+            },
+            {
+                "metascore": "29"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUyNDA0ODkwM15BMl5BanBnXkFtZTgwNTkxNjM2NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Rachelle Vinberg",
+                "character_name": "Camille"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzYzZTZhODEtZjE1NC00NDk1LWI5NTctY2YwMDVmNmExYmIxXkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dede Lovelace",
+                "character_name": "Janay"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY2Mjk2MzY3Ml5BMl5BanBnXkFtZTgwOTkxNjM2NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nina Moran",
+                "character_name": "Kurt"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE4ODQ5MTEzNl5BMl5BanBnXkFtZTgwMDAyNjM2NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kabrina Adams",
+                "character_name": "Ruby"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTY5NGRiY2YtYjA0OS00M2RlLTgyMzQtNjUzNzA3MDIzNDU0XkEyXkFqcGdeQXVyMTEzNjc3MDQ5._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Ajani Russell",
+                "character_name": "Indigo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI2OTM2MTIzNl5BMl5BanBnXkFtZTgwMzAyNjM2NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jules Lorenzo",
+                "character_name": "Eliza"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODA4NDQ3YTQtOTk2MS00MTk3LThjY2ItZmNkOGE3YjllZjNiXkEyXkFqcGdeQXVyOTE0NjgwMjY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Brenn Lorenzo",
+                "character_name": "Quinn"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjMwMjU2MTQ4MF5BMl5BanBnXkFtZTgwODM5OTMzODE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Jaden Smith",
+                "character_name": "Devon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAwODc2MDMyMF5BMl5BanBnXkFtZTcwNzgxMDIzMQ@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Elizabeth Rodriguez",
+                "character_name": "Renata"
+            },
+            {
+                "image": null,
+                "actor_name": "Alexander Cooper",
+                "character_name": "Charlie"
+            },
+            {
+                "image": null,
+                "actor_name": "Juan Nisvis",
+                "character_name": "Juan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWU0NDVjODgtNWJiYi00MmY0LTgwZDAtOWEyZWQ4Yzc4MWZlXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Nico Hiraga",
+                "character_name": "Patrick"
+            },
+            {
+                "image": null,
+                "actor_name": "C.J. Ortiz",
+                "character_name": "Blake"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGMxNzYxZDktZTFiMy00NmY4LTk3YmUtYTUzNjhmNWIxZjdkXkEyXkFqcGdeQXVyODA4NTMyMQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Hisham Tawfiq",
+                "character_name": "Lawrence"
+            },
+            {
+                "image": null,
+                "actor_name": "Karim Callender",
+                "character_name": "Tim"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzkxMDY5NGItOTFjYy00OTZhLThhY2ItMmRhODk3NjljMDEzXkEyXkFqcGdeQXVyODMwMDQwNDk@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Judah Lang",
+                "character_name": "Dusty"
+            },
+            {
+                "image": null,
+                "actor_name": "Kai Espion Monroe",
+                "character_name": "Kai"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDkxMTM3N2YtODNkOS00ZWNmLTllYTktMjE0MjE2MmU1NzY0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR43,0,140,140_.jpg",
+                "actor_name": "Tashiana Washington",
+                "character_name": "Lana"
+            }
+        ],
+        "Director": [
+            "Crystal Moselle"
+        ],
+        "Writers": [
+            "Crystal Moselle",
+            "Jen Silverman",
+            "Aslihan Unaldi"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 10, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7545566/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "United Kingdom",
+                        "Brazil"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=BR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site",
+                        "Official site (Japan)"
+                    ],
+                    "link": [
+                        "https://www.skatekitchenfilm.com/",
+                        "http://skatekitchen.jp/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Long Island, New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Long%20Island%2C%20New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Bow and Arrow Entertainment",
+                        "Pulse Films",
+                        "RT Features"
+                    ],
+                    "link": [
+                        "/company/co0488623?ref_=tt_dt_co_1",
+                        "/company/co0104617?ref_=tt_dt_co_2",
+                        "/company/co0258481?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$236,799"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$18,065"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Aug 12, 2018"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$287,307"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 46 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

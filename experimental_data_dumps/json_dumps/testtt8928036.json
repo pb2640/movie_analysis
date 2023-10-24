@@ -1,0 +1,76 @@
+[
+    {
+        "first": [
+            {
+                "title": "Namibia, Sanctuary of Giants"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Of all the countries of Africa there is one that wears a crown for wildlife, Namibia. Vast cattle properties and industries are beginning to swallow the land where Namibia's wild animals roa... Read all"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 14, 2016 (Turkey)"
+                    ],
+                    "link": [
+                        "/title/tt8928036/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Austria"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Terra Mater Factual Studios"
+                    ],
+                    "link": [
+                        "/company/co0328966?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "53 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

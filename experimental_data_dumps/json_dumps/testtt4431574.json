@@ -1,0 +1,190 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hamlet"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGM0NjY3YjAtNzliOC00M2I3LWJiODUtOGE1NGE4OTY5MmFjXkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The King of Denmark is dead. Prince Hamlet is summoned home to Denmark to attend his father's funeral, only to discover Denmark has crowned Hamlet's Uncle the new King and his Mother is his ... Read all"
+            },
+            {
+                "imdb-rating": "2.9/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmQxNjcwZjMtMTI4OS00MGVjLWEwYjctMDEyZWMwN2I1MTM0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Luing Andrews",
+                "character_name": "Bernardo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjQ4ODU2NzMtNzA3OS00YTgwLTk0NzAtOWMwNDQyMmFjZjJjXkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "Taz Bear",
+                "character_name": "Royal Hound"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY3OTMzMDk1Nl5BMl5BanBnXkFtZTgwMjk4Nzg5ODE@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Andrew Calverley",
+                "character_name": "Polonius"
+            },
+            {
+                "image": null,
+                "actor_name": "Tom Clear",
+                "character_name": "Hamlet"
+            },
+            {
+                "image": null,
+                "actor_name": "Dave Taff Culver",
+                "character_name": "Guildenstern"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmQwOTliMzEtYWUyNi00NTU5LTg2ZTQtY2JmMjVhY2NkYTU4XkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Obie Dean",
+                "character_name": "Claudius"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDMyZTk3YzQtNjQwYy00MWVlLTgzZmQtNjg2Y2Y4MDI4YzA1XkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Dick Douglass",
+                "character_name": "Ghost Of Hamlet's Father"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjUxZTU0N2MtZjM5ZS00MTcwLTliYTQtOGNmNjYyOGY5MGQ0XkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Christine Hounslow",
+                "character_name": "Gertrude"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDQ4MDM2YjktZTdhYi00M2IyLWFiMzAtODhmZjMxYWFmZmI0L2ltYWdlXkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kirsty Linton",
+                "character_name": "Ophelia"
+            },
+            {
+                "image": null,
+                "actor_name": "Owen Llewelyn",
+                "character_name": "Rosencrantz"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWE4M2U4OWQtMjRmMC00ZTBjLWIxMjItYWY5MmRjZDI3YjI5XkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Daniel Lovett",
+                "character_name": "Laertes"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDY4ODViMmEtMTkyZC00MDlmLTg4OTAtYjg5NWVkNjg5MDFiXkEyXkFqcGdeQXVyNTA0NDUzNTc@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Nathan Robinson",
+                "character_name": "The Priest"
+            },
+            {
+                "image": null,
+                "actor_name": "Sara Seibel",
+                "character_name": "Osric"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmY5NDhiNWMtOGE4ZS00ZDcwLWJjYTgtYzNiYWVmZmI1MGZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Russell Shaw",
+                "character_name": "Horatio"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTZhMjJkODktMTFjYi00ODE5LThiNjEtZWJiMGQ5ZDcxZTU2XkEyXkFqcGdeQXVyMzQ2NTY5MTI@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Veronica Jean Trickett",
+                "character_name": "Marcellus"
+            }
+        ],
+        "Director": [
+            "Dick Douglass"
+        ],
+        "Writers": [
+            "Dick Douglass",
+            "William Shakespeare"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 28, 2017 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt4431574/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Castle Goring, Worthing, West Sussex, England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=Castle%20Goring%2C%20Worthing%2C%20West%20Sussex%2C%20England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Across the Border Productions",
+                        "Working Theatre Club"
+                    ],
+                    "link": [
+                        "/company/co0532602?ref_=tt_dt_co_1",
+                        "/company/co0608164?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u00a3200 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

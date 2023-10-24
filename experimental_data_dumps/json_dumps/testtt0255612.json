@@ -1,0 +1,179 @@
+[
+    {
+        "first": [
+            {
+                "title": "Spies"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjE3MjQ1NWUtZmZlZi00NTQ5LTk4YzYtOTFkM2VkOWZlNzQ4XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Adventure",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "Long Island, 1942. 12-year-old Harry detects spies everywhere. But suddenly things get serious, as he and two evacuated London kids, Ned and Flo, stumble onto a real adventure. The children ... Read all"
+            },
+            {
+                "imdb-rating": "5.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjIxMTEyOF5BMl5BanBnXkFtZTcwODIyOTIyOA@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "David Dukes",
+                "character_name": "Robert Prescott"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmNhZDgzZGQtNjczNi00YmIxLTgwMzQtZTg4YjA2MDFmNjE5XkEyXkFqcGdeQXVyMTQzODIyMDA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Shiloh Strong",
+                "character_name": "Harry Prescott"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgzNDQ5ODU3MV5BMl5BanBnXkFtZTcwOTcwODkxOA@@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Gail Strickland",
+                "character_name": "Mrs. Mills"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI4OTQzMTc2MV5BMl5BanBnXkFtZTYwMDAzNzI3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Jensen Daggett",
+                "character_name": "Karen Prescott"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWRjOTkyN2YtYjY1Mi00YjJkLWIxMTYtMDM2YjI5OTdlOTFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Robert Duncan McNeill",
+                "character_name": "Sam the Coast Guard"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDM0MDE4YzQtODViOS00NWRiLTg0NjEtODdmNGVhNDljYWUzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Matthew Steer",
+                "character_name": "Ned Carter"
+            },
+            {
+                "image": null,
+                "actor_name": "Karen Salt",
+                "character_name": "Flo Carter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTEwNTM4NjI4NzleQTJeQWpwZ15BbWU2MDkxMTg0NQ@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Cloris Leachman",
+                "character_name": "Pamela Beale"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzQ5ODA5OTItYjA1Yi00YjZlLWI2ZjEtNWQwMzVkOGJlYmMyXkEyXkFqcGdeQXVyMTI4NTk2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Martin Thompson",
+                "character_name": "Navy Security Officer"
+            },
+            {
+                "image": null,
+                "actor_name": "Chris Nubel",
+                "character_name": "Franklin D. Roosevelt"
+            }
+        ],
+        "Director": [
+            "Kevin Connor"
+        ],
+        "Writer": [
+            "Thomas Hood"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 7, 1993 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0255612/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Southport, North Carolina, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Southport%2C%20North%20Carolina%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Walt Disney Television"
+                    ],
+                    "link": [
+                        "/company/co0013021?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

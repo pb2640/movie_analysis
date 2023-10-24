@@ -1,0 +1,153 @@
+[
+    {
+        "first": [
+            {
+                "title": "Biography: Mick Foley"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYmZjYWRhMmYtYTE5NC00YjM2LWJlOTgtMjRjMTYxODNhOGFlXkEyXkFqcGdeQXVyMjUwMjUzNDQ@._V1_QL75_UX190_CR0,49,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Biography",
+                    "Sport"
+                ]
+            },
+            {
+                "plot": "Follows the unique, multifaceted career of Mick Foley, a 2013 WWE Hall of Fame inductee better known as \"Mankind.\" A fan favorite during WWE's \"Attitude Era,\" Foley shocked audiences in 1998... Read all"
+            },
+            {
+                "imdb-rating": "8.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc0NzE2MzExMF5BMl5BanBnXkFtZTgwNzg2MDk4MDE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mick Foley",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Teddy Zucker",
+                "character_name": "Self - Childhood Friend"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUyMTU1ODU4Ml5BMl5BanBnXkFtZTcwNDQ0NTY5NQ@@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Kevin James",
+                "character_name": "Self - Childhood Friend"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzM0MjI2OTktNjUyZi00MWNiLWFlMDQtNTZmZGJkNDY0NTk2XkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Ivan Putski",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2U4YmU3ZmQtM2YwOC00ZTEzLWJmYTUtNTlmMTlhNzk4OTNiXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_QL75_UX140_CR0,18,140,140_.jpg",
+                "actor_name": "Billy Graham",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYyNTE4NjcxN15BMl5BanBnXkFtZTcwNjE2NjQwOA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Andr\u00e9 Ren\u00e9 Roussimoff",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjdlYjYxZDAtMjdmZi00OTBmLThhZDUtN2UyN2Q3NzM5ZjUyXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Don Muraco",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2MxYTRkM2EtMDFmOC00N2NmLWE3ZTctM2JhNTNhNmM1ODZhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UY140_CR5,0,140,140_.jpg",
+                "actor_name": "Jimmy Snuka",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "John Foley",
+                "character_name": "Self - Mick's Brother"
+            },
+            {
+                "image": null,
+                "actor_name": "Dominic DeNucci",
+                "character_name": "Self - Former Wrestler"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTUxOTAxZDAtODAyMi00NzlkLTk3NTYtMTI2YmFmZjg2YzQyXkEyXkFqcGdeQXVyMTMzOTU3MDcz._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Dave Meltzer",
+                "character_name": "Self - Wrestling Observer Newsletter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDUwOGU0MDYtM2MwNy00MDNkLTkyMmQtMDc2ZWQzMDY0M2Y3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jeff Jarrett",
+                "character_name": "Self - WWE Hall of Famer"
+            },
+            {
+                "image": null,
+                "actor_name": "Bill Dundee",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Gary Young",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzNiMzk0YTctNDBlYS00YzRlLTkxZmYtZTYxMTVlM2I0MjgxXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_QL75_UX140_CR0,22,140,140_.jpg",
+                "actor_name": "Robert Welch",
+                "character_name": "Self - Former Professional Wrestler"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjEwODNmYmItN2IxOC00MjE4LThjOGUtYWFlOWI1NTgzMWQwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Jim Ross",
+                "character_name": "Self - WWE Hall of Famer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM3Njk0OTAzMF5BMl5BanBnXkFtZTYwNDM3MzYz._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Steve Austin",
+                "character_name": "Self - WWE Hall of Famer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM0NDMyMzI4MF5BMl5BanBnXkFtZTcwMDg3ODExOA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Jerry Lawler",
+                "character_name": "Self - WWE Hall of Famer"
+            }
+        ],
+        "Director": [
+            "Thomas Odelfelt"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 30, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14410308/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 28 minutes"
+                }
+            }
+        ]
+    }
+]

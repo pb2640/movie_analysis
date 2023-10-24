@@ -1,0 +1,125 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Wealth of the Poor"
+            },
+            {
+                "genres": [
+                    "Western",
+                    "Drama",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A poor man and his wife have a hard struggle to make ends meet. They have seven children and frequently find it a hard task to get food for them all. The poor man has a wealthy brother who h... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTEwMTc3MDA2MjZeQTJeQWpwZ15BbWU4MDk3MzYzMDQx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Gilbert M. 'Broncho Billy' Anderson",
+                "character_name": "The Husband"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzllMjU4ODMtNmUyZC00ZWNmLWE1MTgtZWIwMTM5Yzg2ZGM1XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UY140_CR15,0,140,140_.jpg",
+                "actor_name": "Marguerite Clayton",
+                "character_name": "The Wife"
+            }
+        ],
+        "Director": [
+            "Gilbert M. 'Broncho Billy' Anderson"
+        ],
+        "Writer": [
+            "Gilbert M. 'Broncho Billy' Anderson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 11, 1915 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0433222/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Niles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Niles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "The Essanay Film Manufacturing Company"
+                    ],
+                    "link": [
+                        "/company/co0079753?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

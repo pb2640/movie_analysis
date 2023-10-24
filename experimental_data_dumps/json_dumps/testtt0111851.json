@@ -1,0 +1,135 @@
+[
+    {
+        "first": [
+            {
+                "title": "De zwijgende reiziger"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDJjNzAzNTgtODcwZi00NTdlLTgzOTgtMjBlM2VhZjU3NjE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDM1NzQzODA@._V1_QL75_UY281_CR154,0,190,281_.jpg"
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "5.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Bangin Abdulkadir",
+                "character_name": "Azid"
+            },
+            {
+                "image": null,
+                "actor_name": "Said Ali",
+                "character_name": "Taho"
+            },
+            {
+                "image": null,
+                "actor_name": "Umet Ali",
+                "character_name": "Moho"
+            },
+            {
+                "image": null,
+                "actor_name": "Walid Hadji",
+                "character_name": "Simko"
+            },
+            {
+                "image": null,
+                "actor_name": "Halima Sadik",
+                "character_name": "Kurde"
+            },
+            {
+                "image": null,
+                "actor_name": "Abdulkadir Yousif",
+                "character_name": "Silo"
+            }
+        ],
+        "Director": [
+            "Ibrahim Selman"
+        ],
+        "Writers": [
+            "Hugo Heinen",
+            "Rolf Orthel",
+            "Ibrahim Selman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 15, 1994 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt0111851/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Netherlands"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NL&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Kurdish",
+                        "Dutch"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=ku&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=nl&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Dnu Film BV",
+                        "Nederlandse Omroepstichting (NOS)"
+                    ],
+                    "link": [
+                        "/company/co0078372?ref_=tt_dt_co_1",
+                        "/company/co0067032?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 32 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

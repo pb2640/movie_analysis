@@ -1,0 +1,128 @@
+[
+    {
+        "first": [
+            {
+                "title": "My Love"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNGY1NjA4ZGMtNDE5ZS00OGI1LWFmZTAtMjMyM2Y3NGJmMTBkXkEyXkFqcGdeQXVyODMzODE5MQ@@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "It's Valentine's Day in the 1960s, and Kay and Rose recall when they first met and fell in love."
+            },
+            {
+                "imdb-rating": "8.6/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2JlNjJlNjgtOGY0NC00YTNlLWJmNjUtOWIzODJmYjNkM2U0XkEyXkFqcGdeQXVyOTM0ODM0OTk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sarah Durham",
+                "character_name": "Rose"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGM5NDNkMjUtNDU3NS00MTg4LWFiZmYtZTNiMTRkYzE4NDAxXkEyXkFqcGdeQXVyMzUwOTA1NDY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Mandahla Rose",
+                "character_name": "Kay"
+            }
+        ],
+        "Directors": [
+            "Christie Conochalla",
+            "Jessica M. Harcourt"
+        ],
+        "Writer": [
+            "Hillary Esquina"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 14, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14049180/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "LesFlicks landing page"
+                    ],
+                    "link": [
+                        "https://lesflicksvod.com/programs/my-love-2021?categoryId=67467"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Representation Matters"
+                    ],
+                    "link": [
+                        "/company/co0719575?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

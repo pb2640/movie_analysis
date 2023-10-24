@@ -1,0 +1,218 @@
+[
+    {
+        "first": [
+            {
+                "title": "Crazywise"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmVhM2I3ZjktZDEwYi00NTNkLWIwZjEtMDQyZjMzNTRmMjUyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDA0MzAwNzY@._V1_QL75_UX190_CR0,3,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "What can we learn from those who have turned their psychological crisis into a positive transformative experience? During a quarter-century documenting indigenous cultures, human-rights phot... Read all"
+            },
+            {
+                "imdb-rating": "7.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Angeles Arrien",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Phil Borges",
+                "character_name": "Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "Laura Delano",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Carroll Dunham",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ekhaya Esima",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Allen Frances",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Adam Gentry",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Gotszche",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzMwYWViMGQtNzQ1ZS00ZjE2LWFiYjktNTcwZmY0NGY0N2EzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR5,0,140,140_.jpg",
+                "actor_name": "Stanislav Grof",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Joan Halifax",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Will Hall",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sandra Ingerman",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Denise Maratos",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Gabor Mat\u00e9",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Krista McKinnon",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "John Read",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Daniel J. Siegel",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dwayne Stone",
+                "character_name": "Self"
+            }
+        ],
+        "Directors": [
+            "Phil Borges",
+            "Kevin Tomlinson"
+        ],
+        "Writer": [
+            "Phil Borges"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 21, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5898454/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Ecuador",
+                        "Mongolia",
+                        "Russia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=EC&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=MN&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=RU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.crazywisefilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Crazywise"
+                    ],
+                    "link": [
+                        "/company/co0598662?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$300,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 22 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16 : 9"
+                    ]
+                }
+            }
+        ]
+    }
+]

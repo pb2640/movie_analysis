@@ -1,0 +1,127 @@
+[
+    {
+        "first": [
+            {
+                "title": "Kirk Fox: That Guy"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTYzZTU3ZGYtMTlkMS00ZGVjLTkzMGYtMmJhNmE5YTI3MDY1XkEyXkFqcGdeQXVyMjMxNTE1NjE@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "In this stand-up comedy special, Kirk Fox examines that guy we all wonder about who sits at the bar by himself. He covers what makes that guy tick, his frequent social faux pas and his misun... Read all"
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjMyMTgwNDg4N15BMl5BanBnXkFtZTcwMjQxMDgyMQ@@._V1_QL75_UY140_CR39,0,140,140_.jpg",
+                "actor_name": "Kirk Fox",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Scott L. Montoya"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 13, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6042334/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "announcment",
+                        "official site"
+                    ],
+                    "link": [
+                        "http://www.lolflix.com/kirk-fox-to-film-his-first-one-hour-comedy-special-at-sblolfest/",
+                        "http://www.lolflix.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Santa Barbara, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Santa%20Barbara%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "LOLflix",
+                        "LOL Comedy"
+                    ],
+                    "link": [
+                        "/company/co0380956?ref_=tt_dt_co_1",
+                        "/company/co0379546?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

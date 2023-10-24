@@ -1,0 +1,132 @@
+[
+    {
+        "first": [
+            {
+                "title": "Servant of the People: The Story of the Constitution of the United States"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Depiction of the Founding Fathers as they create the Constitution of the United States of America."
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTE4MjUzMmEtYTgwNi00ZGM2LWI2NWQtYjdkZThkMTVkNmQ3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Harry C. Bradley",
+                "character_name": "Delegate, Washington's Aide"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODEyNDMyNl5BMl5BanBnXkFtZTgwNTAzNzY1MjE@._V1_QL75_UY140_CR25,0,140,140_.jpg",
+                "actor_name": "John Dilson",
+                "character_name": "Colonist Tavern Patron"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTJjM2MxZTktMzQ0Mi00ZTQ3LThjMTktNjJjNzlhYWM5YjUwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Lester Dorr",
+                "character_name": "Revolutionary Soldier"
+            }
+        ],
+        "Director": [
+            "Edward L. Cahn"
+        ],
+        "Writers": [
+            "Virgil C. Dowell",
+            "Robert D. Speers",
+            "Joseph Sherman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 20, 1937 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0765218/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Metro-Goldwyn-Mayer%20Studios%20-%2010202%20W.%20Washington%20Blvd.%2C%20Culver%20City%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Metro-Goldwyn-Mayer (MGM)"
+                    ],
+                    "link": [
+                        "/company/co0007143?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

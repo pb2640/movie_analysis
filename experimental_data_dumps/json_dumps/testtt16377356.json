@@ -1,0 +1,204 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Janes"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDcwZGUwOTItZTljMi00YWM0LTk0MzMtMDBkYzRlMmM0NWE0XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Police arrested seven women who were part of a clandestine network. Using code names, blindfolds and safe houses, they built an underground service for women seeking safe, affordable, illega... Read all"
+            },
+            {
+                "imdb-rating": "7.6/10"
+            },
+            {
+                "metascore": "12"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Abby",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Judith Arcana",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Heather Booth",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTdkY2U0YjQtNGFiOS00OTBlLWI2N2MtMWQyM2JkNjhkNzM1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR21,0,140,140_.jpg",
+                "actor_name": "Richard J. Daley",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Eileen",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Laura Kaplan",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Marie Leaner",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Patricia Novick-Raby",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Ted O'Connor",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Eleanor Oliver",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Peaches",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Donna Schaper",
+                "character_name": "Clergy Consultation Service"
+            },
+            {
+                "image": null,
+                "actor_name": "Martha Scott",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Sheila",
+                "character_name": "Jane Member"
+            },
+            {
+                "image": null,
+                "actor_name": "Diane Stevens",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Allan Weiland",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jo-Anne Wolfson",
+                "character_name": "Self"
+            }
+        ],
+        "Directors": [
+            "Tia Lessin",
+            "Emma Pildes"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 8, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt16377356/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "HBO Documentary Films",
+                        "Pentimento Productions"
+                    ],
+                    "link": [
+                        "/company/co0139821?ref_=tt_dt_co_1",
+                        "/company/co0652942?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 41 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

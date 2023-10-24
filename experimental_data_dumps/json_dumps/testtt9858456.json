@@ -1,0 +1,145 @@
+[
+    {
+        "first": [
+            {
+                "title": "Dave Grusin: Not Enough Time"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMmIzZTgzNGQtMDgwNi00MmQ3LTk4NTktZWUxMDk5OGFhYzdhXkEyXkFqcGdeQXVyMTA4MDE5Nzgz._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Biography",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Millions of people all over the world love the music of Dave Grusin but most do not realize the full extent of his extraordinary career."
+            },
+            {
+                "imdb-rating": "9.4/10"
+            },
+            {
+                "metascore": "6"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTA3NTAwMTQzNTdeQTJeQWpwZ15BbWU3MDE0MTI3MTQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tom Brokaw",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzcyZjJkMjgtMDljZS00MDA1LTljZDktN2RmNWEyZWI0ZmIwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dave Grusin",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjg5MTQ4MzY5M15BMl5BanBnXkFtZTcwMzM4MzU1Mw@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Quincy Jones",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmNiZmMzN2MtOTNkMy00YjA1LTg4NzktMWI4Njg1NzI3ODAyXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UX140_CR0,20,140,140_.jpg",
+                "actor_name": "Michael Keaton",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tommy LiPuma",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Thomas McGuane",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Marcus Miller",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Lee Ritenour",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Barbara Bentree"
+        ],
+        "Writer": [
+            "Barbara Bentree"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 1, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9858456/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official film website",
+                        "Official Website"
+                    ],
+                    "link": [
+                        "http://www.grusinfilm.com/",
+                        "https://www.grusinfilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 28 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

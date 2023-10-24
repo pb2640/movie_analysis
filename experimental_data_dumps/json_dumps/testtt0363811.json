@@ -1,0 +1,77 @@
+[
+    {
+        "first": [
+            {
+                "title": "Los mercenarios"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzdkZDExZWYtOWZkYS00MTQ0LTkzNzMtM2UxMGM0NjU0NjI2XkEyXkFqcGdeQXVyMTM0NzY0ODYw._V1_QL75_UX190_CR0,17,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Eduardo Carrasco Zanini"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

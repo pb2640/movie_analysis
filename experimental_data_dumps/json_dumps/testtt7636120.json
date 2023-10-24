@@ -1,0 +1,118 @@
+[
+    {
+        "first": [
+            {
+                "title": "Sisler Kovulunca"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BY2RiOTA2N2QtZmQ5ZC00NmY0LTlkYWItZjIxNDFkNzYyYTgzXkEyXkFqcGdeQXVyNzcyOTkwOA@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "With ages ranging from 64 to 104, the film \"When the Fog Dispelled\" documents nine artisans who constructed many of these houses. Also revealing aspects of traditional Eastern Black Sea life... Read all"
+            },
+            {
+                "imdb-rating": "6.8/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Sureyya Arin",
+                "character_name": "Narrator"
+            }
+        ],
+        "Director": [
+            "Suha Arin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 1, 1986 (Turkey)"
+                    ],
+                    "link": [
+                        "/title/tt7636120/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Turkey"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=TR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.mtvfilm.com/tr/film/sisler-kovulunca/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Turkish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=tr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "MTV Film Televizyon"
+                    ],
+                    "link": [
+                        "/company/co0304266?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "41 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

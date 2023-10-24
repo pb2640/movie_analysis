@@ -1,0 +1,103 @@
+[
+    {
+        "first": [
+            {
+                "title": "Trois couleurs noir"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "8.2/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Lars Damoiseaux"
+        ],
+        "Writer": [
+            "Lars Damoiseaux"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1996 (Belgium)"
+                    ],
+                    "link": [
+                        "/title/tt0441530/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Belgium"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=BE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Dutch"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=nl&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Striker Pictures",
+                        "Striker Production"
+                    ],
+                    "link": [
+                        "/company/co0030160?ref_=tt_dt_co_1",
+                        "/company/co0078015?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

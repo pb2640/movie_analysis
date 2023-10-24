@@ -1,0 +1,153 @@
+[
+    {
+        "first": [
+            {
+                "title": "Flash That Smile"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "The American Dental Association advises all Americans to Flash That Smile."
+            },
+            {
+                "imdb-rating": "2.5/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Tom Cabelka",
+                "character_name": "Michael"
+            },
+            {
+                "image": null,
+                "actor_name": "Ronnie Comeau",
+                "character_name": "Modern Jazz Dancers (Girl 3)"
+            },
+            {
+                "image": null,
+                "actor_name": "Andrea DeLano",
+                "character_name": "Breakdancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Michelle DeWoskin",
+                "character_name": "Modern Jazz Dancers (Girl 2)"
+            },
+            {
+                "image": null,
+                "actor_name": "Heather Fisher",
+                "character_name": "Modern Jazz Dancers (Girl 1)"
+            },
+            {
+                "image": null,
+                "actor_name": "Leta Kritzman",
+                "character_name": "Daryl"
+            },
+            {
+                "image": null,
+                "actor_name": "Kristy Martin",
+                "character_name": "Jennifer"
+            },
+            {
+                "image": null,
+                "actor_name": "Kathi McGowan",
+                "character_name": "Modern Jazz Dancers (Girl 4)"
+            },
+            {
+                "image": null,
+                "actor_name": "Errol Meeks",
+                "character_name": "Breakdancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Heidi Meyer",
+                "character_name": "Susie"
+            },
+            {
+                "image": null,
+                "actor_name": "Kenneth Roberts",
+                "character_name": "Breakdancer"
+            }
+        ],
+        "Director": [
+            "Steven A. Tryba"
+        ],
+        "Writers": [
+            "Karen Boettcher",
+            "Steven A. Tryba"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1984 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7260640/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "American Dental Association",
+                        "Cinemage"
+                    ],
+                    "link": [
+                        "/company/co0188379?ref_=tt_dt_co_1",
+                        "/company/co0658260?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

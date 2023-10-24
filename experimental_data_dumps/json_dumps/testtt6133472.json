@@ -1,0 +1,106 @@
+[
+    {
+        "first": [
+            {
+                "title": "Crybaby"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "On his way out the door for an important business meeting, a man must drop everything to console his overwhelmed wife -- and a crying baby."
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjBiMTE0NTUtOGJkNC00MTk3LWI0MjEtY2Q0YzRkY2M4ODM1XkEyXkFqcGdeQXVyMTI5MTY3MDg5._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Curran Connor",
+                "character_name": "The Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Lunetta Kasper",
+                "character_name": "The Baby"
+            },
+            {
+                "image": null,
+                "actor_name": "Erica Newhouse",
+                "character_name": "The Woman"
+            },
+            {
+                "image": null,
+                "actor_name": "Amelia Pedlow",
+                "character_name": "The Hostage"
+            }
+        ],
+        "Director": [
+            "Solomon Gray"
+        ],
+        "Writer": [
+            "Solomon Gray"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 15, 2017 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt6133472/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

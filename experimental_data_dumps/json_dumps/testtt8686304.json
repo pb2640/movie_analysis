@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "Action Figures 2"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMWViYjJhMjYtZDkxNS00MDk5LTkzMTEtYjRhMDM5MTY1MGMzXkEyXkFqcGdeQXVyNjQyMDIwODQ@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "The highly anticipated sequel to Travis Pastrana's hit action-sports movie, Action Figures. Nitro Circus founder and X Games champ does it again with more gravity-shattering stunts."
+            },
+            {
+                "imdb-rating": "7.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Travis Pastrana"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 28, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8686304/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Nitro Circus Media Productions"
+                    ],
+                    "link": [
+                        "/company/co0593646?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 2 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "Le Home Cin\u00e9ma des fr\u00e8res Dardenne"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMGFkNTZiYmMtOGYyMC00MjlkLWFjNzgtMjQ1NmI3NDY1NThlXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_QL75_UY281_CR133,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "The cinematic word of the Dardenne brothers, printed on incandescent Super 8 in Seraing, their adolescence hometown. Decorating the film, a town that was actually incandescent before the shu... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDgwNDI0OTA3MV5BMl5BanBnXkFtZTcwMTY3NjY4Nw@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Jean-Pierre Dardenne",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjMwNjc4MTIxOV5BMl5BanBnXkFtZTcwMTc0MjM4Nw@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Luc Dardenne",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Jean-Pierre Limosin"
+        ],
+        "Writers": [
+            "Jean-Pierre Limosin",
+            "Andr\u00e9 S. Labarthe",
+            "Janine Bazin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2006 (France)"
+                    ],
+                    "link": [
+                        "/title/tt2165911/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "French"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Audiovisuel Multimedia International Production (AMIP)"
+                    ],
+                    "link": [
+                        "/company/co0005202?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "52 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

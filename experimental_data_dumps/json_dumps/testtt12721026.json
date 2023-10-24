@@ -1,0 +1,111 @@
+[
+    {
+        "first": [
+            {
+                "title": "How to Fix a Primary"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2I3NTdiNTItZTBkYi00N2I3LTg1N2QtOGZmNDRlOTgxZjllXkEyXkFqcGdeQXVyMjAxNjY1OTQ@._V1_QL75_UX190_CR0,6,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Follows the story that is shaking up Democratic Party politics nationwide, highlighting the role of power and money in a system many believe is broken but can be fixed."
+            },
+            {
+                "imdb-rating": "5.5/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 20, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12721026/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official Twitter account"
+                    ],
+                    "link": [
+                        "https://facebook.com/fixaprimary",
+                        "https://twitter.com/FixAPrimary"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Version One Productions"
+                    ],
+                    "link": [
+                        "/company/co0253392?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

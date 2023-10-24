@@ -1,0 +1,180 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Menace with Five Arms"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDhjYzk1NWEtNzA5My00ZWFhLWJlNGItZTg3MWEyNjdmMzRkXkEyXkFqcGdeQXVyMzcxOTY0MTU@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A sheriff and a professor fall in love as they track down the giant prehistoric starfish that roams the desert."
+            },
+            {
+                "imdb-rating": "5.3/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDExMDBlMGYtOTE4Ny00ZmU4LWJlOTgtNjk4ODFmZDM3ZDhkXkEyXkFqcGdeQXVyMzcxOTY0MTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Joshua Kennedy",
+                "character_name": "Joseph Kerwin"
+            },
+            {
+                "image": null,
+                "actor_name": "Ayssette Mu\u00f1oz",
+                "character_name": "Karla Joyce"
+            },
+            {
+                "image": null,
+                "actor_name": "Devin Dunne",
+                "character_name": "Carol"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWU2NWQ2YjYtNjM1Zi00ZDAwLWI2NDYtOWI3YjgwYzcyZjdkXkEyXkFqcGdeQXVyMjA3MDI0OTk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Jorge Chapa",
+                "character_name": "Janus Cass"
+            },
+            {
+                "image": null,
+                "actor_name": "Kat Kennedy",
+                "character_name": "Peggy Lawson"
+            },
+            {
+                "image": null,
+                "actor_name": "Joshua Palacios",
+                "character_name": "Shaw"
+            },
+            {
+                "image": null,
+                "actor_name": "Alex Villarreal",
+                "character_name": "Scotty"
+            },
+            {
+                "image": null,
+                "actor_name": "Miguel \u00c1ngel Martinez",
+                "character_name": "Oscar Arbogast"
+            },
+            {
+                "image": null,
+                "actor_name": "Jairus Esparza",
+                "character_name": "Seb"
+            },
+            {
+                "image": null,
+                "actor_name": "Julian Flores",
+                "character_name": "Townsperson"
+            },
+            {
+                "image": null,
+                "actor_name": "Bryan Martinez",
+                "character_name": "Mitch McCarthy"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Rosenfeld",
+                "character_name": "Mark Holmes"
+            }
+        ],
+        "Director": [
+            "Joshua Kennedy"
+        ],
+        "Writer": [
+            "Joshua Kennedy"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 22, 2013 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3881270/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "http://www.facebook.com/themenacewithfivearms",
+                        "https://www.facebook.com/themenacewithfivearms?ref=hl&ref_type=bookmark"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Gooey Film Productions"
+                    ],
+                    "link": [
+                        "/company/co0491172?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

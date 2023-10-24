@@ -1,0 +1,134 @@
+[
+    {
+        "first": [
+            {
+                "title": "Zombie Dogs"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Filmmaker Toh Hai Leong (in reality primarily a critic) more or less plays himself as a cult filmmaker looking for actors for a snuff film. He keeps rattling monologues about film and anythi... Read all"
+            },
+            {
+                "imdb-rating": "5.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Francis Frightful",
+                "character_name": "Band Leader"
+            },
+            {
+                "image": null,
+                "actor_name": "Poh Huat Lim",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Hai Leong Toh",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Hai Leong Toh"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 30, 2004 (Singapore)"
+                    ],
+                    "link": [
+                        "/title/tt0981118/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Singapore"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=SG&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.zhaowei.com/zombiedogs.html"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Singapore"
+                    ],
+                    "link": [
+                        "/search/title?locations=Singapore&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Zhao Wei Films (I)"
+                    ],
+                    "link": [
+                        "/company/co0073485?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "SGD\u00a0500 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 3 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White",
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "first": [
+            {
+                "title": "London Calling: Cold War Letters"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTdkZWQzZjAtNjc0NS00NmIxLWJjZWQtOWM3MDczNGI4MWI0XkEyXkFqcGdeQXVyMTEzNzkwMTYx._V1_QL75_UY281_CR156,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "History"
+                ]
+            },
+            {
+                "plot": "For over 25 years, the BBC gave voice to the silenced people of East Germany by inviting them to secretly write in to a radio programme called Letters without Signature. Broadcast on the BBC... Read all"
+            },
+            {
+                "imdb-rating": "6.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzkwMWI5MmMtNzAwNy00NWUyLWI5Y2YtNzE4Y2RhMjk5NGE0XkEyXkFqcGdeQXVyNTEzNTE1Njc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Lucy Tregear",
+                "character_name": "Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "Emily Oliver",
+                "character_name": "Self, historian, University of Oxford"
+            },
+            {
+                "image": null,
+                "actor_name": "Bill Treharne Jones",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Susanne Sch\u00e4dlich",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Karl-Heinz Borchardt",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Rolf Joachim Erler",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "G\u00fcnter Burkart",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Sahla",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Austin Harrison",
+                "character_name": "Self, BBC German Language Service"
+            },
+            {
+                "image": null,
+                "actor_name": "Rudolf Harnisch",
+                "character_name": "Self, Stasi agent"
+            }
+        ],
+        "Director": [
+            "Christian H. Schulz"
+        ],
+        "Writers": [
+            "Elsa Hunter-Weston",
+            "Christian Hans Schulz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 7, 2019 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt11805302/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "German"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Colchester, Essex, England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=Colchester%2C%20Essex%2C%20England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Schulz/Wendelmann Film",
+                        "State of Grace Films"
+                    ],
+                    "link": [
+                        "/company/co0786697?ref_=tt_dt_co_1",
+                        "/company/co0786696?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u00a3100,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "58 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

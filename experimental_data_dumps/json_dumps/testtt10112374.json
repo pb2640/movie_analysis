@@ -1,0 +1,136 @@
+[
+    {
+        "first": [
+            {
+                "title": "Neverland Firsthand: Investigating the Michael Jackson Documentary"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjhhN2Y1MDgtZDhmMi00YjJhLWJjNDEtNmY2ODUzMmMzZWU2XkEyXkFqcGdeQXVyODY4MDE0Mjk@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Neverland Firsthand is a mini-documentary which further explores allegations made in HBO's Leaving Neverland (2019)."
+            },
+            {
+                "imdb-rating": "7.0/10"
+            },
+            {
+                "metascore": "6"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Brandi Jackson",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM1NjExNjg1OV5BMl5BanBnXkFtZTcwMTQ0NzIwMw@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Michael Jackson",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTk0MTIzMTMtMDI4YS00N2QwLWExMzEtZjg3MGZiOTJmZDJmXkEyXkFqcGdeQXVyMTc3NjY4NTg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Taj Jackson",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Liam McEwan",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Scott Ross",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Brad Sundberg",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Thomson",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Eli Pedraza"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 30, 2019 (New Zealand)"
+                    ],
+                    "link": [
+                        "/title/tt10112374/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "New Zealand"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=NZ&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Twitter of producer"
+                    ],
+                    "link": [
+                        "https://twitter.com/LiamMcEwan/status/1112066970134798337"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "31 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

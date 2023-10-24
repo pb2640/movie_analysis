@@ -1,0 +1,200 @@
+[
+    {
+        "first": [
+            {
+                "title": "Agramon's Gate"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjkwZjIyZmMtYTAwNC00YmFmLTllOGMtZmE4ZTdjZDhmZjgxXkEyXkFqcGdeQXVyNDg3NzEyMzY@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror",
+                    "Mystery",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A psychic reader and Medium are invited to a party. Something goes very wrong and something comes over from the other side to haunt the people from the party. They must solve the mystery bef... Read all"
+            },
+            {
+                "imdb-rating": "3.2/10"
+            },
+            {
+                "metascore": "46"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmNiNGY2N2QtMzE3Mi00MzQ1LWJkMzQtMDUwYzdkNWQyNzZjXkEyXkFqcGdeQXVyNjk0MzEwNw@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Laurene Landon",
+                "character_name": "Sharon Stann"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWJiOGQ0MGQtODBkYy00NTg3LThlNGUtYjk2MThjM2NkYzA0XkEyXkFqcGdeQXVyMDc1NDc4Nw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Yan Birch",
+                "character_name": "Carter Stann"
+            },
+            {
+                "image": null,
+                "actor_name": "Kris Reilly",
+                "character_name": "Richie Stann"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTAzMzVjM2MtOTRiMS00YTkwLWE5NzItYmI4Yzg5NTFmYjU3XkEyXkFqcGdeQXVyNzE2MjQyODE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kaiti Wallen",
+                "character_name": "Cassidy Stann"
+            },
+            {
+                "image": null,
+                "actor_name": "Aphrodite Nikolovski",
+                "character_name": "Vesna"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzYzOWIxNGYtMzM4Mi00N2FiLTljNDEtY2ZkZTRjNmY4NjJlXkEyXkFqcGdeQXVyNDg3NzEyMzY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Harley Wallen",
+                "character_name": "Zeb"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjdiZDBmZWMtYzgzNC00ZDQxLWFlNzEtM2Y5ZTg0MWZkZWE3XkEyXkFqcGdeQXVyNjgxNjg1MA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Calhoun Koenig",
+                "character_name": "Agramon"
+            },
+            {
+                "image": null,
+                "actor_name": "Jessika Johnson",
+                "character_name": "Madelyn"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmRhYTA2MWYtMmI0Yy00MzA5LThjZjctZTE4MTUyOTNmZDA1XkEyXkFqcGdeQXVyNjI4OTg0ODE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Francisco Posada",
+                "character_name": "Cameron"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDlmNzRmMzItZDRkMy00ODQ3LWIxOGQtNGI0NDUxODdmZGJjXkEyXkFqcGdeQXVyNjQzNjM2ODA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Angelina Danielle Cama",
+                "character_name": "Tiffany"
+            },
+            {
+                "image": null,
+                "actor_name": "Stacey Saunders",
+                "character_name": "Natalie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTcyNzQwOGUtZDRhMS00NjMwLThjMmYtZjEwYTAzMzU3ZTRhXkEyXkFqcGdeQXVyMjQ0NzcxMDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jennifer Jelsema",
+                "character_name": "Detective Simmons"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTIzYzMyYzYtYjZiZC00ZmEzLWI2NTgtNzRlN2Q2MWI0ZDBjXkEyXkFqcGdeQXVyMTAyMjc4MDY0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Troy Randall-Kilpatrick",
+                "character_name": "Detective Blackwell"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjE4NTBiMjQtYzMyYS00NmYyLTgzODctZmRlNzgxNWRlOWE1XkEyXkFqcGdeQXVyNzgzODgxOTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Chevonne Wilson",
+                "character_name": "Nurse Katherine"
+            },
+            {
+                "image": null,
+                "actor_name": "Denise Emilia Sandulescu",
+                "character_name": "Young Sharon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDE2NDY0ZDYtYTcyOC00ZjIzLTkwNzItNmMxZGYwNTA0MTgxXkEyXkFqcGdeQXVyODgyMDIwOTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Walker Fairbanks",
+                "character_name": "Young Richie"
+            },
+            {
+                "image": null,
+                "actor_name": "Brent Bondy",
+                "character_name": "Young Carter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODA4MGFiM2QtYjYxZC00YTJjLWFmMDctYTE5NTgyNGUyNzUxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR44,0,140,140_.jpg",
+                "actor_name": "Peter Knox",
+                "character_name": "Killian"
+            }
+        ],
+        "Director": [
+            "Harley Wallen"
+        ],
+        "Writer": [
+            "Harley Wallen"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 11, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6318954/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Painted Creek Productions",
+                        "Auburn Moon Productions",
+                        "Carribean Fury Productions"
+                    ],
+                    "link": [
+                        "/company/co0593584?ref_=tt_dt_co_1",
+                        "/company/co0091745?ref_=tt_dt_co_2",
+                        "/company/co0550531?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 50 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.50:1"
+                    ]
+                }
+            }
+        ]
+    }
+]

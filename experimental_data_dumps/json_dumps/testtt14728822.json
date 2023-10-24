@@ -1,0 +1,103 @@
+[
+    {
+        "first": [
+            {
+                "title": "Aya"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODEzMjNjOWYtMzA0Yy00MTE3LThiYTItZTg4NDA1ZDM4YjU3XkEyXkFqcGdeQXVyMjA2Nzg3ODA@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Calais, France. In a town taking on the appearance of the Wild West, Lydie, a kind-hearted fifty-something, has taken in Zimako, an undocumented exile from Togo, former occupant of the \"Cala... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 15, 2021 (Switzerland)"
+                    ],
+                    "link": [
+                        "/title/tt14728822/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Switzerland"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CH&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Take Time Films Production"
+                    ],
+                    "link": [
+                        "https://www.taketimefilms.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "French"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Take Time Films"
+                    ],
+                    "link": [
+                        "/company/co0571619?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "6-Track Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

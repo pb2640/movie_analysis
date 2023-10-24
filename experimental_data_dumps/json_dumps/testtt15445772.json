@@ -1,0 +1,95 @@
+[
+    {
+        "first": [
+            {
+                "title": "Amy Winehouse and Me: Dionne's Story"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZmEyNGEzYmItNDkyNi00MTY5LTk5MTktNTQyMTBiN2QyOGJhXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "On the tenth anniversary of Amy Winehouse's tragic death, Dionne Bromfield opens up for the first time about the impact of her Godmother's death on her life."
+            },
+            {
+                "imdb-rating": "6.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Dionne Bromfield",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc4MzM5MjM0NV5BMl5BanBnXkFtZTgwNzE5MTM2NTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Amy Winehouse",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Eloise King"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 29, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt15445772/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Japan"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=JP&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "44 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

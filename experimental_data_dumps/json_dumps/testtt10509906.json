@@ -1,0 +1,237 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Long Night"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2U2YmFjMzctYWU0ZS00ZmQzLWFkZDUtZGRjOGY1MWMyY2FjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A devoted couple's quiet weekend takes a bizarre turn when a nightmarish cult and their maniacal leader come to fulfill an apocalyptic prophesy."
+            },
+            {
+                "imdb-rating": "3.8/10"
+            },
+            {
+                "metascore": "56"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTczODkxNzAtZWJmOC00NjgwLTgxNzgtN2IxMTU4NDAyZWNkXkEyXkFqcGdeQXVyODYwMDYzNDY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Scout Taylor-Compton",
+                "character_name": "Grace Covington"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzk3NjhkZGQtMDkzNy00NzI4LTlkYzgtYmE2MTUxMDUwYTMxXkEyXkFqcGdeQXVyMTMxNjQ2NjA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Nolan Gerard Funk",
+                "character_name": "Jack Cabot"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE1NDM3NTMwNF5BMl5BanBnXkFtZTcwOTE5MDkyMQ@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Deborah Kara Unger",
+                "character_name": "The Master"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNThhNmE3NDEtYzVlYi00ZGQ0LTk0ZWUtYzRmNzQxMzZiMmZiXkEyXkFqcGdeQXVyOTY2NzAzMTk@._V1_QL75_UX140_CR0,23,140,140_.jpg",
+                "actor_name": "Jeff Fahey",
+                "character_name": "Wayne"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTEyMzgxM2YtNDEzZS00ZDNhLTk4NzktYmM5N2VjZWQyMjU3XkEyXkFqcGdeQXVyNjU5ODI5OTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kevin Ragsdale",
+                "character_name": "Wade"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzc4ZDAxOGUtMjQ1Ny00ZWI1LTk1M2ItMTMzMzRkOGU1N2Y4XkEyXkFqcGdeQXVyMzUyNDAxMw@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "King Orba",
+                "character_name": "Frank Caldwell"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTM3MTU0NDQwOV5BMl5BanBnXkFtZTgwMDY4NjM4OTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Erika Stasiuleviciute",
+                "character_name": "The Master (Flashbacks)"
+            },
+            {
+                "image": null,
+                "actor_name": "Juniper Ghazi",
+                "character_name": "Young Grace"
+            },
+            {
+                "image": null,
+                "actor_name": "Wendy Devore",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2E1ZTkyNDEtYzBiMy00Yjk1LWI0NDMtYWJlYzUzNTVjNTg1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Rocco Bovo",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": null,
+                "actor_name": "R.J. Johnson",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": null,
+                "actor_name": "Logan L. Henderson",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MzNiZGMtZDNjMS00Mjg5LWI2N2UtNzY4M2I2Yzg4YjczXkEyXkFqcGdeQXVyOTU3MDg1OTY@._V1_QL75_UX140_CR0,20,140,140_.jpg",
+                "actor_name": "Justin Paitsel",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTJmMWJmZmMtY2UwZS00YjhlLWIwYTgtZjhkMTAwNGU3ODQyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Scott Daniel",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWIxY2I4NzEtOTFkMi00ZjE5LWJhZGEtZDBhOWM1OTdhNzRmXkEyXkFqcGdeQXVyMTYyMDUzMzM0._V1_QL75_UX140_CR0,63,140,140_.jpg",
+                "actor_name": "Sekou Henderson",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": null,
+                "actor_name": "Christopher Hylton",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTEwZjY5MWItMmE5My00MTBmLWEwZGQtZTJlMjQ3NjY4MzJlXkEyXkFqcGdeQXVyMjkzODE3MDc@._V1_QL75_UY140_CR14,0,140,140_.jpg",
+                "actor_name": "Russ Gladden",
+                "character_name": "Uktena's Disciple"
+            },
+            {
+                "image": null,
+                "actor_name": "Quinn Powers",
+                "character_name": "Uktena's Disciple"
+            }
+        ],
+        "Director": [
+            "Rich Ragsdale"
+        ],
+        "Writers": [
+            "Mark Young",
+            "Robert Sheppe"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 8, 2022 (Poland)"
+                    ],
+                    "link": [
+                        "/title/tt10509906/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "instagram account",
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/thecovenmovie/",
+                        "http://www.wellgousa.com/films/the-long-night"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Charleston, South Carolina, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Charleston%2C%20South%20Carolina%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Sprockefeller Pictures",
+                        "Adirondack Media Group",
+                        "El Ride Productions"
+                    ],
+                    "link": [
+                        "/company/co0558799?ref_=tt_dt_co_1",
+                        "/company/co0808402?ref_=tt_dt_co_2",
+                        "/company/co0562689?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$81,351"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 31 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

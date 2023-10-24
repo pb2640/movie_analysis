@@ -1,0 +1,168 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Quacky Slasher"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTZhNzQ5ZGItMDA4MC00YTlhLTg0YmQtN2RkODY5NWE0NmE5XkEyXkFqcGdeQXVyNjE0NDk1NjY@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Michael Quackers has spent 20 years in a psychiatric ward. Returning home to fight the criminal underbelly of his town, Michael must become the one thing that scares him most if he is to suc... Read all"
+            },
+            {
+                "imdb-rating": "5.4/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Andrew Butterworth",
+                "character_name": "Michael Quackers"
+            },
+            {
+                "image": null,
+                "actor_name": "Neil Gallagher",
+                "character_name": "Mr. Mozzarella"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTY4YzYxYWQtNTdhMS00YzhhLTllNjQtMjE5NGNhNzFkNzlmXkEyXkFqcGdeQXVyMjI4ODUzMjU@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Michael Hagen",
+                "character_name": "Handsome Johannson"
+            },
+            {
+                "image": null,
+                "actor_name": "Jacqueline Mercer",
+                "character_name": "Detective Mantelpiece"
+            },
+            {
+                "image": null,
+                "actor_name": "Jayne Kinsella",
+                "character_name": "Detective Dampsy"
+            },
+            {
+                "image": null,
+                "actor_name": "Ian Finney",
+                "character_name": "Farraday"
+            },
+            {
+                "image": null,
+                "actor_name": "Andy Coffey",
+                "character_name": "The Wet Dream"
+            },
+            {
+                "image": null,
+                "actor_name": "Karl Davies",
+                "character_name": "CSI Guy"
+            },
+            {
+                "image": null,
+                "actor_name": "Sophia Kinsella",
+                "character_name": "Young Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Sarah Chesters",
+                "character_name": "Girl"
+            }
+        ],
+        "Director": [
+            "Peter Mckeirnon"
+        ],
+        "Writer": [
+            "Peter Mckeirnon"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 30, 2017 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt6997672/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/TheQuackySlasher/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Slumberjack Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0586529?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u00a31,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "36 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

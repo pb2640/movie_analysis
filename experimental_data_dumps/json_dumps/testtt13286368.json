@@ -1,0 +1,181 @@
+[
+    {
+        "first": [
+            {
+                "title": "So Long Marianne"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTA2ZTkzMDItMjE0Ni00MDMxLTg3NzQtOTdlZDU5Yjg2OTU4XkEyXkFqcGdeQXVyMTA1NTQyMzA3._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "Poet and novelist Leonard Cohen travels to Hydra to rewrite his novel. After some time on the island he finds the love of his life Marianne, with her encouragement he sings his poetry - beco... Read all"
+            },
+            {
+                "imdb-rating": "5.5/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjg3ZTZmYzQtOTVjOS00OTY4LTlhYjYtNTVmY2M3NjA0OGM0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Josefine Frida Pettersen",
+                "character_name": "Marianne Ilhen"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Vetch",
+                "character_name": "Leonard Cohen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDY0NjZiN2UtMzFkMy00ZDEwLWEwOTItNTIyMTQxN2JkOWYzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ed Ward",
+                "character_name": "Anthony Kingsmill"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODZlZGRmNjgtNzg5Ny00NjhmLWI1MzYtMjY0YmZkYjA1Y2FlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Suzanne Kendall",
+                "character_name": "Charmian Clift"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzc1N2NiYTctYzRhMi00ZWFhLThhMmMtNmE3NmM1NGQ0NTc0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Tim Churchill",
+                "character_name": "George Johnson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2MyODIwMTYtNDk1Ny00OTkyLWExN2UtZTUzOWQ1NGU0NjcyXkEyXkFqcGdeQXVyMTA5ODk3MDU4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Despina Mirou",
+                "character_name": "Sophia Loren"
+            },
+            {
+                "image": null,
+                "actor_name": "Catherine O'Reilly",
+                "character_name": "Countess Marcello"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2E3MGNhZTYtNDYxMC00Yzc1LWExMzMtM2UxZmMzNDQ1ODBiXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Andreas Marianos",
+                "character_name": "ioannis Kardamatis"
+            },
+            {
+                "image": null,
+                "actor_name": "Shaylyn Gibson",
+                "character_name": "Nancy Bacal"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDkyMjRhZmItODUzZC00OTE2LTkxMWUtZjgwOGU5OWJmZDkxXkEyXkFqcGdeQXVyMTAwNjQ0NDgw._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "MJ Lee",
+                "character_name": "Adrienne Clarkson"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Rainbow",
+                "character_name": "Bill Cunliffe"
+            },
+            {
+                "image": null,
+                "actor_name": "Step Sinatra",
+                "character_name": "Jake Wiliams"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWUxZmY1OTEtZGJmNS00ZTNjLWJlNjMtNjY4NmJlM2U4YTI2XkEyXkFqcGdeQXVyMzI5MzQ3NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Daniel Dresner",
+                "character_name": "Irving Layton"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmQ3YmY3NTctZjRkMC00ODlhLTkxNzMtZjI5ODExYzIyNDZmXkEyXkFqcGdeQXVyMTIyNzgyMTk2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Catherine O'Reilly",
+                "character_name": "Countess Marcello"
+            },
+            {
+                "image": null,
+                "actor_name": "Jason Wilson",
+                "character_name": "Tim Hennessey"
+            }
+        ],
+        "Director": [
+            "Paul Wiffen"
+        ],
+        "Writers": [
+            "Robbie Moffat",
+            "Gabriel Murray",
+            "Paul Wiffen"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 22, 2023 (France)"
+                    ],
+                    "link": [
+                        "/title/tt13286368/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Island of Hydra, Greece"
+                    ],
+                    "link": [
+                        "/search/title?locations=Island%20of%20Hydra%2C%20Greece&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Palm Tree Universal"
+                    ],
+                    "link": [
+                        "/company/co0622823?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

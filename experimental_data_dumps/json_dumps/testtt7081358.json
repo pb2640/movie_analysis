@@ -1,0 +1,98 @@
+[
+    {
+        "first": [
+            {
+                "title": "Tex"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTY0YWY1OTEtMDEyMy00YWQzLWJjMTQtYTEzZTliNzEwYjBlXkEyXkFqcGdeQXVyMTM4MDIwNzE@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "6.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Jonas Smulders"
+        ],
+        "Writer": [
+            "Jonas Smulders"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 1, 2017 (Netherlands)"
+                    ],
+                    "link": [
+                        "/title/tt7081358/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Netherlands"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NL&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Dutch"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=nl&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Keplerfilm"
+                    ],
+                    "link": [
+                        "/company/co0591601?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "18 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

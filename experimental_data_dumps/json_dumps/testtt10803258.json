@@ -1,0 +1,115 @@
+[
+    {
+        "first": [
+            {
+                "title": "Rick and Steve the Happiest Gay Couple in all the World: Potty Mouth Training"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWJmYWVjNDMtMTM4NS00ODhhLTliOWEtMGNlZTBmOGJkOWRiL2ltYWdlXkEyXkFqcGdeQXVyMjI0OTY0Mjk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Shaughn Buchholz",
+                "character_name": "Chuck"
+            },
+            {
+                "image": null,
+                "actor_name": "Misti Chamkunthod",
+                "character_name": "Dana"
+            },
+            {
+                "image": null,
+                "actor_name": "Jessica Erker",
+                "character_name": "Pussy"
+            },
+            {
+                "image": null,
+                "actor_name": "Christopher R. Joyce",
+                "character_name": "Steve"
+            },
+            {
+                "image": null,
+                "actor_name": "Terence McFarland",
+                "character_name": "Rick"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM0MDkxMzM5Ml5BMl5BanBnXkFtZTgwMDU0MDg5MDE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Adrienne Pearson",
+                "character_name": "Kirsten"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGQ1NDM4OGMtZmRlZi00YzQ1LWI4YWEtMjZjZDM4N2NjNWI4XkEyXkFqcGdeQXVyNzQwOTAyOQ@@._V1_QL75_UY140_CR5,0,140,140_.jpg",
+                "actor_name": "Guinevere Turner",
+                "character_name": "Chastity Bono"
+            }
+        ],
+        "Director": [
+            "Q. Allan Brocka"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 23, 2001 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10803258/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

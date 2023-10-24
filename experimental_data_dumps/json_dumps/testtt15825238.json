@@ -1,0 +1,227 @@
+[
+    {
+        "first": [
+            {
+                "title": "Stolen by Their Father"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTQ0YjIyMzktMDYzYy00YmIyLWI5YjktZGQxZDQyZjYwYzU5XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A woman finds herself fighting for her daughters when her ex kidnaps them."
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzZiNDI2ZjktNzM3YS00ZjgxLWFhYTctYzNiYWNlOGQ4ODdmXkEyXkFqcGdeQXVyMTI2MTg1MjAz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Sarah Drew",
+                "character_name": "Lizbeth Meredith"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWJkOGE0M2ItMTQ3NS00NjE4LWJmMWMtMzQ5OGFmZjQyMWFjXkEyXkFqcGdeQXVyNzczNTk2MTg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Carina Battrick",
+                "character_name": "Meredith"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmNmNjc2NDEtZWY3Yy00NDA1LWEzZGItMzViN2MzOWFmZmUwXkEyXkFqcGdeQXVyNTA1NTY5Mw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tara Yelland",
+                "character_name": "Cheryl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM2NTk3MTk3MV5BMl5BanBnXkFtZTgwMDY4MTk0MDI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Patrice Goodman",
+                "character_name": "Ann"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTVlMDczMDctNWQwYi00MTQzLTg1YzYtNjZmM2FiMTUzNzQ0XkEyXkFqcGdeQXVyMTEyOTUxNDU2._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Cameron Nicoll",
+                "character_name": "Liam"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzEzZjlhZWItMmM3Zi00N2NjLWEzNTMtZDJlN2Q5MmNhNTU5XkEyXkFqcGdeQXVyNDE5MDk5Njk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Caroline Palmer",
+                "character_name": "Lynn"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzc0NjFhOTgtZGNiYS00YzcwLWE4ODYtYzI1MzE5ZWViZmY3XkEyXkFqcGdeQXVyMjI4NjY4MjM@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Fiona Highet",
+                "character_name": "Detective Spring"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTZjODUwZmMtNjg0NC00NjVlLWI5MGYtODYyODAzNzVjOGIyXkEyXkFqcGdeQXVyMTEzODcxMTg1._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Jinny Wong",
+                "character_name": "Janet"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDZmODE5MGYtM2M5ZC00NzEwLWE5MzAtYTI1NGE4MTFlNjJkXkEyXkFqcGdeQXVyNzg1MTk4MTY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nadine Whiteman",
+                "character_name": "Julia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGE4MTBiMjEtZTNkMS00Nzg4LTg3MGItMTY2NWI3ZDEwNDgzXkEyXkFqcGdeQXVyODU2ODM4MjI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Maria Syrgiannis",
+                "character_name": "Fontina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTEwNzc3MzkyMzdeQTJeQWpwZ15BbWU3MDMwMzY5ODk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Tokatlidis",
+                "character_name": "Immigration Officer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWJlNDYxMjktMWIyNy00NTI0LWIzMjMtMTlmMWI3YjUyYThlXkEyXkFqcGdeQXVyMzIwNzgxOTY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Katerina Taxia",
+                "character_name": "Tina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGM1N2ExZDYtODdiNS00NmMyLWE3MmEtNmE3MjIzYWM1MWJhXkEyXkFqcGdeQXVyOTEzNTQwMDk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Valentina Battrick",
+                "character_name": "Marianthi"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTMwYzk2YWItMjg4Yi00NTE5LWJjNTItZjVhN2YyYjc5MWNmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Peter Valdron",
+                "character_name": "Kova - Lizbeth's Father"
+            },
+            {
+                "image": null,
+                "actor_name": "Kimonas Kouris",
+                "character_name": "Greg Diakos"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDkxYTNjNjQtZWIwNi00ZDNkLTk1OGQtZmU0ZjgxNjE0MTNjXkEyXkFqcGdeQXVyMTAxMDY5Mzg2._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Samantha Belfitt",
+                "character_name": "Young Lizbeth"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWQ0MTZmNzMtYzA5Ny00NzlkLWE0MjgtYzgxMTkxYWFhZjk3XkEyXkFqcGdeQXVyMTI3OTE0NTE5._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Kostas Papagiannidis",
+                "character_name": "Judge Georgiou"
+            },
+            {
+                "image": null,
+                "actor_name": "Konstantinos Moutaftsis",
+                "character_name": "Immigration officer"
+            }
+        ],
+        "Director": [
+            "Simone Stock"
+        ],
+        "Writers": [
+            "Barbara Kymlicka",
+            "Lizbeth Meredith"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 5, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt15825238/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Ontario, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Ontario%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Avriofilms",
+                        "Cineflix Productions",
+                        "Lifetime"
+                    ],
+                    "link": [
+                        "/company/co0892774?ref_=tt_dt_co_1",
+                        "/company/co0064070?ref_=tt_dt_co_2",
+                        "/company/co0089472?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

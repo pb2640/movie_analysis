@@ -1,0 +1,148 @@
+[
+    {
+        "first": [
+            {
+                "title": "Quartz Vein"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTA0ZWM2MGQtYjU4MS00OTM0LTg3YjMtY2VjNDczYjAwZWFmXkEyXkFqcGdeQXVyMTg4MDkyNDA@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A prospector in the year 2047 must rescue a girl enslaved by a mutant race of gold-injecting vampires."
+            },
+            {
+                "imdb-rating": "4.1/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjI3MzRmMGItZDRjZS00MTJiLWJiYjgtYmRhNmEyNDYyNTI5XkEyXkFqcGdeQXVyMTk5NjA5MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dawna Lee Heising",
+                "character_name": "Matriarch of Utocha"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWE1YmNiYzQtMjkzMi00OGY4LWJiY2UtZjc2NDllNThlYjQ2XkEyXkFqcGdeQXVyMTg4MDkyNDA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Elizabeth Rath",
+                "character_name": "Stealthia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWRkZGI3MDQtY2U2Yy00NzA4LWE2MGMtY2I1MWIwNDZiNjMyXkEyXkFqcGdeQXVyMTg4MDkyNDA@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Jared Masters",
+                "character_name": "Eon Pax"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGEzZTFmNDMtNjkwYS00MTllLTk3ZjctMTE2YzdhOWZjZWY4XkEyXkFqcGdeQXVyMTI5MzQ4MTU1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jeffrey Dean Gray",
+                "character_name": "Mutants"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDRhNGM0MzMtMTc2Ny00NWRjLTlkZGMtOWQ1NzlmNDEzYmQ0XkEyXkFqcGdeQXVyODI1MzY3MzM@._V1_QL75_UY140_CR6,0,140,140_.jpg",
+                "actor_name": "James F Gregory",
+                "character_name": "Lippy McGhee"
+            },
+            {
+                "image": null,
+                "actor_name": "Paige Dugan",
+                "character_name": "Party Guest"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjNiZjk1YjUtMTIzNC00MjFiLThmMWMtNWY3YzU5ZGVmODE5XkEyXkFqcGdeQXVyMTg4MDkyNDA@._V1_QL75_UY140_CR54,0,140,140_.jpg",
+                "actor_name": "Dawson Boese",
+                "character_name": "Beba"
+            },
+            {
+                "image": null,
+                "actor_name": "Clarissa Sturges",
+                "character_name": "Party Dancer"
+            },
+            {
+                "image": null,
+                "actor_name": "Loriel Andre'a",
+                "character_name": "Party Guest"
+            }
+        ],
+        "Director": [
+            "Jared Masters"
+        ],
+        "Writers": [
+            "Jared Masters",
+            "Randy Masters"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 22, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7870548/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://frolicpictures.com/quartz-vein/"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Hollywood, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Hollywood%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 19 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

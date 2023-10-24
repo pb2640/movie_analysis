@@ -1,0 +1,110 @@
+[
+    {
+        "first": [
+            {
+                "title": "Steak Knives"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjAwYzI3NmItMzUzNy00YjU0LWFjNTYtMDUzZDNlYzY4NDk3XkEyXkFqcGdeQXVyMTUzMTgzOTk4._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "When a dysfunctional couple sits down for a home cooked meal, tensions begin to rise as passive-aggressive remarks are thrown back and forth across the table, causing fantasies to swirl in t... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Bianca Calisi",
+                "character_name": "Sandy"
+            },
+            {
+                "image": null,
+                "actor_name": "Maximilian Itsikson",
+                "character_name": "Lewis"
+            }
+        ],
+        "Director": [
+            "Miles Contreras"
+        ],
+        "Writer": [
+            "Miles Contreras"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 17, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt20564260/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$500 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

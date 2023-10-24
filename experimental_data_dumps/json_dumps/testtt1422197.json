@@ -1,0 +1,144 @@
+[
+    {
+        "first": [
+            {
+                "title": "Lost Tales from Camp Blood: Part 5"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A couple is terrorized by a killer with a machete while camping."
+            },
+            {
+                "imdb-rating": "5.2/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Matthew Hiscox",
+                "character_name": "The Killer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDM0OTRjMDItMThkMi00Mzc2LTlkYmUtOWU1NTIxZDk2NDg5XkEyXkFqcGdeQXVyNDAwOTA1MzI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Olivia May",
+                "character_name": "Sam"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Shuff",
+                "character_name": "Greg"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGNhN2VkNDItY2I2Mi00MWFkLTgzMjktNTQ1MmZiNzM0OTc0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Dan Sykes",
+                "character_name": "Eric"
+            }
+        ],
+        "Director": [
+            "Andrew J. Ceperley"
+        ],
+        "Writer": [
+            "Andrew J. Ceperley"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 2009 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1422197/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Angeles National Forest, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Angeles%20National%20Forest%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "King Media Services"
+                    ],
+                    "link": [
+                        "/company/co0171556?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "first": [
+            {
+                "title": "Jephtah's Daughter: A Biblical Tragedy"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWU4NGE4NTItODM2My00OTQyLTgyY2ItYjI5OGFjMTViYjlkXkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_QL75_UY281_CR145,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ2OTk1NDIyOV5BMl5BanBnXkFtZTYwOTYzMjM2._V1_QL75_UY140_CR15,0,140,140_.jpg",
+                "actor_name": "Annette Kellerman",
+                "character_name": "Jepthah's Daughter"
+            }
+        ],
+        "Writer": [
+            "Madison C. Peters"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 22, 1909 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0143318/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Vitagraph Company of America"
+                    ],
+                    "link": [
+                        "/company/co0026198?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

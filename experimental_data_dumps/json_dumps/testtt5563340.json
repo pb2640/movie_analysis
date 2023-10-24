@@ -1,0 +1,116 @@
+[
+    {
+        "first": [
+            {
+                "title": "Other Side"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTM4NTQ0MDQtYjNjNS00YjUxLWFlMGUtYTFlYjNmOTBmMTMxXkEyXkFqcGdeQXVyMjA2MTY0MzE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Two half brothers on opposite sides of the law seek an explanation to their estranged relationship."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODZlNGI5YjgtZTk0MS00NjExLTg0ZDctM2U0ODhjNzExMzYxXkEyXkFqcGdeQXVyMjY2MjU2OTA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tudor Munteanu",
+                "character_name": "Chris Roa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzZhNDJjMzQtYzJlNy00MmZlLWE4NDgtOWU5NzlkMzc4MDU0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Michael Ruesga",
+                "character_name": "Eddie Roa"
+            },
+            {
+                "image": null,
+                "actor_name": "Du'ana Speights",
+                "character_name": "Kelly"
+            }
+        ],
+        "Directors": [
+            "Tudor Munteanu",
+            "Amy Tofte"
+        ],
+        "Writers": [
+            "Tudor Munteanu",
+            "Amy Tofte"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "AMTU Films"
+                    ],
+                    "link": [
+                        "/company/co0758482?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$3,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

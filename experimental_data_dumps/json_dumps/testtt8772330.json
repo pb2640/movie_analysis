@@ -1,0 +1,198 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Maker of Monsters"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTZhMWViZGQtNjYzMy00ZmNhLWI5YzEtYzUwYTY2ODk1Yjc2XkEyXkFqcGdeQXVyMjg0NzM0ODU@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A depraved scientist falls madly in love with a young woman and turns her lover into a hideous monster for meddling in his diabolical plans."
+            },
+            {
+                "imdb-rating": "4.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODA4M2ZhNmMtMTA5MS00NDA3LWE4M2MtYjE4ODI0YjhkYzkzXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "George Stover",
+                "character_name": "Doc Larson"
+            },
+            {
+                "image": null,
+                "actor_name": "James Ian Mair",
+                "character_name": "Derek Raines"
+            },
+            {
+                "image": null,
+                "actor_name": "Mark Dessauer",
+                "character_name": "Dr. Simon Vanard"
+            },
+            {
+                "image": null,
+                "actor_name": "Katie Harbridge",
+                "character_name": "Lilly Struthers"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY1NDgxNjgxNl5BMl5BanBnXkFtZTcwNDM0ODA3MQ@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Leanna Chamish",
+                "character_name": "Andrea Larson"
+            },
+            {
+                "image": null,
+                "actor_name": "Eddie Dean Fish",
+                "character_name": "Otto"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGY2NWQzMWMtMDY2Ni00NjFmLTgzOTYtZTRmMmZiNDc4YjIzXkEyXkFqcGdeQXVyMjc1NTczMDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Cassandra Schomer",
+                "character_name": "Millicent James"
+            },
+            {
+                "image": null,
+                "actor_name": "Autumn Reed",
+                "character_name": "Model"
+            },
+            {
+                "image": null,
+                "actor_name": "Tanner Hall",
+                "character_name": "Photographer"
+            },
+            {
+                "image": null,
+                "actor_name": "Patti Danner",
+                "character_name": "Traveler"
+            },
+            {
+                "image": null,
+                "actor_name": "Terry Swan",
+                "character_name": "Drunk"
+            },
+            {
+                "image": null,
+                "actor_name": "Sarah King",
+                "character_name": "Girl on Bicycle"
+            },
+            {
+                "image": null,
+                "actor_name": "Alex Phipps",
+                "character_name": "Barn Creature"
+            },
+            {
+                "image": null,
+                "actor_name": "Kristen Inman",
+                "character_name": "Barn Creature"
+            },
+            {
+                "image": null,
+                "actor_name": "Kegan Inman",
+                "character_name": "Barn Creature"
+            },
+            {
+                "image": null,
+                "actor_name": "Jonah Fish",
+                "character_name": "Delivery Boy"
+            }
+        ],
+        "Director": [
+            "James Ian Mair"
+        ],
+        "Writer": [
+            "James Ian Mair"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 21, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8772330/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/MoonlightFilms1/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Moonlight Films"
+                    ],
+                    "link": [
+                        "/company/co0315000?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 22 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.66 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "first": [
+            {
+                "title": "Julie and Dick at Covent Garden"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjFjNTM5YjItMTYyMy00YWI1LWE2MDQtMThlMmE0Y2QwNDM0L2ltYWdlXkEyXkFqcGdeQXVyMTU3NzI2MDc@._V1_QL75_UY281_CR80,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjExMTYyODA2Ml5BMl5BanBnXkFtZTYwMTgyMDA0._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Julie Andrews",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDc4NzQ3MF5BMl5BanBnXkFtZTcwNjk0MDY2MQ@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Carl Reiner",
+                "character_name": "Ghost of Drury Lane"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjMxODU1ODExNl5BMl5BanBnXkFtZTgwOTk2MDA4MDI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dick Van Dyke",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Blake Edwards"
+        ],
+        "Writers": [
+            "Marty Farrell",
+            "Richard Hills",
+            "Frank Waldman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 21, 1974 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0368818/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

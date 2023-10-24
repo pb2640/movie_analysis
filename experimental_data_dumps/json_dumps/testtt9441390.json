@@ -1,0 +1,158 @@
+[
+    {
+        "first": [
+            {
+                "title": "The War to End All Wars: And Its American Veterans"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDVlMWMyZGEtMWU2OS00ODk3LWFjNzgtNTJlNDlhYzA2ZWI3XkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Relying on newly discovered archival footage, memoirs from the fallen, and expert commentary from scholars, this documentary tells the story of World War I from the American perspective: its... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjRmZTk5YWMtZDFmNy00NDNiLWE4N2ItMGRmYWNmN2VlMzk3XkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Mathew Brown",
+                "character_name": "Mathew Brown"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2VjMTZlODMtMWUyNC00NDlkLTlkYjctNTFlOWJhMDFjMTcyXkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Trevor Getz",
+                "character_name": "Trevor Getz"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjhkMGIyNzItZjhmZi00ODIwLWI0MzQtYmY1NjY4NzA0ZGRjXkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Christine Hallett",
+                "character_name": "Christine Hallett"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTAwYzBiM2UtNDI0Ny00M2E1LTk0YzQtZDcwZDllMjEwZmI5XkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jennifer Keene",
+                "character_name": "Self - Historian"
+            },
+            {
+                "image": null,
+                "actor_name": "Raoul Lufbery III",
+                "character_name": "Raoul Lufbery III"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjFkYjkyMWQtZDIyOC00NjJmLWFjYmQtMzRiZGU1OTIzMWUxXkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nelle Rote",
+                "character_name": "Nelle Rote"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGQ5NTVmYmYtZDI3MS00N2FmLTllMWMtZGMyOWUwYjAzN2NmXkEyXkFqcGdeQXVyODI4MzU5NDM@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Noble Lee Sissle Jr.",
+                "character_name": "Noble Lee Sissle, Jr."
+            }
+        ],
+        "Director": [
+            "Daniel L. Bernardi"
+        ],
+        "Writer": [
+            "Daniel L. Bernardi"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 17, 2020 (Spain)"
+                    ],
+                    "link": [
+                        "/title/tt9441390/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "El Dorado Films Official Website"
+                    ],
+                    "link": [
+                        "http://www.eldoradofilms.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Honolulu, Hawaii, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Honolulu%2C%20Hawaii%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "El Dorado Films",
+                        "Veteran Documentary Corps"
+                    ],
+                    "link": [
+                        "/company/co0022187?ref_=tt_dt_co_1",
+                        "/company/co0679868?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$150,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "54 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

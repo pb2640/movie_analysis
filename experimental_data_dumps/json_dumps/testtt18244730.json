@@ -1,0 +1,146 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cruise"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTQ0MDI5ZDEtOTJlMi00YjU5LWFkNzYtNmM0MTc4OGNjZjZmXkEyXkFqcGdeQXVyODM0NDEyMzU@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Crime"
+                ]
+            },
+            {
+                "plot": "We've all received scam phone calls, but what about the person making the calls? Cruise is a dark workplace satire about a hapless telemarketer trying mightily to give away a free cruise. An... Read all"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Simon Pond",
+                "character_name": "Mark"
+            },
+            {
+                "image": null,
+                "actor_name": "Ray James",
+                "character_name": "Executioner"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjNjZDlkOTQtYjE2MC00ZGVhLWI4ZmItYTI1OTVmNWZiNzNjXkEyXkFqcGdeQXVyNjg2MTY0Mzk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Chad Andrews",
+                "character_name": "Jake"
+            },
+            {
+                "image": null,
+                "actor_name": "Samuel Rudykoff",
+                "character_name": "Mr. Zamansky"
+            }
+        ],
+        "Director": [
+            "Samuel Rudykoff"
+        ],
+        "Writer": [
+            "Samuel Rudykoff"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 14, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt18244730/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Instagram Profile Page"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/redoceantours/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Big Pig Production Co."
+                    ],
+                    "link": [
+                        "/company/co0908026?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "CA$30,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

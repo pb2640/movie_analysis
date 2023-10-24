@@ -1,0 +1,160 @@
+[
+    {
+        "first": [
+            {
+                "title": "\u00c9kezet"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "6.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "S\u00e1ndor Halm\u00e1gyi",
+                "character_name": "P\u00e9ter, n\u00e9pm\u00fbvel\u00f5"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTEwMjBlZjctM2VmZi00NDRiLTg5NTAtYmViNTNjZjc3OGQyXkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_QL75_UY140_CR54,0,140,140_.jpg",
+                "actor_name": "Imre Sinkovits",
+                "character_name": "Igazgat\u00f3"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDdjZGVjZWItNTYxMi00NTllLTg2MDEtNWY0YWNmZGZkYWQ4XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_QL75_UY140_CR48,0,140,140_.jpg",
+                "actor_name": "Eva Ras",
+                "character_name": "Aranka, titk\u00e1rn\u00f5"
+            },
+            {
+                "image": null,
+                "actor_name": "Lajos \u00d6ze",
+                "character_name": "K\u00f6nyvt\u00e1ros"
+            },
+            {
+                "image": null,
+                "actor_name": "Denise Lakos",
+                "character_name": "\u00c9va"
+            },
+            {
+                "image": null,
+                "actor_name": "Zsuzsa H\u00f5gye",
+                "character_name": "A gondnok feles\u00e9ge"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzQxMGRmNDYtOTc0ZC00OGJlLWJkMDktZDUyYjE0NjY5NjRlXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_QL75_UY140_CR14,0,140,140_.jpg",
+                "actor_name": "\u00c1d\u00e1m Szirtes",
+                "character_name": "A gondnok"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWVlNDljNWQtODEwNi00ODIyLTk0ZTItZGMyOTM4MGQ5NDY2XkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "J\u00f3zsef Madaras",
+                "character_name": "A darus"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDg1ZDg4NTUtNzgzYS00OThkLThjYjYtZDhkM2Q0M2Y2ZDczXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+                "actor_name": "Lili Monori",
+                "character_name": "Srank\u00f3 Juli"
+            },
+            {
+                "image": null,
+                "actor_name": "Lajos \u00c1rp\u00e1dhalmi",
+                "character_name": "A port\u00e1s"
+            },
+            {
+                "image": null,
+                "actor_name": "Erzsi Heged\u00fcs",
+                "character_name": "S\u00e1ri n\u00e9ni"
+            },
+            {
+                "image": null,
+                "actor_name": "P\u00e9ter Andorai",
+                "character_name": "Seregi, \u00fczemm\u00e9rn\u00f6k"
+            },
+            {
+                "image": null,
+                "actor_name": "J\u00f3zsef Bakodi",
+                "character_name": "K\u00e9m\u00e9nysepr\u00f5"
+            },
+            {
+                "image": null,
+                "actor_name": "Gy\u00f6rgyi Kari",
+                "character_name": "K\u00f6nyvt\u00e1rosl\u00e1ny"
+            }
+        ],
+        "Director": [
+            "Ferenc Kardos"
+        ],
+        "Writer": [
+            "Istv\u00e1n Kardos"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 5, 1977 (Hungary)"
+                    ],
+                    "link": [
+                        "/title/tt0076965/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Hungary"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=HU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hungarian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hu&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Objekt\u00edv Film"
+                    ],
+                    "link": [
+                        "/company/co0001020?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

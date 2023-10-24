@@ -1,0 +1,141 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hand of fate"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTg2YThhZDQtMWJmOS00NTJmLTk4ZTEtMTY0OTA3N2U2N2E2XkEyXkFqcGdeQXVyNzc5NDg5Mjc@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "An underage girl is forced by her father to marry a man she doesn't know and quit school. Along with her mother, she tries to change father's will and educate people about forced child marri... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Modou Musa Ceesay",
+                "character_name": "Omar Dibba"
+            },
+            {
+                "image": null,
+                "actor_name": "Mariama Colley",
+                "character_name": "Aminata Touray"
+            },
+            {
+                "image": null,
+                "actor_name": "Olga Davids",
+                "character_name": "Mrs. Joof"
+            },
+            {
+                "image": null,
+                "actor_name": "Cornelius Gomez",
+                "character_name": "Baba Touray"
+            },
+            {
+                "image": null,
+                "actor_name": "Harounna Jaiteh",
+                "character_name": "Sering"
+            },
+            {
+                "image": null,
+                "actor_name": "Suzy Joh",
+                "character_name": "Musukebba"
+            },
+            {
+                "image": null,
+                "actor_name": "Dodou Kania",
+                "character_name": "Ibrahim"
+            },
+            {
+                "image": null,
+                "actor_name": "Amber Manneh",
+                "character_name": "Dr. Sanyang"
+            },
+            {
+                "image": null,
+                "actor_name": "John Charles Njie",
+                "character_name": "Momodou Turay"
+            },
+            {
+                "image": null,
+                "actor_name": "Oley Saidykhan",
+                "character_name": "Fatoumata Fofanna"
+            }
+        ],
+        "Director": [
+            "Ibrahim Ceesay"
+        ],
+        "Writers": [
+            "Janet Badjan-Young",
+            "Momodou Jallow"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 2013 (Gambia)"
+                    ],
+                    "link": [
+                        "/title/tt13071494/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Gambia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GM&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Mandingo"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=man&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 37 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

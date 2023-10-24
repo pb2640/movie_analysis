@@ -1,0 +1,265 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ice Age"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGEwMTQyMDktMWUwZC00MzExLTg1MGMtYWJiNWNhMzIyMGU5XkEyXkFqcGdeQXVyOTYyMTY2NzQ@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Adventure",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "The story revolves around sub-zero heroes: a woolly mammoth, a saber-toothed tiger, a sloth and a prehistoric combination of a squirrel and rat, known as Scrat."
+            },
+            {
+                "imdb-rating": "7.5/10"
+            },
+            {
+                "metascore": "554"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk2MzM4NTA5OV5BMl5BanBnXkFtZTcwMTAxNjA3Mg@@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Denis Leary",
+                "character_name": "Diego"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTEyMjMxNDg5NF5BMl5BanBnXkFtZTcwNzczOTY4MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Leguizamo",
+                "character_name": "Sid"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM4NzA4ODQxNV5BMl5BanBnXkFtZTYwMDA5Mjk1._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Ray Romano",
+                "character_name": "Manfred"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDk1ODI0Nzc0NF5BMl5BanBnXkFtZTcwMzQzNDczNw@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Goran Visnjic",
+                "character_name": "Soto"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTFiMWNlNmItMDRiYy00NzA4LWE5YjItZmViNWQ2NzhhOWZlXkEyXkFqcGdeQXVyMTA2Mjc5ODMy._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jack Black",
+                "character_name": "Zeke"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcxODQ1NTU5NV5BMl5BanBnXkFtZTcwNjMwMjY0NA@@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Cedric The Entertainer",
+                "character_name": "Carl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ3MDA3OTA5OF5BMl5BanBnXkFtZTcwMjQ4MDU0NA@@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Stephen Root",
+                "character_name": "Frank"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkzMTkyNzYyOV5BMl5BanBnXkFtZTYwNTMyNDE0._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Diedrich Bader",
+                "character_name": "Oscar"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE0MzEwNDUxNV5BMl5BanBnXkFtZTcwNTE1MDAzOQ@@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Alan Tudyk",
+                "character_name": "Lenny"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc1OTAyODk1Nl5BMl5BanBnXkFtZTYwMjM2MDQz._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Lorri Bagley",
+                "character_name": "Jennifer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYwODAyNjY3Ml5BMl5BanBnXkFtZTYwNDc5NDky._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Jane Krakowski",
+                "character_name": "Rachel"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Ackerman",
+                "character_name": "Dodo"
+            },
+            {
+                "image": null,
+                "actor_name": "P.J. Benjamin",
+                "character_name": "Dodo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU1ODA3MzE1MV5BMl5BanBnXkFtZTcwODMxMzg1MQ@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Josh Hamilton",
+                "character_name": "Dodo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ3OTE5MjcxNV5BMl5BanBnXkFtZTgwMTE0MTU0MjE@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Chris Wedge",
+                "character_name": "Dodo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTJhZDJiNjUtOWM0ZC00NDVhLTliMGUtYTY2ZWM1ZTFkMDAyXkEyXkFqcGdeQXVyMzIyNzY0OA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Denny Dillon",
+                "character_name": "Glyptodon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAwMzAwOTcyMl5BMl5BanBnXkFtZTcwMjQ4MDIzOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Mitzi McCall",
+                "character_name": "Glyptodont"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjJhNjcyOWQtMjQ2My00MGU0LWFiMzItMDZlY2EzMjYwMWI3XkEyXkFqcGdeQXVyNzcwOTY0ODg@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Tara Strong",
+                "character_name": "Roshan"
+            }
+        ],
+        "Directors": [
+            "Chris Wedge",
+            "Carlos Saldanha"
+        ],
+        "Writers": [
+            "Michael J. Wilson",
+            "Michael Berg",
+            "Peter Ackerman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 15, 2002 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0268380/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "France",
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Stream Ice Age officially on Disney+ Hotstar Indonesia",
+                        "Twentieth Century Fox (United States)"
+                    ],
+                    "link": [
+                        "https://www.hotstar.com/id/movies/ice-age/1770000963",
+                        "http://www.iceagemovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Blue Sky Studios",
+                        "Twentieth Century Fox Animation",
+                        "Twentieth Century Fox"
+                    ],
+                    "link": [
+                        "/company/co0047265?ref_=tt_dt_co_1",
+                        "/company/co0179259?ref_=tt_dt_co_2",
+                        "/company/co0000756?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$59,000,000 (estimated)"
+                }
+            },
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$176,387,405"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$46,312,454"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Mar 17, 2002"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$383,257,136"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 21 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital",
+                        "DTS",
+                        "SDDS",
+                        "Dolby Digital EX"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

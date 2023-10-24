@@ -1,0 +1,103 @@
+[
+    {
+        "first": [
+            {
+                "title": "Banged Up"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A teenager is rescued from war-torn Rwanda and brought to the United States. He Struggles to fit in but has little luck till he meets a has been boxing coach. Together they prepare for the f... Read all"
+            },
+            {
+                "imdb-rating": "6.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Eric Harp",
+                "character_name": "Twaky Lambda"
+            }
+        ],
+        "Director": [
+            "Theophile Yockot"
+        ],
+        "Writer": [
+            "James Henry"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 3, 2003 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0372163/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Tsibili Pictures Inc.",
+                        "Uniquexposure Films"
+                    ],
+                    "link": [
+                        "/company/co0102385?ref_=tt_dt_co_1",
+                        "/company/co0714386?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 49 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

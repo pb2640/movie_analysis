@@ -1,0 +1,99 @@
+[
+    {
+        "first": [
+            {
+                "title": "Fat Camp"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTAyMTg2OTEwNzFeQTJeQWpwZ15BbWU4MDAyNDM1NTEx._V1_QL75_UY281_CR7,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Welcome to Fat Camp, where big isn't beautiful... it's sexy. Seth leaves home humiliated to find a titillating paradise and the chance to be normal."
+            },
+            {
+                "imdb-rating": "7.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk3NjM5MTI1NF5BMl5BanBnXkFtZTgwMTQ0NjMxMTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Brandon Braverman",
+                "character_name": "Rocco"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2IxMmNlODgtYWNiZS00Zjk4LWJiNTMtOTIwYzIzMmJjODcwXkEyXkFqcGdeQXVyMTUxOTg4ODk3._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Christopher Rivera",
+                "character_name": "Seth"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzkxOGE0Y2MtZTFlYy00OTM0LThmMTgtOWIwZWRiZmFjMjhkXkEyXkFqcGdeQXVyODI3NTE3MQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Christine Rodriguez",
+                "character_name": "Priscilla"
+            },
+            {
+                "image": null,
+                "actor_name": "Natalie Weinberg",
+                "character_name": "Jenny"
+            }
+        ],
+        "Director": [
+            "Adam Jordan Isaacs"
+        ],
+        "Writer": [
+            "Adam Jordan Isaacs"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "19 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

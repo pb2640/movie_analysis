@@ -1,0 +1,127 @@
+[
+    {
+        "first": [
+            {
+                "title": "Zoochosis Presents: Sparky"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "6.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDc3ZDAyZGUtYTU1Yi00OWJiLWJiY2YtMTc3MGNhZmJlZGRhXkEyXkFqcGdeQXVyMjYyMTEyNTc@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Brett Davis",
+                "character_name": "Smith"
+            },
+            {
+                "image": null,
+                "actor_name": "Nic Few",
+                "character_name": "Wilder"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIwMDkzNzk5Nl5BMl5BanBnXkFtZTcwMDYyMDAzMQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sasha Gransjean",
+                "character_name": "Skip"
+            },
+            {
+                "image": null,
+                "actor_name": "Cleo Maggiore",
+                "character_name": "Sparky"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYzMTk3MjAyM15BMl5BanBnXkFtZTcwNTc3MDIzMQ@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Billy Snow",
+                "character_name": "Fitzpatrick"
+            },
+            {
+                "image": null,
+                "actor_name": "Evan Strand",
+                "character_name": "Senna"
+            }
+        ],
+        "Director": [
+            "Patrick Scott"
+        ],
+        "Writer": [
+            "Patrick Scott"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 10, 2011 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt2110470/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Zoochosis"
+                    ],
+                    "link": [
+                        "/company/co0345373?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$2,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

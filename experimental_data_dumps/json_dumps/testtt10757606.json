@@ -1,0 +1,138 @@
+[
+    {
+        "first": [
+            {
+                "title": "Biswa Kalyan Rath: Sushi"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTRjOGU5NGItMmIwNi00NGVjLWE2M2MtZjFjYjcwYWRjY2I2XkEyXkFqcGdeQXVyOTg3NTQwMTU@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "A carefully assorted platter of raw but delicate jokes skillfully assembled with great care and precision from thinly sliced observations caught from the sea of existence of humanity on plan... Read all"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            },
+            {
+                "metascore": "31"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTRjYWMyNTItN2NhZC00NDZmLThhNmMtY2Q4ZTEwMDJkNzlmXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Biswa Kalyan Rath",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Siddharth Vasani"
+        ],
+        "Writer": [
+            "Biswa Kalyan Rath"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 25, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10757606/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Good Shepherd Auditorium, Bangalore, Karnatak, India"
+                    ],
+                    "link": [
+                        "/search/title?locations=Good%20Shepherd%20Auditorium%2C%20Bangalore%2C%20Karnatak%2C%20India&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "OML Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0560736?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20b92,000,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

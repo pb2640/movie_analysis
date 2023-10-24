@@ -1,0 +1,131 @@
+[
+    {
+        "first": [
+            {
+                "title": "Lead with Love: A Documentary Film by Logan Lynn"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODI5N2RhN2EtOTcxNi00MGMwLWIzYzgtZGE0YjNiZGFmYzU4XkEyXkFqcGdeQXVyNDc5NDU1MDM@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "From broken windows to broken hearts, through death threats and violence, \"Lead With Love\" explores what can happen when sworn enemies set aside their differences and get to know one another... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Logan Lynn",
+                "character_name": "Self - Main Interview Subject"
+            },
+            {
+                "image": null,
+                "actor_name": "Tim Smith",
+                "character_name": "Self - Main Interview Subject"
+            },
+            {
+                "image": null,
+                "actor_name": "Dawn Menken",
+                "character_name": "Self - Main Interview Subject"
+            }
+        ],
+        "Director": [
+            "Logan Lynn"
+        ],
+        "Writer": [
+            "Logan Lynn"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 31, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6499712/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.loganlynnmusic.com/2017/01/watch-logan-lynns-unreleased-documentary/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Q Center, Portland, Oregon, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Q%20Center%2C%20Portland%2C%20Oregon%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "PCM Productions"
+                    ],
+                    "link": [
+                        "/company/co0500081?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$15,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

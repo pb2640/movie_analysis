@@ -1,0 +1,172 @@
+[
+    {
+        "first": [
+            {
+                "title": "Valhalla"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjM5ZmMxMzktNzNiZC00YThmLTljYWYtZDk1NDAyYjQ5MzJiXkEyXkFqcGdeQXVyNDEyOTE5OA@@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Rich with the beauty and magic of Richard Wagner's music, VALHALLA is the humorous and touching tale of three estranged brothers who present their unique rendition of Wagner's entire 18 hour... Read all"
+            },
+            {
+                "imdb-rating": "8.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzI2MzdlNWItOTk0Mi00YjFlLWI5NTAtM2ZmMGYxMWZjNzVkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR22,0,140,140_.jpg",
+                "actor_name": "Suzan Averitt",
+                "character_name": "J.D."
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Carmine",
+                "character_name": "Dad"
+            },
+            {
+                "image": null,
+                "actor_name": "Frank C. Gallagher",
+                "character_name": "Mark Reitnauer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE0MzM3MzUzNV5BMl5BanBnXkFtZTcwMjQ1MTkyMQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sandra Kinder",
+                "character_name": "Doris"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzJkMjExZmYtNDYxMC00MGYwLTllYjYtZjk3NTg1NjRmZTdlXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_QL75_UY140_CR1,0,140,140_.jpg",
+                "actor_name": "Lisa LeCover",
+                "character_name": "Snowflake"
+            },
+            {
+                "image": null,
+                "actor_name": "Teddy Margas",
+                "character_name": "Bob"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2Y0MTQ0ZWYtOWJhZS00MDU5LTkwN2UtNDRlZTkwZGJlYmY2XkEyXkFqcGdeQXVyMTExMTc3NzU5._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Deron McBee",
+                "character_name": "Siegfried"
+            },
+            {
+                "image": null,
+                "actor_name": "George R. Parker",
+                "character_name": "Billy Boy"
+            },
+            {
+                "image": null,
+                "actor_name": "Tony Pinker",
+                "character_name": "Frank"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDVjNDgwNWQtMjc2My00NTk0LTk1ZWQtMzA5MzA5NWIyYmE2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kevin Symons",
+                "character_name": "James Reitnauer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTczMjQ1MjcwOV5BMl5BanBnXkFtZTYwNjc1ODA2._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Christopher Thornton",
+                "character_name": "Paul Reitnauer"
+            }
+        ],
+        "Director": [
+            "Jonathan D. Gift"
+        ],
+        "Writer": [
+            "Jonathan D. Gift"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 1992 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0105720/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Spotlight Productions Inc. (I)"
+                    ],
+                    "link": [
+                        "/company/co0065515?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

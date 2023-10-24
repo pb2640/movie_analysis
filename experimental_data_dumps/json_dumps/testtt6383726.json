@@ -1,0 +1,161 @@
+[
+    {
+        "first": [
+            {
+                "title": "Safe"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNGRmZWRjNzUtNWE3MC00MmI0LThjMTktZWZkNWJjNzkxODkzXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "In a race against the clock the NSA Deputy Director has to come up with a genius plan to save his child and at a same time not to betray the privacy of US citizens and secrets of the Agency ... Read all"
+            },
+            {
+                "imdb-rating": "4.0/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2Y4Njg5MDgtMjc1OC00NGNhLTgxZTgtZDdhNjExMGNhMjdjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Fiona Dourif",
+                "character_name": "Brenda"
+            },
+            {
+                "image": null,
+                "actor_name": "Richard Messina",
+                "character_name": "Walter Smith"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzk5MTA3NjczN15BMl5BanBnXkFtZTgwMzc1Nzg4NTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Yldau de Boer",
+                "character_name": "NSA assistent"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTU1NjczNV5BMl5BanBnXkFtZTYwMzU3Mjcz._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Jason London",
+                "character_name": "Frank Kovac, NSA Deputy Director"
+            }
+        ],
+        "Director": [
+            "Paul Ruven"
+        ],
+        "Writer": [
+            "Mark Gaspercic"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 10, 2017 (Netherlands)"
+                    ],
+                    "link": [
+                        "/title/tt6383726/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Netherlands"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NL&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "site of producer, referring to this production"
+                    ],
+                    "link": [
+                        "http://www.talentunitedfilm.tv/portfolio/safe/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Talent United Film & TV"
+                    ],
+                    "link": [
+                        "/company/co0292415?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20ac850,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "first": [
+            {
+                "title": "Walden"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2NiNzA0YWItY2U5OC00YjgxLTllNjUtMmE5NDMwYjExNDhmXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "plot": "After returning from a year-long Moon mission, Cassie, a NASA botanist, finds herself in a remote cabin in the woods, where her estranged twin sister, Stella, a former NASA architect, has fo... Read all"
+            },
+            {
+                "imdb-rating": "6.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTAwNTMwMzE5OF5BMl5BanBnXkFtZTgwMjYwNzI2MjE@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Gemma Arterton",
+                "character_name": "Stella"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2Q3NjE2ZWUtNTRmMC00ZDI3LWJhNzMtMDEwNDIzNGE1YjhhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Fehinti Balogun",
+                "character_name": "Bryan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODM4MDY3YzUtODNiNi00YTY5LWFiNWYtNjU5MTExMjcxYzA1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,49,140,140_.jpg",
+                "actor_name": "Lydia Wilson",
+                "character_name": "Cassie"
+            }
+        ],
+        "Directors": [
+            "Ian Rickson",
+            "Liz Clare"
+        ],
+        "Writer": [
+            "Amy Berryman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 8, 2021 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt14722502/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$3,655"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 45 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

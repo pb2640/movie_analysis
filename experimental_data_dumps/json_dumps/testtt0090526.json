@@ -1,0 +1,202 @@
+[
+    {
+        "first": [
+            {
+                "title": "Spearfield's Daughter"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2ViNzdlOWItNDdmNi00MTk1LTgxNDctMmM3N2U5Y2Q5NGRlXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_QL75_UX190_CR0,20,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The daughter of a leading politician tries to carve out a career in the world of international journalism."
+            },
+            {
+                "imdb-rating": "5.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU5MzQ5MDY3NF5BMl5BanBnXkFtZTcwNzMxOTU5Ng@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Christopher Plummer",
+                "character_name": "Lord Jack Cruze"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE1MzcyMDczNl5BMl5BanBnXkFtZTcwMzQwNTU4Mg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nancy Marchand",
+                "character_name": "Claudine Roux"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGM2YWZhODItMzQzMC00YjNlLWE2ZTItY2MzYmM5MWMwNGEwXkEyXkFqcGdeQXVyMzk3NTUwOQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kim Braden",
+                "character_name": "Cleo Spearfield"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI0MjIzNDE5OF5BMl5BanBnXkFtZTcwMzM3NDMxNw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Steve Railsback",
+                "character_name": "Tom Border"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIzMDM2OTIzNV5BMl5BanBnXkFtZTYwNzI5MjAz._V1_QL75_UX140_CR0,16,140,140_.jpg",
+                "actor_name": "Anne E. Curry",
+                "character_name": "Louise"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGY1ZjA5NWQtYmMxNC00ZjY0LTk3ZTEtMzVhZDg4MjM3MDVlXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UY140_CR59,0,140,140_.jpg",
+                "actor_name": "C\u00e9line Lomez",
+                "character_name": "Simone"
+            },
+            {
+                "image": null,
+                "actor_name": "Bronwen Mantel",
+                "character_name": "Ilse Fuchs"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI0Njc0Mjk2MF5BMl5BanBnXkFtZTcwNjcwOTYxOQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "John Novak",
+                "character_name": "Alain Roux"
+            },
+            {
+                "image": null,
+                "actor_name": "Ross Petty",
+                "character_name": "Roger Brisson"
+            },
+            {
+                "image": null,
+                "actor_name": "Chris Wiggins",
+                "character_name": "Sylvester Spearfield"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDcyYTAyMmQtYjY2My00YTM0LTkzMDUtMjdhNDU0Mjc0MzI1XkEyXkFqcGdeQXVyNDU2ODYyNDg@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Jill Frappier",
+                "character_name": "Emma Cruze"
+            },
+            {
+                "image": null,
+                "actor_name": "Rita Tuckett",
+                "character_name": "Rose Martin"
+            },
+            {
+                "image": null,
+                "actor_name": "Kay Griffin",
+                "character_name": "Dorothy Martin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWM0YjJiNDMtNjhkZS00MWQxLWIyNzktZGUwMjg2YWUxNWViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Sheena Larkin",
+                "character_name": "Mrs. Cromwell"
+            },
+            {
+                "image": null,
+                "actor_name": "David Francis",
+                "character_name": "Sid Cornwell"
+            },
+            {
+                "image": null,
+                "actor_name": "Terrence Labrosse",
+                "character_name": "Ziegler"
+            },
+            {
+                "image": null,
+                "actor_name": "Doug Price",
+                "character_name": "2nd Reporter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2U0MzQ3YjktY2JlMS00ODNmLTlkZjUtNmQwODVlMzRlODE3XkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Leo Leyden",
+                "character_name": "Quentin Massey"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 5, 1986 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt0090526/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Montreal, Qu\u00e9bec, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Montreal%2C%20Qu%C3%A9bec%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "20th Century Fox Television",
+                        "Seven Network"
+                    ],
+                    "link": [
+                        "/company/co0056447?ref_=tt_dt_co_1",
+                        "/company/co0061229?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "4 hours 44 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

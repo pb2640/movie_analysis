@@ -1,0 +1,99 @@
+[
+    {
+        "first": [
+            {
+                "title": "Guns of the Civil War"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTgwMzAyMzAwNF5BMl5BanBnXkFtZTcwNDE3NzEyMQ@@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "History",
+                    "War"
+                ]
+            },
+            {
+                "plot": "Here, in this most tragic time, there came the evolution of pistols and rifles and artillery that would forever change the way in which man fought wars. Within the names that would forever e... Read all"
+            },
+            {
+                "imdb-rating": "6.7/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTM2Y2MwYTYtYmIzZi00YzQ0LTgwN2UtOTQ5YTZjYTBjNTYxXkEyXkFqcGdeQXVyNzY3NTc4OTQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Charles Martin Smith",
+                "character_name": "Hosted"
+            }
+        ],
+        "Director": [
+            "Wesley Emerson"
+        ],
+        "Writer": [
+            "Rodger Jacobs"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Monterey Movie Company"
+                    ],
+                    "link": [
+                        "/company/co0098593?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 hours"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White",
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

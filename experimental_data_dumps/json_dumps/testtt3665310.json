@@ -1,0 +1,162 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Evolution of a Gen-X Music Purchaser"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzE4M2EzODUtMDc3Yy00YzM0LWEzOTUtMjEzYjQwYTRjZGRiXkEyXkFqcGdeQXVyMjk1MTE0MzI@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "All the significant moments over the last twenty years in Zack's life parallel the changing landscape of music purchasing technology."
+            },
+            {
+                "imdb-rating": "6.2/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDExZDI5NzEtNDMzYi00NTYwLThmZDEtMDc2YmRlNjU3ZTQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Christina Rose",
+                "character_name": "Jade O'Brien"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDY0OWFlOWUtYWI4My00NTRmLWIxMTYtNWNhODhiOGMzZTA4XkEyXkFqcGdeQXVyMjc4OTQ3NjQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Matt Pratt",
+                "character_name": "Zack"
+            },
+            {
+                "image": null,
+                "actor_name": "Hannah Duncan",
+                "character_name": "Mallory"
+            },
+            {
+                "image": null,
+                "actor_name": "Katherine Ablan",
+                "character_name": "Piper"
+            },
+            {
+                "image": null,
+                "actor_name": "Grayson Hodgkiss",
+                "character_name": "Marilyn"
+            },
+            {
+                "image": null,
+                "actor_name": "Jonathan Vaughn",
+                "character_name": "Phil"
+            }
+        ],
+        "Director": [
+            "Jack Marchetti"
+        ],
+        "Writer": [
+            "Jack Marchetti"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 16, 2015 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3665310/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official Site"
+                    ],
+                    "link": [
+                        "http://www.facebook.com/genxmp",
+                        "http://www.genxmp.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Chicago, Illinois, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Chicago%2C%20Illinois%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Hollow Point Films"
+                    ],
+                    "link": [
+                        "/company/co0388792?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

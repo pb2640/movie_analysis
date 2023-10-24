@@ -1,0 +1,135 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ricky's Day Off"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWUxYzUwOTQtY2JiMS00NDc0LWEyZDEtNDMyZjllZjZkZDBlXkEyXkFqcGdeQXVyOTY3MjQyODY@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Ricky \"The Axe\" Rodriguez gets more than he bargained for when he takes a much-needed Christmas Vacation."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Tim Allcock",
+                "character_name": "Wayne Baseman"
+            },
+            {
+                "image": null,
+                "actor_name": "Trent Collins",
+                "character_name": "Ricky 'The Axe' Rodriguez"
+            },
+            {
+                "image": null,
+                "actor_name": "Abbey Marye",
+                "character_name": "Kandi Striper"
+            },
+            {
+                "image": null,
+                "actor_name": "Zach Mills",
+                "character_name": "The Chief"
+            }
+        ],
+        "Director": [
+            "Sam Mills"
+        ],
+        "Writers": [
+            "Tim Allcock",
+            "Sam Mills",
+            "Zach Mills"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 20, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9481398/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Full movie"
+                    ],
+                    "link": [
+                        "https://www.youtube.com/watch?v=qg3o2IjiiOQ&t=2s"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "ZDog Technology"
+                    ],
+                    "link": [
+                        "/company/co0670831?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$300 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "11 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

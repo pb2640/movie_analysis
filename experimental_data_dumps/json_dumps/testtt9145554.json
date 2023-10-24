@@ -1,0 +1,96 @@
+[
+    {
+        "first": [
+            {
+                "title": "Love the Most"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODkyZDQ3NzctNzQxMC00NWI4LWFlMDgtN2JiZjEwZmU0ZGMyXkEyXkFqcGdeQXVyOTI3MDIzODI@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "The Finnish filmmaker Antti Sepp\u00e4nen arrives in the old mining town of Real del Monte in Mexico. His two simple yet difficult questions for the people he encounters bring about varied and co... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 31, 2019 (Finland)"
+                    ],
+                    "link": [
+                        "/title/tt9145554/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Finland",
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=FI&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Vimeo"
+                    ],
+                    "link": [
+                        "https://vimeo.com/270662724"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "19 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

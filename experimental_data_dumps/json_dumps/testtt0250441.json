@@ -1,0 +1,60 @@
+[
+    {
+        "first": [
+            {
+                "title": "Jadu Ka Shankh"
+            },
+            {
+                "genres": [
+                    "Adventure",
+                    "Family",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "Shyam and Soni live with their mother in a village. They are very poor. The children give away the only bread piece to a hungry saint, who in turn gives them a magical conch. The children so... Read all"
+            },
+            {
+                "imdb-rating": "8.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Sai Paranjape"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

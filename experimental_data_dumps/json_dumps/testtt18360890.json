@@ -1,0 +1,148 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Sound"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2QzN2RmM2ItZTI3My00NTMzLWFhYjQtMGM0MzlmZjg3YTBmXkEyXkFqcGdeQXVyMjI4MzMxNTU@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Sci-Fi"
+                ]
+            },
+            {
+                "plot": "Two years after a woman experiences sudden hearing loss, strange things begin to happen."
+            },
+            {
+                "imdb-rating": "5.1/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWUwNTBjMDQtYzJkYi00ZjBiLWE1OGQtMGFhMTY4NjljMmM1XkEyXkFqcGdeQXVyODEwMTYzNDE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Emree Franklin",
+                "character_name": "Alison"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmU5ZDdhMmMtMGViZC00YjQ3LTkzNmEtODM1YmM3MDU5YWI2XkEyXkFqcGdeQXVyMTI3MjUyMzAw._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Sabrina Stull",
+                "character_name": "Lily"
+            }
+        ],
+        "Director": [
+            "Jay Mayer"
+        ],
+        "Writers": [
+            "Emree Franklin",
+            "Gage Golightly",
+            "Jay Mayer"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 6, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt18360890/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Instagram page"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/thesoundshort/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Austin, Texas, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Austin%2C%20Texas%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Frog Otto Picture Company"
+                    ],
+                    "link": [
+                        "/company/co0844677?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "DTS"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

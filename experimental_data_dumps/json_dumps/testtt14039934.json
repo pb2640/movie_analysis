@@ -1,0 +1,80 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Unlikely Fan"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOWUzNDdkZTYtZWUzNi00M2UwLWFkM2QtODY0NzNiZTk2NWE4XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "She's a Sri Lankan born, Dallas-based, retired teacher and mother. She's also crazy about basketball."
+            },
+            {
+                "imdb-rating": "7.3/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 16, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14039934/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

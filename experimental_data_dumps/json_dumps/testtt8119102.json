@@ -1,0 +1,95 @@
+[
+    {
+        "first": [
+            {
+                "title": "Maybe if it were a nice room"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTkwMjViYTAtNTE2MS00NmM4LTg1NjYtYTRkYWY4ODVjNGU0XkEyXkFqcGdeQXVyNTcxMjcwODY@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "An incident between two people is examined through the exploration of rooms."
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 1, 2017 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt8119102/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Sugar Glass Films"
+                    ],
+                    "link": [
+                        "/company/co0689733?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "CA$2,800 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

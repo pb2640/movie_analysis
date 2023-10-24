@@ -1,0 +1,122 @@
+[
+    {
+        "first": [
+            {
+                "title": "Furca"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjdlZWVhOTItZjdlMi00YTcwLWE1NWMtMGNhNzYwYjEyMGFlXkEyXkFqcGdeQXVyMjM5MjgxOTc@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "After another morning of mundane interactions with her boyfriend, a woman reaches her breaking point and throws a fork across the room."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzgzMGFmMjktNjU0Ny00ODNhLTk1MmItMDI2NTFhODMxOTdmXkEyXkFqcGdeQXVyMjM5MjgxOTc@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Marisa Hood",
+                "character_name": "Taylor"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmIzZTI5YzAtYzcyYi00YWFiLTg4MzAtNzkyYWIzZTJhMDU1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "David Witts",
+                "character_name": "Jordan"
+            }
+        ],
+        "Director": [
+            "Jonathan Kehoe"
+        ],
+        "Writer": [
+            "Marisa Hood"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 6, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11680586/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Codependent Media"
+                    ],
+                    "link": [
+                        "/company/co0882757?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$2,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "first": [
+            {
+                "title": "BookendS"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTAxYjRlODctOTIyOC00ZGNkLThhZjQtODRiNDI0YTQ3MDdiXkEyXkFqcGdeQXVyMjAzMzMwOTk@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "While trapped at home during a hurricane, Harper finds out her husband's new friends are swingers and decides she wants to swap partners for a night of sex without fully considering the cons... Read all"
+            },
+            {
+                "imdb-rating": "5.1/10"
+            },
+            {
+                "metascore": "5"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Kat Espaillat",
+                "character_name": "Harper"
+            },
+            {
+                "image": null,
+                "actor_name": "Matthew Donaldson",
+                "character_name": "John"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmYwYzljZjQtM2Q0ZC00ZDBkLTg3YTMtYzI0NWE3YmMzNmUwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Pisha Warden",
+                "character_name": "Em"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDY4OGYwMzktMjI2YS00ZGZiLWJmMjgtYTI5OGVlNTUwZGFiXkEyXkFqcGdeQXVyNDk2MzUzOTM@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Michael Collins",
+                "character_name": "Levi"
+            }
+        ],
+        "Director": [
+            "Delavega"
+        ],
+        "Writers": [
+            "Michael Collins",
+            "Delavega",
+            "Matthew Donaldson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2016 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4651298/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Cathartic Films"
+                    ],
+                    "link": [
+                        "http://www.delaVega.me/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Cathartic Films"
+                    ],
+                    "link": [
+                        "/company/co0257181?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

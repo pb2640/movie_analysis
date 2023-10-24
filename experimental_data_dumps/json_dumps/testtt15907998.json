@@ -1,0 +1,157 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Gordon Affair"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjhlMWUyNGUtZGNhZC00ZmM2LWI1ODktMTYxYzE3M2FiMmM5XkEyXkFqcGdeQXVyMTMzMzk5MDI4._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "As a small liberal arts college on the North Shore, Gordon College has not been without its issues. Budget cuts in 2019 resulted in the downsizing of several departments which impacted stude... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Lizzie Rhodes",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Mikee Parangalan",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Victoria Squire",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Nate Hillyer",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Matt Yoder",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Eli Boamah",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sofia Camejo",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Kaye Cook",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Oleksiy Svitelskiy",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jefferson Ferrara",
+                "character_name": "Narrator"
+            }
+        ],
+        "Directors": [
+            "Joshua Litman",
+            "Josh Vander Baan"
+        ],
+        "Writers": [
+            "Joshua Litman",
+            "Josh Vander Baan"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 7, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt15907998/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Wenham, Massachusetts, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Wenham%2C%20Massachusetts%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Josh Squared"
+                    ],
+                    "link": [
+                        "/company/co0890486?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$31,548 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 21 minutes"
+                }
+            }
+        ]
+    }
+]

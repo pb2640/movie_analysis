@@ -1,0 +1,191 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bad Rap Rising"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2EzYzQ2M2YtOWJkMC00ZjIzLTg0YmQtYTRiNzFiNjk2MWFjXkEyXkFqcGdeQXVyMzA5MTg5Mw@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Action",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "Earth: 65 Million Years ago. The evil Argor Zordak visit the blue Planet searching after animals for his evil experiments. Planet Earth today: A Group of Students, Eva Melas , Anna S. Madres... Read all"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzFhODFmNDYtYmQzYy00NTA1LWE0YWUtMTNmYWY0YjY3MzZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ken Thomas",
+                "character_name": "Joseph Miles"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDEwNWEwZTAtMDRhYS00NjRlLWE3YWUtZWUxNmRlZjhhNDg5XkEyXkFqcGdeQXVyMTQ5Mjk4NDQ5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ramona Rieger",
+                "character_name": "Chedra Bodzak"
+            },
+            {
+                "image": null,
+                "actor_name": "Rick Pfeiffer",
+                "character_name": "Argor Zordak"
+            },
+            {
+                "image": null,
+                "actor_name": "Lee Anthony",
+                "character_name": "Actarux Sandorak"
+            },
+            {
+                "image": null,
+                "actor_name": "Stefan Bluth",
+                "character_name": "Ryox Bodzak"
+            },
+            {
+                "image": null,
+                "actor_name": "Simon Schneider",
+                "character_name": "Bad Rap"
+            },
+            {
+                "image": null,
+                "actor_name": "Niels Becker",
+                "character_name": "Bad Rap"
+            },
+            {
+                "image": null,
+                "actor_name": "Stefanie Heide",
+                "character_name": "Eva Melas"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjc0OGM4MTctOTZmMS00YzhiLTg2OWYtZTdjZmQxNWY2NTEwXkEyXkFqcGdeQXVyMzA5MTg5Mw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Yvo Ren\u00e9 Scharf",
+                "character_name": "Biff Wilson"
+            },
+            {
+                "image": null,
+                "actor_name": "Antonella Patitucci",
+                "character_name": "Anna S. Madres"
+            },
+            {
+                "image": null,
+                "actor_name": "David O. Riedel",
+                "character_name": "Cop Fox"
+            },
+            {
+                "image": null,
+                "actor_name": "Simon Begemann",
+                "character_name": "Cop"
+            },
+            {
+                "image": null,
+                "actor_name": "Tibor Kiss",
+                "character_name": "Drinking Buddy"
+            },
+            {
+                "image": null,
+                "actor_name": "Alexander Hauer",
+                "character_name": "Harasser in the Bar"
+            },
+            {
+                "image": null,
+                "actor_name": "Ralf Branse",
+                "character_name": "Card Player"
+            },
+            {
+                "image": null,
+                "actor_name": "Constantin Keltsch",
+                "character_name": "Card Player"
+            },
+            {
+                "image": null,
+                "actor_name": "Ricardo Mass",
+                "character_name": "Card Player"
+            },
+            {
+                "image": null,
+                "actor_name": "Mohamad Saleh",
+                "character_name": "Card Player"
+            }
+        ],
+        "Director": [
+            "Davide Grisolia"
+        ],
+        "Writers": [
+            "Davide Grisolia",
+            "Rick Pfeiffer"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 4, 2021 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt10036186/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Davide Grisolia Films"
+                    ],
+                    "link": [
+                        "/company/co0735546?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "36 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

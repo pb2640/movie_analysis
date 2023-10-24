@@ -1,0 +1,111 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Right Girls"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMmQzYjA4NDItMzg4NS00Yzk3LWIwYzQtNjI4YzEwYTRkMjk0XkEyXkFqcGdeQXVyMTMzNzA5OTg@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Three young transgender women from El Salvador and Honduras - Valentyna, Joanne and Chantal - travel through Southern Mexico within the high-profile \"Migrant Caravan\". They develop a deep fr... Read all"
+            },
+            {
+                "imdb-rating": "4.5/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 27, 2021 (Mexico)"
+                    ],
+                    "link": [
+                        "/title/tt11533464/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Site"
+                    ],
+                    "link": [
+                        "https://therightgirlsfilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Wolfer Productions"
+                    ],
+                    "link": [
+                        "/company/co0779431?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 24 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

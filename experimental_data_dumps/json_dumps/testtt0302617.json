@@ -1,0 +1,174 @@
+[
+    {
+        "first": [
+            {
+                "title": "Great Bear Rainforest"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZGY1NWU2NTUtOGFkNS00ZGVjLTg5ZGItYjg3NmMwODdiODQxXkEyXkFqcGdeQXVyMTUxODQ3MTg@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Hidden from the outside world, the Great Bear Rain-forest is one of the wildest places left on earth. For the first time ever, experience this magical world in IMAX and giant screen theaters... Read all"
+            },
+            {
+                "imdb-rating": "8.0/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzU1NTEzMzMxM15BMl5BanBnXkFtZTgwMzY0MjAzMTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "James Cromwell",
+                "character_name": "Self - Host"
+            },
+            {
+                "image": null,
+                "actor_name": "Ian McAllister",
+                "character_name": "Naturalist"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODFmN2VmZmEtYTRjZi00ZjY1LTgxYjQtODMyNDI3ZDk4ZTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Ryan Reynolds",
+                "character_name": "Narrator"
+            }
+        ],
+        "Directors": [
+            "Rebekah Jorgensen",
+            "Ian McAllister",
+            "Marc Griffith"
+        ],
+        "Writers": [
+            "Geoffrey B. Holland",
+            "Jeff Turner"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 16, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0302617/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://greatbearrainforestfilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Great Bear Rainforest, British Columbia, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Great%20Bear%20Rainforest%2C%20British%20Columbia%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Cognizant Media Ltd.",
+                        "Great Bear Productions",
+                        "Iron Image"
+                    ],
+                    "link": [
+                        "/company/co0071693?ref_=tt_dt_co_1",
+                        "/company/co0724446?ref_=tt_dt_co_2",
+                        "/company/co0215814?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$124,829"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "41 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "IMAX 6-Track",
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.44 : 1",
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

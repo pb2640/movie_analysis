@@ -1,0 +1,200 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Making of 'the Producers'"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTY5Zjg5NWMtYjRkNC00NmMwLWFjOWUtNGQ1NTQzOGQyZTdmXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "7.0/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU2MzI5NjA1NV5BMl5BanBnXkFtZTgwMjEyNjQ0MTI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mel Brooks",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIzMTAxMzczNl5BMl5BanBnXkFtZTYwMjEwOTg2._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Gene Wilder",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDgyMTE3MDgwNl5BMl5BanBnXkFtZTcwNDE0MjAyOQ@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Lee Meredith",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Hertzberg",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWVjZmNiNmMtMmJkNi00MDRhLWE5YjQtZWRjMmQyNTE2OGZhXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+                "actor_name": "Andr\u00e9as Voutsinas",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU4ODQ1NTIwNF5BMl5BanBnXkFtZTcwMzIxOTQ3MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kenneth Mars",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODA0NGE3N2MtNWIwYy00ZjY0LWI3NWMtNjk0MDY5ODBiM2RhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Morris",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDgwODM2YzYtODhiMi00ZWU0LTkwNGYtZTA3OWUwZWMwNDE0XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Alan Johnson",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Rosen",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Alfa-Betty Olsen",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjIyNzA5MDQ0NV5BMl5BanBnXkFtZTYwNjcwNTc0._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Paul Mazursky",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg4MTE5NDEzMV5BMl5BanBnXkFtZTYwNjY2OTky._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Christopher Hewett",
+                "character_name": "Roger De Bris"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM4MTE3OTgwMF5BMl5BanBnXkFtZTcwMjg1NDgwMw@@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "William Hickey",
+                "character_name": "The Drunk"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk5NjQwNzkyOF5BMl5BanBnXkFtZTcwNDExOTQ3MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Zero Mostel",
+                "character_name": "Max Bialystock"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA4ODg0NzI3NV5BMl5BanBnXkFtZTcwMTQ0OTgwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dick Shawn",
+                "character_name": "L.S.D. - Lorenzo St. DuBois"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjJmYWJjMmYtOGI4ZC00OTllLWFlN2QtNmU4YTJhM2JhOWUzXkEyXkFqcGdeQXVyNDQ3NzYxNTU@._V1_QL75_UX140_CR0,21,140,140_.jpg",
+                "actor_name": "Ren\u00e9e Taylor",
+                "character_name": "Eva Braun"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkyNTMzODk5OF5BMl5BanBnXkFtZTcwNzUyNjAyOA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Estelle Winwood",
+                "character_name": "Hold Me Touch Me"
+            }
+        ],
+        "Director": [
+            "Laurent Bouzereau"
+        ],
+        "Writer": [
+            "Laurent Bouzereau"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 20, 2018 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt0425221/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "MGM Home Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0015461?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 4 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

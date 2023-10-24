@@ -1,0 +1,124 @@
+[
+    {
+        "first": [
+            {
+                "title": "Finke: There and Back"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjFiZjUwYjgtZTZlYy00MGU4LWExMTMtN2E3ODM5NjMzNTY5XkEyXkFqcGdeQXVyMTUzMzU4Nw@@._V1_QL75_UX190_CR0,3,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Action",
+                    "Adventure"
+                ]
+            },
+            {
+                "plot": "Blood, sweat, and dollars spill across the centre of Australia at the iconic Finke Desert Race."
+            },
+            {
+                "imdb-rating": "7.8/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Dylan River"
+        ],
+        "Writer": [
+            "Dylan River"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 2018 (Australia)"
+                    ],
+                    "link": [
+                        "/title/tt8286136/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Australia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Adelaide Film Festival"
+                    ],
+                    "link": [
+                        "https://adelaidefilmfestival.org/titles/106356/finke-there--back"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Alice Springs, Northern Territory, Australia"
+                    ],
+                    "link": [
+                        "/search/title?locations=Alice%20Springs%2C%20Northern%20Territory%2C%20Australia&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$94,205"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

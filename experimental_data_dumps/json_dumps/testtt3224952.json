@@ -1,0 +1,134 @@
+[
+    {
+        "first": [
+            {
+                "title": "Brother Joseph and the Grotto"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Biography",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "Brother Joseph and the Grotto tells the \"true fairy tale\" of Brother Joseph Zoettl, the tiny Bavarian hunchback monk who built Ave Maria Grotto, a miniature city of recycled materials in the... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Norma Baker Gabhart",
+                "character_name": "The Storyteller"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike Reid",
+                "character_name": "Brother Joseph"
+            },
+            {
+                "image": null,
+                "actor_name": "Owen Reid",
+                "character_name": "Michael"
+            }
+        ],
+        "Director": [
+            "Cliff Vaughn"
+        ],
+        "Writer": [
+            "Cliff Vaughn"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 17, 2013 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3224952/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.brotherjosephmovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Cullman, Alabama, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Cullman%2C%20Alabama%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$30,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 22 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

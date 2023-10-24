@@ -1,0 +1,121 @@
+[
+    {
+        "first": [
+            {
+                "title": "A Million Waves"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTUwYWU5NzAtMTQxNS00ZGUwLWJiZGMtZTAwNDM5ZTA2YWVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTk1NzIwMTA@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short",
+                    "Sport"
+                ]
+            },
+            {
+                "plot": "'A Million Waves' is a portrait piece about 19 year old Kadiatu Kamara, the only female surfer in Sierra Leone."
+            },
+            {
+                "imdb-rating": "7.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Kadiatu Kamara",
+                "character_name": "Self"
+            }
+        ],
+        "Directors": [
+            "Daniel Ali",
+            "Louis Leeson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 7, 2016 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6314542/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "Sierra Leone"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=SL&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "www.nowness.com - Complete film"
+                    ],
+                    "link": [
+                        "https://www.nowness.com/series/surfs-up/a-million-waves-surfing"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Bureh Beach, Sierra Leone"
+                    ],
+                    "link": [
+                        "/search/title?locations=Bureh%20Beach%2C%20Sierra%20Leone&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

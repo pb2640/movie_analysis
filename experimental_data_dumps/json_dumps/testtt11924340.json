@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "A Rugby Story"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOWMwY2Y0ZmYtNzNlZS00OGQ0LWFiMzYtYTAxYjBmOTU5MTM5XkEyXkFqcGdeQXVyMTAyODU0MDcy._V1_QL75_UY281_CR10,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 20, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11924340/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/ARugbyStory"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Arabic"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ar&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Libya"
+                    ],
+                    "link": [
+                        "/search/title?locations=Libya&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$14,800 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 34 minutes"
+                }
+            }
+        ]
+    }
+]

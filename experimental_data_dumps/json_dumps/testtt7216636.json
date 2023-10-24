@@ -1,0 +1,226 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hazbin Hotel"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjY0NzllMjAtZGY2YS00MmE5LThjNGItM2QyYjY2ZDRjZWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Comedy",
+                    "Crime"
+                ]
+            },
+            {
+                "plot": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redempt... Read all"
+            },
+            {
+                "imdb-rating": "7.8/10"
+            },
+            {
+                "metascore": "108"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcxMjg1MDc4OV5BMl5BanBnXkFtZTcwMDU4Mzk0Nw@@._V1_QL75_UY140_CR31,0,140,140_.jpg",
+                "actor_name": "Christian Borle",
+                "character_name": "Vox"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjcwMzJiZmMtZDlkMi00MmIyLWFjZTEtYWUyNjkzZWNmYThiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Alex Brightman",
+                "character_name": "Sir Pentious"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjM2MzUxOWUtZjA2MS00MjhhLTkzMmMtNWM1YzVlNjhkNTViXkEyXkFqcGdeQXVyMzg4NzIxMA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Amir Talai",
+                "character_name": "Alastor"
+            },
+            {
+                "image": null,
+                "actor_name": "Jill Harris",
+                "character_name": "Charlie Magne"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDY3MDMzNmYtMWY0MC00MjFhLWFjMzQtZWViMGU4MGU0MjVhXkEyXkFqcGdeQXVyODI0MTc3OTE@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Elsie Lovelock",
+                "character_name": "Charlie Magne"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzI3ODA3NmMtYjI0ZS00YzFlLWFmNjYtNDg2YTJjNTU2NThhXkEyXkFqcGdeQXVyNTk5MDE4NTg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Michael Kovach",
+                "character_name": "Angel Dust"
+            },
+            {
+                "image": null,
+                "actor_name": "Monica Franco",
+                "character_name": "Vaggie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTE0MTQ5Mzk0M15BMl5BanBnXkFtZTgwMDUzOTg4NjE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Gabriel C. Brown",
+                "character_name": "Alastor"
+            },
+            {
+                "image": null,
+                "actor_name": "Edward Bosco",
+                "character_name": "Alastor"
+            },
+            {
+                "image": null,
+                "actor_name": "Stamper",
+                "character_name": "Sir Pentious"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Gran",
+                "character_name": "Egg Bois"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDgzYWIzNjktYjllYy00YWYyLTlkMTEtZDVkZTA3MTFjY2E0XkEyXkFqcGdeQXVyMjM4NjMxMjc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Faye Mata",
+                "character_name": "Katie Killjoy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA2OTAyOTMxNl5BMl5BanBnXkFtZTgwNTY0MjI2NTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Joshua Tomar",
+                "character_name": "Tom Trench"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTY2ODc1NzIwNl5BMl5BanBnXkFtZTgwOTExNjYxNjE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Krystal LaPorte",
+                "character_name": "Cherri Bomb"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjExMzJmOTEtZjE1NC00ZTkyLWI4ODctNjQ3NmE1YzkxN2NlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Mick Lauer",
+                "character_name": "Husk"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTRmMDNkYjktMDA2Ni00ZDM1LWI0ZmUtMmRiYjhhYjQ1Nzk1XkEyXkFqcGdeQXVyMTExMTUyODY5._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Michelle Marie",
+                "character_name": "Niffty"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjE0YWYxMjYtZDRlNS00MWM0LWJlNzktYmQ4OWRlZjg3NTczXkEyXkFqcGdeQXVyOTIyNzM5MDY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Don Darryl Rivera",
+                "character_name": "Travis"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkyNTA1MTg1Nl5BMl5BanBnXkFtZTgwMTIyMzQ2MzE@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "James Monroe Iglehart",
+                "character_name": "Bar Patron"
+            }
+        ],
+        "Creator": [
+            "Vivienne Medrano"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 28, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7216636/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site",
+                        "Official YouTube"
+                    ],
+                    "link": [
+                        "https://www.hazbinhotel.com/",
+                        "https://www.youtube.com/user/SpindleHorse/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "A24 Television",
+                        "A24",
+                        "Bento Box Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0702684?ref_=tt_dt_co_1",
+                        "/company/co0390816?ref_=tt_dt_co_2",
+                        "/company/co0239674?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "32 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

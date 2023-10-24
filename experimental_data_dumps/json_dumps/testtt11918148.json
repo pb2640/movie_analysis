@@ -1,0 +1,86 @@
+[
+    {
+        "first": [
+            {
+                "title": "Extreme Life & Death: The Blair Witches of Shockumentaries, Part Three"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZmE2YzQ0NTAtZjU5MS00OWE2LTk2MDMtNTU2NTAyYjRkODkwXkEyXkFqcGdeQXVyNTYzMTc4MzY@._V1_QL75_UX190_CR0,34,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2000 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11918148/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Available on Amazon"
+                    ],
+                    "link": [
+                        "https://www.amazon.com/Extreme-Death-Blair-Witches-Shockumentaries/dp/B000RBFMUK"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "58 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

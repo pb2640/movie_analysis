@@ -1,0 +1,121 @@
+[
+    {
+        "first": [
+            {
+                "title": "Life After: Chernobyl"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODk2YjYyZjMtZDcxYS00ZjdmLTgyOWEtMzk1OTc1YjQ0MjU1XkEyXkFqcGdeQXVyNjkxMTc0NjY@._V1_QL75_UY281_CR192,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Documentary explores the impact on animal life in the area surrounding the Chernobyl Nuclear Power Planet by two scientists some 30 years after the worst nuclear accident in history."
+            },
+            {
+                "imdb-rating": "5.7/10"
+            },
+            {
+                "metascore": "10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTIwY2RhMWUtODA3MC00OTEzLTgxYTYtODEwMzliOGMzZjVhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Tim Mousseau",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Rob Nelson",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODQwMjkwNjg5Nl5BMl5BanBnXkFtZTgwMDE5NTY2MjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Mary-Ann Ochota",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Chiara Bellati"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 26, 2016 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5653604/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Animal Planet",
+                        "STV Productions"
+                    ],
+                    "link": [
+                        "/company/co0038145?ref_=tt_dt_co_1",
+                        "/company/co0271278?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "42 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

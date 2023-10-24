@@ -1,0 +1,123 @@
+[
+    {
+        "first": [
+            {
+                "title": "Sunset Motel"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGMzNGU0NjctODcwMy00MGRhLTkzM2EtZGQ4YzY1ZDA3NTZiXkEyXkFqcGdeQXVyMjI3MDczMjI@._V1_QL75_UY281_CR118,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Laura works in a caf\u00e9 in Sunset Plaza and lives in the Saharan Motel on Sunset Boulevard. She falls in love with the young writer Raoul. While Laura is open with her feelings, Raoul cannot s... Read all"
+            },
+            {
+                "imdb-rating": "5.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWQwMzdmNjctNmQyOS00MjY0LTgxMzQtMGYzYTE2YzZiNWM0XkEyXkFqcGdeQXVyMTIxOTY2MjE@._V1_QL75_UX140_CR0,21,140,140_.jpg",
+                "actor_name": "Joanna Canton",
+                "character_name": "Laura"
+            },
+            {
+                "image": null,
+                "actor_name": "Sean Costello",
+                "character_name": "Raoul"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc1MjMzNDI0NF5BMl5BanBnXkFtZTcwODcyMDEzMQ@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Diza Diaz",
+                "character_name": "Raouls Begleiterin"
+            }
+        ],
+        "Director": [
+            "Eckhart Schmidt"
+        ],
+        "Writer": [
+            "Eckhart Schmidt"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 2, 2003 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt0856277/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Raphaela-Film GmbH"
+                    ],
+                    "link": [
+                        "/company/co0092557?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 37 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

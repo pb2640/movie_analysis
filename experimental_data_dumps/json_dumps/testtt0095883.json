@@ -1,0 +1,224 @@
+[
+    {
+        "first": [
+            {
+                "title": "Police Story: Burnout"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzFjMGMzODctZTU2OC00YjUxLTljNmEtYjg0NGJlM2VjZWMzXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_QL75_UX190_CR0,7,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A veteran vice cop (Wagner) has a hard time dealing with her partner's suicide."
+            },
+            {
+                "imdb-rating": "6.1/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzEyNjRjZmQtZTgzYi00YmJkLTgxZmQtYTU5ZWU3NGE4MjcwXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Lindsay Wagner",
+                "character_name": "Det. Sidney Shannon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGZlZmVhNDktMTVjYS00NGVmLWFlODQtMzgzZGRkMGZmYThjXkEyXkFqcGdeQXVyMjU3NTMyNjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Julie Carmen",
+                "character_name": "Kathy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDcxODcwMF5BMl5BanBnXkFtZTcwMjQ2MzMzMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Getz",
+                "character_name": "Sgt. Jack Leland"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk5NTg5NzkxMF5BMl5BanBnXkFtZTcwMDA4MTQ4NA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "John Karlen",
+                "character_name": "Capt. Harrison"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjYwMTQ2MF5BMl5BanBnXkFtZTgwNzI4MTA0NDE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Joe Morton",
+                "character_name": "Sgt. Jeff Allen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQzNTk3Njg0Ml5BMl5BanBnXkFtZTgwMDczNzczMjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Carl Weintraub",
+                "character_name": "Scott Merrick"
+            },
+            {
+                "image": null,
+                "actor_name": "Lloyd Alan",
+                "character_name": "DiMaggio"
+            },
+            {
+                "image": null,
+                "actor_name": "Danny De La Paz",
+                "character_name": "Julio Mendez"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzJlMjcwOWYtODM4ZC00MTI4LWE5OGItMTc0Y2JjOTBhNjdkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Efrain Figueroa",
+                "character_name": "Urbano"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTJmNGFkMTgtNzJhMS00MTJlLTk2ZWEtNDM0ZjE0YWRkYWNhXkEyXkFqcGdeQXVyNzA4MTg1MzI@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+                "actor_name": "Julie Fulton",
+                "character_name": "Gloria Leland"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU4MjUwMzYzM15BMl5BanBnXkFtZTcwMjEzOTM0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Nestor Serrano",
+                "character_name": "Moreno"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI0Nzk3ODYwM15BMl5BanBnXkFtZTcwMTk2MzMzMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Snyder",
+                "character_name": "Peter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmI1NTI4OGEtMTM1ZS00ZmNlLTllZDYtYTQ2Mzg0NTkxZjU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Patrick Massett",
+                "character_name": "O'Donnell"
+            },
+            {
+                "image": null,
+                "actor_name": "Kate Hopkins",
+                "character_name": "Red-Haired Girl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjcyZmQ0OTgtYTkyYy00NDdhLWJhMmItNjdlYTJkYjQ0MGM0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR38,0,140,140_.jpg",
+                "actor_name": "Walter Addison",
+                "character_name": "Vice Cop"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgyODcwODQ4NV5BMl5BanBnXkFtZTgwMTU3ODEzMjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Kathe Mazur",
+                "character_name": "Luanne"
+            },
+            {
+                "image": null,
+                "actor_name": "Chuck Walling",
+                "character_name": "Jamison"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDhhMzljYWMtM2FhMy00MWIxLWJjNmUtNjU0NDQ5M2U4NDE3XkEyXkFqcGdeQXVyNjU5NTAxNTU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Andi Chapman",
+                "character_name": "Call Girl #1"
+            }
+        ],
+        "Director": [
+            "Michael Switzer"
+        ],
+        "Writer": [
+            "Mark Rodgers"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 26, 1988 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0095883/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Burbank, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Burbank%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "CPT Holdings Inc.",
+                        "Columbia Pictures Television"
+                    ],
+                    "link": [
+                        "/company/co0062240?ref_=tt_dt_co_1",
+                        "/company/co0041442?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 40 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

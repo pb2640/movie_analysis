@@ -1,0 +1,109 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hes the Best"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTUzMDQwMzU0Nl5BMl5BanBnXkFtZTgwNzIxNTM3MzE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Clare is getting ready for her night with Ryan and she does everything she is supposed to do with painstaking attention - she whitens, she moisturizes, she shaves everything. This is a raw a... Read all"
+            },
+            {
+                "imdb-rating": "6.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzYxZDM0MmMtZjg2Yy00OGFjLTgwYjktNWExNWY3NTMzMWU3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Annie B. Compton",
+                "character_name": "Clare"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDg4YjEyOTEtMmI3ZC00OWJkLTg1NDctODc1NjEzYTg0MDRkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Derek Ray",
+                "character_name": "Ryan"
+            }
+        ],
+        "Director": [
+            "Tamyka Smith"
+        ],
+        "Writer": [
+            "Annie B. Compton"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 31, 2015 (France)"
+                    ],
+                    "link": [
+                        "/title/tt4031110/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Daughters Projects"
+                    ],
+                    "link": [
+                        "/company/co0525882?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "first": [
+            {
+                "title": "Earth Ghost"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDg5ZDMzNWItYzM3OS00MWQ0LWI3YjAtZjM2ODhhOGEzNmFmXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "An in-depth, unscripted look at a day in the life of Space Ghost."
+            },
+            {
+                "imdb-rating": "5.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "George Lowe",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Matt Harrigan"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2011 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3145398/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Williams Street"
+                    ],
+                    "link": [
+                        "/company/co0008281?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "11 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

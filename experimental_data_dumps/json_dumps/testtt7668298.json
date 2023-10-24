@@ -1,0 +1,122 @@
+[
+    {
+        "first": [
+            {
+                "title": "Pandora"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjZkMjNiZjEtOGVkZS00NWNmLWExMTMtMjIxMjQyNGM5ZDBkXkEyXkFqcGdeQXVyMTkxMzY4MzE@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Action",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Matt and Sherman are sent out to find Pandora, a legendary supreme being which is capable of deciding the fate of the world."
+            },
+            {
+                "imdb-rating": "6.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTFmNDFhYmQtODU4MC00ZTVhLWI4MDYtZGQ4M2FhNWE3MTU5XkEyXkFqcGdeQXVyMjMwMDcwMzM@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Joshua Grothe",
+                "character_name": "Matt"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWJmMDU0ZmEtMzI5MC00YThiLTkyMGItZTYyMTcwYmM0NjY3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Sarah Alles",
+                "character_name": "Sherman"
+            },
+            {
+                "image": null,
+                "actor_name": "Thekla Hartmann",
+                "character_name": "Pandora"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjRlNTU5ZjUtY2JlMi00MTEwLThlMmYtYzc5MDZkNDI3MDczXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,31,140,140_.jpg",
+                "actor_name": "Errol Trotman-Harewood",
+                "character_name": "Miller"
+            },
+            {
+                "image": null,
+                "actor_name": "Andy Long",
+                "character_name": "Shadow"
+            }
+        ],
+        "Director": [
+            "Daniel R\u00fcbesam"
+        ],
+        "Writer": [
+            "Daniel R\u00fcbesam"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Traumatica Pictures"
+                    ],
+                    "link": [
+                        "/company/co0674917?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

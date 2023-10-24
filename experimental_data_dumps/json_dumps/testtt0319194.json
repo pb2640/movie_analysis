@@ -1,0 +1,110 @@
+[
+    {
+        "first": [
+            {
+                "title": "Clara"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjdkNjNmMzQtMTBiOC00MzAwLTg3NTgtMmNjY2EwZWYyODUyXkEyXkFqcGdeQXVyNjA1MDc1Nw@@._V1_QL75_UY281_CR13,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "8.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI0MDA2NTYxMV5BMl5BanBnXkFtZTcwNTU3NTgzNw@@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "William Daniels",
+                "character_name": "Detective Lieutenant Fine"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTc1Njk1NF5BMl5BanBnXkFtZTcwMDMyMjMzOA@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Darren McGavin",
+                "character_name": "Albert Kroll"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWFlMjQ0MDItOTZlMy00YmRjLWJhNjgtYjc5NWEyN2M0MTZiXkEyXkFqcGdeQXVyMzA5NTE3NA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jennifer Parsons",
+                "character_name": "Clara"
+            }
+        ],
+        "Director": [
+            "Burt Brinckerhoff"
+        ],
+        "Writer": [
+            "Arthur Miller"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 5, 1991 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0319194/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Bachelor with Dogs and Scott Eastwood"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjdmODlhZDYtOGU1OC00MDM1LTgwZTgtNGIzZWQ0NmY1NDcyXkEyXkFqcGdeQXVyNjkxMzgzODU@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "In a spoof of The Bachelor, a guy picks from a group of dogs to be his companion."
+            },
+            {
+                "imdb-rating": "7.5/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODQ4ODU5NjIxMF5BMl5BanBnXkFtZTgwNzIzNTIzNzM@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Scott Eastwood",
+                "character_name": "Scott Eastwood"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Hartzler",
+                "character_name": "Bachelor Host"
+            }
+        ],
+        "Director": [
+            "Andrew Bush"
+        ],
+        "Writer": [
+            "LP"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 3, 2015 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4519050/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Funny or Die website"
+                    ],
+                    "link": [
+                        "http://www.funnyordie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Funnyordie.com"
+                    ],
+                    "link": [
+                        "/company/co0227447?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

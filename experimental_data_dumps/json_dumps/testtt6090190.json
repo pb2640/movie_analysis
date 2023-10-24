@@ -1,0 +1,150 @@
+[
+    {
+        "first": [
+            {
+                "title": "Coby"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGFiMWE4Y2UtYTRiNi00ZTQyLTkzZmEtMDQ1MGU3MTIxMmQzXkEyXkFqcGdeQXVyNDg5NjA3Ng@@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "In a small town in the Midwest, Suzanna, age 23, is transitioning into a man, Coby, while his family struggles to cope."
+            },
+            {
+                "imdb-rating": "6.4/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Coby",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jacob Hunt",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sara Mound",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ellen Richards-Hunt",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Willard Hunt",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Andrew Hunt",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Christian Sonderegger"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 28, 2018 (France)"
+                    ],
+                    "link": [
+                        "/title/tt6090190/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "France",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Film Site"
+                    ],
+                    "link": [
+                        "http://www.cobyfilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Ciaofilms",
+                        "Willow FIlms",
+                        "Centre national du cin\u00e9ma et de l'image anim\u00e9e (CNC)"
+                    ],
+                    "link": [
+                        "/company/co0070671?ref_=tt_dt_co_1",
+                        "/company/co0592022?ref_=tt_dt_co_2",
+                        "/company/co0031991?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 18 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

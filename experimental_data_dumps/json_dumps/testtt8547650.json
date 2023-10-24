@@ -1,0 +1,98 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Book of Jasmine"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "After confessing to her Spiritual Mother that she is attracted to a woman, Jasmine, a spiritual Baptist is urged to mourn and seek spiritual guidance on the conflict she faces. The film foll... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Hartley Alleyne",
+                "character_name": "Mother Irene"
+            },
+            {
+                "image": null,
+                "actor_name": "Carolyn Brathwaite",
+                "character_name": "Ruth"
+            },
+            {
+                "image": null,
+                "actor_name": "Keshia Pope",
+                "character_name": "Jasmine"
+            }
+        ],
+        "Director": [
+            "Melanie Grant"
+        ],
+        "Writer": [
+            "Melanie Grant"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 2017 (Trinidad and Tobago)"
+                    ],
+                    "link": [
+                        "/title/tt8547650/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Barbados"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=BB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

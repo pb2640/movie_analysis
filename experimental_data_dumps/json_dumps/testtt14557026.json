@@ -1,0 +1,107 @@
+[
+    {
+        "first": [
+            {
+                "title": "Coming Out"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Addie Bass",
+                "character_name": "Ruth"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmI5NTNmOWYtOGQyNy00ZTZiLTllZjYtNDA5MTM3NGJkNzE4XkEyXkFqcGdeQXVyMTI2NDQ5OTg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Raina Bhargava",
+                "character_name": "Kylie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGVjNGFiZTItMmNjZC00ZWQyLTk3NTUtZDc2ZDNhNDZmZjIxXkEyXkFqcGdeQXVyNjA5MTIwNjg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tristyn Lau",
+                "character_name": "Vic"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2EwMWU1YzMtZmQ3NS00ZWFlLThkNDktMmQ3ZTAxYzU4MmU2XkEyXkFqcGdeQXVyMTA4NTE3ODY0._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ansley Layne",
+                "character_name": "Jen"
+            }
+        ],
+        "Director": [
+            "Tori McJunkin"
+        ],
+        "Writer": [
+            "Danielle Rock"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14557026/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Dodge College of Film and Media Arts, Chapman University"
+                    ],
+                    "link": [
+                        "/company/co0532299?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

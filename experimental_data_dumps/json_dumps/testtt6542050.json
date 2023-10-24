@@ -1,0 +1,146 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hot Mess"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzY4NjI2YjItNjYxNi00MWYzLWJkZDEtNWRkODNiOWI5YWRkXkEyXkFqcGdeQXVyMTE0MDM0Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Stuck in the angst of wondering who she is and what she is meant to be doing with her life, Loz, a 25 year-old aspiring playwright, finally thinks she's found the answer to all her issues. I... Read all"
+            },
+            {
+                "imdb-rating": "5.9/10"
+            },
+            {
+                "metascore": "8"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Marshall Campbell",
+                "character_name": "Dave"
+            },
+            {
+                "image": null,
+                "actor_name": "Zoe Carides",
+                "character_name": "Loz's Mum"
+            },
+            {
+                "image": null,
+                "actor_name": "Sarah Gaul",
+                "character_name": "Loz"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmVkOTM3YTUtNGIwOC00YzZjLWJmM2YtMjFlZTVjOTVmZjU4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Hannah Lehmann",
+                "character_name": "Stacy"
+            },
+            {
+                "image": null,
+                "actor_name": "Kendra Murphy",
+                "character_name": "Rachel"
+            },
+            {
+                "image": null,
+                "actor_name": "Julia Robertson",
+                "character_name": "Gen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzQzZTYwNmQtYTIwYi00OThlLThiMjgtMjU3NjNhMzMwNjg3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Terry Serio",
+                "character_name": "Greg"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzY3MTk3NDktYjFlNi00NTFjLThmMmMtYWM5YTRiNTlmMzBlXkEyXkFqcGdeQXVyMTIyNDY0Mjkx._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tim Spencer",
+                "character_name": "Pat"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjAxMjgyMDctYWM4OS00NjQ3LWJmNWItMTE4Y2VlMTU1MmQ0XkEyXkFqcGdeQXVyNzczNjc3ODY@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Jessica Tuckwell",
+                "character_name": "Danielle"
+            }
+        ],
+        "Director": [
+            "Lucy Coleman"
+        ],
+        "Writer": [
+            "Lucy Coleman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 18, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6542050/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Australia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://WWW.EMERALDPRODUCTIONS.COM.AU/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

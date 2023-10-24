@@ -1,0 +1,65 @@
+[
+    {
+        "first": [
+            {
+                "title": "Nixon Visions"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTYwNWQ1OTAtNWZjYy00NjQ0LTk0ZmUtMzQ4Zjg2NTljOWQ0XkEyXkFqcGdeQXVyOTE3NDAzMDU@._V1_QL75_UY281_CR19,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "About multimedia artist Kjartan Slettermark's famous portrait series \"Nixon visions\". The film is based on Slettermark's slogan that \"The opposition must pay off\". The rejuvenated, coffee-lo... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1969 (Sweden)"
+                    ],
+                    "link": [
+                        "/title/tt0426132/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Sweden"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=SE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Arbetsgruppen f\u00f6r Film",
+                        "Konstfack"
+                    ],
+                    "link": [
+                        "/company/co0135602?ref_=tt_dt_co_1",
+                        "/company/co0135620?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "first": [
+            {
+                "title": "New Digs"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTc4ODEyMzEzNl5BMl5BanBnXkFtZTgwMTIyMjIyOTE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short",
+                    "Adventure"
+                ]
+            },
+            {
+                "plot": "A little hamster, feeling neglected and unloved by his owner, decides to leave his rotten home in search for a better one."
+            },
+            {
+                "imdb-rating": "7.0/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Samantha Cutler",
+                "character_name": "Chester"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzdlYmYwMGYtYWQyMy00ZGZkLTk3NjQtMzZjZTgyN2UzN2FiXkEyXkFqcGdeQXVyMTI5ODI5MDA3._V1_QL75_UY140_CR40,0,140,140_.jpg",
+                "actor_name": "Samantha Cutler",
+                "character_name": "Chester"
+            }
+        ],
+        "Director": [
+            "Martin Sen"
+        ],
+        "Writer": [
+            "Martin Sen"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 27, 2010 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1645807/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "South Africa"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=ZA&ref_=tt_dt_cn"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

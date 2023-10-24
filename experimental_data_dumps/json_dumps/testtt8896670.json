@@ -1,0 +1,125 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Creepy Line"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BY2FjMmY3NjMtMGUxNy00YmE1LWI3NGEtMTU1NGU5MzljYTk1XkEyXkFqcGdeQXVyOTIwNjE2NTc@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "The Creepy Line reveals the stunning degree to which society is manipulated by Google and Facebook and how they do it."
+            },
+            {
+                "imdb-rating": "6.9/10"
+            },
+            {
+                "metascore": "26"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGNiNDJkNzMtYTA1Yi00YzhhLThlZWUtZjhhMmJhMWZjMjBmXkEyXkFqcGdeQXVyMTAyMzYwNzgw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Robert Epstein",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTIwN2Q0MDMtYzg4ZC00YTc2LWFmMmMtY2MzNWVkZWQ1YjhmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jordan B. Peterson",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzExOTgzODItYjg2ZS00OTJlLTg5MjctM2Y2MjI1NmI2OTZjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Peter Schweizer",
+                "character_name": "Self - President, Government Accountability Institute"
+            }
+        ],
+        "Director": [
+            "M.A. Taylor"
+        ],
+        "Writers": [
+            "Peter Schweizer",
+            "M.A. Taylor"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 18, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8896670/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Lightspeed Pictures",
+                        "Wandering Foot Productions"
+                    ],
+                    "link": [
+                        "/company/co0814517?ref_=tt_dt_co_1",
+                        "/company/co0711088?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mysko Disko: Ting Tong Trip"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWIxNmJlNzUtYjc3Ni00Y2VmLWFiYWUtYTgzNWUyZjlhN2Q3XkEyXkFqcGdeQXVyNTYwODcyMDk@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "A full moon party in a disco RV."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Andreas Gejke",
+                "character_name": "The Beard"
+            },
+            {
+                "image": null,
+                "actor_name": "Viktor Hertz",
+                "character_name": "The Hat"
+            }
+        ],
+        "Directors": [
+            "Andreas Gejke",
+            "Viktor Hertz"
+        ],
+        "Writers": [
+            "Andreas Gejke",
+            "Viktor Hertz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 24, 2021 (Sweden)"
+                    ],
+                    "link": [
+                        "/title/tt15107206/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Sweden"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=SE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official website"
+                    ],
+                    "link": [
+                        "https://myskodisko.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

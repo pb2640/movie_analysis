@@ -1,0 +1,237 @@
+[
+    {
+        "first": [
+            {
+                "title": "Myra"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjRkYzg4NGMtMDZlOC00NjBkLTk2OTEtYzUxNjJlZjA5ZmY1XkEyXkFqcGdeQXVyNTE3Mjg2OTQ@._V1_QL75_UX190_CR0,8,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Crime",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A trans sex worker in the Spanish barrio finds herself in an unwanted love triangle with a notorious gang leader while two drug organizations battle for supremacy suddenly finds herself tang... Read all"
+            },
+            {
+                "imdb-rating": "5.3/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Johanna Padilla-Pineda",
+                "character_name": "Myra"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk2MjI0NDMxOV5BMl5BanBnXkFtZTgwNTIwNDgxODE@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Mya Taylor",
+                "character_name": "Joy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmE5NjQ1ZmUtY2NiMy00MTcwLWIxNjktODY3MWU4NjgyZDhlXkEyXkFqcGdeQXVyMTI4Nzg3NzI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Oscar Torre",
+                "character_name": "Manny Rosas"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjAxY2E2NDEtOGI1OS00OTBkLWEzYTItNzkyNjcyOTczOTc1XkEyXkFqcGdeQXVyMjQ0NDU2Mjk@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Laura Patalano",
+                "character_name": "La Do\u00f1a"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjNjODliNDEtOGEzMS00ZDRkLTlmYmEtNTVjNjZjOGM1MjRmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Hansel Ram\u00edrez",
+                "character_name": "Polic\u00eda Juanito"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzgxYjZiMTMtOTgxNS00NGI3LTg5YjgtYTQwN2VmNzNmYmVjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Eduardo Roman",
+                "character_name": "Miguel Ochoa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI4MjQyOTgyNV5BMl5BanBnXkFtZTgwODIxODMyNDM@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Cesar Garcia",
+                "character_name": "Luis Ochoa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmFiNTAzMWQtMDYxMS00MWY5LTk5MWEtNTkwNDBiOWU1ZTY2XkEyXkFqcGdeQXVyMzg3NjA1NDU@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Victoria del Rosal",
+                "character_name": "Son\u00eda Ochoa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjA3NjA0MzIwOV5BMl5BanBnXkFtZTYwNzk5NDE1._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Tom Sizemore",
+                "character_name": "Coco Lewandowski"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmJiYmQ5ZmMtYmFiYS00ZmQyLWI0MzctNDE1YjY0ZjYyNTE4XkEyXkFqcGdeQXVyMTUwNzQ5MTM@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Jason Stuart",
+                "character_name": "Baurb Sampson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDU5MDE5MF5BMl5BanBnXkFtZTgwMzYzMDQ0NjE@._V1_QL75_UY140_CR2,0,140,140_.jpg",
+                "actor_name": "Scott Engrotti",
+                "character_name": "Rob"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDhjYmU4MmQtNmQxMS00ZmU4LWJiYjktMjg4YjQ3NTY4YjliXkEyXkFqcGdeQXVyNjQ4NTM4NTk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Diamonique",
+                "character_name": "Dina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTRhZDRkMmQtYmM5YS00ZjMyLTkwOTUtMmExYmMwZjQyOWIzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Julien Cesario",
+                "character_name": "Jose Hernandez"
+            },
+            {
+                "image": null,
+                "actor_name": "Saphire Blue",
+                "character_name": "Radio Disc Jockey"
+            },
+            {
+                "image": null,
+                "actor_name": "Cuete Yeska",
+                "character_name": "Playboy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcyMTUxMDg2NF5BMl5BanBnXkFtZTgwODY2MTcwMzE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Angelo Valderrama",
+                "character_name": "Victor Jimenez"
+            },
+            {
+                "image": null,
+                "actor_name": "Howard R. Stevens",
+                "character_name": "Lord Lewandowski"
+            },
+            {
+                "image": null,
+                "actor_name": "Irene Soto",
+                "character_name": "Mu\u00f1eca"
+            }
+        ],
+        "Director": [
+            "Christopher Baiza"
+        ],
+        "Writer": [
+            "Christopher Baiza"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 19, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5765530/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Facebook",
+                        "Instagram"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/MyraFilm/",
+                        "https://www.instagram.com/myra_team/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish",
+                        "German"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Cine Calibre Films"
+                    ],
+                    "link": [
+                        "/company/co0548462?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$30,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "54 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo",
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

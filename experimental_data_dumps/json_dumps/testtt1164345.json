@@ -1,0 +1,196 @@
+[
+    {
+        "first": [
+            {
+                "title": "Sidekicks: Part One"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTY0MDEyNjA4Nl5BMl5BanBnXkFtZTgwOTA2MTIyMjE@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Family",
+                    "Musical"
+                ]
+            },
+            {
+                "plot": "Everybody is excited about the end of the year masquerade party at Amigos Middle School, which unfortunately coincides with the prom at Amigos High School. While the band argues over their c... Read all"
+            },
+            {
+                "imdb-rating": "6.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI2ODBkNmItOGE3Zi00MTNlLWI1YzctZjFlYTRjY2ViMjcyXkEyXkFqcGdeQXVyMTE1MTYxNDAw._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Nat Wolff",
+                "character_name": "Nat"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTdiNzc5NmQtM2ZlNS00MTAxLTg2YzAtYzU0NjBjM2JkZDA1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Alex Wolff",
+                "character_name": "Alex"
+            },
+            {
+                "image": null,
+                "actor_name": "Thomas Batuello",
+                "character_name": "Thomas"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIyOTkwNjg3MF5BMl5BanBnXkFtZTcwNTM4MTUzMQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Allie DiMeco",
+                "character_name": "Rosalina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTc2MTAyOTQ5MF5BMl5BanBnXkFtZTgwODA2NTg0NzE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "David Levi",
+                "character_name": "David"
+            },
+            {
+                "image": null,
+                "actor_name": "Qaasim Middleton",
+                "character_name": "Qaasim"
+            },
+            {
+                "image": null,
+                "actor_name": "Cooper Pillot",
+                "character_name": "Cooper"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE0MzQzMDI0M15BMl5BanBnXkFtZTcwOTYxNzgyMQ@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Jesse Draper",
+                "character_name": "Jesse"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmI5ZjM3NmUtZmI0NS00NzkzLThkZjYtMTIzMjhlNmRiOWQwXkEyXkFqcGdeQXVyNjA5ODY0ODE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Daniel Raymont",
+                "character_name": "Director"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Wolff",
+                "character_name": "Dad"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWIzZmE2NWQtMDlhZC00MDcxLTlkMDAtYTNjMjE1ZWYwYTA1XkEyXkFqcGdeQXVyMTgwNzc1NzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Alan Aisenberg",
+                "character_name": "Boy in Class"
+            },
+            {
+                "image": null,
+                "actor_name": "Maya N. Blake",
+                "character_name": "Angry Girl #2"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzQ0ZDk2YTctY2QzMy00OTAzLWJiYzYtYWVhZmY5ZjYwY2E5XkEyXkFqcGdeQXVyMTQ0ODQ3OTA@._V1_QL75_UY140_CR11,0,140,140_.jpg",
+                "actor_name": "Catherine Curtin",
+                "character_name": "Betty"
+            },
+            {
+                "image": null,
+                "actor_name": "Dana Deggs",
+                "character_name": "Angry Girl #1"
+            },
+            {
+                "image": null,
+                "actor_name": "Adam Draper",
+                "character_name": "Donnie Timmerman"
+            },
+            {
+                "image": null,
+                "actor_name": "Billy Draper",
+                "character_name": "Billy Timmerman"
+            },
+            {
+                "image": null,
+                "actor_name": "Eleanor Draper",
+                "character_name": "Bessy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmZmMTU5NjItZDdjOC00MzRiLWIxMjktNWFlZWE5MmU1OTRhXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Tim Draper",
+                "character_name": "Principal Schmoke"
+            }
+        ],
+        "Director": [
+            "Polly Draper"
+        ],
+        "Writers": [
+            "Polly Draper",
+            "Richard Gitelson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 21, 2008 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1164345/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Kidz House Entertainment",
+                        "Nickelodeon Network",
+                        "Worldwide Biggies"
+                    ],
+                    "link": [
+                        "/company/co0237885?ref_=tt_dt_co_1",
+                        "/company/co0022565?ref_=tt_dt_co_2",
+                        "/company/co0173152?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White",
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

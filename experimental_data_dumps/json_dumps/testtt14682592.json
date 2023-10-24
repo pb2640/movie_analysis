@@ -1,0 +1,70 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Remedy"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjZiNmRhYzgtNGYwNi00YzExLWE2YjYtNzFmODRhZjliOGJmXkEyXkFqcGdeQXVyNjU5NTA3OTU@._V1_QL75_UX190_CR0,10,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Two New Jersey based hip-hop artists-a self taught musician, and a queer African-American woman-pursue their careers."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Boris Tsessarsky"
+        ],
+        "Writers": [
+            "Paul A. Neves",
+            "Boris Tsessarsky"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Doc-N-Roll Film Festival",
+                        "Hip Hop Film Festival"
+                    ],
+                    "link": [
+                        "https://www.docnrollfestival.com/films/the-remedy-a-hip-hop-documentary/",
+                        "https://hiphopfilmfestival2021a.sched.com/event/lt3U/the-remedy-private-screeing?iframe=no"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "52 minutes"
+                }
+            }
+        ]
+    }
+]

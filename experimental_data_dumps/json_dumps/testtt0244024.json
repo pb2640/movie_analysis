@@ -1,0 +1,56 @@
+[
+    {
+        "first": [
+            {
+                "title": "Kochu Kochu Thettukal"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzE3YmRmOWYtOTdjNy00YTNiLWE5ZTktMjA2ZjhhYmE2MGJjXkEyXkFqcGdeQXVyMTMzMjUyNA@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Mohan"
+        ],
+        "Writer": [
+            "P. Padmarajan"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Malayalam"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=ml&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

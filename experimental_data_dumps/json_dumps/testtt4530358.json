@@ -1,0 +1,93 @@
+[
+    {
+        "first": [
+            {
+                "title": "Verset criminel"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTBmN2M2MmMtZWUyNy00MTUyLWJkZTMtYWYyZTE5ODJiNDAxXkEyXkFqcGdeQXVyNTk0Mjc0MTA@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "One of the mobsters wants to bring new partners on a heist, suddenly the deal turns into vinegar."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Directors": [
+            "Nicolas Lopez",
+            "Sylvain Pelissier"
+        ],
+        "Writer": [
+            "Sylvain Pelissier"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/Filmaginaires"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "French"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Filmaginaires",
+                        "Les Films D'en Bas"
+                    ],
+                    "link": [
+                        "/company/co0528023?ref_=tt_dt_co_1",
+                        "/company/co0511068?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

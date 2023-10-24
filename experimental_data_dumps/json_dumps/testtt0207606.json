@@ -1,0 +1,86 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mirador"
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Werner Nekes"
+        ],
+        "Writer": [
+            "Werner Nekes"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 26, 1978 (West Germany)"
+                    ],
+                    "link": [
+                        "/title/tt0207606/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "West Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=XWG&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "German"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Werner Nekes Filmproduktion"
+                    ],
+                    "link": [
+                        "/company/co0039417?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 28 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

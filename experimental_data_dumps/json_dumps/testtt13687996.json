@@ -1,0 +1,160 @@
+[
+    {
+        "first": [
+            {
+                "title": "In Spades"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDIzZjg5OWEtNmJhYS00YmU0LTk4MzctMmM0Zjk0NjI1M2RlXkEyXkFqcGdeQXVyMTI0NDEyNDUw._V1_QL75_UY281_CR18,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A seemingly simple game of poker among friends grows tense. When an unexpected delivery arrives at the door, the night takes an ominous and ultimately tragic turn."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDM3YTE5YTItZDA1NC00MTM3LWIxOTctYThlYzEwZGE5ZmViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Stephen Gray",
+                "character_name": "Nate"
+            },
+            {
+                "image": null,
+                "actor_name": "Zach Loeser",
+                "character_name": "Gordie"
+            },
+            {
+                "image": null,
+                "actor_name": "Dani Brinberg",
+                "character_name": "Hannah"
+            },
+            {
+                "image": null,
+                "actor_name": "Luke McIntyre",
+                "character_name": "Caleb"
+            },
+            {
+                "image": null,
+                "actor_name": "Doug Friedman",
+                "character_name": "Police Officer"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Friedman",
+                "character_name": "Police Officer"
+            },
+            {
+                "image": null,
+                "actor_name": "Ethan Lowey",
+                "character_name": "Dark Figure"
+            }
+        ],
+        "Directors": [
+            "Jordan Cascade",
+            "Jake Lubin"
+        ],
+        "Writers": [
+            "Jake Lubin",
+            "Sam Friedman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 19, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt13687996/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Instagram Page",
+                        "YouTube Channel"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/hazelwitchproductions/",
+                        "https://www.youtube.com/channel/UC3UlotD5aCvpI-zJp8w7nuQ"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "2oo6 Productions",
+                        "Hazel Witch Productions"
+                    ],
+                    "link": [
+                        "/company/co0821614?ref_=tt_dt_co_1",
+                        "/company/co0821164?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$200 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "18 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "18:9"
+                    ]
+                }
+            }
+        ]
+    }
+]

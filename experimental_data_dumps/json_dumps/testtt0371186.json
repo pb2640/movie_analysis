@@ -1,0 +1,166 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Secret Force"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTQ5OTE0MjU0N15BMl5BanBnXkFtZTcwMDE1MDQyNA@@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Action",
+                    "Crime",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Three Vietnam vets are targeted by the government in a top secret project that turns normal men into terminators. When Leroy is caught after slaughtering a restaurant full of people he is ha... Read all"
+            },
+            {
+                "imdb-rating": "5.9/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjNjYzI5MTctNjExMy00NmRmLTg3NTctMmIxYzkxYTI5MGFjXkEyXkFqcGdeQXVyNzMzMTE1ODk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jeff Celentano",
+                "character_name": "Marty Smith"
+            },
+            {
+                "image": null,
+                "actor_name": "Kimberleigh Stark",
+                "character_name": "Susan Smith"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDliZTNhOWUtMTE3Ni00Y2JmLWIzYTYtZGVkNDYxMzdlZTZjXkEyXkFqcGdeQXVyMTExMDI5NTAz._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Graham Clarke",
+                "character_name": "Alex Fenter"
+            },
+            {
+                "image": null,
+                "actor_name": "Greg Melvill-Smith",
+                "character_name": "Skully Ball"
+            },
+            {
+                "image": null,
+                "actor_name": "Yvonne Banning",
+                "character_name": "Judith Cassavetes"
+            },
+            {
+                "image": null,
+                "actor_name": "Frank Notaro",
+                "character_name": "Leroy Jagger"
+            },
+            {
+                "image": null,
+                "actor_name": "Patricia Boya",
+                "character_name": "Margie Cassavetes"
+            },
+            {
+                "image": null,
+                "actor_name": "Olivia Mears",
+                "character_name": "Leroy's Counsel"
+            },
+            {
+                "image": null,
+                "actor_name": "Ronald Ford",
+                "character_name": "Judge"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTMyYzkzZTgtNDI3Ny00ZjE2LWJmNzYtZjY4NTVlNjZhNzMyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Musetta Vander",
+                "character_name": "Clinic Nurse"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODgzYmYwMzAtYjkyZC00OWIwLTlhMjQtZWQ2MTQ3MzY0NzEzXkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Andre Roothman",
+                "character_name": "Newscaster"
+            },
+            {
+                "image": null,
+                "actor_name": "Jeff Fannell",
+                "character_name": "Officer in Charge"
+            },
+            {
+                "image": null,
+                "actor_name": "Dale Cutts",
+                "character_name": "Henderson"
+            }
+        ],
+        "Director": [
+            "Larry Larson"
+        ],
+        "Writer": [
+            "Larry Larson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "South Africa"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=ZA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Paranoia Partnership"
+                    ],
+                    "link": [
+                        "/company/co0101546?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 19 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "first": [
+            {
+                "title": "Fists of Absinthe"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDY2ODRmZGQtMDMzZC00YjMwLTgyMzQtNzliOTlhY2RlYjQyXkEyXkFqcGdeQXVyMTExMzM5MTQ@._V1_QL75_UY281_CR14,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Action"
+                ]
+            },
+            {
+                "plot": "On his maiden trip to Japan, a Samurai-obsessed American named Frank is taken to a local, hole-in-the-wall bar by his friend, Hiro. After being rejected by the first local girl he speaks to,... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Tomoko Hayakawa",
+                "character_name": "Japanese Woman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2M1ZWM3ZmUtN2JlYi00MDZkLTgxMGQtNDNhMTIyMjU1YThjXkEyXkFqcGdeQXVyMTkxMjc3MDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Chuck Johnson",
+                "character_name": "Frank"
+            },
+            {
+                "image": null,
+                "actor_name": "Masahito Kawahata",
+                "character_name": "Hiro"
+            }
+        ],
+        "Director": [
+            "Brian Parker"
+        ],
+        "Writer": [
+            "Chuck Johnson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 17, 2015 (Japan)"
+                    ],
+                    "link": [
+                        "/title/tt5963378/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Japan"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=JP&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Tokyo, Japan"
+                    ],
+                    "link": [
+                        "/search/title?locations=Tokyo%2C%20Japan&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "21 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

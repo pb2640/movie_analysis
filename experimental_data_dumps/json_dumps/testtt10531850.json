@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cheesecake"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGQ1NGM3OTUtNTAxNS00YTRkLTlhY2EtMTA0Njg0MGVlODk0XkEyXkFqcGdeQXVyMTE0NzQxOTEx._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "5.2/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Marcus D.F. White"
+        ],
+        "Writer": [
+            "Joseph Arnone"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 18, 2018 (Greece)"
+                    ],
+                    "link": [
+                        "/title/tt10531850/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Greece"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "DA House Productions"
+                    ],
+                    "link": [
+                        "/company/co0752065?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

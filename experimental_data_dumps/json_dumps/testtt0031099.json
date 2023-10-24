@@ -1,0 +1,151 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Bill of Rights"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDVlYWU0OTUtNGFhMC00MjM5LTlkYmYtMjA2NmI5NTZjODM1XkEyXkFqcGdeQXVyMjA5NjIxNDU@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama",
+                    "History"
+                ]
+            },
+            {
+                "plot": "This short subject is a lavish costumed color production which dramatizes the birth of the American Bill of Rights. It depicts leading political figures of the American Revolution and the de... Read all"
+            },
+            {
+                "imdb-rating": "6.1/10"
+            },
+            {
+                "metascore": "9"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Ted Osborne",
+                "character_name": "James Madison"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGQxNDA0YzgtNTk4MC00NzIzLWFjZDItMTZiMzdjOGY1MjRmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UY140_CR7,0,140,140_.jpg",
+                "actor_name": "Moroni Olsen",
+                "character_name": "Royal Governor Dunmore"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODU2ZmU5MmEtYjBmZS00ZDc0LTk5ZjItZDhjZWE0NTA5ZGFmL2ltYWdlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Leonard Mudie",
+                "character_name": "Moreland"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAyMjM0Nzg2MF5BMl5BanBnXkFtZTYwMTIzMjEz._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Vernon Steele",
+                "character_name": "Thomas Jefferson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA4NzY5NjMyM15BMl5BanBnXkFtZTgwNTc5NzUyMjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "John Hamilton",
+                "character_name": "Colonel George Mason"
+            }
+        ],
+        "Director": [
+            "Crane Wilbur"
+        ],
+        "Writer": [
+            "Charles L. Tedford"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 19, 1939 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0031099/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Warner%20Brothers%20Burbank%20Studios%20-%204000%20Warner%20Boulevard%2C%20Burbank%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Warner Bros."
+                    ],
+                    "link": [
+                        "/company/co0002663?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "21 minutes"
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

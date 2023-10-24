@@ -1,0 +1,182 @@
+[
+    {
+        "first": [
+            {
+                "title": "Munch: Love, Ghosts and Lady Vampires"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTM4MmJlNTItODdiMS00NjNiLTkxODgtMGNhZTcxNGZjNjBhXkEyXkFqcGdeQXVyNzI1ODgyNDA@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Modern society has an enormous debt to the painter Edvard Munch, from Andy Warhol to Ingmar Bergman, from Marina Abramovic to Jasper Jones. His paintings has become symbols, but also a sign ... Read all"
+            },
+            {
+                "imdb-rating": "7.1/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjI3MjlkOTQtZjFhZC00M2NlLThkMjYtODJmYWIxMjJlOGU2XkEyXkFqcGdeQXVyMTI4ODY1NDc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ingrid Bols\u00f8 Berdal",
+                "character_name": "Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "Leif Ove Andsnes",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "Giulia Bartrum",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "Elio Grazioli",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "Stein Olav Henrichsen",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "Iver Kleive",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "Sue Prideaux",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "Jon-Ove Steihaug",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "\u00d8yvind Storm Bjerke",
+                "character_name": "Self - Interviewee"
+            },
+            {
+                "image": null,
+                "actor_name": "Gunnhild \u00d8yehaug",
+                "character_name": "Self - Interviewee"
+            }
+        ],
+        "Director": [
+            "Michele Mally"
+        ],
+        "Writers": [
+            "Michele Mally",
+            "Arianna Marelli"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 22, 2022 (Norway)"
+                    ],
+                    "link": [
+                        "/title/tt21831664/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Norway",
+                        "Italy"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NO&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=IT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Norwegian",
+                        "Italian",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=no&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=it&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Munch Museum, Edvard Munchs Plass 1, Oslo, Norway"
+                    ],
+                    "link": [
+                        "/search/title?locations=Munch%20Museum%2C%20Edvard%20Munchs%20Plass%201%2C%20Oslo%2C%20Norway&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "3D Produzioni",
+                        "Nexo Digital"
+                    ],
+                    "link": [
+                        "/company/co0654735?ref_=tt_dt_co_1",
+                        "/company/co0465193?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$13,738"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

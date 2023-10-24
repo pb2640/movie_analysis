@@ -1,0 +1,121 @@
+[
+    {
+        "first": [
+            {
+                "title": "Foil Arms and Hog: Live at Vicar Street"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjVkZjIxMzMtYjNkOC00ZDk4LTk3NGItNzExNWQ1YTU0MzE4XkEyXkFqcGdeQXVyMTI0Mzg4MjYz._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "See Ireland's top comedy trio perform to over a thousand people in their hometown of Dublin. Their Debut DVD, containing the best sketches from their 2010-2013 shows."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Sean Finegan",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2E0MmE1ZTgtMDdkMS00MjM1LTkxNGEtMDAwNzk2Yjc4YWQxXkEyXkFqcGdeQXVyMDY2MzA0NA@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "Sean Flanagan",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Conor McKenna",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Daniel Fleming"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 31, 2014 (Ireland)"
+                    ],
+                    "link": [
+                        "/title/tt13116168/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ireland"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Homepage"
+                    ],
+                    "link": [
+                        "https://foilarmsandhog.ie/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "54 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

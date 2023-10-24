@@ -1,0 +1,106 @@
+[
+    {
+        "first": [
+            {
+                "title": "David A. Arnold Fat Ballerina"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BY2Y2ZDYxMjEtNDYwOC00MWUyLWFiMWMtMzdmYmRkYWM5NmZjXkEyXkFqcGdeQXVyODgwMzE5OA@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Finally comfortable in his skin, seasoned comic David A. Arnold shares his talent for doing nothing, how he's petty and why divorce saves marriages."
+            },
+            {
+                "imdb-rating": "6.9/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Milton Horowitz"
+        ],
+        "Writer": [
+            "David A. Arnold"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 1, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11916980/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Netflix for comedy special"
+                    ],
+                    "link": [
+                        "https://www.netflix.com/pl-en/title/81213900"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

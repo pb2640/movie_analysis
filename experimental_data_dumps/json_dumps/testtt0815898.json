@@ -1,0 +1,182 @@
+[
+    {
+        "first": [
+            {
+                "title": "Revelation 666"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "A half hour special that explores the significance of the devilish numerical sequence \"666\" in today's world. Through interviews, historical research and educated speculation, the show balan... Read all"
+            },
+            {
+                "imdb-rating": "4.3/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Phil Laak",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sophia Siddique Harvey",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Stephen O'Leary",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tim LaHaye",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Moore",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "David Sanchez",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dan Greyber",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Gene Roth",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dan McDermott",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzQ1MzExNjQ1NV5BMl5BanBnXkFtZTcwNDIxMzAzMQ@@._V1_QL75_UY140_CR37,0,140,140_.jpg",
+                "actor_name": "John Moore",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Barry Richards",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Matt Zane",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Berzerk",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Wayne Aoki",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Christo Brock"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 9, 2006 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0815898/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Built-D Pictures"
+                    ],
+                    "link": [
+                        "/company/co0143017?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

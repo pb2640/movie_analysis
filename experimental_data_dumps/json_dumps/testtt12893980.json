@@ -1,0 +1,94 @@
+[
+    {
+        "first": [
+            {
+                "title": "Intikam Soguk Dus"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZThjMzNiNGMtZDVkNS00YTI4LTk2N2YtZjUzMzEzZDg5MzIzXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Engin Akyildirim"
+        ],
+        "Writers": [
+            "Duygu Karakuzu",
+            "Ugur Karakuzu"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Turkey"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=TR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Turkish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=tr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Ugur Film Yapim"
+                    ],
+                    "link": [
+                        "/company/co0815703?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 46 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

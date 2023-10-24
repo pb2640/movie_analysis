@@ -1,0 +1,108 @@
+[
+    {
+        "first": [
+            {
+                "title": "Slim Aarons: The High Life"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTJkNTRlM2ItNmU2Ny00NjMyLWE3YjYtYTZkMmFkM2ViODZjXkEyXkFqcGdeQXVyNDY0NDM0NzI@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Biography"
+                ]
+            },
+            {
+                "plot": "Slim Aarons spent his life documenting jet-setters, movie stars and beautiful people doing beautiful things during the 50's, 60's and 70's. In \"The High Life,\" the story behind some of his m... Read all"
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Jeff Frez-Albrecht",
+                "character_name": "Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "David Friend",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Fritz Mitchell"
+        ],
+        "Writer": [
+            "Fritz Mitchell"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Made to Measure"
+                    ],
+                    "link": [
+                        "/company/co0637066?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

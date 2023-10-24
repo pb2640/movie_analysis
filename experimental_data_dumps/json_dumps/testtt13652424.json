@@ -1,0 +1,167 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cross Examined"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDMwZmJlY2YtYzA3Yy00ZjYzLWJhNWUtODAxMWE3ZjA0OGUwXkEyXkFqcGdeQXVyNDM5MTI5Mjg@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Crime"
+                ]
+            },
+            {
+                "plot": "Detectives Carter and Blake infiltrate a Halloween party in costume to find the Buddhist Abel, a suspect in a series of killings targeting the disadvantaged."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Daniil Antoch",
+                "character_name": "Extra #5"
+            },
+            {
+                "image": null,
+                "actor_name": "Keith Bachelor Jr.",
+                "character_name": "Abel"
+            },
+            {
+                "image": null,
+                "actor_name": "Carlos Bleiker",
+                "character_name": "Extra #3"
+            },
+            {
+                "image": null,
+                "actor_name": "Leonardo Cando",
+                "character_name": "The Body"
+            },
+            {
+                "image": null,
+                "actor_name": "Pedro Guedes Freire Vii",
+                "character_name": "Carter"
+            },
+            {
+                "image": null,
+                "actor_name": "Adrian Gallardo",
+                "character_name": "Extra #1"
+            },
+            {
+                "image": null,
+                "actor_name": "Ashley Glenny",
+                "character_name": "Corner"
+            },
+            {
+                "image": null,
+                "actor_name": "Dircia Hernandez",
+                "character_name": "Extra #2"
+            },
+            {
+                "image": null,
+                "actor_name": "Stephanie Herrera",
+                "character_name": "Extra #8"
+            },
+            {
+                "image": null,
+                "actor_name": "Santiago Lafee",
+                "character_name": "Blake"
+            },
+            {
+                "image": null,
+                "actor_name": "Alfred Miguez",
+                "character_name": "Extra #6"
+            },
+            {
+                "image": null,
+                "actor_name": "Geramyir Pierce",
+                "character_name": "Extra #4"
+            },
+            {
+                "image": null,
+                "actor_name": "Neal Salgado",
+                "character_name": "Extra #7"
+            }
+        ],
+        "Director": [
+            "Michael Andrillon"
+        ],
+        "Writer": [
+            "Michael Andrillon"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 13, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt13652424/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Liberty City, Miami, FL 33142, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Liberty%20City%2C%20Miami%2C%20FL%2033142%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$400 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

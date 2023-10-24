@@ -1,0 +1,114 @@
+[
+    {
+        "first": [
+            {
+                "title": "Golden Tuna - Montreal Sessions"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTE0NGUyY2YtODAwNS00MmE5LTlmZTMtYjQ2MzI5NDI1ZjFlXkEyXkFqcGdeQXVyMjk1NzAxNg@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "After leaving Berlin, French multidisciplinary artist Golden Tuna surfs Montreal's cold and dark wave to find inspiration."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Jenny Cartwright"
+        ],
+        "Writers": [
+            "Douce Angoisse",
+            "Jenny Cartwright",
+            "David Cherniak"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2016 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt10776304/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Montreal, Quebec, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Montreal%2C%20Quebec%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "ZWEI Films"
+                    ],
+                    "link": [
+                        "/company/co0758896?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

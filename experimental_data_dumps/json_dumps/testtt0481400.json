@@ -1,0 +1,145 @@
+[
+    {
+        "first": [
+            {
+                "title": "Afghan Muscles"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTY0ZDliMTctMjJhNy00MmVmLWFmMTUtYTdkOTVjMWQwYzRlXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_QL75_UX190_CR0,3,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "The young men of Afghanistan have discovered the art of bodybuilding. In a country ravished by war, these men still hold on to their dreams; dreams of muscle, honour and fame - absolute cont... Read all"
+            },
+            {
+                "imdb-rating": "7.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Noorrulhoda Shirbad",
+                "character_name": "Noor"
+            },
+            {
+                "image": null,
+                "actor_name": "Hamid Shirzai",
+                "character_name": "Hamid"
+            }
+        ],
+        "Director": [
+            "Andreas Dalsgaard"
+        ],
+        "Writer": [
+            "Oliver Winding"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 7, 2007 (Denmark)"
+                    ],
+                    "link": [
+                        "/title/tt0481400/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Denmark"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DK&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site",
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://afghanmuscles.com/",
+                        "http://www.afghanmuscles.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Persian",
+                        "Arabic"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fa&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ar&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Afghanistan"
+                    ],
+                    "link": [
+                        "/search/title?locations=Afghanistan&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Haslund Film",
+                        "Nimbus Film Productions",
+                        "Xanadu Travelouge"
+                    ],
+                    "link": [
+                        "/company/co0088596?ref_=tt_dt_co_1",
+                        "/company/co0018704?ref_=tt_dt_co_2",
+                        "/company/co0244453?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "58 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "first": [
+            {
+                "title": "AIDS - The Victims"
+            },
+            {
+                "genres": [
+                    "News"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "John Patten",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Prendergast",
+                "character_name": "Self - Reporter"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 28, 1985 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt2278371/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

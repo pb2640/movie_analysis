@@ -1,0 +1,162 @@
+[
+    {
+        "first": [
+            {
+                "title": "Brigitte"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTlkOWQzODMtNDc5NS00YTFmLWFmM2MtOTFkN2JjOTU4OWUxXkEyXkFqcGdeQXVyMjYzNTk1NTE@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Framed round a candid conversation between the photographer Brigitte Lacombe and the film maker discussing their process and fascination with images as well as Brigitte's close relationship ... Read all"
+            },
+            {
+                "imdb-rating": "6.9/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Brigitte Lacombe",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzRiMzI1ZGQtZjExNi00ZDViLWFiMTMtNWZlMzdiZmU2MjdjXkEyXkFqcGdeQXVyMTI2Nzk2MjQ1._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Lynne Ramsay",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjdmNTljYTEtOTM1MS00ZGM0LTkxMGEtMzQ1N2Q3NmNjMGE1XkEyXkFqcGdeQXVyMTIyMzQ3MzI5._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Daniel Blumberg",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Michelle Tiwo",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sandra Kwiek",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTBkYmVjN2QtNDk3OC00NTZhLTlkMDAtMWZjNzlhNzY4ZDE2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Damla S\u00f6nmez",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Lucia Zucchetti",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzk2ZDk1YzAtMmFmMC00M2NkLTg2MjktYjNmNmY5MDg3MWJjXkEyXkFqcGdeQXVyNjc3Nzc0Ng@@._V1_QL75_UY140_CR53,0,140,140_.jpg",
+                "actor_name": "Vicky Knight",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Marian Lacombe",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Lynne Ramsay"
+        ],
+        "Writer": [
+            "Lynne Ramsay"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 1, 2019 (Italy)"
+                    ],
+                    "link": [
+                        "/title/tt10752244/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Italy",
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IT&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Somesuch"
+                    ],
+                    "link": [
+                        "/company/co0748823?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

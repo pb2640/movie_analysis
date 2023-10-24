@@ -1,0 +1,129 @@
+[
+    {
+        "first": [
+            {
+                "title": "My Melancholy Baby"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDUwM2FlMDMtMjI0OC00NjlhLWI3ZDQtY2EyODJkODQ2MTY0XkEyXkFqcGdeQXVyNzQ0MjcwMDc@._V1_QL75_UY281_CR17,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "\"My Melancholy Baby\" takes a look at 48 hours into the difficult life of the Burrows family. This story is told through the eyes of the older son, Miles Burrows, a 19 year old drug addict wh... Read all"
+            },
+            {
+                "imdb-rating": "4.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGRlZDQzMjctYjY1ZC00MjFhLTg2YWEtYWIwZTVjMTk5ODlhXkEyXkFqcGdeQXVyMTEwMjkxNzI0._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kayden Brenna Tokarski",
+                "character_name": "Lily Burrows"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjY5MzY2MDQtM2Q3MC00OWIwLThhNjItNjBjMzZjODJmMGVmXkEyXkFqcGdeQXVyMjY5MTA0MTE@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Tank Jones",
+                "character_name": "Eli Hall"
+            },
+            {
+                "image": null,
+                "actor_name": "Sage Kirkpatrick",
+                "character_name": "Claire"
+            },
+            {
+                "image": null,
+                "actor_name": "Dylan Sharon",
+                "character_name": "Miles Burrows"
+            }
+        ],
+        "Director": [
+            "Justin Wilder Neese"
+        ],
+        "Writer": [
+            "Keith Sharon"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt13192156/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Article about the film in the news site Patch.",
+                        "Available on Amazon Prime Video"
+                    ],
+                    "link": [
+                        "https://patch.com/california/lagunaniguel-danapoint/melancholy-baby-laguna-niguel-actress-shines-small-screen?utm_term=article-slot-1&utm_source=newsletter-daily&utm_medium=email&utm_campaign=newsletter",
+                        "https://www.amazon.com/My-Melancholy-Baby-Dylan-Sharon/dp/B09D8V9TPZ/ref=sr_1_1?dchild=1&keywords=my+melancholy+baby&qid=1629556594&s=instant-video&sr=1-1"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Wilder Productions"
+                    ],
+                    "link": [
+                        "/company/co0618801?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

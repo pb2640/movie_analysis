@@ -1,0 +1,169 @@
+[
+    {
+        "first": [
+            {
+                "title": "Guitar Man"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMGVlNTlmNDYtNGQ3Zi00YjNiLTlkNDgtMWY4M2E0ZGU3MjZkXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Joe Bonamassa has single-handedly transformed Blues from a marginalized legacy genre to an arena-filling spectacle. Interviews and concert footage chronicle his extraordinary rise as a guita... Read all"
+            },
+            {
+                "imdb-rating": "7.7/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGMyMTQzY2QtNDdkOS00NjliLWE1YWYtMDRlZTkwOTMzMGQ2XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Joe Bonamassa",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYzODY2MDM4N15BMl5BanBnXkFtZTcwOTk1NDgwMw@@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Eric Clapton",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIxMDI1NzkyOV5BMl5BanBnXkFtZTcwMzc3MjUxMg@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "B.B. King",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2Q5NzdiYjYtNDVjMy00NjQ4LWJiNmEtNDMzYzhmZDY4NDNhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Lee Hooker",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Paul Rogers",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcyNzc4MDg4M15BMl5BanBnXkFtZTYwNDEyMTA1._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "John Hiatt",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Anton Fig",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jason Bonham",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmRmODU1YzQtZjg4NS00ZTg4LThhNTItMDBkNTExZjgxYjE1XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Glenn Hughes",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tom Dowd",
+                "character_name": "Self"
+            }
+        ],
+        "Directors": [
+            "Philippe Klose",
+            "Kevin Shirley"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt13187364/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://theguitarmanmovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Caveman Productions",
+                        "J&R Adventures"
+                    ],
+                    "link": [
+                        "/company/co0581840?ref_=tt_dt_co_1",
+                        "/company/co0422596?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 53 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

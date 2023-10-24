@@ -1,0 +1,106 @@
+[
+    {
+        "first": [
+            {
+                "title": "Eratsintani"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjNlODQ0MDYtZGQ2Yy00N2Y5LTlmZDItNTc1NjRhZmQ1N2VkXkEyXkFqcGdeQXVyMTk1MjA1NjU@._V1_QL75_UY281_CR157,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Diane Pernet",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Luis Cage"
+        ],
+        "Writers": [
+            "Luis Cage",
+            "Diane Pernet"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 8, 2014 (Mexico)"
+                    ],
+                    "link": [
+                        "/title/tt4221624/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Link to Company"
+                    ],
+                    "link": [
+                        "http://www.pleylab.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Pleylab"
+                    ],
+                    "link": [
+                        "/company/co0393303?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

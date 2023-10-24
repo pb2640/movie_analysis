@@ -1,0 +1,131 @@
+[
+    {
+        "first": [
+            {
+                "title": "Farmer, a way of life"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2FmNDFjYWYtMTE2MS00YTMwLWI1NjctNzYwNjZiZTM1ODhjXkEyXkFqcGdeQXVyMzY5ODY3MTU@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Farmer a way of life, crossed portraits of farmers, living in different European countries, different backgrounds and environments. However they stories vary greatly, they are bond together ... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Edouard Tritant",
+                "character_name": "Narrator"
+            }
+        ],
+        "Director": [
+            "Gaetano Naccarato"
+        ],
+        "Writer": [
+            "Gaetano Naccarato"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2020 (France)"
+                    ],
+                    "link": [
+                        "/title/tt12882952/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Extract"
+                    ],
+                    "link": [
+                        "https://vimeo.com/436124467/cde312a218"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title?locations=France&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Ampi",
+                        "European Union",
+                        "Sanctuary Films"
+                    ],
+                    "link": [
+                        "/company/co0827312?ref_=tt_dt_co_1",
+                        "/company/co0148374?ref_=tt_dt_co_2",
+                        "/company/co0815415?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20ac18,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "first": [
+            {
+                "title": "Shart"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmMxMmM1MDEtOGFkNC00ODczLThiNzgtOGQ2NjYwYzJiNTAwXkEyXkFqcGdeQXVyOTIzODUxMjk@._V1_QL75_UY281_CR16,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Mystery",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "The city is rocked by a series of brutal murders. All the victims are women of lose character or prostitutes, and all have been brutally slain. Inspector Arjun Dutt is assigned this case, an... Read all"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MDcyOTExOV5BMl5BanBnXkFtZTgwOTQyMDU0OTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Naseeruddin Shah",
+                "character_name": "Vikram"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTE0NDgxMl5BMl5BanBnXkFtZTYwNzMyODEz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Shabana Azmi",
+                "character_name": "Kiran Dutt"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGRkNmZiYjItYTk5Yy00ODU1LThkNjAtYWQ4OGZjYTMxMDcwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Kanwaljeet Singh",
+                "character_name": "Inspector Arjun Dutt"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDAxMDNhNDItMmE3ZS00YmJjLWE4M2ItNWFhZTI1YzljNjYzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Sarika Thakur",
+                "character_name": "Ruhi"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjk1NDI0ZjEtMDMwOS00ZTY5LTk3NTEtODYxZWZlNTE4OTZmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Tom Alter",
+                "character_name": "Alter"
+            }
+        ],
+        "Director": [
+            "Ketan Anand"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 21, 1986 (India)"
+                    ],
+                    "link": [
+                        "/title/tt0363993/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 hours 14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

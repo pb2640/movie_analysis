@@ -1,0 +1,85 @@
+[
+    {
+        "first": [
+            {
+                "title": "Sugar and Spice"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Radha and Anna cover up their relationship when Radha's aunt Durga comes for a visit from India, with surprising results!"
+            },
+            {
+                "imdb-rating": "6.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Shalini Tewari",
+                "character_name": "Radha"
+            },
+            {
+                "image": null,
+                "actor_name": "Arano Khokhar",
+                "character_name": "Durga"
+            }
+        ],
+        "Director": [
+            "Tania Trepanier"
+        ],
+        "Writer": [
+            "Tania Trepanier"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 19, 2001 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0274912/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "first": [
+            {
+                "title": "SEAT 20D"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOWU1YzM1ZDUtMDUyOS00OTdkLWE1NzktYjkxOGMxYjhiMTRmXkEyXkFqcGdeQXVyMjQwMjEyMjE@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "When Suse Lowenstein's son was murdered by terrorists, she leaned on her art to create Dark Elegy a sculpture that includes 75 fellow mothers stripped naked in the emotional position they fe... Read all"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 6, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7740804/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "distributor website",
+                        "new website"
+                    ],
+                    "link": [
+                        "http://firstrunfeatures.com/seat20d.html",
+                        "https://www.seat20d.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "SeagullINK"
+                    ],
+                    "link": [
+                        "/company/co0352576?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

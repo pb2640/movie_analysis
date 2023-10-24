@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "Das Hause"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZmU3ODIyN2MtMmQzOS00OTQxLWIwYjUtY2UxNWYxZjI1ZTAxXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_QL75_UY281_CR14,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A bunch of pretty boys finds themselves trapped in a house with vampires."
+            },
+            {
+                "imdb-rating": "7.8/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Jody Anderson",
+                "character_name": "Ethan"
+            },
+            {
+                "image": null,
+                "actor_name": "Sean Brewster",
+                "character_name": "Sean"
+            },
+            {
+                "image": null,
+                "actor_name": "Draven Gonzalez",
+                "character_name": "Vigo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIzMDI2MTk1N15BMl5BanBnXkFtZTcwODEwNzAzMQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jim Hazelton",
+                "character_name": "Donald"
+            },
+            {
+                "image": null,
+                "actor_name": "William Hellfire",
+                "character_name": "Gunther"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzY3MWVjY2EtZjRlNy00NWM3LTkzNWUtNmFiZTRkOThmM2FiXkEyXkFqcGdeQXVyMTUyODE0NDg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Harley Jay",
+                "character_name": "Lucas"
+            }
+        ],
+        "Director": [
+            "Alex Pucci"
+        ],
+        "Writer": [
+            "Alex Pucci"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 1, 2003 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0372852/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

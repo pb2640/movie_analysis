@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "Something Like Loneliness"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTBiNzU2MzEtY2NkMS00MmVmLWE5MmItYmVmNTNhNjVmZWJjXkEyXkFqcGdeQXVyMjM1MjM3MDQ@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Upstairs-downstairs neighbors barter sounds captured in food storage containers. With the sounds come fragments of past relationships and the hopes and disappointments that remain."
+            },
+            {
+                "imdb-rating": "6.6/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjhhZjdhOGEtZWE4ZS00ZDkyLWJkODYtYzJhYjY5MGViMmQwXkEyXkFqcGdeQXVyNjEyNDMwMDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lee Eddy",
+                "character_name": "Mia"
+            },
+            {
+                "image": null,
+                "actor_name": "Marco Joseph",
+                "character_name": "Dan"
+            }
+        ],
+        "Directors": [
+            "Benjamin Epstein",
+            "Seth Epstein"
+        ],
+        "Writers": [
+            "Ryan Dowler",
+            "Seth Epstein"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 9, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9107936/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Something Like Loneliness Official Site"
+                    ],
+                    "link": [
+                        "https://www.somethinglikeloneliness.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "13 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "first": [
+            {
+                "title": "Are We Monsters"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZmQyNTY0MTYtNGU2My00MTExLWI1NmMtMjI1NTA0NmM0ODI5XkEyXkFqcGdeQXVyNjQ3MzcxNTY@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Fantasy"
+                ]
+            },
+            {
+                "plot": "A werewolf conflicted with identity, Maya seeks to understand the two sides of herself- before the consequences become deadly."
+            },
+            {
+                "imdb-rating": "5.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "John Black",
+                "character_name": "Everett"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTI5OTJmZTItZTlkZC00YWZmLTliMTEtMGQ3YjBjZWNiOTg0XkEyXkFqcGdeQXVyMTI0MzIwNTE0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Stefan Chanyaem",
+                "character_name": "Connor"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDI0MDVhNjktYjRmYi00ZWM1LWFmMDktZDI0NzJmNWEzMjZlXkEyXkFqcGdeQXVyMzQzOTM2NTA@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Justin Hayward",
+                "character_name": "Michael"
+            },
+            {
+                "image": null,
+                "actor_name": "Kyle Menzies",
+                "character_name": "Werewolf"
+            },
+            {
+                "image": null,
+                "actor_name": "Charlotte Olivia",
+                "character_name": "Maya"
+            },
+            {
+                "image": null,
+                "actor_name": "Jathis Sivanesan",
+                "character_name": "Luke"
+            }
+        ],
+        "Director": [
+            "Seb Cox"
+        ],
+        "Writers": [
+            "John Black",
+            "Seb Cox"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 28, 2021 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt14978720/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Amazon",
+                        "Official Website"
+                    ],
+                    "link": [
+                        "https://amzn.to/3O2cuVm",
+                        "https://www.arewemonsters.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Bubble Light Productions",
+                        "Bubble Lightning"
+                    ],
+                    "link": [
+                        "/company/co0569806?ref_=tt_dt_co_1",
+                        "/company/co0868449?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

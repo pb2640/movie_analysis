@@ -1,0 +1,90 @@
+[
+    {
+        "first": [
+            {
+                "title": "Radio Ganga"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODI1YWExZmEtZmFiNy00NmIzLTlmODAtZGEzOWY2MjY2ZjhmXkEyXkFqcGdeQXVyNzM1NDY3Mzk@._V1_QL75_UY281_CR154,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Tomo, a radio host, records and archives the ganga songs because he is aware that it is going extinct so he wants the ganga to be placed on the list of UNESCO's Intangible Cultural Heritage."
+            },
+            {
+                "imdb-rating": "7.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Zdenko Jurilj"
+        ],
+        "Writer": [
+            "Robert Bubalo"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 21, 2019 (Bosnia and Herzegovina)"
+                    ],
+                    "link": [
+                        "/title/tt12937928/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Bosnia and Herzegovina"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=BA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Croatian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Kadar"
+                    ],
+                    "link": [
+                        "/company/co0409704?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 3 minutes"
+                }
+            }
+        ]
+    }
+]

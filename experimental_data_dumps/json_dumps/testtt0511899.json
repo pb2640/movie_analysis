@@ -1,0 +1,111 @@
+[
+    {
+        "first": [
+            {
+                "title": "Spree Killer"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmU4ZjllYjMtODE3ZC00MWNhLTkyMGEtNzNkYWRhZjY2MzgwXkEyXkFqcGdeQXVyNTk1NzQxNg@@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Crime",
+                    "History"
+                ]
+            },
+            {
+                "plot": "1958. Charles Starkweather, a surly and rebellious 19-year-old teenage malcontent who fancied himself to be just like James Dean, embarked on a crime and killing spree across the states of N... Read all"
+            },
+            {
+                "imdb-rating": "7.9/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NjU1MzMwMl5BMl5BanBnXkFtZTcwMzUxMzczMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Bill Kurtis",
+                "character_name": "Self - Host"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDVhZjE0NmEtODhlNS00NDkyLWEzZGMtMGU4MmQyNzAwOTJlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Charles Starkweather",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Paul Douglas",
+                "character_name": "Self - Charles Starkweather's Prosecutor"
+            },
+            {
+                "image": null,
+                "actor_name": "Caril Fugate",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Elmer Jensen",
+                "character_name": "Self - Father of Murder Victim Robert W. Jensen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmE0ZGZlNWQtYzdmNS00ZmUyLWFhMjEtZTQyMjQyNjlkNzI0XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Sonny Vellozzi",
+                "character_name": "Crime Photographer"
+            }
+        ],
+        "Writers": [
+            "Elkan Allan",
+            "Ted Schillinger"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 6, 1998 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0511899/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Nugus/Martin Productions Ltd."
+                    ],
+                    "link": [
+                        "/company/co0104764?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "21 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

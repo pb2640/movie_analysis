@@ -1,0 +1,93 @@
+[
+    {
+        "first": [
+            {
+                "title": "Horseplay: Wild West"
+            },
+            {
+                "genres": [
+                    "Animation"
+                ]
+            },
+            {
+                "plot": "When Scout the horse hops on board his trusty plane Axel, the two set off on an incredible learning adventure. Learn away with Horseplay: Wild West."
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 11, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11738372/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Trailer"
+                    ],
+                    "link": [
+                        "https://vimeo.com/377045774/8292cb7624"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Brainy Pants"
+                    ],
+                    "link": [
+                        "/company/co0784765?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "48 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

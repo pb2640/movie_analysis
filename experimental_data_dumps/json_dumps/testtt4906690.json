@@ -1,0 +1,57 @@
+[
+    {
+        "first": [
+            {
+                "title": "Knocking on Armageddon's Door"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDQzNDViNDYtNjE2Ny00YmNhLWExZWEtOTIwMDA1YjY5NDBhXkEyXkFqcGdeQXVyODg3NDc1OTE@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Half comedy, half horror story, this disturbing film focuses on several spokesmen for America's survivalist movement as they reveal the way they think, the way they play, and the way they pr... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 19, 1988 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4906690/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Public Broadcasting Service (PBS)",
+                        "The American Documentary",
+                        "The American Documentary"
+                    ],
+                    "link": [
+                        "/company/co0039462?ref_=tt_dt_co_1",
+                        "/company/co0173951?ref_=tt_dt_co_2",
+                        "/company/co0173951?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

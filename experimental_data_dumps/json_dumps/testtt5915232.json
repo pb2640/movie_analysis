@@ -1,0 +1,155 @@
+[
+    {
+        "first": [
+            {
+                "title": "A Nightmare on Sesame Street"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjQ5NWRhYTEtMDRmYy00ODVmLTk2YzgtOTAwYmI0ZWYxMjZkXkEyXkFqcGdeQXVyNTQwMDY5MQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "3.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Matt Whittier",
+                "character_name": "Matt"
+            },
+            {
+                "image": null,
+                "actor_name": "Scott Jorgensen",
+                "character_name": "Scott"
+            },
+            {
+                "image": null,
+                "actor_name": "Darren Pearson",
+                "character_name": "Darren"
+            },
+            {
+                "image": null,
+                "actor_name": "Jim Whittier",
+                "character_name": "Ebeneezer"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike P. Long",
+                "character_name": "Fred"
+            }
+        ],
+        "Director": [
+            "Tony Knoss"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 13, 1987 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5915232/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Fridley, Minnesota, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Fridley%2C%20Minnesota%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Digital Planet Productions",
+                        "Skycloud",
+                        "SmallTown Productions"
+                    ],
+                    "link": [
+                        "/company/co0306891?ref_=tt_dt_co_1",
+                        "/company/co0756703?ref_=tt_dt_co_2",
+                        "/company/co0270817?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$1,943 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "28 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "4:3"
+                    ]
+                }
+            }
+        ]
+    }
+]

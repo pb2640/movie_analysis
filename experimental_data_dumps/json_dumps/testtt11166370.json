@@ -1,0 +1,126 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Race to Alaska"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYmRkODlmNjQtMjIwYi00ODE4LThkNjctZTg2YmMxNjY4ZjJlXkEyXkFqcGdeQXVyNjg4NTMxMDM@._V1_QL75_UY281_CR8,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Set in one of the most complex waterways in the world, showing the hardships and dangers in the Race to Alaska. Many will succumb against winds, currents, whirlpools, fear and fatigue as bot... Read all"
+            },
+            {
+                "imdb-rating": "8.8/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Jake Beattie",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Daniel Evans",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Zach Carver"
+        ],
+        "Writers": [
+            "Zach Carver",
+            "Greg King"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 20, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11166370/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Site",
+                        "The Race to Alaska Official Website"
+                    ],
+                    "link": [
+                        "https://r2akthemovie.com/",
+                        "http://www.r2akthemovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Blimp Worldwide",
+                        "Untethered Productions"
+                    ],
+                    "link": [
+                        "/company/co0925980?ref_=tt_dt_co_1",
+                        "/company/co0498109?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 39 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "first": [
+            {
+                "title": "Two Spirits, One Journey"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWMyNGMxYTAtNmRhZC00NDk2LWFmNjAtNjk4OGZjYTdkNmQwXkEyXkFqcGdeQXVyMTI4Mjg3MDE@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWU1OWY1Y2ItODFiNi00N2I2LWFmY2MtODZmYTNhZWZjMDdhXkEyXkFqcGdeQXVyMzE2NDA0Nw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Patrick David",
+                "character_name": "Chris"
+            },
+            {
+                "image": null,
+                "actor_name": "Yvonne Fisher",
+                "character_name": "Jesse"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGMxYTY5NWMtNTliYi00OGY1LTkzMzgtZjgyMWI5OWRhMDQ5XkEyXkFqcGdeQXVyNzQ5NzUzODY@._V1_QL75_UX140_CR0,32,140,140_.jpg",
+                "actor_name": "Alex Meraz",
+                "character_name": "Luke"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWQxNjFlYzYtYWIzYS00MTRiLThlMzItOTk3Nzg4OGUyOThhXkEyXkFqcGdeQXVyOTE3MzU1MjU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Brandon Oakes",
+                "character_name": "Joe"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc3MjI5Njc5OF5BMl5BanBnXkFtZTYwNjc1NjAz._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Delanna Studi",
+                "character_name": "Rosie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmEzZjk5MWItY2VhMS00MTk0LWFjM2YtZTNhYTc2OTc5ZTRlXkEyXkFqcGdeQXVyMTI4Mjg3MDE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Eva Thomas",
+                "character_name": "Amy"
+            }
+        ],
+        "Directors": [
+            "Chad Richman",
+            "Arthur Allan Seidelman"
+        ],
+        "Writer": [
+            "Shawn Imitates Dog"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Watch it on Fearless"
+                    ],
+                    "link": [
+                        "https://watch.fearless.li/programs/two-spirits-one-journey"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "first": [
+            {
+                "title": "Scotch: A Golden Dream"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTk0NjczNDktMzgwYi00NjdkLWJlOTEtOGMzZTBlOWRlNTMxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "An impressive bottle of fine Scotch is in your hand. From barley to barrel, who made it and how did they do it?"
+            },
+            {
+                "imdb-rating": "7.5/10"
+            },
+            {
+                "metascore": "14"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 8, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6453158/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "Taiwan"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=TW&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$39,545"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 29 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Surround 7.1"
+                    ]
+                }
+            }
+        ]
+    }
+]

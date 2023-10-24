@@ -1,0 +1,134 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mahalia"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMWE5OTA3ZWQtY2VlYS00NzVlLTlhNmEtY2IxY2RhYjZkZjY2XkEyXkFqcGdeQXVyNjk1NzUxMDQ@._V1_QL75_UX190_CR0,43,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Mahalia Jackson was the greatest gospel singer in the world. Shortly before her death in 1972, she embarked on a triumphant European tour, and this film is a record of that tour, and a portr... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgzOTI0Nzk1OF5BMl5BanBnXkFtZTcwNjU0MjU0NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Mahalia Jackson",
+                "character_name": "Self - Vocals"
+            },
+            {
+                "image": null,
+                "actor_name": "Miles S. Gallaway",
+                "character_name": "Self - M.C."
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Clancy",
+                "character_name": "Self - Organ"
+            },
+            {
+                "image": null,
+                "actor_name": "Gwen Lighter",
+                "character_name": "Self - Piano"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTM0OTMwMzc1Nl5BMl5BanBnXkFtZTcwMzkwMjEzMQ@@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Brock Peters",
+                "character_name": "Narrator"
+            }
+        ],
+        "Director": [
+            "Allen A. Miner"
+        ],
+        "Writer": [
+            "Marc Savin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 11, 1975 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3666226/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 28 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

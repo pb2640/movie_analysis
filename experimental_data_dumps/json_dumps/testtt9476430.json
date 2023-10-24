@@ -1,0 +1,224 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Manson Brothers Midnight Zombie Massacre"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYmQ2NTg1ZmQtODRlOC00YWFhLThjMmQtZWM0YjJkN2U2MmZlXkEyXkFqcGdeQXVyNzE4MjE0MA@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "After being relegated, the two fighting brothers signed up for a new game. But they didn't know that they need to stay in an arena to fight zombies."
+            },
+            {
+                "imdb-rating": "4.4/10"
+            },
+            {
+                "metascore": "18"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGY4MmNjMzQtMmIyYS00ZDk5LWE4MTMtMDFlY2M1NzNhODI4XkEyXkFqcGdeQXVyMjU2Mzg0NDE@._V1_QL75_UY140_CR26,0,140,140_.jpg",
+                "actor_name": "Chris Margetis",
+                "character_name": "Stone Manson"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike Carey",
+                "character_name": "Skull Manson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOThlZjAyZGItOWYwNC00NmRmLTllMDktMGE3NzI2MTkzNDhjXkEyXkFqcGdeQXVyMjQwNTY3MTU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David B. Meadows",
+                "character_name": "Carson Murdock"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjMxMDkwMTI5OV5BMl5BanBnXkFtZTgwMjQ3NzI4MTE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Randy Couture",
+                "character_name": "Thump Hanson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWE4M2IzMjItZDU4NC00OWM0LWIxOWMtNGZjZmE2Zjc4YjNhXkEyXkFqcGdeQXVyMjY4ODYwNg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "D.B. Sweeney",
+                "character_name": "Vic Quickbuck"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU4MzUxNzk0NF5BMl5BanBnXkFtZTcwODE3NzQzMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jayden Lund",
+                "character_name": "Marvelous"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2I2MGEzOTEtMDFhMy00MWIyLWI2ODktNjBmY2NlZjc2NGI1XkEyXkFqcGdeQXVyMTg4MDkyNDA@._V1_QL75_UY140_CR54,0,140,140_.jpg",
+                "actor_name": "Shannon Victoria Murray",
+                "character_name": "Lucy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTRmOGZmYjYtOTRjMS00ZmI3LWEzNzktZTcxMzA5NzQzYTI4XkEyXkFqcGdeQXVyMTUyNzI0OTk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Karen Corona",
+                "character_name": "Mina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTJiNzUyZjYtNWIxNC00MDM1LTlkYmQtYmY1M2ZjNDYyNWFmXkEyXkFqcGdeQXVyNTc4NjE1NDg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jason Coviello",
+                "character_name": "Cage"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTFhMjkyNzQtOTZjNy00ZTllLTkyNjQtYzE2MDE3NjNkMzJjXkEyXkFqcGdeQXVyMTY5OTA4NjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Luis Bordonada",
+                "character_name": "The Great Chorizo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDJkN2E3NGEtZjBhZC00NWE5LWFhMGQtNGI2NTZkNWZlMDI5XkEyXkFqcGdeQXVyMTM2NTk5MDI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jermaine Washington",
+                "character_name": "Hammer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmFhNjQ5NzItOTk3OS00ZjIyLWE1OTktMGQwYTY5NmI1M2M3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Charlie Shotwell",
+                "character_name": "Hurley"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjAyOTQ0MWQtMDU5Yi00YTczLTgyYzEtNDhlM2I4YzFhNmI3XkEyXkFqcGdeQXVyMjcxMTY1NTM@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Mindy Robinson",
+                "character_name": "Shirlene"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmFmM2UwYTAtYjliNy00NDI4LWFmMTItOWIyMzE1ZjYwNmU2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Scott Peat",
+                "character_name": "Harley"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDMzMGIyY2EtODhlZS00MDE4LTllYjgtNDAyZTEyYWJjYjFiXkEyXkFqcGdeQXVyMjkxMTcxNjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tim Stafford",
+                "character_name": "Rains"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI4MzQ3ODM2Nl5BMl5BanBnXkFtZTYwODMxNjI3._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Adrian Pasdar",
+                "character_name": "Doctor Dudembru"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTA2NTMzMmUtNmYzZS00YmY3LTkzYmQtOWE1MTNhMDAzNzlkXkEyXkFqcGdeQXVyMjAwNzA2OTk@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Sean Dillingham",
+                "character_name": "Big Wang"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk0MTMzNjQ4N15BMl5BanBnXkFtZTcwNTc3NjU1OA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Bas Rutten",
+                "character_name": "Dutch"
+            }
+        ],
+        "Director": [
+            "Max Martini"
+        ],
+        "Writers": [
+            "Mike Carey",
+            "Chris Margetis"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 10, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9476430/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "New Mexico, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=New%20Mexico%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Mona Vista Productions",
+                        "Movie Trailer House"
+                    ],
+                    "link": [
+                        "/company/co0284710?ref_=tt_dt_co_1",
+                        "/company/co0491058?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$1,800,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 32 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "first": [
+            {
+                "title": "448 BC: Olympiad of Ancient Hellas"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTc0Mzk2NTA2NV5BMl5BanBnXkFtZTgwMjA5NzQzMjE@._V1_QL75_UY281_CR8,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Through the eyes of the Narrator and ancient Philosophers of the time, we are taken on a dramatic journey through history; recounting the incredible and exciting dramas, ceremonies, games, a... Read all"
+            },
+            {
+                "imdb-rating": "8.5/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDUzMTEwNTYtNWFhMy00N2RkLWIzYjAtYzc5MThjOWRkZWVkXkEyXkFqcGdeQXVyMTIxMjc3Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "David Bowles",
+                "character_name": "Kimon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTEzMTk0NjE4MDdeQTJeQWpwZ15BbWU3MDAwNTU0MDg@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Roy Dotrice",
+                "character_name": "Anaxagoras"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ0Njc1ODQ5MV5BMl5BanBnXkFtZTcwODg5MjIzMQ@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+                "actor_name": "Brian Blessed",
+                "character_name": "Narrator"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTFiNzdhMzMtOWQ2Ny00ZTI4LWIzNTktYmRiYTA5NjNhMzYwXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Spyros Fokas",
+                "character_name": "Empedocles"
+            },
+            {
+                "image": null,
+                "actor_name": "Carolina Liriti",
+                "character_name": "Priestess of Demeter"
+            },
+            {
+                "image": null,
+                "actor_name": "Nikos Vastardis",
+                "character_name": "President Of Judges"
+            },
+            {
+                "image": null,
+                "actor_name": "Paul Flanagan",
+                "character_name": "Pheidias"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDBhNGYwNWEtZjQwZi00ZWM0LTgzNTgtZmQzMjE1ZDBhYWZjXkEyXkFqcGdeQXVyMjc0Njg4MA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jo Price",
+                "character_name": "Pythia (High Priestess)"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWJmNmNiZjMtNTY4Zi00Yjk0LWIxMDUtYjE5NTRkODJmODhlXkEyXkFqcGdeQXVyMjYyMTU5OTQ@._V1_QL75_UY140_CR54,0,140,140_.jpg",
+                "actor_name": "Daniel Naprous",
+                "character_name": "Karrotos"
+            }
+        ],
+        "Director": [
+            "Paul Pissanos"
+        ],
+        "Writer": [
+            "Paul Pissanos"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 12, 2004 (Greece)"
+                    ],
+                    "link": [
+                        "/title/tt0468071/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Greece"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Greece"
+                    ],
+                    "link": [
+                        "/search/title?locations=Greece&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Pissanos International Film & TV Productions",
+                        "Unizarre International Film & TV Productions"
+                    ],
+                    "link": [
+                        "/company/co0109238?ref_=tt_dt_co_1",
+                        "/company/co0153555?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$5,000,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 hours"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

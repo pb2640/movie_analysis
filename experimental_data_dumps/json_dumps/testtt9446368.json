@@ -1,0 +1,210 @@
+[
+    {
+        "first": [
+            {
+                "title": "Connor & Jayden"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjkxYWQyM2YtYjVhNi00ZDE0LTk3ZTYtZjM2MGY5ZGMyYzQ1XkEyXkFqcGdeQXVyNzYxNTA0ODQ@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Extremely popular high school star football player Connor Tucker has a life-changing day at school when, because of a broken leg, he signs up for a cooking class and meets school outcast Jay... Read all"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Ty Newcomb",
+                "character_name": "Jayden Sansbury"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjEwMDAwODUxN15BMl5BanBnXkFtZTgwMjEzODE4NzE@._V1_QL75_UY140_CR57,0,140,140_.jpg",
+                "actor_name": "Christian Barba",
+                "character_name": "Connor Tucker"
+            },
+            {
+                "image": null,
+                "actor_name": "Troy Hatt",
+                "character_name": "Cameron Sanchez"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODVmMGM1YjItMjNjZS00ZGVhLThmMDktMDkyOGQ5NzFlN2E3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Audrey Harris White",
+                "character_name": "Miss Hannigan"
+            },
+            {
+                "image": null,
+                "actor_name": "Macayla Botelho",
+                "character_name": "Hilary Estavier"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Alejandro",
+                "character_name": "Oscar"
+            },
+            {
+                "image": null,
+                "actor_name": "Tyler Albrecht",
+                "character_name": "Riley"
+            },
+            {
+                "image": null,
+                "actor_name": "Kara Jones",
+                "character_name": "Kara"
+            },
+            {
+                "image": null,
+                "actor_name": "Kali Jones",
+                "character_name": "JoJo"
+            },
+            {
+                "image": null,
+                "actor_name": "Kelsey Ann Jones",
+                "character_name": "Daisy"
+            },
+            {
+                "image": null,
+                "actor_name": "Doralis Mendez",
+                "character_name": "Dee"
+            },
+            {
+                "image": null,
+                "actor_name": "Trinity Nadine Tillman",
+                "character_name": "Trinity"
+            },
+            {
+                "image": null,
+                "actor_name": "Zainab Raza",
+                "character_name": "Choir Teacher"
+            },
+            {
+                "image": null,
+                "actor_name": "Brittany Taylor Baumgartner",
+                "character_name": "Student"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzYwZTA2NmQtMmM5OC00MzM3LWJjMjEtMDE3MDEwZWQzZmY3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kiana Barbieri",
+                "character_name": "Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Michelle Cassidy",
+                "character_name": "Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Jonquita Edwards",
+                "character_name": "Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Hunter Howell",
+                "character_name": "Student"
+            }
+        ],
+        "Director": [
+            "Jerome Elston Scott"
+        ],
+        "Writer": [
+            "Jerome Elston Scott"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 8, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9446368/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "official site"
+                    ],
+                    "link": [
+                        "https://harborheightsentertainment.com/connor-jayden/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Harbor Heights Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0644954?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "33 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

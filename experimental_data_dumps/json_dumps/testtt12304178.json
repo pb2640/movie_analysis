@@ -1,0 +1,112 @@
+[
+    {
+        "first": [
+            {
+                "title": "Stallion"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjI5YmMwM2UtZDk4OS00ZjYyLWE4ZTUtYzNlNmQ2NTY0NzE5XkEyXkFqcGdeQXVyMTA2Njg1Mzg0._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A closeted college football captain Reece, struggles with who he must be with his fellow teammates and who he wants to be with his partner Beau."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWU1MzU5NDAtNWY3Ny00ZmZhLThkYmQtOWE4Mzg5NmQ1NjQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR2,0,140,140_.jpg",
+                "actor_name": "David Johnson III",
+                "character_name": "Micah"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmMyOWZmYmQtZmM3MS00ZmM4LThhYTctYzE2MjQ1ODlmMzYxXkEyXkFqcGdeQXVyMTUxMzQ5MDE4._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jacob Moskovitz",
+                "character_name": "Derek"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Sherman",
+                "character_name": "Sam"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTAzMWZkMjctMjU5Ni00ZmNkLWE3ZWYtM2RhZjhhNzRkNzU1XkEyXkFqcGdeQXVyMTEzNDA0NDIx._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Sean Stack",
+                "character_name": "Beau"
+            },
+            {
+                "image": null,
+                "actor_name": "Nyomi Stewart",
+                "character_name": "Reece"
+            }
+        ],
+        "Director": [
+            "Zachary Smith"
+        ],
+        "Writer": [
+            "Zachary Smith"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 10, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12304178/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$1,200 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

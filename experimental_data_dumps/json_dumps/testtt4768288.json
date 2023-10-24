@@ -1,0 +1,149 @@
+[
+    {
+        "first": [
+            {
+                "title": "Don't Be Afraid to Pogo"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTQ4ODY2MzUxM15BMl5BanBnXkFtZTgwOTQ2OTcyNjE@._V1_QL75_UX190_CR0,6,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "This feature length documentary tells the story of 1970's punk band The Gears - in their own words. Rising as young boys and friends in North East Los Angeles these musicians self styled an ... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Sean Antillon",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Dave Drive",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "The Gears",
+                "character_name": "Themselves"
+            },
+            {
+                "image": null,
+                "actor_name": "Mike Manifold",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Redz",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Axxel G. Reese",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Crazy Ruben",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Hector Sanchez",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Kidd Spike",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jonny Whiteside",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Chris Ashford"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 26, 2015 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4768288/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Wondercap Records"
+                    ],
+                    "link": [
+                        "/company/co0541060?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 35 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

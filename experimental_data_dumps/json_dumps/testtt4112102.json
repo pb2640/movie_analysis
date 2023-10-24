@@ -1,0 +1,119 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cosplay! Crafting a Secret Identity"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "A mainstay of \"geek culture\" for years, cosplay - a contraction of \"Costume Play\"- only recently emerged from the shadows of the sci-fi convention and into the mainstream. Cosplay involves p... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDRmNjlmNTktMWJjOS00NTI0LWEzZDYtYWFiYzBlMTQyYmNiXkEyXkFqcGdeQXVyODYxNjQwMjQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Miracole Burns",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "J. Lee Cox",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Katie George",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTI2MzUzN15BMl5BanBnXkFtZTcwNTQyMDg1Nw@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+                "actor_name": "Lauren Henneberg",
+                "character_name": "Babydoll"
+            }
+        ],
+        "Director": [
+            "Jack Walsh"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 28, 2013 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt4112102/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/CosplayAPT"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Atlanta, Georgia, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Atlanta%2C%20Georgia%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "57 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

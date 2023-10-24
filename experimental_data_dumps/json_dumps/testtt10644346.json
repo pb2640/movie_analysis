@@ -1,0 +1,116 @@
+[
+    {
+        "first": [
+            {
+                "title": "Man vs. Shark"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjFiMWZjZjktOTI0Ni00Mjc3LWJiNjktNWY4MGVlZmQ2MjZhXkEyXkFqcGdeQXVyMTU3MzMxNg@@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Jeremiah tries to create a shark suit to be able to safely be in the water with sharks. Very beautiful shots with him and his crew."
+            },
+            {
+                "imdb-rating": "6.2/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAxM2I4NjYtZDU0YS00MzYyLWE5YzItNzVkMWE1Y2Q1ZmFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Dave Hoffman",
+                "character_name": "Narrator"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Romeiro",
+                "character_name": "Self - Shark Researcher"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODhhMjA3M2YtYjFjZC00MTk0LTkzMjMtNmMzN2ZjMTRmNTA5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR32,0,140,140_.jpg",
+                "actor_name": "Jeremiah S. Sullivan",
+                "character_name": "Self - Host & Shark Suit Inventor"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 17, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10644346/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Painless Productions"
+                    ],
+                    "link": [
+                        "/company/co0016150?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "44 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

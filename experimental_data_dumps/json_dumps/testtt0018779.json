@@ -1,0 +1,155 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Cloud Dodger"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTczNjMzOWMtMmM5MS00ZTkxLWFiMmMtZjc5ZTMxMzY0NzExXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Al Wilson",
+                "character_name": "Bruce Torrence"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDg0OGJlYTQtYmE3Ny00MjU2LTllNTUtMDI3MTM0NzRlNGU5XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Gloria Grey",
+                "character_name": "Sylvia LeMoyne"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe O'Brien",
+                "character_name": "Stanton Stevens"
+            },
+            {
+                "image": null,
+                "actor_name": "Julia Griffith",
+                "character_name": "Mrs. LeMoyne"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjY5MDUwYzQtMDcwYy00MDUzLWI5ZmItYWQwYzY4YTg0MjJkXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Gilbert Holmes",
+                "character_name": "Joe Merriman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2E0N2Q0YWUtZjg5YS00MjY2LTg4ZGEtY2RmNDBhODVmYzZmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "George Chandler",
+                "character_name": "Post Commander"
+            }
+        ],
+        "Director": [
+            "Bruce Mitchell"
+        ],
+        "Writers": [
+            "William Berke",
+            "Gardner Bradford"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 30, 1928 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0018779/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Universal Studios - 100 Universal City Plaza, Universal City, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Universal%20Studios%20-%20100%20Universal%20City%20Plaza%2C%20Universal%20City%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Universal Pictures"
+                    ],
+                    "link": [
+                        "/company/co0005073?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "50 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

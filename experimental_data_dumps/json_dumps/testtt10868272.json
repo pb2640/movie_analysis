@@ -1,0 +1,90 @@
+[
+    {
+        "first": [
+            {
+                "title": "Footballization"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTc0MDZjNmQtNWY4Mi00N2IwLWI0MjItNjZlMmE4ODQ2YzE5XkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 1, 2019 (Italy)"
+                    ],
+                    "link": [
+                        "/title/tt10868272/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Italy",
+                        "Lebanon"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IT&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=LB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Italian",
+                        "Arabic"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=it&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ar&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Tr3sessanta Associazione"
+                    ],
+                    "link": [
+                        "/company/co0761292?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 17 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

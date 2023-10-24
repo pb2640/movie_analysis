@@ -1,0 +1,131 @@
+[
+    {
+        "first": [
+            {
+                "title": "Leperfuck"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A drama about love, loss, and memory for the gorehound crowd. A married woman in 1940's pre-war America must make a difficult decision upon her return home from a missionary position."
+            },
+            {
+                "imdb-rating": "4.8/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Lauren Jacquish",
+                "character_name": "Carol"
+            },
+            {
+                "image": null,
+                "actor_name": "Toney Palumbo",
+                "character_name": "Toney"
+            }
+        ],
+        "Director": [
+            "Drew Tobia"
+        ],
+        "Writer": [
+            "Drew Tobia"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 18, 2007 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1443353/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Boston, Massachusetts, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Boston%2C%20Massachusetts%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Mommy Kamikaze Secretions"
+                    ],
+                    "link": [
+                        "/company/co0266291?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

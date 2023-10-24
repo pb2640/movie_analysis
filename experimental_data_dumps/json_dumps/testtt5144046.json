@@ -1,0 +1,109 @@
+[
+    {
+        "first": [
+            {
+                "title": "Easy"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "High school students Jonathan and David have each other. Who cares that it's not perfect? They got this."
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Connor Gerton",
+                "character_name": "David"
+            },
+            {
+                "image": null,
+                "actor_name": "Zachary Prescott",
+                "character_name": "Jonathan"
+            },
+            {
+                "image": null,
+                "actor_name": "Anne Gottlieb",
+                "character_name": "Laura"
+            },
+            {
+                "image": null,
+                "actor_name": "Barlow Adamson",
+                "character_name": "Jonathan's Father"
+            }
+        ],
+        "Director": [
+            "Robert Guthrie"
+        ],
+        "Writer": [
+            "Robert Guthrie"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 8, 2014 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5144046/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Cambridge, Massachusetts, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Cambridge%2C%20Massachusetts%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "4 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

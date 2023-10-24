@@ -1,0 +1,199 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Whispering Man"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTZhZTE1ODMtMTJkYy00YjJkLThmYWQtMmU4NTM0MDBhYzQ5XkEyXkFqcGdeQXVyMjMxOTA1NjA@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror",
+                    "Mystery",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "After inheriting an ominous painting, a family soon becomes disturbed by a demonic presence known as The Whispering Man."
+            },
+            {
+                "imdb-rating": "3.1/10"
+            },
+            {
+                "metascore": "13"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "D\u00e1vid Fecske",
+                "character_name": "Mark"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTRlZjEwYjctOThiMy00ZjY0LWIyZjUtNjRkOGEzMDQxZmY2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Andr\u00e1s Korcsm\u00e1ros",
+                "character_name": "Tommy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjA3MmJhMDUtYzVkOC00NWEwLTg4NzAtMThmOTM2ZmViYmM0XkEyXkFqcGdeQXVyMTAyMTcwNDQ1._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "\u00c1gota Dunai",
+                "character_name": "Dora"
+            },
+            {
+                "image": null,
+                "actor_name": "D\u00e1vid Kiss",
+                "character_name": "Abel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzRmYjM2MDQtZjhiZS00ZWRjLWEzYzAtYWY2OGY0OGFkNzQ3XkEyXkFqcGdeQXVyMzE2NDA2Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Rob Oldfield",
+                "character_name": "Peter"
+            },
+            {
+                "image": null,
+                "actor_name": "Marcsi Nagy",
+                "character_name": "Anna"
+            },
+            {
+                "image": null,
+                "actor_name": "Gy\u00f6rgy Boldog",
+                "character_name": "Security Guard"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWU0MGViY2YtOWM2Yi00MTk3LWIwMjQtODM2MGE3MmQwYjJhXkEyXkFqcGdeQXVyMjMxOTA1NjA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "J\u00f3zsef Gallai",
+                "character_name": "The Whispering Man"
+            }
+        ],
+        "Director": [
+            "J\u00f3zsef Gallai"
+        ],
+        "Writer": [
+            "B\u00e1lint Sz\u00e1nt\u00f3"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 25, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8787834/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Hungary",
+                        "United States",
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=HU&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/thesurrealproject"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Hungarian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=hu&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Veszpr\u00e9m, Hungary"
+                    ],
+                    "link": [
+                        "/search/title?locations=Veszpr%C3%A9m%2C%20Hungary&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Lazy Cat Films",
+                        "Hepifilms",
+                        "Elekes Pictures"
+                    ],
+                    "link": [
+                        "/company/co0655792?ref_=tt_dt_co_1",
+                        "/company/co0620967?ref_=tt_dt_co_2",
+                        "/company/co0321673?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$7,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

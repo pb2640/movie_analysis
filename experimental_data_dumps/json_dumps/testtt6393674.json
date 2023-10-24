@@ -1,0 +1,213 @@
+[
+    {
+        "first": [
+            {
+                "title": "Before/During/After"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BY2EyZjM2YWEtMTA5ZS00NWM3LWEwZTItMDFmZDhlYTQ1NzI5XkEyXkFqcGdeQXVyMTIyMjI1OTg1._V1_QL75_UY281_CR18,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "This sharp-witted dramedy studies a middle-aged NYC theatre actress suddenly forced to figure out the kind of person she wants to portray in real life when her marriage comes to an end after... Read all"
+            },
+            {
+                "imdb-rating": "5.2/10"
+            },
+            {
+                "metascore": "46"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzU3NzhlMzItZWQ5MS00NjhmLTkxMTYtMzNmZjA5MzI1YjI3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Finnerty Steeves",
+                "character_name": "Jennie"
+            },
+            {
+                "image": null,
+                "actor_name": "Jeff Talbott",
+                "character_name": "Stage Manager"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIyMDgyMzQ4OV5BMl5BanBnXkFtZTcwMjE3NzcyNA@@._V1_QL75_UY140_CR30,0,140,140_.jpg",
+                "actor_name": "John Pankow",
+                "character_name": "Jim Lonergan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmYxMzdjZGUtMzNiYy00NjBhLWE0ODItY2M5MzZkZTMxN2FmXkEyXkFqcGdeQXVyMTY2NzIyNTQ@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jeremy Davidson",
+                "character_name": "David"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMzNDcxMzAwMV5BMl5BanBnXkFtZTcwNzAyODcyNA@@._V1_QL75_UY140_CR7,0,140,140_.jpg",
+                "actor_name": "Kristine Sutherland",
+                "character_name": "Pat Lonergan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjIwZjM1NzItM2Y1Yy00ZTBjLWFhMWMtNjNjZjI4ODA4NmM5XkEyXkFqcGdeQXVyMjIxNTYwODU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Susan Blackwell",
+                "character_name": "Erin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDI0Nzc5M15BMl5BanBnXkFtZTYwMTgxNzM1._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Miriam Shor",
+                "character_name": "Insecure Irene"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjQ5OGQ3ZDgtZDc1OC00ZmEzLTliYmItMmZlZDVjMmVkOTMzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Meghan Rafferty",
+                "character_name": "Mae the Casting Director"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWJiY2NkNjItMjdkNC00NGIxLTkwMDYtMTM2MTQ5NzJhYWYwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Miles G. Jackson",
+                "character_name": "Toby the Reader"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjExMDE1MTMzMV5BMl5BanBnXkFtZTYwMDQ2NDIz._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Kate Burton",
+                "character_name": "Therapist #1"
+            },
+            {
+                "image": null,
+                "actor_name": "Vivian Mar Mignone",
+                "character_name": "Little Dancing Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Alexis McGuiness",
+                "character_name": "Little Dancing Girl's Mom"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODI0NWYwZjUtNmVjOC00N2ZhLTk4M2UtN2U5MjhmYTIxOWM1XkEyXkFqcGdeQXVyMjc1MTQ5MTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "J. Alphonse Nicholson",
+                "character_name": "Prospect Park Drummer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTFlNDI3YjgtNDExMC00MTE2LTlhZjQtODNkOTUyNDI5ODBmXkEyXkFqcGdeQXVyMjU1NjA5Njg@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Kate Hampton",
+                "character_name": "Therapy Wife"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Russell",
+                "character_name": "Therapy Husband"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGY0NjhjZDYtZDA2Ni00Y2VmLTgyOWQtODdjNTA0NjA5MDk5XkEyXkFqcGdeQXVyMjA4NjgzNzg@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Richard Masur",
+                "character_name": "Stan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTJkOWUwMWUtYzUzNC00YmQzLTk0NGMtZmEwMjkwYzQ2ODA5XkEyXkFqcGdeQXVyOTA2NTI4MjA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Artisha Mann Cooper",
+                "character_name": "Genetic Counselor"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjk3ODIyNzcxMl5BMl5BanBnXkFtZTcwOTM2MzIzMQ@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Brenda Pressley",
+                "character_name": "Nurse Lydia"
+            }
+        ],
+        "Directors": [
+            "Stephen Kunken",
+            "Jack Lewars"
+        ],
+        "Writer": [
+            "Finnerty Steeves"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 7, 2020 (Brazil)"
+                    ],
+                    "link": [
+                        "/title/tt6393674/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "film's official site"
+                    ],
+                    "link": [
+                        "http://beforeduringafterthefilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Indie City Films",
+                        "Marsha's Daughter Productions",
+                        "Cutters Studios"
+                    ],
+                    "link": [
+                        "/company/co0375123?ref_=tt_dt_co_1",
+                        "/company/co0622597?ref_=tt_dt_co_2",
+                        "/company/co0575515?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 22 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

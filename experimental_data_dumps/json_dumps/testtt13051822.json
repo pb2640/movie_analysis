@@ -1,0 +1,130 @@
+[
+    {
+        "first": [
+            {
+                "title": "Nude Triumphant"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2MxZTFlNmUtMGVhNC00Njc2LWExZjMtZGI2NDY5NWY3Y2U1XkEyXkFqcGdeQXVyNTA4NTMzNTA@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Animation"
+                ]
+            },
+            {
+                "plot": "Jay rushes to get ready for another frantic day. Armoured against the sights and sounds of the City, he races against time until a chance encounter propels him into a strange watercolour wor... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Roy Joseph Butler",
+                "character_name": "Jay"
+            },
+            {
+                "image": null,
+                "actor_name": "Jo Calderwood",
+                "character_name": "The Professor"
+            },
+            {
+                "image": null,
+                "actor_name": "Matthew Oghene",
+                "character_name": "Mat"
+            },
+            {
+                "image": null,
+                "actor_name": "Valentina Rock",
+                "character_name": "Vee"
+            },
+            {
+                "image": null,
+                "actor_name": "Maya Williams",
+                "character_name": "Emm"
+            },
+            {
+                "image": null,
+                "actor_name": "Maya Williams",
+                "character_name": "Emm"
+            }
+        ],
+        "Director": [
+            "Leo Crane"
+        ],
+        "Writers": [
+            "Roy Joseph Butler",
+            "Jo Calderwood",
+            "Maya Williams"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 4, 2020 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt13051822/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Figuration",
+                        "Animate Projects Limited"
+                    ],
+                    "link": [
+                        "/company/co0770028?ref_=tt_dt_co_1",
+                        "/company/co0282301?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

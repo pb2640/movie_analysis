@@ -1,0 +1,73 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Baddest Bad Boy"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTIyYjlhNzktM2JiMi00YzhkLWFmMzAtMDI2NzQ3MjkyMzJlXkEyXkFqcGdeQXVyOTMzOTMzMTg@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "A comedy set in the quarantine, made during the quarantine, about a young man's journey to be bad boy, and the world that couldn't care less."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 9, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt13840630/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

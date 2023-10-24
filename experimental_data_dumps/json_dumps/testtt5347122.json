@@ -1,0 +1,175 @@
+[
+    {
+        "first": [
+            {
+                "title": "A Young Man with High Potential"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2NlNmVmNzctYzdiMC00YzEwLWE4MWYtMGI0MmE1YzJjMjhhXkEyXkFqcGdeQXVyMDM2NTk3Nw@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "When the brilliant but sexually inexperienced computer science student PIET is turned down by bright and beautiful KLARA, he is deeply hurt. He takes a dose of a sleep medication, leading to... Read all"
+            },
+            {
+                "imdb-rating": "5.5/10"
+            },
+            {
+                "metascore": "19"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWZkNjI4NTAtZjEzYS00OTAzLThiNjMtNWU3MTRkNmVmNWJkXkEyXkFqcGdeQXVyMjQyMjI5OTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Adam Ild Rohweder",
+                "character_name": "Piet"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2RkNWIzOGQtNTU3My00ZWU1LThkZGEtOTI5MWIzZmZiMTEyXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Paulina Galazka",
+                "character_name": "Klara"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTJlNzc2NzItYjM5Mi00NGQwLWI0NjktOGMwYjZmZDczODAyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Pit Bukowski",
+                "character_name": "Alex"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAzNDczNzUzMV5BMl5BanBnXkFtZTcwOTQwNTQ1NA@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Amanda Plummer",
+                "character_name": "Ketura"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODg1NTc2MzE5Nl5BMl5BanBnXkFtZTgwMzczMzkyMDI@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Laurence Roothooft",
+                "character_name": "Kylie"
+            },
+            {
+                "image": null,
+                "actor_name": "Vania Bajdarova",
+                "character_name": "Nathalie"
+            },
+            {
+                "image": null,
+                "actor_name": "Sheraz Khan",
+                "character_name": "Delivery Boy"
+            },
+            {
+                "image": null,
+                "actor_name": "Prodromos Antoniadis",
+                "character_name": "Karadimos"
+            }
+        ],
+        "Director": [
+            "Linus de Paoli"
+        ],
+        "Writers": [
+            "Anna de Paoli",
+            "Linus de Paoli"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 17, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5347122/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Berlin, Germany"
+                    ],
+                    "link": [
+                        "/search/title?locations=Berlin%2C%20Germany&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Hahn Film AG",
+                        "Schattenkante"
+                    ],
+                    "link": [
+                        "/company/co0036472?ref_=tt_dt_co_1",
+                        "/company/co0313003?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$8,623"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

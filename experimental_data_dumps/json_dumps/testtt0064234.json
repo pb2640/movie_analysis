@@ -1,0 +1,191 @@
+[
+    {
+        "first": [
+            {
+                "title": "Dial Hot Line"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2EzZjNkNzEtODQ0Yi00NGFjLWE3M2YtNjg5Y2U3ZmZmOWFhXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_QL75_UY281_CR17,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The head of a psychiatric telephone hot line gets his associates to get out of the office and into the streets to help people with psychiatric problems."
+            },
+            {
+                "imdb-rating": "7.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTczMDE0MF5BMl5BanBnXkFtZTYwMTE0ODQ2._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Vince Edwards",
+                "character_name": "David Leopold"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY0NzcxMTE1MV5BMl5BanBnXkFtZTgwMDgyMzM1MjI@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Chelsea Brown",
+                "character_name": "Gibson"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Larrain",
+                "character_name": "Kevin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjg0MDc4MDAwNV5BMl5BanBnXkFtZTgwMjcxNjY3NzM@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "June Harding",
+                "character_name": "Ann"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE1NjM3NDA4M15BMl5BanBnXkFtZTgwMzUzNzczMjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Felton Perry",
+                "character_name": "Jimmy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjU3NzI3NjM0Ml5BMl5BanBnXkFtZTcwNjIxMjcxOA@@._V1_QL75_UY140_CR3,0,140,140_.jpg",
+                "actor_name": "Kim Hunter",
+                "character_name": "Mrs. Edith Carruthers"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmVjZGRkYTItN2I4OS00MTM1LWEyMjYtOTBiZjg4MTQ3NTM4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Lane Bradbury",
+                "character_name": "Pam Carruthers"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjZlZDZjNzItNjA4Mi00YzUxLTk0NDEtODFmZjM1MDg0MzhjXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Elliott Street",
+                "character_name": "Joe"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY2NjM5ODQyMF5BMl5BanBnXkFtZTcwNjgzOTIxNg@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "G.D. Spradlin",
+                "character_name": "Doctor Stone"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Pratt",
+                "character_name": "Earl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTA5MDk0M15BMl5BanBnXkFtZTcwMDg1NzAzMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Michael McGreevey",
+                "character_name": "Peter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDQ0NjEyNzI4M15BMl5BanBnXkFtZTcwMDUyNTAxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "James Griffith",
+                "character_name": "Sam"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTM0NmE1ZDQtNTllNi00NjEzLTk5MGMtODUzY2U4MzY3OTcxXkEyXkFqcGdeQXVyNjc3NDgwNzU@._V1_QL75_UY140_CR59,0,140,140_.jpg",
+                "actor_name": "Kermit Murdock",
+                "character_name": "Fourth Board Member"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI0OTA0NDc0M15BMl5BanBnXkFtZTcwMTU1MDQ3MQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Vincent Van Patten",
+                "character_name": "Stevie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDQwYmE3ZjAtM2M4My00MTk0LWE4NTQtYjY5ODM2NjFkMDIzXkEyXkFqcGdeQXVyNDY1NDg3NTg@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Kevin Burchett",
+                "character_name": "Teenage Informant"
+            }
+        ],
+        "Director": [
+            "Jerry Thorpe"
+        ],
+        "Writers": [
+            "Don Ingalls",
+            "Carol Sobieski"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 8, 1970 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0064234/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "San Diego, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=San%20Diego%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Universal Television"
+                    ],
+                    "link": [
+                        "/company/co0046592?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 38 minutes"
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

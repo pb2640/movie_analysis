@@ -1,0 +1,105 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Mighty Termite"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Professor Schmaltz captures a termite to study, and gets more than he bargained for when it wreaks havoc in his laboratory."
+            },
+            {
+                "imdb-rating": "6.9/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjcxMjExN2YtNjE4ZC00MGQ5LTgwYWMtNjY4ZDgzNDVlNDZlXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jack Mercer",
+                "character_name": "Professor Schmaltz"
+            }
+        ],
+        "Directors": [
+            "Seymour Kneitel",
+            "Nick Tafuri"
+        ],
+        "Writer": [
+            "Irving Dressler"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 1961 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0151567/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Famous Studios"
+                    ],
+                    "link": [
+                        "/company/co0001031?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

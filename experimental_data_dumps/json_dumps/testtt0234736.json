@@ -1,0 +1,110 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Silver Wedding"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMmY2ZDdlZWMtOGU4ZS00MjU2LWIxMjgtMWJlYjc0ODgzYmU4XkEyXkFqcGdeQXVyNjYxMzM2NA@@._V1_QL75_UY281_CR92,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Crime",
+                    "Drama",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Thieves plot to steal the gifts at a wedding."
+            },
+            {
+                "imdb-rating": "5.3/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 17, 1906 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0234736/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "American Mutoscope & Biograph"
+                    ],
+                    "link": [
+                        "/company/co0066927?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

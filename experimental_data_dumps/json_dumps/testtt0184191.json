@@ -1,0 +1,68 @@
+[
+    {
+        "first": [
+            {
+                "title": "Aircraft Wood Repair, Part 1: Small Scarf Patch and Doubler Patch"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Training film depicting methods on preparing, making, and applying different kinds of patches to damaged wooden areas of aircraft bodies."
+            },
+            {
+                "imdb-rating": "5.3/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Beech Aircraft Corporation",
+                        "U.S. Army Air Forces",
+                        "Walt Disney Pictures"
+                    ],
+                    "link": [
+                        "/company/co0067716?ref_=tt_dt_co_1",
+                        "/company/co0046209?ref_=tt_dt_co_2",
+                        "/company/co0008970?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

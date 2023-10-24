@@ -1,0 +1,240 @@
+[
+    {
+        "first": [
+            {
+                "title": "Rebecca"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzgzNGFkNDItZTJkZC00NzJkLTk2OWMtNzliM2I5YzQxYjkxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Mystery",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "A young newlywed arrives at her husband's imposing family estate on a windswept English coast and finds herself battling the shadow of his first wife, Rebecca, whose legacy lives on in the h... Read all"
+            },
+            {
+                "imdb-rating": "6.0/10"
+            },
+            {
+                "metascore": "529"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgxMjM2NTAyMV5BMl5BanBnXkFtZTgwOTU4NjU2NDE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lily James",
+                "character_name": "Mrs. de Winter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzI3NTYwMzIxM15BMl5BanBnXkFtZTcwMzI1ODY1NA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Armie Hammer",
+                "character_name": "Maxim de Winter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDc2MjQ1MzE4NV5BMl5BanBnXkFtZTcwMzU4NDU1OQ@@._V1_QL75_UX140_CR0,18,140,140_.jpg",
+                "actor_name": "Kristin Scott Thomas",
+                "character_name": "Mrs. Danvers"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjQwMDAxYTgtNzE2Ny00YWI3LWFkNWEtYzE3ODE2ZWVjZjkyXkEyXkFqcGdeQXVyODg4NDgyOTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Keeley Hawes",
+                "character_name": "Beatrice"
+            },
+            {
+                "image": null,
+                "actor_name": "Jacques Bouanich",
+                "character_name": "Taxi Driver"
+            },
+            {
+                "image": null,
+                "actor_name": "Marie Collins",
+                "character_name": "Guest with Dog"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIwMTc0NzA0OV5BMl5BanBnXkFtZTcwMDIwMjk4OA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ann Dowd",
+                "character_name": "Mrs. Van Hopper"
+            },
+            {
+                "image": null,
+                "actor_name": "Jean Dell",
+                "character_name": "Restaurant Maitre D'"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWZiNjY1YWUtNzk0NC00MmZjLWJjZTMtNDAxODU4Yjg5ZTk2XkEyXkFqcGdeQXVyMTA5MzQxMTk4._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sophie Payan",
+                "character_name": "Restaurant Guest"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2NmYjc1MWYtNzRjMS00MGZkLTljOTQtZTgzMmQ5NTVhNDIwXkEyXkFqcGdeQXVyMjg4NTcyNDk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Pippa Winslow",
+                "character_name": "Mrs. Jean Cabot"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2IwNWU5ZGUtMThlYS00ODFmLTlkOTgtOTk0OTUxNjRlNGM5XkEyXkFqcGdeQXVyMDc1MzI2Mw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lucy Russell",
+                "character_name": "Mrs. Clementine Whitney"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmI0NGRiNzEtMDFiZC00NmM3LTlmY2EtMjUyM2VlYjlkOWRmXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Bruno Paviot",
+                "character_name": "Terrace Maitre D'"
+            },
+            {
+                "image": null,
+                "actor_name": "Stefo Linard",
+                "character_name": "Terrace Waiter"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2I5NjA2NjQtZmM1YS00NDhmLTgyMDUtZGYxN2FiNTllNjlkXkEyXkFqcGdeQXVyNTY5MjgyNzg@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tom Hudson",
+                "character_name": "Hotel Bellhop"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk3ODI5ODEyNF5BMl5BanBnXkFtZTcwMDk1MDcxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jeff Rawle",
+                "character_name": "Frith"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjYzYjZjYzItN2QyNS00Y2VmLThlYTMtZjFkNjcyY2M2MWJiXkEyXkFqcGdeQXVyMTAzOTU1MTg4._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ashleigh Reynolds",
+                "character_name": "Robert"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTEyOThjYTYtODU0Ny00ZmUyLTgyNTAtZmJlZDNiYTE0ZjFjXkEyXkFqcGdeQXVyMTA4Mjc4OTk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Bryony Miller",
+                "character_name": "Clarice"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDE5OWQ4NmYtNzQ3Mi00YmQzLWI3NDctZTQ0YzkzZDIxZjc2XkEyXkFqcGdeQXVyOTI1NjA2OQ@@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Tom Goodman-Hill",
+                "character_name": "Frank Crawley"
+            }
+        ],
+        "Director": [
+            "Ben Wheatley"
+        ],
+        "Writers": [
+            "Jane Goldman",
+            "Joe Shrapnel",
+            "Anna Waterhouse"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 21, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt2235695/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://www.netflix.com/title/81002196"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Cranborne Manor, Dorset, England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=Cranborne%20Manor%2C%20Dorset%2C%20England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Netflix",
+                        "Working Title Films"
+                    ],
+                    "link": [
+                        "/company/co0144901?ref_=tt_dt_co_1",
+                        "/company/co0057311?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 hours 3 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital",
+                        "Dolby Atmos"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

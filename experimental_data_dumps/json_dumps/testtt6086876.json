@@ -1,0 +1,165 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Goblin"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmRhNzc5OTEtMzRiNi00MmVhLTg3NWQtMTA2YzViZTBjNmY5XkEyXkFqcGdeQXVyNTM0ODgwNDc@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Fantasy",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A boy imprisoned by an abusive recluse mother alone in a mansion in the 1920s begins to get ideas of his own when a goblin in his closet comforts him in the dark."
+            },
+            {
+                "imdb-rating": "4.6/10"
+            },
+            {
+                "metascore": "9"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzRiNzRjZmMtZTA1OS00NWVhLWJlMTYtNzg3MDkyZTk4NGVjXkEyXkFqcGdeQXVyNjk5NDA3MDA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Robert Levey II",
+                "character_name": "Simon"
+            },
+            {
+                "image": null,
+                "actor_name": "Nicole Hargrove",
+                "character_name": "Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Josh Collins",
+                "character_name": "Actor Double"
+            },
+            {
+                "image": null,
+                "actor_name": "Wyatt Michael",
+                "character_name": "Goblin"
+            }
+        ],
+        "Director": [
+            "Wyatt Michael"
+        ],
+        "Writer": [
+            "Wyatt Michael"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 31, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6086876/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.facebook.com/thegoblinmovie",
+                        "http://www.thegoblinmovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "North Carolina USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=North%20Carolina%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Michael & Company Pictures"
+                    ],
+                    "link": [
+                        "/company/co0501638?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$30,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 7 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "D-Cinema 48kHz 5.1"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

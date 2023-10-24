@@ -1,0 +1,169 @@
+[
+    {
+        "first": [
+            {
+                "title": "Stray Dog"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDU0NjBhN2YtN2NhZS00NzBhLThiNjUtYmY2YWM4OTYwNjNmXkEyXkFqcGdeQXVyMjE4OTcyNjg@._V1_QL75_UY281_CR19,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Crime",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A troubled teenager unable to connect with the normal youngsters of his age seeks to impress a local gang in a desperate attempt to be accepted leading to devastating consequences."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Diane Beveridge",
+                "character_name": "Al's Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Abid Bhatti",
+                "character_name": "Customer"
+            },
+            {
+                "image": null,
+                "actor_name": "Sean Blair",
+                "character_name": "Police Officer 1"
+            },
+            {
+                "image": null,
+                "actor_name": "Daniel Brace",
+                "character_name": "Al"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjMxOTRkOGMtZjJhYi00YTRjLWI4ODctOTgwMGYwMzk3NTIxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Boye Cole",
+                "character_name": "Tyrone"
+            },
+            {
+                "image": null,
+                "actor_name": "Eduardo Cupi",
+                "character_name": "MF Leader"
+            },
+            {
+                "image": null,
+                "actor_name": "Sandra Daley",
+                "character_name": "Debbie"
+            },
+            {
+                "image": null,
+                "actor_name": "Jamie Douglas",
+                "character_name": "Abs"
+            },
+            {
+                "image": null,
+                "actor_name": "James Douglas-Quarcoopome",
+                "character_name": "Ab"
+            },
+            {
+                "image": null,
+                "actor_name": "Angus Dustagheer",
+                "character_name": "MF Boy 1"
+            },
+            {
+                "image": null,
+                "actor_name": "Cameron Goodchild",
+                "character_name": "John"
+            },
+            {
+                "image": null,
+                "actor_name": "Cameron Goodchild",
+                "character_name": "John"
+            },
+            {
+                "image": null,
+                "actor_name": "Murtaza Haider",
+                "character_name": "Peter"
+            },
+            {
+                "image": null,
+                "actor_name": "Eimontas Jankauskis",
+                "character_name": "Nick"
+            },
+            {
+                "image": null,
+                "actor_name": "Monika Karanedeva",
+                "character_name": "Robert's Sister"
+            },
+            {
+                "image": null,
+                "actor_name": "Sonnie Leawat",
+                "character_name": "Angela"
+            },
+            {
+                "image": null,
+                "actor_name": "Carlton Limted",
+                "character_name": "Will"
+            },
+            {
+                "image": null,
+                "actor_name": "Eddie Linina",
+                "character_name": "Darren"
+            }
+        ],
+        "Director": [
+            "Luke Hefferman"
+        ],
+        "Writer": [
+            "Luke Hefferman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 9, 2019 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt9309408/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Emeraude Films"
+                    ],
+                    "link": [
+                        "/company/co0417536?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 29 minutes"
+                }
+            }
+        ]
+    }
+]

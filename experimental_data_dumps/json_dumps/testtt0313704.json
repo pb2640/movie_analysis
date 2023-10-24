@@ -1,0 +1,109 @@
+[
+    {
+        "first": [
+            {
+                "title": "That Grip"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZmNhN2U4ODYtYmE5Ni00MTg1LTgzNzAtYzZjNDdkMmM2NzI1XkEyXkFqcGdeQXVyMzUwMDU2MjM@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "On the set of \"The Elephant Mandingo,\" the call goes out to...That Grip!"
+            },
+            {
+                "imdb-rating": "6.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Nat Benchley",
+                "character_name": "The Director"
+            },
+            {
+                "image": null,
+                "actor_name": "Carol Flaisher",
+                "character_name": "The Script Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Frank Gill",
+                "character_name": "The Grip"
+            },
+            {
+                "image": null,
+                "actor_name": "Stephen Kern",
+                "character_name": "Assistant director"
+            }
+        ],
+        "Director": [
+            "Gary Grieg"
+        ],
+        "Writer": [
+            "Gary Grieg"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Consolidated American Consumer Pictures"
+                    ],
+                    "link": [
+                        "/company/co0061388?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

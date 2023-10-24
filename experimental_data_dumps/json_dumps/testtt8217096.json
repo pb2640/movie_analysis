@@ -1,0 +1,139 @@
+[
+    {
+        "first": [
+            {
+                "title": "Beauty Queen"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDA2YmVhNDAtZGIxNy00YThhLTliOWEtZWE4NzA3NGRjZWE2XkEyXkFqcGdeQXVyMzAwNTk1NQ@@._V1_QL75_UY281_CR184,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Christina (Christina Goursky), an adolescent insecure girl, is on her quest to be labeled \"beautiful.\" After her failed modeling attempt, she finally finds a photographer, Sebastian Schultz ... Read all"
+            },
+            {
+                "metascore": "21"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Christina Goursky",
+                "character_name": "Christina"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzU0NjlkNmUtODkzNy00YTFmLWE4OTItOTA3MDQ3NWU3NDNjXkEyXkFqcGdeQXVyMzAwNTk1NQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Timothy J. Cox",
+                "character_name": "David"
+            },
+            {
+                "image": null,
+                "actor_name": "James Jelkin",
+                "character_name": "Sebastian"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQyNDQzNDc3MF5BMl5BanBnXkFtZTgwMzEzNjIwMDE@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "Thea McCartan",
+                "character_name": "Mary Joe"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjNmMDVhZjgtYTRjMi00ZWM5LWE5MmUtMGNmZDM0M2Q3NzI3XkEyXkFqcGdeQXVyMzA2NTQxODk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sally Eidman",
+                "character_name": "Ms. Carson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjQyOTNlYTctNzFlNC00NzYzLTllNjEtMDhiYmM2ZDdlYmU2XkEyXkFqcGdeQXVyNjQ3Mjk4MTc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jordan Gaches",
+                "character_name": "Josh"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Francese",
+                "character_name": "Billy"
+            }
+        ],
+        "Director": [
+            "Nicholas Goodwin"
+        ],
+        "Writer": [
+            "Nicholas Goodwin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 30, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8217096/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Amazon.com Seller Page)"
+                    ],
+                    "link": [
+                        "https://www.amazon.com/dp/B00ELMIHLM"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$2,500 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "50 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

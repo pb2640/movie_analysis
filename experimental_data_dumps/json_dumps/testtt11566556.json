@@ -1,0 +1,113 @@
+[
+    {
+        "first": [
+            {
+                "title": "Who Put the Klan Into Ku Klux Klan"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMmU3ZTI0NmUtMGI2Yi00ODVjLTk5MzQtZTgxNGQ3ZGE5NTRhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "In this documentary, archaeologist and historian Neil Oliver examines racism in the Deep South and the Scots who first occupied it who influenced where we are today. Oliver travels to the so... Read all"
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDVkNGE4MDQtNjk4Zi00YmViLWJiMTItZmQ4ZDE1ZTFhZDM4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Neil Oliver",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Ian Lilley"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 10, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11566556/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Studio Link"
+                    ],
+                    "link": [
+                        "https://www.dreamscapeab.com/video/4314486/detail"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Dreamscape Media"
+                    ],
+                    "link": [
+                        "/company/co0589760?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "59 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Gold Diggers"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjk2YjU2NWItNjc4NC00YzBlLTk3ZWItMDRhZTc5ZjZjODljXkEyXkFqcGdeQXVyNjA5MTAzODY@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "Stephen Lee doesn't want his nephew Wally Sanders to marry chorus girl Violet Dayne, because he believes all chorus girls to be ruthless gold diggers, always chasing after the men's money. V... Read all"
+            },
+            {
+                "imdb-rating": "5.2/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWFiZGI4YzItZGM2MC00MWUyLWIyMzMtOWVmNTMxNjIxMmVmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Hope Hampton",
+                "character_name": "Jerry La Mar"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGUzNGZhMTYtMzdiOC00M2M0LTk2ZWMtODdkZTg4MjU0OGQ2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Wyndham Standing",
+                "character_name": "Stephen Lee"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI3MTM1MDE4OF5BMl5BanBnXkFtZTgwNjQ4MzM4MTE@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Louise Fazenda",
+                "character_name": "Mabel Munroe"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzRiYWVmYzktNzkwNS00NGM5LTk5MjEtNGZkYWE1NDg5MjkyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Gertrude Short",
+                "character_name": "Topsy St. John"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQyNDA5NTk0Nl5BMl5BanBnXkFtZTgwNjkzNjM1MzE@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Alec B. Francis",
+                "character_name": "James Blake"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGUwYzA4MTItOTIwNy00NTRhLWJmODYtN2IyNDJjZDAwOTA2XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jed Prouty",
+                "character_name": "Barney Barnett"
+            },
+            {
+                "image": null,
+                "actor_name": "Arita Gillman",
+                "character_name": "Eleanor Montgomery"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2IwMzc5ZTktZDc5Mi00NTFiLTlkN2YtODc4Y2YxNjQxYTdjXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Peggy Browne",
+                "character_name": "Trixie Andres"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGJmMTJiZDUtOGYzOC00MThiLTg0YjMtYzcyYWFjNzFkMmI4XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Margaret Seddon",
+                "character_name": "Mrs. La Mar"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjM3NjE1MGUtNjI2ZS00M2YwLWFmMTYtYzkxNGIzZWEwMmM2XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "John Harron",
+                "character_name": "Wally Saunders"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI3NzgxNzI5N15BMl5BanBnXkFtZTgwNTcxODY3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Anne Cornwall",
+                "character_name": "Violet Dayne"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGUxMDlhMTItMDgwMi00ZThjLTk4ZjktYWUxOWY0ZTJjNDU5XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Louise Beaudet",
+                "character_name": "Cissie Gray"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQzODIzMjczMV5BMl5BanBnXkFtZTgwMjA2NDM4MTE@._V1_QL75_UY140_CR19,0,140,140_.jpg",
+                "actor_name": "Edna Tichenor",
+                "character_name": "Dolly Baxter"
+            },
+            {
+                "image": null,
+                "actor_name": "Frances Ross",
+                "character_name": "Gypsy Montrose"
+            },
+            {
+                "image": null,
+                "actor_name": "Marie Prade",
+                "character_name": "Sadie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTJjMjM5N2ItOWI0Zi00MTQyLTg1ZDMtMTdlNWI2MDkxMjY4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Michael Dark",
+                "character_name": "Man in Audience"
+            },
+            {
+                "image": null,
+                "actor_name": "Bruce Guerin",
+                "character_name": "Child"
+            }
+        ],
+        "Director": [
+            "Harry Beaumont"
+        ],
+        "Writers": [
+            "Grant Carpenter",
+            "Avery Hopwood"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 22, 1923 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0014090/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Warner Bros."
+                    ],
+                    "link": [
+                        "/company/co0002663?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$1,024,600"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$1,048,580"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

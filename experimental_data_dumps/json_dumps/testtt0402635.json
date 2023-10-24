@@ -1,0 +1,147 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Story of the Animated Drawing"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTQ0MDc1OTExNl5BMl5BanBnXkFtZTgwMjM4Mzk0NjE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Adventure",
+                    "Drama",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "Walt Disney discusses the history of animation."
+            },
+            {
+                "imdb-rating": "7.4/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIxMTUyNjc5OF5BMl5BanBnXkFtZTcwMjMwNjYwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Walt Disney",
+                "character_name": "Self - Host"
+            },
+            {
+                "image": null,
+                "actor_name": "The Philadelphia Orchestra",
+                "character_name": "Themselves"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAyMDQxNjIzOV5BMl5BanBnXkFtZTcwMDQxOTM1Mw@@._V1_QL75_UY140_CR28,0,140,140_.jpg",
+                "actor_name": "Leopold Stokowski",
+                "character_name": "Himelf (conductor in 'Fantasia')"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTFmY2Q3YzQtZDVhMS00NWNhLTk5MWItMTA0NTQ1ODA2OTQzL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Oliver Wallace",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "\u00c9mile Reynaud",
+                "character_name": "Self"
+            }
+        ],
+        "Directors": [
+            "William Beaudine",
+            "Wilfred Jackson"
+        ],
+        "Writers": [
+            "Dick Huemer",
+            "McLaren Stewart"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 30, 1955 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0402635/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Walt Disney Studios, 500 South Buena Vista Street, Burbank, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Walt%20Disney%20Studios%2C%20500%20South%20Buena%20Vista%20Street%2C%20Burbank%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Walt Disney Productions"
+                    ],
+                    "link": [
+                        "/company/co0098836?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

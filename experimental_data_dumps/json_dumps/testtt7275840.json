@@ -1,0 +1,219 @@
+[
+    {
+        "first": [
+            {
+                "title": "Emu Runner"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMDE2YzNhMWItNGVhMy00ZjA0LWJjMDktMzdlNTRlY2MxOGNkXkEyXkFqcGdeQXVyMTY1MTcxMzc@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Family"
+                ]
+            },
+            {
+                "plot": "A spirited 8-year-old girl deals with the grief of her mother's death by forging a bond with a wild emu. This spiritual dreaming is a bond she will do anything to keep, but one that puts her... Read all"
+            },
+            {
+                "imdb-rating": "6.2/10"
+            },
+            {
+                "metascore": "5"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Rhae-Kye Waites",
+                "character_name": "Gemma"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgxNDg3NjEwNV5BMl5BanBnXkFtZTcwODI1ODQyOQ@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Wayne Blair",
+                "character_name": "Jay Jay"
+            },
+            {
+                "image": null,
+                "actor_name": "Stella Carter",
+                "character_name": "Tessa"
+            },
+            {
+                "image": null,
+                "actor_name": "Maurial Spearim",
+                "character_name": "Darlene"
+            },
+            {
+                "image": null,
+                "actor_name": "Rob Carlton",
+                "character_name": "Stan"
+            },
+            {
+                "image": null,
+                "actor_name": "Mary Waites",
+                "character_name": "Daphne"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjE3YTc0NzItMTllYi00YzJiLTk0NjgtMmZkYjFmZDIzOTc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Georgia Blizzard",
+                "character_name": "Heidi Goodell"
+            },
+            {
+                "image": null,
+                "actor_name": "Lindsay Waites",
+                "character_name": "Uncle Wes"
+            },
+            {
+                "image": null,
+                "actor_name": "Letisha Boney",
+                "character_name": "Valerie"
+            },
+            {
+                "image": null,
+                "actor_name": "Rodney McHughes",
+                "character_name": "Ecka"
+            },
+            {
+                "image": null,
+                "actor_name": "Anne Wright",
+                "character_name": "Aunty Gloria"
+            },
+            {
+                "image": null,
+                "actor_name": "Sandra Murphy",
+                "character_name": "Aunty Joy"
+            },
+            {
+                "image": null,
+                "actor_name": "Isaac Gordon",
+                "character_name": "Pastor"
+            },
+            {
+                "image": null,
+                "actor_name": "Brad Steadman",
+                "character_name": "Mr. Glover"
+            },
+            {
+                "image": null,
+                "actor_name": "Sarah Batty",
+                "character_name": "Tessa's Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Gregory Herapeth Weight",
+                "character_name": "Nosey Neighbour"
+            },
+            {
+                "image": null,
+                "actor_name": "Coco Daro",
+                "character_name": "Susie"
+            },
+            {
+                "image": null,
+                "actor_name": "Bram Eastman",
+                "character_name": "Stuart"
+            }
+        ],
+        "Director": [
+            "Imogen Thomas"
+        ],
+        "Writer": [
+            "Imogen Thomas"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 7, 2019 (Australia)"
+                    ],
+                    "link": [
+                        "/title/tt7275840/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Australia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Adelaide Film Festival",
+                        "Imogen Thomas Films"
+                    ],
+                    "link": [
+                        "https://adelaidefilmfestival.org/2018/08/the-australian-premiere-of-emu-runner-is-coming-to-adlff/",
+                        "http://www.imogenthomasfilms.com/completed-projects/emu-runner/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Brewarrina, New South Wales, Australia"
+                    ],
+                    "link": [
+                        "/search/title?locations=Brewarrina%2C%20New%20South%20Wales%2C%20Australia&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Imogen Thomas Films"
+                    ],
+                    "link": [
+                        "/company/co0658921?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$28,681"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 35 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

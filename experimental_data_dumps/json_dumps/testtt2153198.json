@@ -1,0 +1,58 @@
+[
+    {
+        "first": [
+            {
+                "title": "Jay Malone 'Canadian Bacon'"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTk4MTY1NDE4Ml5BMl5BanBnXkFtZTgwNzUxODExMTE@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Scott L. Montoya"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 27, 2011 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt2153198/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "LOLflix"
+                    ],
+                    "link": [
+                        "/company/co0380956?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

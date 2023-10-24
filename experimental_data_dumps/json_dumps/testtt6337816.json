@@ -1,0 +1,249 @@
+[
+    {
+        "first": [
+            {
+                "title": "Monica"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjAxMWI4MzEtNjA5MC00NjM5LWFmN2YtMWZiYzY3ZDZhM2EwXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The intimate portrait of a woman who returns home to care for her dying mother. A delicate and nuanced story of a fractured family, the story explores universal themes of abandonment, aging,... Read all"
+            },
+            {
+                "imdb-rating": "6.3/10"
+            },
+            {
+                "metascore": "6"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM5NzQ3MjQ2OF5BMl5BanBnXkFtZTgwMTU3NzY3MjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Trace Lysette",
+                "character_name": "Monica"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgyMjI2MjY1NV5BMl5BanBnXkFtZTcwODUyNjkxMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Patricia Clarkson",
+                "character_name": "Eugenia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTFmYzYxNzUtMmNhNy00OTNjLTgzOTUtYjIyOTI1NDQzYTVjXkEyXkFqcGdeQXVyMjAyMzA0MTk@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Emily Browning",
+                "character_name": "Laura"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTE4NmEyNGMtZWE4YS00ZTRlLThmZDgtM2EwMDFhNDYzYzA1XkEyXkFqcGdeQXVyMzg2MDY5ODE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Joshua Close",
+                "character_name": "Paul"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI4NzE3MTYzNV5BMl5BanBnXkFtZTcwNTIwNzIzMQ@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Adriana Barraza",
+                "character_name": "Leticia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjkzZGNlZTItMDE2My00MjAxLWE3NjQtZWVjOGE5NWExZDFkXkEyXkFqcGdeQXVyNjgwNDU4MzY@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Brittany Picard",
+                "character_name": "Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Caleb Picard",
+                "character_name": "Son"
+            },
+            {
+                "image": null,
+                "actor_name": "Chelo Acosta-Conley",
+                "character_name": "Hairdresser"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWVjMzgyNWQtY2Q4OC00NTUwLTgwOGUtM2FkZTA4NTEzYmJjXkEyXkFqcGdeQXVyMjYxNDU1OTc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ali Amine",
+                "character_name": "The Massage Man"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmJiMjY5ZmYtNTk2NS00YjJkLWJiMzYtNWM0MTgwMmYxZGFhL2ltYWdlXkEyXkFqcGdeQXVyNjM3NDM5NTA@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Mark Angel",
+                "character_name": "Mechanic"
+            },
+            {
+                "image": null,
+                "actor_name": "Angelique Archer",
+                "character_name": "Waitress"
+            },
+            {
+                "image": null,
+                "actor_name": "Bryant Bentley",
+                "character_name": "Mechanic"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjg3ZTNmYjctZGE2Zi00ZDFjLTk2MDItNjM4NTJlZjljYjEzXkEyXkFqcGdeQXVyOTkwMjY3Nzk@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Graham Caldwell",
+                "character_name": "Brody"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjEwOTc3NzQtNGE4Mi00ZjI1LWI2NTUtNmVlNmQwNWZlMDM2XkEyXkFqcGdeQXVyOTA2NTcxNDU@._V1_QL75_UX140_CR0,32,140,140_.jpg",
+                "actor_name": "Mark J Clifford",
+                "character_name": "Bar Patron"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTM2MmY3NGMtMzJiNi00YTViLWE3NjgtMmJmNjQ4MDNhNTM1XkEyXkFqcGdeQXVyMjcyMjUwMjA@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Bobby Easley",
+                "character_name": "Trucker"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGUxODNmNzktYTQ5Yi00MDE3LWFmZjMtY2JmYzEyN2E5MDI0XkEyXkFqcGdeQXVyMTM0MjQ2OTg3._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ruby James Fraser",
+                "character_name": "Britney"
+            },
+            {
+                "image": null,
+                "actor_name": "Gary Maloney",
+                "character_name": "Teacher"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTFjM2ZkNzMtMDA2ZS00ZmY0LWJjZWUtNDQzMDgwMWE1MWRiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+                "actor_name": "Vladimir John Perez",
+                "character_name": "Car Repairman"
+            }
+        ],
+        "Director": [
+            "Andrea Pallaoro"
+        ],
+        "Writers": [
+            "Andrea Pallaoro",
+            "Orlando Tirado"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 14, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6337816/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Italy",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IT&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Cincinnati, Ohio, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Cincinnati%2C%20Ohio%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Varient",
+                        "Solo Five Productions",
+                        "Melograno Films"
+                    ],
+                    "link": [
+                        "/company/co0292161?ref_=tt_dt_co_1",
+                        "/company/co0578055?ref_=tt_dt_co_2",
+                        "/company/co0713074?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$152,619"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$27,876"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "May 14, 2023"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$182,156"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 46 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.20 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

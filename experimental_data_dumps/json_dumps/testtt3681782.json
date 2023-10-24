@@ -1,0 +1,73 @@
+[
+    {
+        "first": [
+            {
+                "title": "Katari"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZWQ3MjVmMTQtYWYxNC00OGRjLWFiZTYtZTNjMGUzMTIwMWY5XkEyXkFqcGdeQXVyNDA4NjQ1MTk@._V1_QL75_UX190_CR0,8,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ecuador",
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=EC&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Ecuador"
+                    ],
+                    "link": [
+                        "/search/title?locations=Ecuador&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

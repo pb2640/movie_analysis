@@ -1,0 +1,175 @@
+[
+    {
+        "first": [
+            {
+                "title": "In the Cold Dark Night"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDBkMTc2NWItMDdiZC00ZWQyLTg2NzgtMzg4NTY0ODdhZDViXkEyXkFqcGdeQXVyNDAyMDY1MDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Set in the heart of the American South, IN THE COLD DARK NIGHT examines both the 1983 and 2018 investigations into the murder of a Black man, Timothy Coggins."
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Briana Cristal",
+                "character_name": "Jacqui Coggins"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTE3MTdlNDMtYzgyMS00NzEwLWJmOTQtNTliMGU0MTZlN2MwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "John Charles Dickson",
+                "character_name": "Bill Moore"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYyYWQzMmYtZDVjOC00NjBhLTg5MzAtYjYxNjgxMGJkYjMyXkEyXkFqcGdeQXVyMTA1MDI3Nzk4._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Walter Robert Duckworth",
+                "character_name": "Norman Foskey"
+            },
+            {
+                "image": null,
+                "actor_name": "Kairo Johnson",
+                "character_name": "Timothy Coggins"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODQyMzA5NTE1N15BMl5BanBnXkFtZTgwNDE0ODUzNzE@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Ryan Kiser",
+                "character_name": "Frank Gebhardt"
+            }
+        ],
+        "Directors": [
+            "Nick Hampson",
+            "Stephen Robert Morse",
+            "Miikka Leskinen"
+        ],
+        "Writers": [
+            "Miikka Leskinen",
+            "Stephen Robert Morse",
+            "Max Peltz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 17, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10039642/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "ABC official site",
+                        "Production Company Website"
+                    ],
+                    "link": [
+                        "https://abcn.ws/2CtJBB2",
+                        "http://www.observatoryventures.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Georgia, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Georgia%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "LONE WOLF STUDIOS",
+                        "RadicalMedia"
+                    ],
+                    "link": [
+                        "/company/co0816432?ref_=tt_dt_co_1",
+                        "/company/co0029540?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$700,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 22 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

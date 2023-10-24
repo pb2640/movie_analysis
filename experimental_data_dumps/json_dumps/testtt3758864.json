@@ -1,0 +1,158 @@
+[
+    {
+        "first": [
+            {
+                "title": "Centralia: Pennsylvania's Lost Town"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTQ1MTI2MzUzMF5BMl5BanBnXkFtZTgwNDI4NjExNzE@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "History"
+                ]
+            },
+            {
+                "plot": "A small town is overcome by a massive underground mine fire which began in 1962. As a result, hundreds of residents had to be relocated."
+            },
+            {
+                "imdb-rating": "8.5/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Don Bailey",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jack Carling",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Colleen Coddington",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Coddington",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Joe Sapienza"
+        ],
+        "Writers": [
+            "Megan Costa",
+            "Joe Sapienza"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 5, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3758864/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Movie",
+                        "Official site"
+                    ],
+                    "link": [
+                        "https://vimeo.com/ondemand/centralia",
+                        "http://www.centraliapalosttown.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Centralia PA, Ashland PA, Byrnesville PA, Wilburton, Pennsylvania, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Centralia%20PA%2C%20Ashland%20PA%2C%20Byrnesville%20PA%2C%20Wilburton%2C%20Pennsylvania%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$18,800 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

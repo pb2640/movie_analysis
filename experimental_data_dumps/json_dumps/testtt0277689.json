@@ -1,0 +1,179 @@
+[
+    {
+        "first": [
+            {
+                "title": "Elektra"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTUyNjQwNDEzMV5BMl5BanBnXkFtZTcwODE5MjEzMQ@@._V1_QL75_UX190_CR0,1,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Richard Strauss' classic opera version of the ancient Greek tragedy about the princess Elektra, who dreams of avenging her father Agamemnon's murder by his wife Clytemnestra and her lover."
+            },
+            {
+                "imdb-rating": "8.6/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Leonie Rysanek",
+                "character_name": "Elektra"
+            },
+            {
+                "image": null,
+                "actor_name": "Astrid Varnay",
+                "character_name": "Klyt\u00e4mnestra"
+            },
+            {
+                "image": null,
+                "actor_name": "Catarina Ligendza",
+                "character_name": "Chrysothemis"
+            },
+            {
+                "image": null,
+                "actor_name": "Dietrich Fischer-Dieskau",
+                "character_name": "Orest"
+            },
+            {
+                "image": null,
+                "actor_name": "Hans Beirer",
+                "character_name": "Aegist"
+            },
+            {
+                "image": null,
+                "actor_name": "Josef Greindl",
+                "character_name": "Der Pfleger des Orest"
+            },
+            {
+                "image": null,
+                "actor_name": "Kurt B\u00f6hme",
+                "character_name": "Ein alter Diener"
+            },
+            {
+                "image": null,
+                "actor_name": "Christopher Doig",
+                "character_name": "Ein junger Diener"
+            },
+            {
+                "image": null,
+                "actor_name": "Olga Varia",
+                "character_name": "Die Schleppentr\u00e4gerin"
+            },
+            {
+                "image": null,
+                "actor_name": "Carmen Reppel",
+                "character_name": "Die Vertraute"
+            },
+            {
+                "image": null,
+                "actor_name": "Colette Lorand",
+                "character_name": "Die Aufseherin"
+            },
+            {
+                "image": null,
+                "actor_name": "Rolf Boysen",
+                "character_name": "Agamemnon"
+            }
+        ],
+        "Director": [
+            "G\u00f6tz Friedrich"
+        ],
+        "Writer": [
+            "Hugo von Hofmannsthal"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1981 (West Germany)"
+                    ],
+                    "link": [
+                        "/title/tt0277689/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "West Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=XWG&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "German"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "UNITEL",
+                        "Westdeutscher Rundfunk (WDR)",
+                        "\u00d6sterreichischer Rundfunk (ORF)"
+                    ],
+                    "link": [
+                        "/company/co0010654?ref_=tt_dt_co_1",
+                        "/company/co0075650?ref_=tt_dt_co_2",
+                        "/company/co0044989?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 58 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

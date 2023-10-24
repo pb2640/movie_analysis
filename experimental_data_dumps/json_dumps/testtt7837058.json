@@ -1,0 +1,135 @@
+[
+    {
+        "first": [
+            {
+                "title": "Lifelike"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDVhN2U3MjgtNTk5OC00MjZlLTg3MjgtZTExMmZhNWRiODBiXkEyXkFqcGdeQXVyMTg5MjgyMjA@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Sci-Fi"
+                ]
+            },
+            {
+                "plot": "A heartbroken woman orders a lifelike android so she can have one last moment with the man she loves. Will she finally find the closure she has been looking for?"
+            },
+            {
+                "imdb-rating": "6.6/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTUwNjIxYWUtN2FiNC00YTA3LTk0N2UtMjM4NjFkY2NjNjZkXkEyXkFqcGdeQXVyMTQzNjQ4NA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "H. Richard Greene",
+                "character_name": "The Man"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWQ3ZTQwNTYtN2I0Yy00ZmE4LWI2OTgtNmVmODIxYTY3OGZiXkEyXkFqcGdeQXVyNjg5Nzg2OA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Rick Lundgren",
+                "character_name": "Lifelike"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTY5ZjcyNjAtMjBiYi00ZDI1LWE5NTQtOTE2MTVkMjcxMzQ0XkEyXkFqcGdeQXVyMTcxNjY5NDg@._V1_QL75_UX140_CR0,16,140,140_.jpg",
+                "actor_name": "Deanna Noe",
+                "character_name": "Helen"
+            }
+        ],
+        "Director": [
+            "Chris Vanderhorst"
+        ],
+        "Writer": [
+            "Chris Vanderhorst"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 4, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt7837058/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Full movie",
+                        "Vimeo, host site"
+                    ],
+                    "link": [
+                        "https://vimeo.com/247582750",
+                        "https://vimeo.com/247582750"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Vanderhorst media"
+                    ],
+                    "link": [
+                        "/company/co0680803?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$50 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

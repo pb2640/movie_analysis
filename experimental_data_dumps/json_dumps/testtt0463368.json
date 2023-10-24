@@ -1,0 +1,121 @@
+[
+    {
+        "first": [
+            {
+                "title": "She-Bop"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTIxZTU4MTgtZDI4OS00MjFiLWExYTMtY2JlNGJjNjMzZmNlXkEyXkFqcGdeQXVyMzQ2ODcwMg@@._V1_QL75_UY281_CR2,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A powerful mythic poem about women, the Goddess and the human spirit. It examines our foibles and frailties and how we can grow out of them."
+            },
+            {
+                "imdb-rating": "5.6/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Carolyn Lochert Curtis",
+                "character_name": "Narrator"
+            }
+        ],
+        "Director": [
+            "Joanna Priestley"
+        ],
+        "Writer": [
+            "Carolyn Myers"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 25, 1988 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0463368/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Priestley Motion Pictures"
+                    ],
+                    "link": [
+                        "/company/co0149954?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

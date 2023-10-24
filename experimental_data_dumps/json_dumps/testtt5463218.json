@@ -1,0 +1,73 @@
+[
+    {
+        "first": [
+            {
+                "title": "Llamas with Hats 5"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMWE2YmY3NzUtMDA1Ny00ZjJhLTk4MDAtZTE3ODMwYjI0NTYwXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_QL75_UY281_CR195,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Paul suspects Carl of being morally corrupt. Carl finally confesses to creating a crack I space time to collect baby hands."
+            },
+            {
+                "imdb-rating": "7.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Chris Alex",
+                "character_name": "Carl"
+            },
+            {
+                "image": null,
+                "actor_name": "Jason Steele",
+                "character_name": "Paul"
+            }
+        ],
+        "Director": [
+            "Jason Steele"
+        ],
+        "Writer": [
+            "Jason Steele"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 27, 2014 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt5463218/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 minutes"
+                }
+            }
+        ]
+    }
+]

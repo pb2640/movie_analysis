@@ -1,0 +1,106 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cracks"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTA4MzdiNjItMWY3ZC00Y2YxLWJjOTMtYWE3ZGZiNjE0NjZiXkEyXkFqcGdeQXVyMTk0MjQ3Nzk@._V1_QL75_UY281_CR90,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation"
+                ]
+            },
+            {
+                "plot": "Found animated \"Sesame Street\". The story of how a little girl befriends imaginary creatures formed from cracks in her bedroom wall."
+            },
+            {
+                "imdb-rating": "7.0/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 31, 1975 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt16543266/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Pure Imagination Studios",
+                        "Sesame Workshop"
+                    ],
+                    "link": [
+                        "/company/co0482693?ref_=tt_dt_co_1",
+                        "/company/co0058596?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "4:3"
+                    ]
+                }
+            }
+        ]
+    }
+]

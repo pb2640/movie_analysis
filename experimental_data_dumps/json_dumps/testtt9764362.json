@@ -1,0 +1,267 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Menu"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises."
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "1.2K"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzc5MjE1NDgyN15BMl5BanBnXkFtZTcwNzg2ODgwNA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ralph Fiennes",
+                "character_name": "Chef Slowik"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTllYmE5YTYtZGZmYy00ZTBlLWJlODEtYWQ0ZmU1YTJkMjJlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Anya Taylor-Joy",
+                "character_name": "Margot"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUxMTYxNzMzNF5BMl5BanBnXkFtZTcwMTU0NTcxOQ@@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Nicholas Hoult",
+                "character_name": "Tyler"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjllNmMzNWYtM2JjMS00ODg4LTk2OWEtYWE3OTc1NzMzMGM2XkEyXkFqcGdeQXVyNTc0NTQ3MQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Hong Chau",
+                "character_name": "Elsa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzk5MzQ3MDQxOF5BMl5BanBnXkFtZTcwOTU4OTI2Mg@@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Janet McTeer",
+                "character_name": "Lillian"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQyMjYwOTA2NF5BMl5BanBnXkFtZTcwNjM2NDAzMQ@@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Paul Adelstein",
+                "character_name": "Ted"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTEyMjMxNDg5NF5BMl5BanBnXkFtZTcwNzczOTY4MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Leguizamo",
+                "character_name": "Movie Star"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjhjYmE4ZjQtNDkyMy00YjVhLWI1ODktNDFhOTJiZDMyYjc5XkEyXkFqcGdeQXVyMTEzODQxMzYz._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Aimee Carrero",
+                "character_name": "Felicity"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzMzZDRjYTgtM2I3Ny00NTFiLThmZWMtMjY1OTYzNjE0ZDdiXkEyXkFqcGdeQXVyMTQ0Njg5Mg@@._V1_QL75_UY140_CR0,0,140,140_.jpg",
+                "actor_name": "Reed Birney",
+                "character_name": "Richard"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU1MDM4MDE5OF5BMl5BanBnXkFtZTgwNTA2OTY4NTE@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Judith Light",
+                "character_name": "Anne"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWJjZDk5ZGItOWEyYy00Y2UwLWFhMzEtYjI5ODRjN2QyMDExXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_QL75_UY140_CR49,0,140,140_.jpg",
+                "actor_name": "Rebecca Koon",
+                "character_name": "Linda"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2VlOWIxODgtNGI3NC00MGQ5LTljNGYtOWNiOGQwOWNhOGNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,34,140,140_.jpg",
+                "actor_name": "Rob Yang",
+                "character_name": "Bryce"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMwNGU2ZjQtN2EyZS00ZjIzLTgwZjctNjExM2ZlYzZkODQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Arturo Castro",
+                "character_name": "Soren"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2I1NGRiYzYtMzZkYS00ZjgxLWFlOWYtODQzMGM0YWQwOWJhXkEyXkFqcGdeQXVyNDA3MjIzMTk@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mark St. Cyr",
+                "character_name": "Dave"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTUzNzUwNjM0OF5BMl5BanBnXkFtZTgwOTUxODU3ODE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Peter Grosz",
+                "character_name": "Sommelier"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzE0MDc3M2EtNDQ0Zi00ZDZjLTg0ZDctYmRmYTFhODhhMjdkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Christina Brucato",
+                "character_name": "Katherine"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGQ3NTFhODUtZTkzZS00ZTg0LWI5ODQtNGQ2MTkwYWI5ZmY0XkEyXkFqcGdeQXVyNDMyMTAwNjQ@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Adam Aalderks",
+                "character_name": "Jeremy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjVjYjgxZWItMDc5ZS00YjY2LTgxZTctYTk4ZTc4MmFiNGRjXkEyXkFqcGdeQXVyMTA2NjI5MjQ3._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Jon Paul Allyn",
+                "character_name": "Boat Waiter"
+            }
+        ],
+        "Director": [
+            "Mark Mylod"
+        ],
+        "Writers": [
+            "Seth Reiss",
+            "Will Tracy"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 18, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9764362/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "20th Century Studios",
+                        "Official Site (Japan)"
+                    ],
+                    "link": [
+                        "https://www.20thcenturystudios.com/movies/the-menu",
+                        "https://www.searchlightpictures.jp/movies/themenu"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Savannah, Georgia, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Savannah%2C%20Georgia%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Hyperobject Industries",
+                        "Searchlight Pictures"
+                    ],
+                    "link": [
+                        "/company/co0770923?ref_=tt_dt_co_1",
+                        "/company/co0028932?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$35,000,000 (estimated)"
+                }
+            },
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$38,501,125"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "$9,004,957"
+                }
+            },
+            {
+                "title-boxoffice-openingweekenddomestic": {
+                    "val": "Nov 20, 2022"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$79,628,200"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 47 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital",
+                        "Dolby Atmos"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

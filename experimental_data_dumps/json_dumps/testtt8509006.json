@@ -1,0 +1,131 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bodega"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDU0NWFiMTktYTU1Ny00YTVhLTkzNGQtNzUyN2ExMThlZjM5XkEyXkFqcGdeQXVyODQ0MjU3NjA@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "A Syrian bodega owner and two teen girls with a fake ID find common ground on one winter night in Brooklyn."
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2RmODA1OWYtMjVjNS00YmExLWJmNTctYTA4ZDI2ZTM4OTUwXkEyXkFqcGdeQXVyMjM3NTYwOQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Laith Nakli",
+                "character_name": "Amir"
+            },
+            {
+                "image": null,
+                "actor_name": "Adham Murched",
+                "character_name": "Ali"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjk4NzQxN2QtMDNmYy00ZWNjLThiMzEtYmUyNThmYTRiODEzXkEyXkFqcGdeQXVyMTI1MjkxMjYw._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Mirabella Raschke-Robinson",
+                "character_name": "Iris"
+            },
+            {
+                "image": null,
+                "actor_name": "Bella Danieli",
+                "character_name": "Rachel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGY0OTY5Y2QtOWU4Mi00YTgwLTljMjAtOTc4NTA2NzBlZGI3XkEyXkFqcGdeQXVyMTU0OTYwODU@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Bryan Fitzgerald",
+                "character_name": "Cigarette Guy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg1MDg5MDE3NV5BMl5BanBnXkFtZTgwNDA5MDU0NzE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Nadia Affolter",
+                "character_name": "Yasmeen"
+            }
+        ],
+        "Director": [
+            "Rebecca Halfon"
+        ],
+        "Writer": [
+            "Rebecca Halfon"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 23, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8509006/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Arabic"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ar&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "13 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "first": [
+            {
+                "title": "La caravana de la muerte"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzQ3MDc2M2YtMGNlZC00YjExLWJmNzktMzFkMzA0ZmYzMjRlXkEyXkFqcGdeQXVyMTk1MjA1NjU@._V1_QL75_UX190_CR0,3,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Crime",
+                    "Drama",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A group of artists are captured by two criminals, who are willing to kill to escape justice."
+            },
+            {
+                "imdb-rating": "4.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODUyMzY1ZjktMDhhYy00MDViLWIxNmMtNGU3NDliNGJlODNjXkEyXkFqcGdeQXVyMTk4MDgwNA@@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Jorge Lavat",
+                "character_name": "Elmo"
+            },
+            {
+                "image": null,
+                "actor_name": "Patricia Rivera",
+                "character_name": "Daisy"
+            },
+            {
+                "image": null,
+                "actor_name": "\u00c1lvaro Zerme\u00f1o",
+                "character_name": "Luis"
+            }
+        ],
+        "Directors": [
+            "Dami\u00e1n Acosta Esparza",
+            "Tito Novaro"
+        ],
+        "Writer": [
+            "Laura Marchetti"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 1, 1985 (Mexico)"
+                    ],
+                    "link": [
+                        "/title/tt0349190/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Tijuana, Baja California Norte, Mexico"
+                    ],
+                    "link": [
+                        "/search/title?locations=Tijuana%2C%20Baja%20California%20Norte%2C%20Mexico&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Producciones del Rey"
+                    ],
+                    "link": [
+                        "/company/co0054409?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

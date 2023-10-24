@@ -1,0 +1,105 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Nature of Ayahuasca"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDA0ZTYwNzktYWRjYy00NWY2LWE1NTItOWM4ZjY1ZTU0NzgwXkEyXkFqcGdeQXVyNDMzNjcxNzI@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Ayahausca is a traditional plant medicine from the Amazon used to treat a variety of physical and psychology illnesses and conditions. This documentary explores the use of the Ayahausca as a... Read all"
+            },
+            {
+                "imdb-rating": "7.7/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 5, 2019 (Ireland)"
+                    ],
+                    "link": [
+                        "/title/tt12189110/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ireland"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "facebook page"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/The-Nature-of-Ayahuasca-Documentary-2245147685784165/?modal=admin_todo_tour"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20ac1,500 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "58 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

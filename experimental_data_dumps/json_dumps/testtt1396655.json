@@ -1,0 +1,179 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Poet"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZGIyYWVjYzEtZGMwNi00N2FmLWI1NTktNmI1OWY5YWRhYzg4XkEyXkFqcGdeQXVyMTk2MzU5NTI@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "The story of a homosexual poet in Boston coming out to his family and friends."
+            },
+            {
+                "imdb-rating": "6.0/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Ezra Finney",
+                "character_name": "Owen"
+            },
+            {
+                "image": null,
+                "actor_name": "David Ratiu",
+                "character_name": "Thomas"
+            },
+            {
+                "image": null,
+                "actor_name": "Emily Harburg",
+                "character_name": "Kate"
+            },
+            {
+                "image": null,
+                "actor_name": "John J. King",
+                "character_name": "Jay"
+            },
+            {
+                "image": null,
+                "actor_name": "Rosalie Gross Fox",
+                "character_name": "Owen's Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Grant",
+                "character_name": "Owen's Father"
+            },
+            {
+                "image": null,
+                "actor_name": "Laurie Tellis",
+                "character_name": "Thomas's Mother"
+            },
+            {
+                "image": null,
+                "actor_name": "Paul Horn",
+                "character_name": "Thomas's Father"
+            },
+            {
+                "image": null,
+                "actor_name": "Gabe Hodgkin",
+                "character_name": "Young Owen"
+            },
+            {
+                "image": null,
+                "actor_name": "Goosey Chavez",
+                "character_name": "Young Thomas"
+            }
+        ],
+        "Director": [
+            "Alexander Freeman"
+        ],
+        "Writer": [
+            "Alexander Freeman"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 14, 2006 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt1396655/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Boston, Massachusetts, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Boston%2C%20Massachusetts%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Outcast Productions"
+                    ],
+                    "link": [
+                        "/company/co0315542?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$200 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "27 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

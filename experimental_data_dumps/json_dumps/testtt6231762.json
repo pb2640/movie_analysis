@@ -1,0 +1,153 @@
+[
+    {
+        "first": [
+            {
+                "title": "Lawman"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmFjMGExOTgtNGMzMS00YjFmLTg4OWYtZjg3MjU1ZjRmOGNiXkEyXkFqcGdeQXVyMjQ3OTg5NjQ@._V1_QL75_UX190_CR0,6,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Western"
+                ]
+            },
+            {
+                "plot": "Based on True Events. 1875, Indian Territory. Bass Reeves, the first African-American deputy arrests an outlaw and brings him toward encampment. A battle of wills arises between them as the ... Read all"
+            },
+            {
+                "imdb-rating": "8.8/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg2NzM4NDE4MF5BMl5BanBnXkFtZTgwMDAxNDg4NjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tory Kittles",
+                "character_name": "Bass Reeves"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk1OTc3OTEyMl5BMl5BanBnXkFtZTgwODI0NTI0MjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Lance Reddick",
+                "character_name": "Glen Huddleston"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYzOTI4MjkyM15BMl5BanBnXkFtZTgwOTExMzk0ODE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Erica Tazel",
+                "character_name": "Nellie Reeves"
+            }
+        ],
+        "Director": [
+            "Matthew Gentile"
+        ],
+        "Writers": [
+            "Josh Aichenbaum",
+            "Kalilah Robinson",
+            "Matthew Gentile"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 24, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6231762/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official Site"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/lawmanthefilm",
+                        "http://www.lawmanthefilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Agua Dulce, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Agua%20Dulce%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "American Film Institute (AFI)",
+                        "Matthew Gentile Productions"
+                    ],
+                    "link": [
+                        "/company/co0017295?ref_=tt_dt_co_1",
+                        "/company/co0615118?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$38,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "13 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

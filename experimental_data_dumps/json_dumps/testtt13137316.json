@@ -1,0 +1,182 @@
+[
+    {
+        "first": [
+            {
+                "title": "Gabriela"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzlkZGQwMGEtYjk1OC00OGUxLTkzMmItNjQ4ODllYjgxZDc3XkEyXkFqcGdeQXVyNTMwMTMxNzg@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A young cleaning woman at a strip club carouses with the dancers and entertains the fantasy of a different life."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Robyn Bhairo",
+                "character_name": "Dancer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTBkZTliOGItYmY2NS00ZmE5LTg4ZjgtODc5ZTgwMzUzNjM2XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "David Gow",
+                "character_name": "Customer"
+            },
+            {
+                "image": null,
+                "actor_name": "Krzysztof Kaniasty",
+                "character_name": "Regular"
+            },
+            {
+                "image": null,
+                "actor_name": "Emmanuel Munoz Maldonado",
+                "character_name": "Carlos"
+            },
+            {
+                "image": null,
+                "actor_name": "Melanie Maldonado",
+                "character_name": "Dancer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzhiYjczMTMtNjc5OS00MGFjLWE2NWUtMmM5OTBhYzk3YjRmXkEyXkFqcGdeQXVyMTA1OTUzNjI0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jarvis D. Matthews",
+                "character_name": "Dorez"
+            },
+            {
+                "image": null,
+                "actor_name": "Rita Mon\u00e8e",
+                "character_name": "Jess"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTNjNjBhMTItMWU3Mi00Yjc1LWE4MWYtNTIzNWU3NmRkZTY3XkEyXkFqcGdeQXVyODA1NzUzMzE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Keshav Moodliar",
+                "character_name": "Player"
+            },
+            {
+                "image": null,
+                "actor_name": "Francesca Nika",
+                "character_name": "Dancer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTg3NThkNjEtMTc1Yi00MjdjLTlmMTgtMGViNzRjOGE4MTc1XkEyXkFqcGdeQXVyMTUzMzQ3NDE5._V1_QL75_UY140_CR28,0,140,140_.jpg",
+                "actor_name": "Ashley Roby",
+                "character_name": "Dancer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmIwMWI2OTEtODcxMS00NjI1LWFkM2UtYWRhYzMzZjU0Y2M1XkEyXkFqcGdeQXVyNjc1MzQ2MzM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Lucia Sawh",
+                "character_name": "Gabriela"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTIyMzZkY2YtNzcxNy00NDc0LWI1ZTUtNDVlYzg1MDU3NWE0XkEyXkFqcGdeQXVyNDI5Mzk0MjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Anna Tullis",
+                "character_name": "Britt"
+            }
+        ],
+        "Director": [
+            "Natalia Kaniasty"
+        ],
+        "Writer": [
+            "Natalia Kaniasty"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 22, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt13137316/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Website"
+                    ],
+                    "link": [
+                        "https://www.gabrielafilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "New York City, New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=New%20York%20City%2C%20New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

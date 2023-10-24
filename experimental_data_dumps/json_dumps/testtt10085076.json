@@ -1,0 +1,132 @@
+[
+    {
+        "first": [
+            {
+                "title": "Cut"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTE2NjgxOTktNGE5Zi00ZjA4LWIyZWItMGQzMDFlNjNhODFlXkEyXkFqcGdeQXVyNzIxMDQ1NDY@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "In order to achieve perfection, Victor must give into the voices in his head to cure his obsession with beauty."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Valerie Lara",
+                "character_name": "Victoria"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTU0ODM1YWEtZDU5Ny00ZjhkLTlmOTAtNWQ4ZTNjYzZmMTFkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR16,0,140,140_.jpg",
+                "actor_name": "Luis G. Reyes",
+                "character_name": "Victor"
+            }
+        ],
+        "Director": [
+            "Adam Van Dyke"
+        ],
+        "Writer": [
+            "Adam Van Dyke"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 28, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt10085076/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "World of Death Marathon"
+                    ],
+                    "link": [
+                        "https://www.youtube.com/watch?v=J295dCeikEc"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Skull Globe"
+                    ],
+                    "link": [
+                        "/company/co0592967?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$700 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

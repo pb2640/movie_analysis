@@ -1,0 +1,146 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Lonely Stag"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama",
+                    "History"
+                ]
+            },
+            {
+                "plot": "The spirits of Irish \u00e9migr\u00e9 forced over generations of political and economic struggle are called back to their homeland by the majestic stag, perched on a towering Irish cliff."
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Susie Burrage",
+                "character_name": "The Teacher"
+            },
+            {
+                "image": null,
+                "actor_name": "Michelle Colgan",
+                "character_name": "The Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael Coughlan",
+                "character_name": "The Father"
+            },
+            {
+                "image": null,
+                "actor_name": "Michelle Coughlan",
+                "character_name": "The Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Tommy Fleming",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "John Burns"
+        ],
+        "Writers": [
+            "Linda Burrage",
+            "Damian Mc Carthy"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 2, 2007 (Ireland)"
+                    ],
+                    "link": [
+                        "/title/tt1400347/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ireland"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.lonelystag.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Recycled Products"
+                    ],
+                    "link": [
+                        "/company/co0267747?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$350,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "35 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

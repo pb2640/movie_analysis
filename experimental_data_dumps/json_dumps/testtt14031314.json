@@ -1,0 +1,224 @@
+[
+    {
+        "first": [
+            {
+                "title": "Scream: Legacy"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjNjNmZhMTctYmM0MC00MWRhLTkxNjEtMmE4Y2Q4MmZiYTJjXkEyXkFqcGdeQXVyMjk3NDc4MA@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror",
+                    "Mystery",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "In this fan film set twenty-two years after Scream 3, the daughter of Sidney Prescott returns to Woodsboro and is terrorized by a new Ghostface killer."
+            },
+            {
+                "imdb-rating": "5.6/10"
+            },
+            {
+                "metascore": "15"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTkzMTBlYmItMmY1Yy00OWI3LTg3MGEtYmMxNjEzYTEwYjhhXkEyXkFqcGdeQXVyODg1NjQ0MjA@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Jackie Luke",
+                "character_name": "Katie Palmer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjIyNDE2ZTYtZmE2NC00Y2Q0LTkxZTktZTM0ZDBlMzVlZGI1XkEyXkFqcGdeQXVyMTI4NzUzMjYx._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Anthony Hernandez",
+                "character_name": "Detective Castillo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzc2ZDAyYWMtMWZmZC00NjdmLThhMGQtMDEyOTBkNDg3ZDk1XkEyXkFqcGdeQXVyNjc2MDM4NjM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Rachel DeRouen",
+                "character_name": "Ashley Sinclair"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGQwOGUwYWYtNmZlOC00MTY5LTk1MGYtYmVjNGUxOWJkYTM1XkEyXkFqcGdeQXVyMTU2NjE3MTI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Michael Tula",
+                "character_name": "Daniel Parker"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWE3YmI3ODctZmJjMC00NjBhLWJiODUtMzU5MjcyYTlmODE3XkEyXkFqcGdeQXVyMzQxNjk3MTI@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Troy Parker",
+                "character_name": "Detective Hoffman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODdhZjkwZTMtOTNmOC00ZDJjLWE4MGMtZmM3N2RiYmYyNDA5XkEyXkFqcGdeQXVyNjE1NTkwMDU@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Enick",
+                "character_name": "Will Hudson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTYzNTQ4NTAtYTkxMS00NTY5LWFjMjUtZDUzNGE2MWY2MGYzXkEyXkFqcGdeQXVyNDQyNTU0NTU@._V1_QL75_UX140_CR0,24,140,140_.jpg",
+                "actor_name": "Julia Glessner",
+                "character_name": "Lily Sinclair"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NWUxNGEtMGZkNS00ZDYwLTk4NWYtYTQzNmM0NzlkNjFhXkEyXkFqcGdeQXVyMTMyMTA5Nzk0._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Omar J. Lewis",
+                "character_name": "Detective Morgan"
+            },
+            {
+                "image": null,
+                "actor_name": "Drew Brown",
+                "character_name": "Detective Fraser"
+            },
+            {
+                "image": null,
+                "actor_name": "Ellen Elise Evans",
+                "character_name": "Zoey Kessler"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWVhMmEzMWEtNGNiYy00NGMzLWE5ODEtODU4Yjg3NjE1ODdmXkEyXkFqcGdeQXVyNjgzMTI5NDc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Caroline Helander",
+                "character_name": "Beth Hawkins"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjMyNTgyODUyM15BMl5BanBnXkFtZTgwOTgwMzQ0NTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "John Maciag",
+                "character_name": "Dr. Rosenbaum"
+            },
+            {
+                "image": null,
+                "actor_name": "Brandon Lee Abercrombie",
+                "character_name": "Ghostface Voice"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzM3ZDM0MDYtYzdiMC00Yjg2LTlhMWEtOWVkMmI0YTY0OGE5XkEyXkFqcGdeQXVyNTk4MjE5NzM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Erin Wasmund",
+                "character_name": "Maggie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTE3OGZiYjktNWNjZS00MGUxLTkxYmUtY2M3OTkyNDJiYzIyXkEyXkFqcGdeQXVyMTUwNDg5OTk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "David Perry",
+                "character_name": "Calvin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzY3OTc3NGUtZjVmMy00ZTFjLWFjZTMtNzYwNWJhMTdjYjQwXkEyXkFqcGdeQXVyNDg4MzgyNTg@._V1_QL75_UX140_CR0,31,140,140_.jpg",
+                "actor_name": "JP DeStefano",
+                "character_name": "Ghostface Performer"
+            },
+            {
+                "image": null,
+                "actor_name": "Connor Savoy",
+                "character_name": "Ghostface Performer"
+            },
+            {
+                "image": null,
+                "actor_name": "Stephen Simmons",
+                "character_name": "Neil Prescott"
+            }
+        ],
+        "Director": [
+            "Zach Salazar"
+        ],
+        "Writers": [
+            "Anthony Hernandez",
+            "Zach Salazar",
+            "Michael Tula"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 25, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14031314/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Production Company Facebook"
+                    ],
+                    "link": [
+                        "http://www.facebook.com/screamlegacy",
+                        "http://www.facebook.com/skynineproductions"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Zenhouse Studios",
+                        "PsychoSaint Productions",
+                        "DeReality Productions"
+                    ],
+                    "link": [
+                        "/company/co0871273?ref_=tt_dt_co_1",
+                        "/company/co0729490?ref_=tt_dt_co_2",
+                        "/company/co0596265?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

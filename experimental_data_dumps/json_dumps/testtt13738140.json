@@ -1,0 +1,98 @@
+[
+    {
+        "first": [
+            {
+                "title": "S.A.D - The Movie"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjE3NWJmMTktMWQwMy00YzI0LTk0YWUtYTAwNGIxNjMwZDE3XkEyXkFqcGdeQXVyMTI2NDYyMzE3._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A kid creates space adventures with his toys. As summer break arrives, he travels with his parents to the Scottish highlands, but a storm puts his imagination to the test, and his fate will ... Read all"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Italy"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "vimeo link"
+                    ],
+                    "link": [
+                        "https://vimeo.com/musexchannel/sad"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Metatron",
+                        "The Factory"
+                    ],
+                    "link": [
+                        "/company/co0838073?ref_=tt_dt_co_1",
+                        "/company/co0538465?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20ac20,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "9 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

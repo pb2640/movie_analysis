@@ -1,0 +1,131 @@
+[
+    {
+        "first": [
+            {
+                "title": "Goyta"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "The lives of a Hassidic young man (Yoyli) and a Polish young woman (Mariola) intersect when they find themselves secluded in a car after he offers her a ride home.\n\nThis, after Yoyli and his... Read all"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTYxNTEzMTMyOV5BMl5BanBnXkFtZTcwMDQwNTgwNw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Agnieszka Podsiadlik",
+                "character_name": "Mariola"
+            },
+            {
+                "image": null,
+                "actor_name": "Abe Lebovic",
+                "character_name": "Yoyli"
+            },
+            {
+                "image": null,
+                "actor_name": "Faigy Salomon",
+                "character_name": "Young Hassidic Woman"
+            },
+            {
+                "image": null,
+                "actor_name": "Suzanne Toren",
+                "character_name": "Mother"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmIwYWY1OTUtM2NkZi00YjM2LTg5NWMtYzNmN2E4N2ZhYTU4XkEyXkFqcGdeQXVyMTAwMzUyMzUy._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "David Benger",
+                "character_name": "Hassidic Boy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDQyM2IwZGEtZjU1ZC00MDA0LThhMWUtMjY0Y2Q1ZjU0MTNmXkEyXkFqcGdeQXVyMTczNTgyMDU@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Jessica Carlson",
+                "character_name": "Miriam"
+            },
+            {
+                "image": null,
+                "actor_name": "Osher T. Girshberg",
+                "character_name": "Father"
+            }
+        ],
+        "Director": [
+            "Joanna Jurewicz"
+        ],
+        "Writers": [
+            "Pearl Gluck",
+            "Joanna Jurewicz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 24, 2007 (France)"
+                    ],
+                    "link": [
+                        "/title/tt1037739/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Poland"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=PL&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Yiddish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=yi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$50,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

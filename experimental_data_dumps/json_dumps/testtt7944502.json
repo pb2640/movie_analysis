@@ -1,0 +1,108 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hum Hai Teen Khurafaati"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTc0MTFiYTctYmFmMy00NjllLTk5MjAtNzYyMGM4NmI5ZWM1XkEyXkFqcGdeQXVyMzk1NTQ5NjY@._V1_QL75_UY281_CR21,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Amidst dreams of making it big in the world of Bollywood, three teen boys are caught between a sexy teacher, a lecherous Principal and the love of their lives. Rohit, Rahul and Raju are enjo... Read all"
+            },
+            {
+                "imdb-rating": "7.5/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Sudhish Kumar Sharma"
+        ],
+        "Writers": [
+            "Rajeev Gupta",
+            "Sunita Sharma"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 28, 2014 (India)"
+                    ],
+                    "link": [
+                        "/title/tt7944502/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Bookmyshow site"
+                    ],
+                    "link": [
+                        "https://in.bookmyshow.com/movies/hum-hai-teen-khurafaati/ET00025680/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Shape Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0683652?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "2 hours 6 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

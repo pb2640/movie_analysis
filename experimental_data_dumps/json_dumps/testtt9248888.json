@@ -1,0 +1,167 @@
+[
+    {
+        "first": [
+            {
+                "title": "Riding with Sugar"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDM0MTA4YTAtNDE3Yi00ZWJiLWJlZTctZGZhNWU1NzM0ZWRjXkEyXkFqcGdeQXVyOTI0MjIxOTI@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A coming-of-age, feel-good story about a young refugee's quest for BMX glory and the pursuit of identity, safety, happiness and love."
+            },
+            {
+                "imdb-rating": "6.7/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOThiOTkzZjktYThlZi00ZWRiLTllYjEtYWU3Yzk4NmY2MGU5XkEyXkFqcGdeQXVyMjM4MzUxNDM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Charles Mnene",
+                "character_name": "Joshua"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGUwYzFkZWQtMjM3My00OTdhLThmZTgtZjk0NmI4NTUzYzQwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Hakeem Kae-Kazim",
+                "character_name": "Mambo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGNiM2U0ZmEtZTRjOC00NDNmLTllNjItOWY4MzAxMDM4NjM1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Simona Brown",
+                "character_name": "Olivia"
+            },
+            {
+                "image": null,
+                "actor_name": "Hlayani Junior Mabasa",
+                "character_name": "Rusty"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI2ZWFjOWQtMjJmNC00MmJlLTkyNDMtNTEwMDFiNmFhYWExXkEyXkFqcGdeQXVyMTUzNjQ3NDky._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Paballo Koza",
+                "character_name": "Vetkoek"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2JiMWZlMzctYTI3YS00OWIyLTg3ZWItNGRkZGM4ZTFkZjUyXkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Brendon Daniels",
+                "character_name": "Green Eyes"
+            },
+            {
+                "image": null,
+                "actor_name": "Shelley Nicole",
+                "character_name": "Lead dancer"
+            }
+        ],
+        "Director": [
+            "Sunu Gonera"
+        ],
+        "Writer": [
+            "Sunu Gonera"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 27, 2020 (South Africa)"
+                    ],
+                    "link": [
+                        "/title/tt9248888/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "South Africa"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=ZA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Facebook",
+                        "Instagram"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/RidingWithSugar/",
+                        "https://www.instagram.com/ridingwithsugar/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Cape Town, South Africa"
+                    ],
+                    "link": [
+                        "/search/title?locations=Cape%20Town%2C%20South%20Africa&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Helena Spring Films",
+                        "Shekinah Tribe"
+                    ],
+                    "link": [
+                        "/company/co0721022?ref_=tt_dt_co_1",
+                        "/company/co0721021?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 46 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

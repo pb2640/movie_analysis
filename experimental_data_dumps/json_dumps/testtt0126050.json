@@ -1,0 +1,170 @@
+[
+    {
+        "first": [
+            {
+                "title": "So You Want to Be a Gladiator"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BODI3ODNjNTctYWQyYy00NWFhLWJhOGUtYzllZDUyZDBkMzZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjcyMDU4NA@@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Joe is back in the gladiator days and finds himself sentenced to be thrown to the Coliseum lions after breaking a string while playing the lyre for King Nero. His friend Homer says he will d... Read all"
+            },
+            {
+                "imdb-rating": "5.7/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDI2ODE4ODQtMTEwOC00MDA2LThjNzMtMTEyOTE0OTI1NWU1XkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "George O'Hanlon",
+                "character_name": "Joe McDoakes"
+            },
+            {
+                "image": null,
+                "actor_name": "Rodney Bell",
+                "character_name": "Emperor Nero"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgyNTY5ODQwNV5BMl5BanBnXkFtZTYwMTUyNTAz._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Doucette",
+                "character_name": "Gladiator Overseer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzAyNzcxZWYtZmUzNi00MjExLTkxOTctOTBkYmYyNDU2ZjI1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jane Frazee",
+                "character_name": "Alice McDoakes"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmZhMjFmY2YtMzZjZC00ZDgwLTlhNmItOTkzOWFlNTVjNDgwXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,6,140,140_.jpg",
+                "actor_name": "Creighton Hale",
+                "character_name": "Nero's Confidante"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDlmYjgzYzUtMWYxNC00YjMyLWE1NzEtMGU0YmMzOWNmMTZhXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Fred Kelsey",
+                "character_name": "Colisseum Spectator"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzBiODI2YWMtZmJiYy00ODMwLTg1NDAtN2Y2ZTJiNGE5YmMxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jack Mower",
+                "character_name": "Nero's Confidante"
+            },
+            {
+                "image": null,
+                "actor_name": "Murray Pollack",
+                "character_name": "Colisseum Spectator"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODhhZDg3N2QtMDU5Yi00MmZkLThkOGMtYWY5YTdmMzMwYWU4XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Philip Van Zandt",
+                "character_name": "Gladiator"
+            },
+            {
+                "image": null,
+                "actor_name": "Jackson Wheeler",
+                "character_name": "Homer"
+            }
+        ],
+        "Director": [
+            "Richard L. Bare"
+        ],
+        "Writers": [
+            "Richard L. Bare",
+            "George O'Hanlon"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 12, 1955 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0126050/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Warner%20Brothers%20Burbank%20Studios%20-%204000%20Warner%20Boulevard%2C%20Burbank%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Richard L. Bare Productions"
+                    ],
+                    "link": [
+                        "/company/co0142244?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

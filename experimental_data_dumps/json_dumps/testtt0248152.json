@@ -1,0 +1,135 @@
+[
+    {
+        "first": [
+            {
+                "title": "Let Me Hear You Whisper"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjE1MDU3MDA2OV5BMl5BanBnXkFtZTcwMDcwNzYxMQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A scrub-woman attempts to rescue a dolphin who will talk to no one but her from a research laboratory."
+            },
+            {
+                "imdb-rating": "5.5/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Bil Baird",
+                "character_name": "Dolphin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjUwMTA1MzUtYmI3NS00YjhjLWIxNGEtYjJlN2EwM2UxZTA4XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Philip Bruns",
+                "character_name": "Dan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTIwMTQzNDItMjk5ZC00ZTA5LTg5ZjEtZGE1OGMwZjk5OThiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Anthony Holland",
+                "character_name": "Fridge"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQzMTQ4MjQ2Ml5BMl5BanBnXkFtZTcwMDM0NDAyOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ruth White",
+                "character_name": "Helen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjExMzQ5NTAwNF5BMl5BanBnXkFtZTgwMDc2NzY2NTE@._V1_QL75_UX140_CR0,17,140,140_.jpg",
+                "actor_name": "Elizabeth Wilson",
+                "character_name": "Miss Moray"
+            },
+            {
+                "image": null,
+                "actor_name": "Iggie Wolfington",
+                "character_name": "Dr. Crocus"
+            }
+        ],
+        "Director": [
+            "Glenn Jordan"
+        ],
+        "Writer": [
+            "Paul Zindel"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 23, 1969 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0248152/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

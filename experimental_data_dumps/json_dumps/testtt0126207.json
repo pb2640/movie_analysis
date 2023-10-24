@@ -1,0 +1,108 @@
+[
+    {
+        "first": [
+            {
+                "title": "Boulevards d'Afrique"
+            },
+            {
+                "genres": [
+                    "Musical"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "5.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Dante Alou Badara",
+                "character_name": "Sukey's Father"
+            }
+        ],
+        "Directors": [
+            "Tam-Sir Doueb",
+            "Jean Rouch"
+        ],
+        "Writers": [
+            "Tam-Sir Doueb",
+            "Gererd Noyer"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 1988 (Italy)"
+                    ],
+                    "link": [
+                        "/title/tt0126207/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "France",
+                        "Senegal"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=SN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "French"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=fr&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "CNRS Audiovisuel",
+                        "Institut National de l'Audiovisuel (INA)",
+                        "La F\u00e9mis (F.E.M.I.S.)"
+                    ],
+                    "link": [
+                        "/company/co0042259?ref_=tt_dt_co_1",
+                        "/company/co0011981?ref_=tt_dt_co_2",
+                        "/company/co0049307?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

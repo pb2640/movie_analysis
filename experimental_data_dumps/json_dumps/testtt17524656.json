@@ -1,0 +1,134 @@
+[
+    {
+        "first": [
+            {
+                "title": "Pseudo Mailman"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjQxZGMyYzItODg1Ny00NDMwLTk4YTYtNzI4ZTA5NDQxNDY0XkEyXkFqcGdeQXVyNjcyNjE2NDA@._V1_QL75_UY281_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "When a young man can't get hired as a mailman, he decides to become one on his own terms."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Chris Gosine",
+                "character_name": "Marco Torres"
+            },
+            {
+                "image": null,
+                "actor_name": "Marina Yap",
+                "character_name": "Olivia Torres"
+            },
+            {
+                "image": null,
+                "actor_name": "Kiera Barnes",
+                "character_name": "Alice Metz"
+            },
+            {
+                "image": null,
+                "actor_name": "Ethan Zuchkan",
+                "character_name": "Frank Jr."
+            }
+        ],
+        "Directors": [
+            "Kristoffer Bradley Cruz",
+            "Marina Yap"
+        ],
+        "Writers": [
+            "Kristoffer Bradley Cruz",
+            "Daniel Garcia-Vega"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 30, 2022 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt17524656/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://gooshlems.com/films/pseudo-mailman"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Gooshlems"
+                    ],
+                    "link": [
+                        "/company/co0758964?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "CA$100 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "20 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

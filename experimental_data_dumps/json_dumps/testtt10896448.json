@@ -1,0 +1,159 @@
+[
+    {
+        "first": [
+            {
+                "title": "Kron"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjFhMjJmNGEtNDU5OC00YjA4LTk4YzUtNjczYWVjZGJlYmExXkEyXkFqcGdeQXVyMzY3MDU4NDk@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Fantasy",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Kron tells a story of Daud, a historian at Kedah museum with four-stage cancer, wanting to spend the rest of his life by tracking passage of the King of Siam which was used to transport the ... Read all"
+            },
+            {
+                "imdb-rating": "2.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Zahiril Adzim",
+                "character_name": "Syam"
+            },
+            {
+                "image": null,
+                "actor_name": "Dayana Roza",
+                "character_name": "Mulia Suri"
+            },
+            {
+                "image": null,
+                "actor_name": "Aman Graseka",
+                "character_name": "Professor Daud"
+            },
+            {
+                "image": null,
+                "actor_name": "Mamak Puteh",
+                "character_name": "Pian"
+            },
+            {
+                "image": null,
+                "actor_name": "Juhara Ayob",
+                "character_name": "Professor Mariana"
+            },
+            {
+                "image": null,
+                "actor_name": "Cat Farish",
+                "character_name": "Dr Hamid"
+            },
+            {
+                "image": null,
+                "actor_name": "Bohari Ibrahim",
+                "character_name": "Tok Batin"
+            },
+            {
+                "image": null,
+                "actor_name": "Ahmad Idham",
+                "character_name": "Professor Amri"
+            },
+            {
+                "image": null,
+                "actor_name": "Ellie Suriaty Omar",
+                "character_name": "Bonda Iring"
+            },
+            {
+                "image": null,
+                "actor_name": "Ruminah Sidek",
+                "character_name": "Nenek Suri"
+            },
+            {
+                "image": null,
+                "actor_name": "Opie Zami",
+                "character_name": "Ketoi"
+            }
+        ],
+        "Director": [
+            "Opie Zami"
+        ],
+        "Writers": [
+            "M. Hilter Zami",
+            "Opie Zami"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 22, 2019 (Malaysia)"
+                    ],
+                    "link": [
+                        "/title/tt10896448/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Malaysia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MY&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Malay"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=ms&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "OpyGlobal Productions"
+                    ],
+                    "link": [
+                        "/company/co0550869?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

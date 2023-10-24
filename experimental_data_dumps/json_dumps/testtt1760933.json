@@ -1,0 +1,112 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ausfegen"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODhjZDU4OWEtY2YyOS00Mjg2LWI1MDMtYWJhZjk3NzQ2OTI5XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Joseph Beuys",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "El Loko",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "J\u00fcrgen B\u00f6ttcher"
+        ],
+        "Writer": [
+            "J\u00fcrgen B\u00f6ttcher"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 2, 2008 (Germany)"
+                    ],
+                    "link": [
+                        "/title/tt1760933/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "West Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=XWG&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "German"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Berlin, Germany"
+                    ],
+                    "link": [
+                        "/search/title?locations=Berlin%2C%20Germany&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Sender Freies Berlin (SFB)"
+                    ],
+                    "link": [
+                        "/company/co0041492?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "26 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

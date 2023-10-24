@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "A Hero of Our Time"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTRkOWQ2N2QtNDhhYi00NmZmLWEyOTctYzY4NTc3Yjg2ZjJhXkEyXkFqcGdeQXVyNDUxODc2OTY@._V1_QL75_UY281_CR76,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Western"
+                ]
+            },
+            {
+                "plot": "The film involves a displaced cowboy, a sociopathic record producer and, caught between them, a gum-chewing valley girl who would rather be somewhere else."
+            },
+            {
+                "imdb-rating": "6.3/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Kevin Jarre",
+                "character_name": "The Hero"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMwNTQ5Nzg0OF5BMl5BanBnXkFtZTcwMDE2MDE4Mg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Dennis Hopper",
+                "character_name": "The Mogul"
+            }
+        ],
+        "Director": [
+            "Michael Almereyda"
+        ],
+        "Writers": [
+            "Michael Almereyda",
+            "Mikhail Lermontov"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "28 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

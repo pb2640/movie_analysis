@@ -1,0 +1,182 @@
+[
+    {
+        "first": [
+            {
+                "title": "A. (Anonymous)"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTk0MTgxMTMxMl5BMl5BanBnXkFtZTcwNTQyNjI0MQ@@._V1_QL75_UY281_CR18,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Gavin Tartowski has been called a quack, a cult-leader, and a barista who sees himself as a guru. Looking for a support group to help him with his compulsion to wear extremely tight pants, G... Read all"
+            },
+            {
+                "imdb-rating": "8.0/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "George Malich",
+                "character_name": "Gavin Tartowski"
+            },
+            {
+                "image": null,
+                "actor_name": "Ray Brewer",
+                "character_name": "Benji"
+            },
+            {
+                "image": null,
+                "actor_name": "Sarah Jones",
+                "character_name": "Jenny"
+            },
+            {
+                "image": null,
+                "actor_name": "Tony Miller",
+                "character_name": "Bradley"
+            },
+            {
+                "image": null,
+                "actor_name": "Pete Kruchowski",
+                "character_name": "Tad"
+            },
+            {
+                "image": null,
+                "actor_name": "Roy Gokenbach",
+                "character_name": "LeRoy"
+            },
+            {
+                "image": null,
+                "actor_name": "Alanna McNelly",
+                "character_name": "Joy"
+            },
+            {
+                "image": null,
+                "actor_name": "Gabriel Shapiro",
+                "character_name": "Dr. Laramie"
+            },
+            {
+                "image": null,
+                "actor_name": "Martha Rose",
+                "character_name": "Benji's Mom"
+            },
+            {
+                "image": null,
+                "actor_name": "Gus V. Torregrossa",
+                "character_name": "Mr. Torregrossa"
+            },
+            {
+                "image": null,
+                "actor_name": "Jackie Niebylskie",
+                "character_name": "Mrs. Laramie"
+            },
+            {
+                "image": null,
+                "actor_name": "Rosy Regalado",
+                "character_name": "Mariana"
+            },
+            {
+                "image": null,
+                "actor_name": "Stubert",
+                "character_name": "Jean Paul"
+            }
+        ],
+        "Director": [
+            "Daniel Bowers"
+        ],
+        "Writer": [
+            "Daniel Bowers"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 17, 2006 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0886442/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "St. Louis, Missouri, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=St.%20Louis%2C%20Missouri%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Lackluster Pictures"
+                    ],
+                    "link": [
+                        "/company/co0191557?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$600 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "53 minutes"
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

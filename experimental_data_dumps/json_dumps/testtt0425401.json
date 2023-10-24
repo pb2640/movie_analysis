@@ -1,0 +1,114 @@
+[
+    {
+        "first": [
+            {
+                "title": "Rezervat za rozovi pelikani"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDgyZjYwZmMtMzdlNC00ZTMyLTg4MTgtODg4ZjdkMzk3ZDcyL2ltYWdlXkEyXkFqcGdeQXVyNzIyNDI1MzU@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Family"
+                ]
+            },
+            {
+                "plot": "The film is a children comedy about six fat boys who experience great adventures while fighting hunger. They realize what friendship means and finally turn into little men."
+            },
+            {
+                "imdb-rating": "7.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Ivaylo Dzhambazov"
+        ],
+        "Writers": [
+            "Ivaylo Dzhambazov",
+            "Kostadin Kostadinov",
+            "Ivaylo Penchev"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 29, 2004 (Bulgaria)"
+                    ],
+                    "link": [
+                        "/title/tt0425401/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Bulgaria"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=BG&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Bulgarian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=bg&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "BNT",
+                        "Cinemaq"
+                    ],
+                    "link": [
+                        "/company/co0017094?ref_=tt_dt_co_1",
+                        "/company/co0134437?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "59 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

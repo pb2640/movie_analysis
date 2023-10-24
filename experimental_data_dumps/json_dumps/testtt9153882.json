@@ -1,0 +1,118 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Pursuit"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTZmNGZiYzEtNzFhNy00ZmIzLTgwMzktNDJhOWUwYzlmN2VjXkEyXkFqcGdeQXVyMjI4MTIxMDk@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Professional musician turned intrepid economist Arthur Brooks travels around the globe in search of an answer to the question: How can we lift up the world together, starting with those at t... Read all"
+            },
+            {
+                "imdb-rating": "6.2/10"
+            },
+            {
+                "metascore": "22"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzZiNGE4ZjgtMzEzMy00YWM5LThlMjAtNjg5Y2Y5YmRmYTJmXkEyXkFqcGdeQXVyNzEwODAwODY@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Arthur C. Brooks",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "John Papola"
+        ],
+        "Writer": [
+            "John Papola"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 16, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9153882/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Host a screening of the film.",
+                        "The official film website."
+                    ],
+                    "link": [
+                        "https://thepursuit.aspiration.events/",
+                        "https://www.thepursuitmovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Emergent Order"
+                    ],
+                    "link": [
+                        "/company/co0509050?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

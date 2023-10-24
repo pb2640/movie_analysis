@@ -1,0 +1,173 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hotter Up Close"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNmQzN2JiNWMtNGQ4ZS00NjUwLTgxNzItNjIzOTc2YWJjOWNmXkEyXkFqcGdeQXVyMzI5ODU2MDg@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "On the eve of his 30th birthday, a gay slacker must overcome his crippling insecurities in order to find love."
+            },
+            {
+                "imdb-rating": "8.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTY0MjgxNTEtM2FhOC00OWMzLThjZjEtMjEyZTU1MTJiNzlkXkEyXkFqcGdeQXVyNDU4MjgzODc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Christopher Matias Aguila",
+                "character_name": "Chris"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmY0ZDViMjgtODg5YS00NTA4LTk0NTYtMDFkNjY2ZTJlNTQwXkEyXkFqcGdeQXVyMjU1Mzc4MzE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Francisco San Martin",
+                "character_name": "Aiden"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTZlOTRjNTYtZGQ3Ny00OWMyLWI1ZWUtNjg1Nzk2MjcxMmZkXkEyXkFqcGdeQXVyMjAyMTE5NjI@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Liz Jenkins",
+                "character_name": "Dana"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGIxYTlkZGEtZjk0Yi00ZmZkLWIzN2ItOWEwNjExNTg2NmMzXkEyXkFqcGdeQXVyMTYyMjAzNTIw._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "John David Williams",
+                "character_name": "Brad"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTIxOTExNzQtYmFlNC00NzFhLTgzZjMtYTBlZjY0N2M1OGY1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Luke Millington-Drake",
+                "character_name": "Indigo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGViMDMyZjAtODI0Yi00NDIxLWEwZmMtODE3Y2M2NDYzOTI4XkEyXkFqcGdeQXVyNDAxMzk1NDM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mick Torres",
+                "character_name": "Ace"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmMzNDY2YWEtMjgwNy00ZTM2LThhYTItNWZlOGY5ZjAxYTFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Mike Abbate",
+                "character_name": "Felix"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM5ODQ0NjMxOF5BMl5BanBnXkFtZTgwMjYyNDc5MzE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Jay Renshaw",
+                "character_name": "Gavin"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZWIxMzBjMWQtMzFjYy00Njk0LWEyODctYWRlMmZjYTdmMDY4XkEyXkFqcGdeQXVyNTU5MDk5ODc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Devon Drew",
+                "character_name": "Melissa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmRlNTg3ZGUtYTQyMi00Mzk1LWFhYzQtYTY2ZmE3MzkzNThiXkEyXkFqcGdeQXVyMTA1NTEyMzUx._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Elijah Olachea",
+                "character_name": "Marcus"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzVkNGVmMDMtMWNlOC00YzEzLWI4NmEtNWIzNzgxZjc1MDNjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UY140_CR8,0,140,140_.jpg",
+                "actor_name": "Carl Paul Ezold Jr.",
+                "character_name": "Gus"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmI4NjViNWEtNmUwMS00MjEwLTlmMjYtNDM0NGNiY2VmZjQzXkEyXkFqcGdeQXVyNTU0OTA5ODM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Alice Victoria Winslow",
+                "character_name": "Self Help Guru"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTA3MmExZGUtYmJmMy00OTNhLTgzZjktOTQ2Y2UyODU2NzkwXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Anthony C Garcia",
+                "character_name": "Fantasy Muffin Boy"
+            }
+        ],
+        "Director": [
+            "Leland Montgomery"
+        ],
+        "Writer": [
+            "Christopher Matias Aguila"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 5, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt19766816/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Instagram"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/hotterupclosefilm/?igshid=NzAzN2Q1NTE%3D"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$50,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Van Nostrand Tiara"
+            },
+            {
+                "genres": [
+                    "Crime",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "When Mrs. Van Nostra returned from Europe her new tiara was much advertised. A new lady's maid arrived, highly recommended, but following events proved that she was but the accomplice of Raf... Read all"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "James Cooley",
+                "character_name": "Raffles"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkyMzY1OTcyM15BMl5BanBnXkFtZTgwMjc2ODY3MTE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Claire McDowell",
+                "character_name": "Kate"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODI2MDY3OTExNV5BMl5BanBnXkFtZTcwNjM2NDg5Nw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Harry Carey",
+                "character_name": "Society Detective"
+            },
+            {
+                "image": null,
+                "actor_name": "Hattie Delaro",
+                "character_name": "Mrs. Van Nostrand"
+            }
+        ],
+        "Director": [
+            "Anthony O'Sullivan"
+        ],
+        "Writer": [
+            "Clarence A. Frambers"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 20, 1913 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0385311/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Biograph Company"
+                    ],
+                    "link": [
+                        "/company/co0027744?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

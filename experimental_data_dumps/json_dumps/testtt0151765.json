@@ -1,0 +1,67 @@
+[
+    {
+        "first": [
+            {
+                "title": "Nisithe"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjc2M2U0OWMtMjdjMi00MjRkLThkNDAtZGU3NTJkMzA1OGI3XkEyXkFqcGdeQXVyNTA4NjMyNjE@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "7.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Agragami"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Bengali"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=bn&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": []
+    }
+]

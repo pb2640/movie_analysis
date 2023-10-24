@@ -1,0 +1,132 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mooimeisiesfontein!"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Ouboet makes up his mind to marry schoolteacher Marianne. The only problem is that she and Ouboet's father have already set a wedding date."
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Will Roberts",
+                "character_name": "Ouboet Thompson"
+            },
+            {
+                "image": null,
+                "actor_name": "Hal Orlandini",
+                "character_name": "Neels Thompson"
+            },
+            {
+                "image": null,
+                "actor_name": "Janet du Plessis",
+                "character_name": "Marianne Burger"
+            },
+            {
+                "image": null,
+                "actor_name": "Volent\u00e9 Bertotti",
+                "character_name": "Helmien"
+            },
+            {
+                "image": null,
+                "actor_name": "Andr\u00e9 Verster",
+                "character_name": "Mr. Rossouw"
+            },
+            {
+                "image": null,
+                "actor_name": "Danie Smuts",
+                "character_name": "Charlie"
+            },
+            {
+                "image": null,
+                "actor_name": "Steve du Toit",
+                "character_name": "Mr. van Schalkwyk"
+            }
+        ],
+        "Director": [
+            "Elmo de Witt"
+        ],
+        "Writer": [
+            "Pieter Pieterse"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 18, 1978 (South Africa)"
+                    ],
+                    "link": [
+                        "/title/tt2040437/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "South Africa"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=ZA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Afrikaans",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=af&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Elmo De Witt Films"
+                    ],
+                    "link": [
+                        "/company/co0108888?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "first": [
+            {
+                "title": "Gliding"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzJiMjE4ZTQtMmMyYy00MDE4LTkwMTQtYzNmZmRhODVkNzlmXkEyXkFqcGdeQXVyNDI0NTY3MzU@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A young girl spends her time roller blading, when pandemic reality forces her to face the changes in her family."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTVmNTI2OWMtMDllYy00MjYyLWE4NzktYTRjNWY0ZWM5MzQ2XkEyXkFqcGdeQXVyMTE5MDIzMTI1._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Ailema De Sousa",
+                "character_name": "Alma"
+            },
+            {
+                "image": null,
+                "actor_name": "Shirley Wiggins",
+                "character_name": "Simone"
+            }
+        ],
+        "Director": [
+            "Galina Chakarova"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2021 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt13276390/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "London, England, UK"
+                    ],
+                    "link": [
+                        "/search/title?locations=London%2C%20England%2C%20UK&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2:1"
+                    ]
+                }
+            }
+        ]
+    }
+]

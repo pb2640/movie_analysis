@@ -1,0 +1,135 @@
+[
+    {
+        "first": [
+            {
+                "title": "Stocking Stuffers"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjkzNDY5OTA2OV5BMl5BanBnXkFtZTcwMjc2MjUwNA@@._V1_QL75_UY281_CR14,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "A pair of pantyhose worn by an attractive woman becomes an object of desire first to her lover and then to herself. In the process, said object displays its seductive power to either complim... Read all"
+            },
+            {
+                "imdb-rating": "8.1/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcxNjY3OTYzMl5BMl5BanBnXkFtZTcwNzQyMDkyMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Christy Scott Cashman",
+                "character_name": "The Woman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjIzMTY0MjY4OF5BMl5BanBnXkFtZTcwNzI3NDMzMg@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Eric Scheiner",
+                "character_name": "The Man"
+            }
+        ],
+        "Director": [
+            "Angel Connell"
+        ],
+        "Writer": [
+            "Angel Connell"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 7, 2001 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0765846/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Massachusetts, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Massachusetts%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Parousian Pictures"
+                    ],
+                    "link": [
+                        "/company/co0173526?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$30,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

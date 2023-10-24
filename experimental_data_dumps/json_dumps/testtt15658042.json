@@ -1,0 +1,180 @@
+[
+    {
+        "first": [
+            {
+                "title": "Le choix de Fati"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZjI1ZWM2ZjAtOGY2Yi00NDVkLTk3OTgtYjFiN2QxMmI0MzFiXkEyXkFqcGdeQXVyNDE1NjEzMzE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Fati came to Italy by sea, without papers, pregnant for the fifth time. Longing for her children, she returned to Ghana six months later - without her husband. The people around her can't un... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Fati Halidu",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Firdaus Salaam",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sudais Salaam",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Zurfawu Salaam",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ramadan Salaam",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Auntie Akua",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Baaba Halidu",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ramatu Halidu",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Sumaila Halidu",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Rebecca Ako",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Beatrice Saah",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Zulai Awudu",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Rukaya Abdulai",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Fatima Dadzie"
+        ],
+        "Writer": [
+            "Fatima Dadzie"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 1, 2022 (Finland)"
+                    ],
+                    "link": [
+                        "/title/tt15658042/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ghana",
+                        "South Africa",
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GH&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=ZA&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Ghana"
+                    ],
+                    "link": [
+                        "/search/title?locations=Ghana&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Steps"
+                    ],
+                    "link": [
+                        "/company/co0885457?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "45 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

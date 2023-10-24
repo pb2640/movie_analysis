@@ -1,0 +1,129 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Misadventures of Lucifer"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2RkOGVmOGYtMWYyMi00NGIxLWIwMzctZGU2MGM4MjE4NmU0XkEyXkFqcGdeQXVyMzQ4MTg2MzU@._V1_QL75_UY281_CR93,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "When Lucifer is dismissed from his title of Satan, ruler of the underworld, he begins working in an office for a boss named Ezekiel who can't even take care of himself."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Damien Baumgart",
+                "character_name": "Lucifer Flame"
+            },
+            {
+                "image": null,
+                "actor_name": "Chris Musgrave",
+                "character_name": "Ezekiel Jewel Cherry"
+            }
+        ],
+        "Director": [
+            "Jon Staley"
+        ],
+        "Writers": [
+            "Damien Baumgart",
+            "Darko Galahad"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 14, 2009 (Australia)"
+                    ],
+                    "link": [
+                        "/title/tt2258665/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Australia"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=AU&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/photo.php?fbid=10150627689381489&set=a.10150336930771489.358453.670386488&type=1&ref=nf#!/groups/129188983768292/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Galahad Films"
+                    ],
+                    "link": [
+                        "/company/co0371639?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "A$150 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

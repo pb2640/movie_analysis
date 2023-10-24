@@ -1,0 +1,100 @@
+[
+    {
+        "first": [
+            {
+                "title": "Turkey Town"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYjZhZGU4YzUtNzk1NC00Y2E5LWI5ODItNDE1YjdjMWM1ZDUzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation"
+                ]
+            },
+            {
+                "plot": "Gobbles can't wait for the most magical day of the year to arrive! Thanksgiving! So Gobbles invites all his best friends together for a turkey-tastic Thanksgiving sing and dance party in Tur... Read all"
+            },
+            {
+                "imdb-rating": "3.6/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Pippa Seymour"
+        ],
+        "Writer": [
+            "Denise Schooler"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 6, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8535848/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "WOWNow Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0619948?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 13 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

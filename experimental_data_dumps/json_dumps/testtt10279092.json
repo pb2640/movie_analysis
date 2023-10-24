@@ -1,0 +1,180 @@
+[
+    {
+        "first": [
+            {
+                "title": "Away Bus"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzFkNzcxNjgtOTgwYy00ODZmLWJhNjUtMTA4ZThlODgwYjM4XkEyXkFqcGdeQXVyMTA4NzQzODg1._V1_QL75_UX190_CR0,16,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Two sisters - BIBI and KIKI, have to raise twenty thousand Ghana cedis within 12 hours for an emergency surgery to save their dying mother. When all attempts to get help from family and frie... Read all"
+            },
+            {
+                "imdb-rating": "7.6/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Adjetey Anang",
+                "character_name": "Doctor"
+            },
+            {
+                "image": null,
+                "actor_name": "Toosweet Annan",
+                "character_name": "Kay"
+            },
+            {
+                "image": null,
+                "actor_name": "Nadia Antwi",
+                "character_name": "Mob Extra"
+            },
+            {
+                "image": null,
+                "actor_name": "Akwasi Asamoah",
+                "character_name": "Bus Driver"
+            },
+            {
+                "image": null,
+                "actor_name": "Richard Asante",
+                "character_name": "Padlock"
+            },
+            {
+                "image": null,
+                "actor_name": "Mikki Osei Berko",
+                "character_name": "Bob Pinto"
+            },
+            {
+                "image": null,
+                "actor_name": "Akwasi Boadi",
+                "character_name": "Inspector Yeesu"
+            },
+            {
+                "image": null,
+                "actor_name": "Tracy Boakye",
+                "character_name": "Angie"
+            },
+            {
+                "image": null,
+                "actor_name": "Moesha Babiinoti Boduong",
+                "character_name": "Anita"
+            },
+            {
+                "image": null,
+                "actor_name": "Rosemond Brown",
+                "character_name": "Sandra"
+            },
+            {
+                "image": null,
+                "actor_name": "Samuel Yaw Dabo",
+                "character_name": "Prophet Awukye"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc3MjUxMzY0M15BMl5BanBnXkFtZTgwMjU5NzkxNDE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "John Dumelo",
+                "character_name": "Kofi Asamoah"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2FlNDk5MDEtNzA0OC00YzA3LWI0YzUtZGE5NmUwNjhmYzk3XkEyXkFqcGdeQXVyNjAyNzk4MjQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Solomon Fixon-Owoo Jr.",
+                "character_name": "Oboi"
+            },
+            {
+                "image": null,
+                "actor_name": "Kweku Anderson Frimpong",
+                "character_name": "Sergeant Akkiw"
+            },
+            {
+                "image": null,
+                "actor_name": "Ebo Hagen",
+                "character_name": "Security"
+            },
+            {
+                "image": null,
+                "actor_name": "Agya Koo",
+                "character_name": "Moses"
+            },
+            {
+                "image": null,
+                "actor_name": "Umar Krupp",
+                "character_name": "Moshosho"
+            },
+            {
+                "image": null,
+                "actor_name": "Fella Makafui",
+                "character_name": "Kiki"
+            }
+        ],
+        "Directors": [
+            "Kofi Asamoah",
+            "Peter Sedufia"
+        ],
+        "Writers": [
+            "Kofi Asamoah",
+            "Peter Sedufia",
+            "Yaw Twumasi"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Ghana"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GH&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Akan"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ak&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$34,439"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 35 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

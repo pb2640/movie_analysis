@@ -1,0 +1,161 @@
+[
+    {
+        "first": [
+            {
+                "title": "Kanakam Moolam"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTQ0MDBjZmMtYjE1Ny00YzQ3LTkyMmUtY2MzMWEzZDVlZTcxXkEyXkFqcGdeQXVyNzc5NDEyNDc@._V1_QL75_UY281_CR10,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "6.1/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWZmZWNiMGEtNDdjNy00ZTM3LWEyZmUtYTU4Njc4ODhiYzJmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Neena Kurup",
+                "character_name": "Asst. Commissioner of Police"
+            },
+            {
+                "image": null,
+                "actor_name": "Haris Mannancheril",
+                "character_name": "Circle Inspector of Police"
+            },
+            {
+                "image": null,
+                "actor_name": "Aiswarya Anil Kumar",
+                "character_name": "Daughter of Sebastian"
+            },
+            {
+                "image": null,
+                "actor_name": "Sreejith",
+                "character_name": "Jagath"
+            },
+            {
+                "image": null,
+                "actor_name": "Binoy Paul",
+                "character_name": "Police Driver"
+            },
+            {
+                "image": null,
+                "actor_name": "Mohammed Salih",
+                "character_name": "Suresh (Thief)"
+            },
+            {
+                "image": null,
+                "actor_name": "Pradeep",
+                "character_name": "Sumughan (Thief)"
+            },
+            {
+                "image": null,
+                "actor_name": "Arun Narayanan",
+                "character_name": "Mithun"
+            },
+            {
+                "image": null,
+                "actor_name": "Sunil Kalathoor",
+                "character_name": "Judicial Magistrate"
+            },
+            {
+                "image": null,
+                "actor_name": "Nireesh Gopalakrishnan",
+                "character_name": "Rajesh Sebastian"
+            },
+            {
+                "image": null,
+                "actor_name": "Jayakrishnan",
+                "character_name": "Sebastian"
+            },
+            {
+                "image": null,
+                "actor_name": "Jagadeesh Thevalaparambil",
+                "character_name": "Sub Inspector of Police"
+            }
+        ],
+        "Directors": [
+            "Saneesh Kunjukunju",
+            "Abhilash Ramachandran"
+        ],
+        "Writer": [
+            "Saneesh Kunjukunju"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 19, 2021 (India)"
+                    ],
+                    "link": [
+                        "/title/tt14862520/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Malayalam"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=ml&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Kochi, Kerala, India"
+                    ],
+                    "link": [
+                        "/search/title?locations=Kochi%2C%20Kerala%2C%20India&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u20b92,000,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 40 minutes"
+                }
+            }
+        ]
+    }
+]

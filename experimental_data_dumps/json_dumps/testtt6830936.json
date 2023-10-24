@@ -1,0 +1,134 @@
+[
+    {
+        "first": [
+            {
+                "title": "Get Away"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZTAzMzc2YTQtM2NjNi00MmFmLTk1MjctNThiZmM0MmQ2YzM5XkEyXkFqcGdeQXVyNjg0NDE3NzE@._V1_QL75_UY281_CR10,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Helped by a a fortune-teller, a priest and his apprentice leaves to the demon hunting, without knowing what waits for them."
+            },
+            {
+                "imdb-rating": "6.9/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Michael Resin",
+                "character_name": "Possessed Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Sylviane Moret",
+                "character_name": "Medium"
+            },
+            {
+                "image": null,
+                "actor_name": "Jerome Resin",
+                "character_name": "Exorcist assistant"
+            },
+            {
+                "image": null,
+                "actor_name": "Christophe Pulfer",
+                "character_name": "Priest"
+            },
+            {
+                "image": null,
+                "actor_name": "Christophe Pulfer",
+                "character_name": "Priest"
+            }
+        ],
+        "Director": [
+            "Michael Resin"
+        ],
+        "Writer": [
+            "Michael Resin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 13, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6830936/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Switzerland"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CH&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Website"
+                    ],
+                    "link": [
+                        "http://michaelresin.site/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Media Distribution & Editions P.M"
+                    ],
+                    "link": [
+                        "/company/co0603411?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "CHF\u00a05,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "6 minutes"
+                }
+            }
+        ]
+    }
+]

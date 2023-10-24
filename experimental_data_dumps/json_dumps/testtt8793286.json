@@ -1,0 +1,169 @@
+[
+    {
+        "first": [
+            {
+                "title": "Octoberfest"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzdjYmZjNmItMTA1OC00MTdhLThlZTgtZDIzMDM0NzMzYWU1XkEyXkFqcGdeQXVyMjk4MzgyMjU@._V1_QL75_UY281_CR130,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Crime",
+                    "Drama",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A young punk teenager pulls a prank on the night of Halloween that will come back to haunt him a year later."
+            },
+            {
+                "imdb-rating": "2.6/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Rich\u00e0rd A. LaBon",
+                "character_name": "Danzel Whitmoore"
+            },
+            {
+                "image": null,
+                "actor_name": "Heather Bush",
+                "character_name": "Ms. B"
+            },
+            {
+                "image": null,
+                "actor_name": "Theresa Flanagan",
+                "character_name": "Ms. F"
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Perdue",
+                "character_name": "Charles"
+            },
+            {
+                "image": null,
+                "actor_name": "Brandon Serpa",
+                "character_name": "Brandon"
+            },
+            {
+                "image": null,
+                "actor_name": "Manny Velazquez",
+                "character_name": "Danzel #2"
+            }
+        ],
+        "Director": [
+            "Manny Velazquez"
+        ],
+        "Writer": [
+            "Manny Velazquez"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 7, 2018 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt8793286/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Creator Website"
+                    ],
+                    "link": [
+                        "http://mannyvelazquezfilms.weebly.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Chicago, Illinois, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Chicago%2C%20Illinois%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Exploitation International Pictures",
+                        "Manny Velazquez Films"
+                    ],
+                    "link": [
+                        "/company/co0623837?ref_=tt_dt_co_1",
+                        "/company/co0545490?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 11 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby Digital"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

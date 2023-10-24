@@ -1,0 +1,137 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Gunsaulus Mystery"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Mystery"
+                ]
+            },
+            {
+                "plot": "A young black man is accused of the murder of a white woman."
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Evelyn Preer",
+                "character_name": "Ida May Gilpin"
+            },
+            {
+                "image": null,
+                "actor_name": "Edward R. Abrams",
+                "character_name": "Sydney Wyeth"
+            },
+            {
+                "image": null,
+                "actor_name": "Lawrence Chenault",
+                "character_name": "Anthony Brisbane"
+            },
+            {
+                "image": null,
+                "actor_name": "Louis De Bulger",
+                "character_name": "Lem Hopkins"
+            }
+        ],
+        "Director": [
+            "Oscar Micheaux"
+        ],
+        "Writer": [
+            "Oscar Micheaux"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1921 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0133825/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "New York, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=New%20York%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Micheaux Film"
+                    ],
+                    "link": [
+                        "/company/co0067251?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

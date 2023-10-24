@@ -1,0 +1,230 @@
+[
+    {
+        "first": [
+            {
+                "title": "Heavy Water"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjgyYTYwYjAtYzhiYS00YTMyLTg4YTItODQzYmZlZTVmMDk5XkEyXkFqcGdeQXVyNjMzMTE2MDU@._V1_QL75_UY281_CR160,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Follow big wave surfer Nathan Fletcher through the evolution of surfing and his relationship with big waves."
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjA2NTg5ODM4OV5BMl5BanBnXkFtZTgwMDk5Mzc0MjE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jay Adams",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Bielmann",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Woody Brown",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Woody Brown",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Mikey Bruneau",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Cole",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "LeRoy Dennis",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Darrick Doerner",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tiger Doerner",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Christian Fletcher",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjllMjBiMzItYzY3Ny00YjQ0LWExOTktZWMxNWJiZDhjZDRjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Herbie Fletcher",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Nathan Fletcher",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Hank Foto",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tenne Froiseth",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Danny Fuller",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Fred Hemmings",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWFmZDUzZGItNDZhNi00Yjc2LWI0MWItZjYzNGM2NjcyYTJjXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Christian Hosoi",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Bruce Irons",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Michael Oblowitz"
+        ],
+        "Writer": [
+            "Michael Oblowitz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 12, 2019 (New Zealand)"
+                    ],
+                    "link": [
+                        "/title/tt5131516/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Trailer"
+                    ],
+                    "link": [
+                        "https://www.redbull.com/int-en/videos/heavy-water-trailer"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Minus Zero Films",
+                        "All Edge Entertainment",
+                        "BondIt Media Capital"
+                    ],
+                    "link": [
+                        "/company/co0343910?ref_=tt_dt_co_1",
+                        "/company/co0560439?ref_=tt_dt_co_2",
+                        "/company/co0474730?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-grossdomestic": {
+                    "val": "$55,446"
+                }
+            },
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$99,503"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 24 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color",
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16 : 9"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "first": [
+            {
+                "title": "Katja Dreams of Waking Up"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTAwZTVhN2ItODM4OS00MmYxLThlMDQtYzlkOGY1MjZjYzI0XkEyXkFqcGdeQXVyMjcyMjQxMTQ@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Katja (27) lives in Berlin and dreams every night of her own death, and her waking hours are a constant stream of work, digital distraction and a paranoia about the future - her inner life m... Read all"
+            },
+            {
+                "imdb-rating": "7.7/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Leonie Rainer",
+                "character_name": "Katja"
+            },
+            {
+                "image": null,
+                "actor_name": "Lasse Holdhus",
+                "character_name": "Fredrik"
+            },
+            {
+                "image": null,
+                "actor_name": "Andrew Grant",
+                "character_name": "Student #1"
+            },
+            {
+                "image": null,
+                "actor_name": "Eili Br\u00e5stad Johannessen",
+                "character_name": "Student #2"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmUyMjRkZjctZDQ0Yi00ODhmLThjZWUtNGQ1MmE0OTBiNWRiXkEyXkFqcGdeQXVyNDUwOTIzMg@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Frank Mosley",
+                "character_name": "Podcast Pete"
+            },
+            {
+                "image": null,
+                "actor_name": "Nadine Baier",
+                "character_name": "Julia"
+            },
+            {
+                "image": null,
+                "actor_name": "Gideon Seaman",
+                "character_name": "Sam"
+            },
+            {
+                "image": null,
+                "actor_name": "Eva Blaschke",
+                "character_name": "Dance Instructor"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWU4MjEyYzYtNjVhYS00NGZmLWIxODctMTZmOTBlMDhhNTkzXkEyXkFqcGdeQXVyMjM4NDkxMTU@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Betty Kaplan",
+                "character_name": "Dream Assassin"
+            },
+            {
+                "image": null,
+                "actor_name": "Eilif Seem",
+                "character_name": "Shouting Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Eirin Dortea Ulv\u00e5g",
+                "character_name": "Trude"
+            },
+            {
+                "image": null,
+                "actor_name": "Jon Martin Bye",
+                "character_name": "Grandfather"
+            },
+            {
+                "image": null,
+                "actor_name": "Ruth Hansen",
+                "character_name": "Grandmother"
+            },
+            {
+                "image": null,
+                "actor_name": "Jurgen Fauth",
+                "character_name": "Barney"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWYwNmQ5YTEtODBkZi00NjAwLThmNWYtMmUwNTFiMDE3MWY2XkEyXkFqcGdeQXVyOTMxODMyMzM@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Philipp Droste",
+                "character_name": "Air BnBer"
+            }
+        ],
+        "Director": [
+            "Truls Krane Meby"
+        ],
+        "Writer": [
+            "Truls Krane Meby"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 20, 2022 (Norway)"
+                    ],
+                    "link": [
+                        "/title/tt16891066/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Norway",
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NO&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "German",
+                        "English",
+                        "Norwegian"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=no&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Berlin, Germany"
+                    ],
+                    "link": [
+                        "/search/title?locations=Berlin%2C%20Germany&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Mattima Films"
+                    ],
+                    "link": [
+                        "/company/co0715148?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 12 minutes"
+                }
+            }
+        ]
+    }
+]

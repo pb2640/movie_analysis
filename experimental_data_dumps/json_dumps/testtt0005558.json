@@ -1,0 +1,143 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Ivory Snuff Box"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzk2ZmExMzMtMGQwNS00NTFhLTk5ODYtZjI2ZmUzMmJjMWZlXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UY281_CR98,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Mystery"
+                ]
+            },
+            {
+                "plot": "Richard Duvall is a young American detective in the employ of the French Secret Police. While in Paris he meets Grace Ellicot, also an American, with whom he falls in love. He marries her an... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODc1Mjk0NjYtZjgxNi00NTMxLTkyYmQtOGRmNjUwMDRiZjZiXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Holbrook Blinn",
+                "character_name": "Richard Duvall"
+            },
+            {
+                "image": null,
+                "actor_name": "Alma Belwin",
+                "character_name": "Grace Ellicot"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkyMTI3MTEyMF5BMl5BanBnXkFtZTgwNzgzNjM1MzE@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Norman Trevor",
+                "character_name": "Dr. Hartmann"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Cummings",
+                "character_name": "Prefect of Police"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmFlOWUwMGEtYWJmOS00MzhiLTkwNGEtNWI3MDcwMjk3MzI4XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Jacqueline Morhange",
+                "character_name": "Little Girl"
+            }
+        ],
+        "Director": [
+            "Maurice Tourneur"
+        ],
+        "Writers": [
+            "E. Magnus Ingleton",
+            "Frederic Arnold Kummer"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 13, 1915 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0005558/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None",
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "William A. Brady Picture Plays"
+                    ],
+                    "link": [
+                        "/company/co0005556?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "50 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

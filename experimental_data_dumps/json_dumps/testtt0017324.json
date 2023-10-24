@@ -1,0 +1,128 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ridin' for Love"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Action",
+                    "Adventure"
+                ]
+            },
+            {
+                "plot": "Robert Kane, owner of the Bar-L Ranch, has received word from his attorney that he will have to marry Ann Scott before the 15th of the month, whom he has never met, or else lose the title to... Read all"
+            },
+            {
+                "imdb-rating": "5.3/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzBiODI2YWMtZmJiYy00ODMwLTg1NDAtN2Y2ZTJiNGE5YmMxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jack Mower",
+                "character_name": "Robert Kane"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM5MzE4Nzk0N15BMl5BanBnXkFtZTYwMjg0NzU2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Janet Gaynor",
+                "character_name": "Girl"
+            }
+        ],
+        "Director": [
+            "William Wyler"
+        ],
+        "Writers": [
+            "William Wyler",
+            "Joseph Murray"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 17, 1926 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0017324/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Universal Pictures"
+                    ],
+                    "link": [
+                        "/company/co0005073?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,208 @@
+[
+    {
+        "first": [
+            {
+                "title": "Joe Palooka in Fighting Mad"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYzExNDkzZjUtNzkwNy00MDBlLWJmYzItMTY4NDZiNDY1ZmI5L2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Drama",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "Joe Palooka goes blind during a fight. An operation restores his vision, but he's told not to fight for a year. His trainer Knobby has picked up another fighter, but gangsters are pressing h... Read all"
+            },
+            {
+                "imdb-rating": "6.0/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDk1MDE5ZWQtM2QxMC00MmZjLWJiYWItM2M4NmU3MjczMGQ0XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Joe Kirkwood Jr.",
+                "character_name": "Joe Palooka"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzlhYjM3MzMtZjRiOS00N2Q0LWE5ODMtNzcyN2Y3NzkxYjdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Leon Errol",
+                "character_name": "Knobby Walsh"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDcwNDUxMWMtNDgzZC00ODYzLTkxYzQtZjkwNTBkZmYzODRjXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Elyse Knox",
+                "character_name": "Anne Howe"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmIwYjA5ZTItYWY0YS00OWViLWEzOTEtMGZmMDYzZDBlNzQyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Hubbard",
+                "character_name": "Charles Kennedy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2Q5ZDI3MWItNWE4Yi00ZDFkLWFkMTYtMWU1OWYyYjAwOWY3XkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Patricia Dane",
+                "character_name": "Iris March"
+            },
+            {
+                "image": null,
+                "actor_name": "Charles Cane",
+                "character_name": "George Wendell"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjk5NGM0NGEtMjkyYS00MTBkLTgxMDQtOWE4NjQzZmQ2MWVmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Wally Vernon",
+                "character_name": "Archie Stone"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGZhODhhMzctNDY5Yy00YjEzLWJiZjktODBiNmQ1NzE0MDUyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Frank Hyers",
+                "character_name": "Ralph"
+            },
+            {
+                "image": null,
+                "actor_name": "Jack Shea",
+                "character_name": "Jeff Lundy"
+            },
+            {
+                "image": null,
+                "actor_name": "Jack Roper",
+                "character_name": "Waldo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTgzMTcxMzIyN15BMl5BanBnXkFtZTgwNDg3NTM2MjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Horace McMahon",
+                "character_name": "Looie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNGZhOTBjZWMtNDg1Ni00ODMzLTk4MWMtODdmYjBmMmI5MjdlXkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Jack Overman",
+                "character_name": "Truck Driver"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODNiZWQ5YjEtZjg1My00MWZmLTk2YmEtOTVlZWU3MWE3OWUxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Eddie Gribbon",
+                "character_name": "Scranton"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMGQxOWQxOWMtNTM2My00ZDgyLTgxN2YtZDVhY2E4ZWViMzkyXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UY140_CR20,0,140,140_.jpg",
+                "actor_name": "Sarah Padden",
+                "character_name": "Mom Palooka"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2QxZThjMTItYmIxNi00MGRmLWE2NmEtODYwZGU5MTQ5N2M0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY140_CR55,0,140,140_.jpg",
+                "actor_name": "Michael Mark",
+                "character_name": "Pop Palooka"
+            },
+            {
+                "image": null,
+                "actor_name": "Evelynne Smith",
+                "character_name": "Truck Driver's Wife"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYmNhMDRkMWQtNDZmNS00NTllLThiNWUtODZlZWJlNWE5MGI3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Geneva Gray",
+                "character_name": "Hat Check Girl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzdlZjMxNGItNDBhYi00MWJkLTk4MDMtN2UxYzgxNTJmNTdkXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Indrisano",
+                "character_name": "Referee"
+            }
+        ],
+        "Director": [
+            "Reginald Le Borg"
+        ],
+        "Writers": [
+            "Ham Fisher",
+            "Bernard D. Shamberg",
+            "Ralph S. Lewis"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 7, 1948 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0040492/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Monogram Pictures"
+                    ],
+                    "link": [
+                        "/company/co0025996?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

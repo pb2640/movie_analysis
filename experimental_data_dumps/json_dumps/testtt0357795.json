@@ -1,0 +1,151 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Inheritance"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMmQ1NGM2NDgtNDgyMC00NzQ0LTg2MWUtMGE3OWU2NTFmZmNlXkEyXkFqcGdeQXVyNDQ4NTA1Njk@._V1_QL75_UY281_CR50,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "The Inheritance shows what life was really like for immigrants and working Americans from the turn of the century through the fight for civil rights in the 1960s. This stirring history of ou... Read all"
+            },
+            {
+                "imdb-rating": "8.4/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk3NjI1MDc4NV5BMl5BanBnXkFtZTYwMjMwMTM2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Robert Ryan",
+                "character_name": "Narrator"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmRmNTc3YTEtMWU5OC00ZmM2LTg5ZmYtNzA1MzZlY2Q3Yjg1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Calvin Coolidge",
+                "character_name": "Self - President of the United States"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjE0NTMzMDE2OF5BMl5BanBnXkFtZTcwMTIxOTgxOA@@._V1_QL75_UY140_CR18,0,140,140_.jpg",
+                "actor_name": "Franklin D. Roosevelt",
+                "character_name": "Self - President of the United States"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMwMmI5NTUtMWFiZi00YjI5LWJhZDQtMTA5MzhkNWNjMmFkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Adolf Hitler",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjg3ODhmODAtNDYwYS00NWRkLWE5NGYtOWRlMzQyNTViZTU4XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "John L. Lewis",
+                "character_name": "Self - Labor Union Leader"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjI4ODEzMDQwOV5BMl5BanBnXkFtZTgwOTQ1OTQzMjE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Anne Revere",
+                "character_name": "Voice"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ4NDQ3NDA4OV5BMl5BanBnXkFtZTcwMjQ2NzkxOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Lionel Stander",
+                "character_name": "Voice"
+            }
+        ],
+        "Director": [
+            "Harold Mayer"
+        ],
+        "Writer": [
+            "Millard Lampell"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 8, 1964 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0357795/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Amalgamated Clothing Workers of America",
+                        "Harold Mayer Production"
+                    ],
+                    "link": [
+                        "/company/co0612315?ref_=tt_dt_co_1",
+                        "/company/co0100816?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "58 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "first": [
+            {
+                "title": "Patriot Day"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjY4MGI1OWYtY2FhZC00NzA0LTlkZDUtZjU4ZWExOWU2ZjViXkEyXkFqcGdeQXVyMjQyMjk5NDg@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "11 year old Jamila Abdi waits for her mother to come from the Pentagon on 9/11/2001 so that they can celebrate her birthday."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Kaylin Ali",
+                "character_name": "Jamila Abdi"
+            },
+            {
+                "image": null,
+                "actor_name": "Erin Bowman",
+                "character_name": "Ms. Pat"
+            },
+            {
+                "image": null,
+                "actor_name": "Mariah Fontaine",
+                "character_name": "Diamond"
+            },
+            {
+                "image": null,
+                "actor_name": "Zsa Zsa Hopkins",
+                "character_name": "Akilah Abdi"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjNhZjEyOGUtMjYxNy00Mzc1LTk4NmMtMjhlODdhMWNiYzU2XkEyXkFqcGdeQXVyODMxODg0Nzk@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Jacqueline Oday",
+                "character_name": "Auntie"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmQ1YTM4Y2QtMGY4Mi00YTkyLWJkNTEtZDkyZmE0MGQ3MDQwXkEyXkFqcGdeQXVyNjkwNTU5OTc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Stephanie Parker",
+                "character_name": "Mrs. Johnson"
+            },
+            {
+                "image": null,
+                "actor_name": "Cherri Reams",
+                "character_name": "Crying Woman on Bus"
+            },
+            {
+                "image": null,
+                "actor_name": "Nyles Robinson",
+                "character_name": "Bus Driver"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZjVjYmVkY2EtYzg0ZC00ZTQ5LWI2OTUtNDNlYjE1ZDQxZGUyXkEyXkFqcGdeQXVyMTM4MjkyMTA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Marcellus Bassman Shepard",
+                "character_name": "Ibrahim"
+            },
+            {
+                "image": null,
+                "actor_name": "Antonio Silva",
+                "character_name": "Drew"
+            }
+        ],
+        "Director": [
+            "Nailah Robinson"
+        ],
+        "Writer": [
+            "Nailah Robinson"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 22, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12619396/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Washington DC"
+                    ],
+                    "link": [
+                        "/search/title?locations=Washington%20DC&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "London Film School"
+                    ],
+                    "link": [
+                        "/company/co0127761?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$25,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39:1"
+                    ]
+                }
+            }
+        ]
+    }
+]

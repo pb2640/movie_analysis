@@ -1,0 +1,112 @@
+[
+    {
+        "first": [
+            {
+                "title": "All-Americans, The"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2ZhNTZkYjgtYjgxZi00MGFlLWJlOGEtMzczZDAzY2ZlZTQ0XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "Two football teams from a pair of rival high schools in East L.A. face off in a heated, annual game."
+            },
+            {
+                "imdb-rating": "9.4/10"
+            },
+            {
+                "metascore": "4"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Javier Cid",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Lorenzo Hernandez",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Stevie Williams",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Billy McMillin"
+        ],
+        "Writer": [
+            "Billy McMillin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 8, 2019 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6977448/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Delirio Films"
+                    ],
+                    "link": [
+                        "/company/co0198259?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 39 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

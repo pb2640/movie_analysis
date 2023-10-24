@@ -1,0 +1,165 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Haunting of the Murder House"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZGIwNjE3ODEtOGZmZi00NDJmLTgzODQtNzIxODU4MzVmYjZiXkEyXkFqcGdeQXVyNzk0NjYxNDY@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "In October, four filmmakers disappeared in a haunted house while live streaming on social media. A year later, their footage was found."
+            },
+            {
+                "imdb-rating": "3.6/10"
+            },
+            {
+                "metascore": "116"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Sarah Tyson",
+                "character_name": "Harper"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzc4YjM1MmUtNGM1Zi00YTg4LWFhMzctOWNmNDA1ZWRjYTZlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Tyler Miller",
+                "character_name": "Kai"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjBkNjUwYjYtMmRhYi00NTJkLTg2MTMtZjEwMjQ4ZDk3ZmU0XkEyXkFqcGdeQXVyMTU1MjYwNTk5._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dylan DeVane",
+                "character_name": "Dylan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2VlMzIzNWItYTE2Ny00YjcwLTlhYmMtMjRhOTA5MzYwNzE5XkEyXkFqcGdeQXVyMTM1NjU4MTY2._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Brent Downs",
+                "character_name": "Officer Reynolds"
+            },
+            {
+                "image": null,
+                "actor_name": "Kellan Rudnicki",
+                "character_name": "Kel"
+            },
+            {
+                "image": null,
+                "actor_name": "Katie Powell",
+                "character_name": "Dispatch"
+            },
+            {
+                "image": null,
+                "actor_name": "Walter Braithwaite",
+                "character_name": "Live Streamer"
+            },
+            {
+                "image": null,
+                "actor_name": "Alexandra Ussery",
+                "character_name": "Intro Girl"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzVmNjk3ZGItMDhmNy00ZTc3LTgxYTQtNjY4NTA0N2FmYmVlXkEyXkFqcGdeQXVyNzk0NjYxNDY@._V1_QL75_UY140_CR5,0,140,140_.jpg",
+                "actor_name": "Brendan Rudnicki",
+                "character_name": "Director"
+            }
+        ],
+        "Director": [
+            "Brendan Rudnicki"
+        ],
+        "Writers": [
+            "Brendan Rudnicki",
+            "Kellan Rudnicki"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 29, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt20861742/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Amazon",
+                        "Company Website"
+                    ],
+                    "link": [
+                        "https://amzn.to/3Ys3mOX",
+                        "http://www.Dbsfilms.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "DBS Films Orlando"
+                    ],
+                    "link": [
+                        "/company/co0738556?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 18 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

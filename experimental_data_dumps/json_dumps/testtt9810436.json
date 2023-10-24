@@ -1,0 +1,171 @@
+[
+    {
+        "first": [
+            {
+                "title": "Gunwali Dulhaniya"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZWI3YWFjY2YtYjBhYy00MTc1LTgzYjktMGI0MzhkNjA2YmIyXkEyXkFqcGdeQXVyMTAwMzMzNzQ3._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Romance"
+                ]
+            },
+            {
+                "plot": "Sharmili, a Bride to be gets kidnapped by a Bhaiyaji who asks for 5 crore as ransom. Confusion strikes when family finds a letter which says she has eloped with her lover. Has Sharmili been ... Read all"
+            },
+            {
+                "imdb-rating": "3.6/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Kanchan Awasthi",
+                "character_name": "Sharmili"
+            },
+            {
+                "image": null,
+                "actor_name": "Mayur Kumar",
+                "character_name": "Sameer"
+            },
+            {
+                "image": null,
+                "actor_name": "Elvis Chaturvedi",
+                "character_name": "Lakhan"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjFjMmQzMTAtZmE1YS00MTlmLTkyOTYtNDliNWY1MmM2MzFiXkEyXkFqcGdeQXVyODI1MTQ5ODY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tushar Acharya",
+                "character_name": "Bablu Kabootar"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDMxOWUxNmUtNGQwMS00OTIzLWFmZDMtMTM4YTVhM2EzNjZmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Govind Namdeo",
+                "character_name": "Mr. Singh"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzI2ODZiYzMtMmY5MS00ZWVlLThmMTAtMzM0NWU0M2RhMmI4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Brijendra Kala",
+                "character_name": "Le. Lo. Rai"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzU1ZGIzYTYtYTU0Zi00MWYxLWJiMmQtMTAyODQwY2FkZDU4XkEyXkFqcGdeQXVyMjQ2MDI5ODE@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Shravani Goswami",
+                "character_name": "Bua"
+            },
+            {
+                "image": null,
+                "actor_name": "Dolly Kaushik",
+                "character_name": "Namrata"
+            },
+            {
+                "image": null,
+                "actor_name": "Vivek Singh",
+                "character_name": "Kapil"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2ZkY2I5NTAtZDYzOS00NWQ1LTkzMTYtYmU5YTVlY2YzODY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Gajendra Chauhan",
+                "character_name": "Mr. Rathore"
+            }
+        ],
+        "Director": [
+            "Shantanu Anant Tambe"
+        ],
+        "Writer": [
+            "Shantanu Anant Tambe"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 17, 2019 (India)"
+                    ],
+                    "link": [
+                        "/title/tt9810436/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Facebook Link",
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/GWDtheFilm",
+                        "https://www.facebook.com/GWDtheFilm/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Buddha Telefilms"
+                    ],
+                    "link": [
+                        "/company/co0770732?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 54 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "D-Cinema 48kHz 5.1"
+                    ]
+                }
+            }
+        ]
+    }
+]

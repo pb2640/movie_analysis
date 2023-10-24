@@ -1,0 +1,61 @@
+[
+    {
+        "first": [
+            {
+                "title": "Alien Agenda"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzRmZjk4ZmEtMWVjMy00YmIzLTgxMGMtZmNhZmYzZDAyMmZkXkEyXkFqcGdeQXVyODI0NTg4MTM@._V1_QL75_UY281_CR13,0,190,281_.jpg"
+            },
+            {
+                "plot": "A thorough examination of the possible and what some believe regarding the purpose of alien abduction."
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Hollywood Animation Studios"
+                    ],
+                    "link": [
+                        "/company/co0588881?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 1 minute"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bonneville, Arizona"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWExMGVlZjEtOGNjNi00YWI4LWFiMzktYzdhOTEyZTVlZWM3XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_QL75_UX190_CR0,24,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Mystery"
+                ]
+            },
+            {
+                "plot": "A man named Max Willer (Tom Durbin) finds himself walking through a desert wearing a tuxedo and carrying a manual typewriter. He has no idea how he got there, but he encounters a strange gro... Read all"
+            },
+            {
+                "imdb-rating": "5.7/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Tom Durbin",
+                "character_name": "Max Willer"
+            },
+            {
+                "image": null,
+                "actor_name": "Mary Ella Ross",
+                "character_name": "Charlie"
+            },
+            {
+                "image": null,
+                "actor_name": "Tim Blough",
+                "character_name": "Bobby Crossroad"
+            },
+            {
+                "image": null,
+                "actor_name": "Jentry Tuvil",
+                "character_name": "Laura Dee"
+            },
+            {
+                "image": null,
+                "actor_name": "David Paul",
+                "character_name": "Mister Dee"
+            }
+        ],
+        "Director": [
+            "Alan Ruffier"
+        ],
+        "Writer": [
+            "Alan Ruffier"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "1989 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0930896/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Frame By Frame"
+                    ],
+                    "link": [
+                        "/company/co0144941?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 53 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

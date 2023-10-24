@@ -1,0 +1,91 @@
+[
+    {
+        "first": [
+            {
+                "title": "Jason's Dad"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNGNkYjA2MjAtYjI0MS00ZWI2LTgzMjktNjhjZjI2MTFhMDkzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjY0MDIwMzM@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Three days after his father suicide, Jason confronts the mistress for answers."
+            },
+            {
+                "imdb-rating": "7.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Matthew Campea"
+        ],
+        "Writer": [
+            "Katie Coughlin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 30, 2013 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt2518464/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

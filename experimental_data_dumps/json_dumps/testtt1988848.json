@@ -1,0 +1,58 @@
+[
+    {
+        "first": [
+            {
+                "title": "Reddish Brown and Blueish Green"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTJlZThlYzgtZGE4My00OThjLTlkZWEtZTRlMGFhZDk2YjI0XkEyXkFqcGdeQXVyMjY5MTE2MjY@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Using a found object as a catalyst, Reddish Brown and Blueish Green explores a family's destructive journey through childhood. Much of the imagery in the film comes from a baby book found on... Read all"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "4 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

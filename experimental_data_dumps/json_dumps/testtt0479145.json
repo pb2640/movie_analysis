@@ -1,0 +1,90 @@
+[
+    {
+        "first": [
+            {
+                "title": "Rupture"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BN2VjNDU4Y2MtZTg5YS00ODJmLTk2Y2UtZDM1ZWU5MTk0OTFkXkEyXkFqcGdeQXVyOTMxMzkzNA@@._V1_QL75_UY281_CR155,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "In this experimental abstract animation film, painter Jean Detheux and musician Jean Derome collaborates to create a world where forms appear and disappear like ghosts in the midst of noctur... Read all"
+            },
+            {
+                "imdb-rating": "7.7/10"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 1, 2005 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt0479145/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "National Film Board of Canada (NFB)"
+                    ],
+                    "link": [
+                        "/company/co0006414?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

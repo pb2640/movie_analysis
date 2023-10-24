@@ -10,12 +10,12 @@ import os
 import time
 import json
 import multiprocessing
-
+import ray
 
 def process_html_file(file_path):
     # parse html
     results = []
-    write_path = "/home/server/2023/movies-project-oct/movies_project/data/json_dumps/"
+    write_path = "/home/server/2023/movies-project-oct/movies_project/experimental_data_dumps/json_dumps/"
     file = read_html_file(file_path)  
     results.append(extract_first_card_from_html_page(file))
     results.append(extract_cast_card_from_html_page(file))
@@ -30,11 +30,20 @@ def process_html_file(file_path):
         json.dump(results, json_out, indent=4)
 
 
+def execute_using_ray(html_files):
+    ray.init()
+    @ray.remote
+    def process_html_file_using_ray(html_file):
+        process_html_file(html_file)
+
+    ray.get([process_html_file.remote(file) for file in html_files])
+
+
 if __name__ == "__main__":
     t0 = time.time()
     data_path = "/home/server/2023/movies-project-oct/imdb/outputs_18oct/"
     html_files_list = os.listdir(data_path)
-    num_files_to_execute = len(html_files_list)
+    num_files_to_execute = 1000
     file_paths = []
     for movie_name in html_files_list[:num_files_to_execute]:
         file_paths.append(data_path + movie_name)

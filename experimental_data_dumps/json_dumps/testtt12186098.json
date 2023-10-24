@@ -1,0 +1,206 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hypochondriac"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzIyYzk3N2YtNTM1NS00NWE3LWE1YjItZjY1YzdjZGE2M2I2XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_QL75_UY281_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Horror",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A young potter's life devolves into chaos as he loses function of his body while being haunted by the physical manifestation of his childhood trauma."
+            },
+            {
+                "imdb-rating": "5.1/10"
+            },
+            {
+                "metascore": "25"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDI0YzJlMmEtZjUyNC00YWQwLWIxNjMtYTRlY2EzZWQ3MjllXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_QL75_UY140_CR97,0,140,140_.jpg",
+                "actor_name": "Zach Villa",
+                "character_name": "Will"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGI4ZWVjYTQtNmVjOS00OGE0LWE0NmEtMGEyYmIyZjU1Njc0XkEyXkFqcGdeQXVyODQ5ODg3NTI@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Devon Graye",
+                "character_name": "Luke"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODQ2MTRjZjUtZDk5Ni00NmI1LWEyOTQtNjFiYzUyOTAyZWExXkEyXkFqcGdeQXVyNjAwOTY1Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Madeline Zima",
+                "character_name": "Blossom"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMWY0ZTFjZWQtNzBmZS00YmIzLWJmZWEtNDI5Zjk0ZTE5OTQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Yumarie Morales",
+                "character_name": "Sasha"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzM4NWNjZjYtMjVmNi00MDkxLThiYzItMWMxN2NhYWY5NTQ1XkEyXkFqcGdeQXVyNTEwODY1NDU@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Marlene Forte",
+                "character_name": "Mom"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDk5MTQ0MWYtNjAxZS00NmQwLWEyMjAtN2E2MmQ0NmUyNWRiXkEyXkFqcGdeQXVyMTk2NjA2MjY@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Chris Doubek",
+                "character_name": "Dad"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODhlM2I5ZmEtZjk5My00YWEzLThmN2MtNzZiMTYyOTQ3NzBhXkEyXkFqcGdeQXVyMDcxMzQ4NA@@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Paget Brewster",
+                "character_name": "Dr. Sampson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzExNjU1MjY1NF5BMl5BanBnXkFtZTcwNTczNDg3Nw@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Adam Busch",
+                "character_name": "Dr. Rosenstein"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTU2NTAzMTcwOF5BMl5BanBnXkFtZTgwNjc1MzkzNzE@._V1_QL75_UX140_CR0,3,140,140_.jpg",
+                "actor_name": "Michael Cassidy",
+                "character_name": "NP Chaz"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTEyMjE3MTIyNTleQTJeQWpwZ15BbWU3MDc2MDI5ODc@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Peter Mensah",
+                "character_name": "Dr. Jansen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzQ0YjlmNDgtNzJjMS00ZjhhLWFhMDgtZmE2MzZhNThmZTkxXkEyXkFqcGdeQXVyMjA2OTA1Nzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Debra Wilson",
+                "character_name": "Dr. Miller"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzkyYzZjMGEtNTY4NC00NDcxLWFlYzUtNTM0NzhiMWQ0ZGJhXkEyXkFqcGdeQXVyNzk5NzE3NjA@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ian Inigo",
+                "character_name": "Young Will"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDYzZWY5NmQtZWVlNi00Mjg2LWJiMzEtYTJkOTk5YzI3ZDg5XkEyXkFqcGdeQXVyNTU2OTI2OQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Scott Butler",
+                "character_name": "The Wolf"
+            },
+            {
+                "image": null,
+                "actor_name": "Milos Jovanovic",
+                "character_name": "Jibran"
+            },
+            {
+                "image": null,
+                "actor_name": "Joaquin Acuna",
+                "character_name": "Tye"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTU4OTY5YmQtMDk3Yy00ZTM1LWI2ODctMmVhN2YyY2RhMTQ0XkEyXkFqcGdeQXVyNTgzMzk4NDQ@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Machete Bang Bang",
+                "character_name": "Child Wolf"
+            },
+            {
+                "image": null,
+                "actor_name": "Sarah Lin Mitchell",
+                "character_name": "Physical Therapist"
+            },
+            {
+                "image": null,
+                "actor_name": "Laurence Todd Rosenthal",
+                "character_name": "Cop #1"
+            }
+        ],
+        "Director": [
+            "Addison Heimann"
+        ],
+        "Writer": [
+            "Addison Heimann"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 14, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt12186098/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Minutehand Pictures"
+                    ],
+                    "link": [
+                        "/company/co0431643?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 37 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.35 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

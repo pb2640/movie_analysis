@@ -1,0 +1,157 @@
+[
+    {
+        "first": [
+            {
+                "title": "Haunting of the Mary Celeste"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNDBmZGQ1ODAtODNhMC00ZjRkLTllMDAtOWQ4NTJjNmI5ZmRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Rachel, a concerned researcher, and her team have set out to sea to prove that the disappearance of a family and crew from a merchant ship was for reasons having to do with the supernatural.... Read all"
+            },
+            {
+                "imdb-rating": "3.4/10"
+            },
+            {
+                "metascore": "37"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODk5NjQ4NTAtNTlkYS00ZGE0LWIyZmItYjJlMzkwNTkzMjQ2XkEyXkFqcGdeQXVyNzg2ODExMQ@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Emily Swallow",
+                "character_name": "Rachel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAzMjIzOTUyMV5BMl5BanBnXkFtZTYwMjA2MDQ3._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Richard Roundtree",
+                "character_name": "Tulls"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTQ2NTNmOWYtYTk2NC00NDc1LTkwMDQtNWY5NTUwMDEyYmNkXkEyXkFqcGdeQXVyMjIzNjU1Njc@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Alice Hunter",
+                "character_name": "Cassandra"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BY2MwMWI5ZWItM2NmMi00MDk4LWIxMjUtNDRhOTkzZGVkOWE1XkEyXkFqcGdeQXVyMTg0MjM2NzA@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Dominic DeVore",
+                "character_name": "Grant"
+            },
+            {
+                "image": null,
+                "actor_name": "Pierre Adele",
+                "character_name": "Aldo"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDUwN2RhNDItMWU5ZC00ZGU0LTk3M2QtN2YzMzcwYzM2MWU4XkEyXkFqcGdeQXVyMjMxMTAwMDY@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Ava Acres",
+                "character_name": "Jennifer"
+            }
+        ],
+        "Director": [
+            "Shana Betz"
+        ],
+        "Writers": [
+            "Jerome Olivier",
+            "David Ross"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 23, 2020 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt13192570/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Website",
+                        "Trailer Premiere"
+                    ],
+                    "link": [
+                        "https://www.hauntingofthemarycelestemovie.com/",
+                        "https://bloody-disgusting.com/exclusives/3634292/trailer-haunting-mary-celeste-opens-rift-one-seas-greatest-unsolved-mysteries/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Featured Artists Agency"
+                    ],
+                    "link": [
+                        "/company/co0176122?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 14 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.78 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

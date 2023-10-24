@@ -1,0 +1,145 @@
+[
+    {
+        "first": [
+            {
+                "title": "Blaue W\u00fcste"
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Nicola Beddoe",
+                "character_name": "Reporterin"
+            },
+            {
+                "image": null,
+                "actor_name": "Ibrahim Ewerkitt",
+                "character_name": "Tuareg"
+            },
+            {
+                "image": null,
+                "actor_name": "Wolf Gaudlitz",
+                "character_name": "Regisseur"
+            },
+            {
+                "image": null,
+                "actor_name": "Tedjani Hebbal",
+                "character_name": "Araber zu Pferd"
+            },
+            {
+                "image": null,
+                "actor_name": "Walter Heimbach",
+                "character_name": "Gleitschirmflieger"
+            },
+            {
+                "image": null,
+                "actor_name": "David Heinemann",
+                "character_name": "Tonmeister"
+            },
+            {
+                "image": null,
+                "actor_name": "Ifrahim",
+                "character_name": "Hausboy"
+            },
+            {
+                "image": null,
+                "actor_name": "Detlev Kirst",
+                "character_name": "Bierfachmann"
+            },
+            {
+                "image": null,
+                "actor_name": "Jolly Kunjappu",
+                "character_name": "Maler"
+            },
+            {
+                "image": null,
+                "actor_name": "Sergio Lo Verde",
+                "character_name": "Z\u00f6llner"
+            }
+        ],
+        "Director": [
+            "Wolf Gaudlitz"
+        ],
+        "Writer": [
+            "Wolf Gaudlitz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Germany"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=DE&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "German"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Duo Film",
+                        "Solofilm Wolf Gaudlitz",
+                        "S\u00fcddeutscher Rundfunk (SDR)"
+                    ],
+                    "link": [
+                        "/company/co0229255?ref_=tt_dt_co_1",
+                        "/company/co0229232?ref_=tt_dt_co_2",
+                        "/company/co0059346?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Dolby"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.66 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

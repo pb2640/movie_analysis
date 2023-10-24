@@ -1,0 +1,151 @@
+[
+    {
+        "first": [
+            {
+                "title": "Monkey, Monkey, Bottle of Beer, How Many Monkeys Have We Here?"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzYwMzU0NTE3OF5BMl5BanBnXkFtZTcwODczNTkxMQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Music",
+                    "Musical"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            },
+            {
+                "imdb-rating": "6.5/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Diane Danzi",
+                "character_name": "Anna Luther"
+            },
+            {
+                "image": null,
+                "actor_name": "Rosemary De Angelis",
+                "character_name": "Louise Amber"
+            },
+            {
+                "image": null,
+                "actor_name": "Jean De Baer",
+                "character_name": "Betty Todd"
+            },
+            {
+                "image": null,
+                "actor_name": "Helene Friedman",
+                "character_name": "Nurse"
+            },
+            {
+                "image": null,
+                "actor_name": "Deloris Gaskins",
+                "character_name": "Nancy Evans"
+            },
+            {
+                "image": null,
+                "actor_name": "Marc Jefferson",
+                "character_name": "Joe"
+            },
+            {
+                "image": null,
+                "actor_name": "Peggy Kirkpatrick",
+                "character_name": "Bonnie Lewis"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTU5Njg2NzM1N15BMl5BanBnXkFtZTgwMTA1NjEyNjE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Dino Shorte",
+                "character_name": "Chauffeur"
+            }
+        ],
+        "Directors": [
+            "Peter Levin",
+            "Harold Scott"
+        ],
+        "Writer": [
+            "Marsha Sheiness"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 22, 1974 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0211524/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Cincinnati Playhouse in the Park",
+                        "KQED",
+                        "Public Broadcasting Service (PBS)"
+                    ],
+                    "link": [
+                        "/company/co0025480?ref_=tt_dt_co_1",
+                        "/company/co0066897?ref_=tt_dt_co_2",
+                        "/company/co0039462?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 29 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

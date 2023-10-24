@@ -1,0 +1,97 @@
+[
+    {
+        "first": [
+            {
+                "title": "Rachel Whiteread: Ghost in the Room"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYWEyZDUwZWUtZTdmMi00ZDZjLWFkYTEtMmVkYmEyZGMzMzI5XkEyXkFqcGdeQXVyMDY4MzkyNw@@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Biography",
+                    "History"
+                ]
+            },
+            {
+                "plot": "An intimate portrait of British sculptor Rachel Whiteread as she unpacks her life's work for a major retrospective at Tate Britain in London. Though she rose to prominence with the YBA gener... Read all"
+            },
+            {
+                "imdb-rating": "7.4/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Tracey Emin",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYTZiMTEyODQtMjQ3NS00ZGVmLTlhNTUtOGU3Njk1MGY0MDFkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Antony Gormley",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjMyODJmMDktMGM5OS00MDU2LTk0ZGUtOGEwNWE4MzI4ZjhhXkEyXkFqcGdeQXVyMTQzNTA5MjU2._V1_QL75_UX140_CR0,16,140,140_.jpg",
+                "actor_name": "Nicholas Serota",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzJkMjNlMmQtODc4My00MzQxLTk1OTgtMjgwYWE5NzEzMzAyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Colm T\u00f3ib\u00edn",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Rachel Whiteread",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Morag Tinto"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 2, 2017 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt7871784/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "BBC site"
+                    ],
+                    "link": [
+                        "http://www.bbc.co.uk/programmes/b09j310x"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "first": [
+            {
+                "title": "Bad Housekeeping"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDE0ZDdlZjktYjVhYi00Y2I0LTk0YjAtZjExZjgzYjc5MTQ2XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_QL75_UY140_CR3,0,140,140_.jpg",
+                "actor_name": "Edgar Kennedy",
+                "character_name": "Edgar"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmFkMTNmOWQtMmE5My00MjNhLWEzY2QtNjdiNzAxNDY5NjA4XkEyXkFqcGdeQXVyNTk5NzQ5Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Vivien Oakland",
+                "character_name": "Vivien Kennedy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjM5NTM3MTc3MF5BMl5BanBnXkFtZTgwOTgzODE1MzE@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Franklin Pangborn",
+                "character_name": "Piano Tuner"
+            },
+            {
+                "image": null,
+                "actor_name": "Harrison Greene",
+                "character_name": "Mr. Potts"
+            }
+        ],
+        "Director": [
+            "Leslie Goodwins"
+        ],
+        "Writers": [
+            "Leslie Goodwins",
+            "Monte Collins"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "March 5, 1937 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0412476/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "RKO Studios - 780 N. Gower Street, Hollywood, Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=RKO%20Studios%20-%20780%20N.%20Gower%20Street%2C%20Hollywood%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "RKO Radio Pictures"
+                    ],
+                    "link": [
+                        "/company/co0041421?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "16 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

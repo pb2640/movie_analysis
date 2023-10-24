@@ -1,0 +1,116 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Mustangs: America's Wild Horses"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGE1ZGFmODMtZTc5ZS00YjZiLTlkNjItNjA0ZWRmOWI3NzY3XkEyXkFqcGdeQXVyMjI4MjUzMDY@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary"
+                ]
+            },
+            {
+                "plot": "\"The Mustangs: America's Wild Horses\" is a feature documentary that is executive produced by Robert Redford, Patti Scialfa Springsteen and Jessica Springsteen. This film takes audiences on a... Read all"
+            },
+            {
+                "imdb-rating": "8.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTk1Nzc5MzQyMV5BMl5BanBnXkFtZTcwNjQ5OTA0Mg@@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Robert Redford",
+                "character_name": "Self"
+            }
+        ],
+        "Directors": [
+            "Steven Latham",
+            "Conrad Stanley"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 23, 2020 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt11433364/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook",
+                        "Official website"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/TheMustangsFilm",
+                        "https://themustangsfilm.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Steven Latham Productions"
+                    ],
+                    "link": [
+                        "/company/co0026488?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

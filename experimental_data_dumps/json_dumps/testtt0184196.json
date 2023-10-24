@@ -1,0 +1,158 @@
+[
+    {
+        "first": [
+            {
+                "title": "Alice in Switzerland"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWQ2ZDY4NWQtOGMzMS00ZjA1LTllOWMtOTVlMjIxZTljOGJiXkEyXkFqcGdeQXVyMTE5MTEzODI0._V1_QL75_UY281_CR83,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Simone Mo\u00e9ri",
+                "character_name": "Alice"
+            },
+            {
+                "image": null,
+                "actor_name": "Cyril Chessex",
+                "character_name": "Cyril - Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Andr\u00e9 Manera",
+                "character_name": "Jimmy - Cousin"
+            },
+            {
+                "image": null,
+                "actor_name": "Jean-Pierre Suter",
+                "character_name": "Jean-Pierre - Schoolboy"
+            },
+            {
+                "image": null,
+                "actor_name": "Beatrix Thomson",
+                "character_name": "Narrator"
+            }
+        ],
+        "Director": [
+            "Alberto Cavalcanti"
+        ],
+        "Writers": [
+            "Emmanuel Faillettaz",
+            "Ivan Scott",
+            "Daniel Simond"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 20, 1942 (Switzerland)"
+                    ],
+                    "link": [
+                        "/title/tt0184196/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom",
+                        "France"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=FR&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Lausanne, Canton de Vaud, Switzerland"
+                    ],
+                    "link": [
+                        "/search/title?locations=Lausanne%2C%20Canton%20de%20Vaud%2C%20Switzerland&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "A.D.I.L. Association Des Int\u00e9r\u00eats De Lausanne",
+                        "Spectator Short Films"
+                    ],
+                    "link": [
+                        "/company/co0841702?ref_=tt_dt_co_1",
+                        "/company/co0106330?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "28 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White",
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

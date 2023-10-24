@@ -1,0 +1,184 @@
+[
+    {
+        "first": [
+            {
+                "title": "Mr. Dramatic"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOGVkNmE1NzMtODYwOC00NDgzLWFhMmYtYzE2NWEzOTY0M2JiXkEyXkFqcGdeQXVyMjM0NDQ2Mzk@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "After a series of fruitless relationships, an innocent young woman ventures out yet again into the cruel world of desperate assholes, the social wasteland known as Hollywood, California. On ... Read all"
+            },
+            {
+                "imdb-rating": "6.4/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTc0OTY0ODc5NF5BMl5BanBnXkFtZTcwNzAyMTA3Mw@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Oliver Hudson",
+                "character_name": "Mr. Dramatic"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTczNjg5Mzc0MV5BMl5BanBnXkFtZTcwODg0NTM2OQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Amy Acker",
+                "character_name": "Jody"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMxODQwNTAzMl5BMl5BanBnXkFtZTcwNjM5OTQ0Mg@@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Katharine Towne",
+                "character_name": "Elizabeth"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTczZGVjYmMtNjk4MC00ZWU1LWEyYjItNGEwY2Q1YzhjYThjXkEyXkFqcGdeQXVyNjU0NzE4MTc@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Alana De La Garza",
+                "character_name": "Ms. Dramatic"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTA3MDY1NTY4Ml5BMl5BanBnXkFtZTgwNDA4NTkwNjE@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Rachel Nichols",
+                "character_name": "Cigarette Girl"
+            },
+            {
+                "image": null,
+                "actor_name": "Nina Werman",
+                "character_name": "Cocktail Waitress"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTYzMjQzMDk3N15BMl5BanBnXkFtZTcwODE2MzAyOA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Andr\u00e9 Vippolis",
+                "character_name": "Tough Guy"
+            },
+            {
+                "image": null,
+                "actor_name": "Marc Rose",
+                "character_name": "Doorman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTMwNzc5NjA4M15BMl5BanBnXkFtZTcwNjAzODAzMQ@@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Faleolo Alailima",
+                "character_name": "Bouncer"
+            }
+        ],
+        "Director": [
+            "John Stalberg Jr."
+        ],
+        "Writer": [
+            "John Stalberg Jr."
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2005 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0469140/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site"
+                    ],
+                    "link": [
+                        "http://www.mrdramatic.com/v2/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "An Uncle",
+                        "Cosmic Entertainment",
+                        "Uncle Film & Television"
+                    ],
+                    "link": [
+                        "/company/co0155411?ref_=tt_dt_co_1",
+                        "/company/co0101337?ref_=tt_dt_co_2",
+                        "/company/co0156100?ref_=tt_dt_co_3"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$10,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "12 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.85 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

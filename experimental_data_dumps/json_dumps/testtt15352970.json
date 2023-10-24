@@ -1,0 +1,106 @@
+[
+    {
+        "first": [
+            {
+                "title": "Reasons to Stay"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Wanting to escape a mundane and monotonous reality, Jian needs a little help remembering a reason to stay."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYThkNmQ3OGYtYWViOC00NjYyLTljMGQtMDQyYzdmNjdmNWRkXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Ezra Li",
+                "character_name": "Jian"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNTEyZjllNTgtMThkZS00OGNmLTgxYTAtOTEzMmQxMzQ3NGRkXkEyXkFqcGdeQXVyMTIwMTUwMTAz._V1_QL75_UY140_CR6,0,140,140_.jpg",
+                "actor_name": "Ezra Michel",
+                "character_name": "Angel"
+            }
+        ],
+        "Director": [
+            "Shaina Rose Woolley"
+        ],
+        "Writers": [
+            "Ezra Li",
+            "Shaina Rose Woolley"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 29, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt15352970/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$2,500 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16 : 9"
+                    ]
+                }
+            }
+        ]
+    }
+]

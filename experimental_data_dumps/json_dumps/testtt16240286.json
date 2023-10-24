@@ -1,0 +1,202 @@
+[
+    {
+        "first": [
+            {
+                "title": "Malicious Mind Games"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZmU4OGI1ZmUtYjYxMi00YzU4LTliN2ItZWU1ODc4NjE3OGY5XkEyXkFqcGdeQXVyMTM5NDQ2NjMw._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "A widowed mother takes a job as an overnight security guard to keep an eye on her teenage daughter during the day. During her shift, she witnesses a murder, or does she?"
+            },
+            {
+                "imdb-rating": "4.6/10"
+            },
+            {
+                "metascore": "8"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGY2NWUxZDAtYjVjNS00ZDZhLWI2MjktMmJmNTI0MmZjZmQ2XkEyXkFqcGdeQXVyMTU4OTM0Mzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Laura Ault",
+                "character_name": "Woman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNWUyMWFhNjYtNjU4My00MzQ3LTg2MDktZjk1NDQ0M2MxNzAzXkEyXkFqcGdeQXVyODUxMzM4MjU@._V1_QL75_UY140_CR63,0,140,140_.jpg",
+                "actor_name": "Charles Coan",
+                "character_name": "Bar Patron"
+            },
+            {
+                "image": null,
+                "actor_name": "Demetria Curry",
+                "character_name": "Sharon"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzliMjVjYWItNDk3NS00MDdmLWFmZDUtODhkZDU0Mzg2ZTI2XkEyXkFqcGdeQXVyMTM0MDkyMjE5._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sue Farina",
+                "character_name": "Parent (extra)"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGUxNDdmZTktYjQ1NS00MmNiLWE5YzktZDA4NzMyNDczZjExXkEyXkFqcGdeQXVyMTQ3OTEyMTQ2._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Francesca Galeon",
+                "character_name": "Theresa"
+            },
+            {
+                "image": null,
+                "actor_name": "Francesca Galeon",
+                "character_name": "Theresa"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BM2NhYmJiMDYtNDBhZi00ZDQzLWIzMzAtOWI3MDY1MDllMzE2XkEyXkFqcGdeQXVyMTExMDIwMjA2._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Bob Gallagher",
+                "character_name": "Detective Novak"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjQ0NmI2MTEtNGYwOS00YTVmLWI5YTItOWQ1YmVhY2U4NTM3XkEyXkFqcGdeQXVyMTE3MTY1NDc0._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Lilo Grunwald",
+                "character_name": "Kim Bradford"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmEyM2YxNWEtZGIzZi00YTUyLTg1ZGMtNzA2NjQ3ZmMwOWY5XkEyXkFqcGdeQXVyMjEzMjg2Njc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "April Hale",
+                "character_name": "Isabel Richardson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjRlZWEwZGQtNWQwNi00NDMyLThiMDMtY2E2YmRiZmU5MGFjXkEyXkFqcGdeQXVyMTA2MjQ3MzM1._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tenille Ja'Nae",
+                "character_name": "Cameron"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjU5NGViODEtMTIxMC00MDVlLTg2ODItMmZhYjc2ZDFjZGJmXkEyXkFqcGdeQXVyMjUyNjk2NjM@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Paul Kandarian",
+                "character_name": "Private investigator"
+            },
+            {
+                "image": null,
+                "actor_name": "Ryan Youngwoong Kim",
+                "character_name": "Henry Cho"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmM5ZWRhZjgtOTQzYy00ZGMxLWEwOWEtNjMyYTRmMTNmZDJmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kazina Maxine",
+                "character_name": "Bar Patron, Pedestrian"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYzdiNGQ1NTAtNjg0NS00Y2Y1LThkZjUtMGE5MjAyNTM3NjJmXkEyXkFqcGdeQXVyNjM1Mjg3NzE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Josiah Schneider",
+                "character_name": "Jonathan Everett"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDM4MjVjYmYtODkzMC00YzI1LTg5NGItOTk0MGEzM2I2OWM3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Raiany Silva",
+                "character_name": "Rosaline Richardson"
+            },
+            {
+                "image": null,
+                "actor_name": "Claire Sully",
+                "character_name": "Theatre Girl"
+            }
+        ],
+        "Director": [
+            "Svs"
+        ],
+        "Writers": [
+            "Amy Katherine Taylor",
+            "Katie Grace Young"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 24, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt16240286/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Dawn's Light"
+                    ],
+                    "link": [
+                        "/company/co0479478?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 23 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

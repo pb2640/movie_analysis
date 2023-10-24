@@ -1,0 +1,132 @@
+[
+    {
+        "first": [
+            {
+                "title": "An Explosive Affair"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWM0ZTMyYjktMDM1Yy00OGVhLWI3N2EtNmRiMDIyZWZjNmRkXkEyXkFqcGdeQXVyNDU0ODI1NjQ@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "After waking up tied to an oil barrel triggered with an explosive countdown clock, two hitmen must ask for their forgiveness after discovering one of them has had an affair with the boss' wi... Read all"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzQ3MTY5NGYtZWYwNC00ODNmLTgwZGEtMzFiN2Q3NDJjODQ5XkEyXkFqcGdeQXVyODk0NDY4OTM@._V1_QL75_UX140_CR0,2,140,140_.jpg",
+                "actor_name": "Zain Ashar",
+                "character_name": "Hostage #1"
+            },
+            {
+                "image": null,
+                "actor_name": "Nikola Georgiev",
+                "character_name": "Hostage #2"
+            }
+        ],
+        "Director": [
+            "Toby Kearton"
+        ],
+        "Writer": [
+            "Toby Kearton"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 29, 2016 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt9187712/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Facebook"
+                    ],
+                    "link": [
+                        "https://www.facebook.com/posteronthewallproductions/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "3300 W Riverside Dr, Burbank, California, 91505, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=3300%20W%20Riverside%20Dr%2C%20Burbank%2C%20California%2C%2091505%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Poster On The Wall Productions"
+                    ],
+                    "link": [
+                        "/company/co0566834?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$300 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

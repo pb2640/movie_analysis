@@ -1,7 +1,5 @@
 """
-This file parses the html file
-initializes a results array. The result array should contain all result objects
-extracts different cards from the imdb page
+This file tests the main file
 
 """
 # file to test performance and correctness of the code
@@ -10,40 +8,55 @@ import os
 import time
 import json
 import multiprocessing
+import ray
 
+ENV_VARIABLES = {
+    "RAY_ENABLE_WINDOWS_OR_OSX_CLUSTER": 1
+}
+
+my_runtime_env = {"env_vars": ENV_VARIABLES}
 
 def process_html_file(file_path):
     # parse html
     results = []
-    write_path = "/home/server/2023/movies-project-oct/movies_project/data/json_dumps/"
-    file = read_html_file(file_path)
-
-    # results.append(extract_cast_card_from_html_page(file))
+    write_path = "/home/server/2023/movies-project-oct/movies_project/experimental_data_dumps/json_dumps/"
+    file = read_html_file(file_path)  
     results.append(extract_first_card_from_html_page(file))
+    results.append(extract_cast_card_from_html_page(file))
     results.append(extract_details_card_from_html_page(file))
     results.append(extract_boxoffice_card_from_html_page(file))
     results.append(extract_techspecs_card_from_html_page(file))
+
     # Write the array of objects to a JSON file
     movie_name_new = file_path.split("/movie-")[1].split(".")[0]
-    json_file = write_path + movie_name_new + ".json"
+    prefix = "test"
+    json_file = write_path +prefix+ movie_name_new + ".json"
     with open(json_file, "w") as json_out:
         json.dump(results, json_out, indent=4)
+
+
+def execute_using_ray(html_files):
+    ray.init(runtime_env = my_runtime_env)
+      
+    @ray.remote
+    def process_html_file_using_ray(html_file):
+        process_html_file(html_file)
+
+    ray.get([process_html_file_using_ray.remote(file) for file in html_files])
 
 
 if __name__ == "__main__":
     t0 = time.time()
     data_path = "/home/server/2023/movies-project-oct/imdb/outputs_18oct/"
     html_files_list = os.listdir(data_path)
-    num_files_to_execute = 1
+    num_files_to_execute = 1000
     file_paths = []
     for movie_name in html_files_list[:num_files_to_execute]:
         file_paths.append(data_path + movie_name)
         # process_html_file(data_path + movie_name)
-    # Create a pool of worker processes
-    # with ThreadPoolExecutor(max_workers=4) as executor:  # Adjust max_workers as needed
-    #     executor.map(process_html_file, file_paths)
-    with multiprocessing.Pool(processes=10) as pool:
-        pool.map(process_html_file, file_paths)
+    execute_using_ray(file_paths)
+    # with multiprocessing.Pool(processes=10) as pool:
+    #     pool.map(process_html_file, file_paths)
 
     t1 = time.time()
 

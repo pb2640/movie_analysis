@@ -1,0 +1,152 @@
+[
+    {
+        "first": [
+            {
+                "title": "Tina and Lori"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjYwZmZiYzYtZDg4MC00YmNkLTkxYTktYWJlODBiZGJjODA2XkEyXkFqcGdeQXVyMTI5MTM4NzY2._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Two young girls ready for college find themselves and unpredictable situation when they have to do the unthinkable to survive going to the lives of two young girls who want college and every... Read all"
+            },
+            {
+                "imdb-rating": "5.8/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Michael Davis Arnold",
+                "character_name": "Patrol Officer"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZGU5NjhlNTMtM2MzNS00ZmVlLWFlNWEtODhkNzI2YmM2N2Q4XkEyXkFqcGdeQXVyNzM1MDg5NTE@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Aqeel Ash-Shakoor",
+                "character_name": "Detective Bryons"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWNkZjk1OTQtZTY3MS00OTJjLWI4OGYtN2Q0MGVlZTEwZGJhXkEyXkFqcGdeQXVyMTE0NjA5ODY2._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Devin Banks",
+                "character_name": "Michael"
+            },
+            {
+                "image": null,
+                "actor_name": "Madison D. Coates",
+                "character_name": "Tiffany"
+            },
+            {
+                "image": null,
+                "actor_name": "Christopher Collins",
+                "character_name": "Adam"
+            },
+            {
+                "image": null,
+                "actor_name": "Lamont Collins",
+                "character_name": "Mr. Davis"
+            },
+            {
+                "image": null,
+                "actor_name": "Elizabeth Foxx",
+                "character_name": "Tina"
+            },
+            {
+                "image": null,
+                "actor_name": "Amerrah Garrison",
+                "character_name": "Detective Thomas"
+            },
+            {
+                "image": null,
+                "actor_name": "Cifton McGarity IV",
+                "character_name": "Devin"
+            }
+        ],
+        "Director": [
+            "Alexis Louise"
+        ],
+        "Writer": [
+            "Alexis Louise"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 22, 2021 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt13456330/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Faim Film Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0830592?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$80,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 55 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

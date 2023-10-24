@@ -1,0 +1,74 @@
+[
+    {
+        "first": [
+            {
+                "title": "Seaside Woman"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNWMxNTAzODYtNTI3MC00NzM4LTgyNGItYmYzZGUxZjQ1OThmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTgwNTk5MDU@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Short",
+                    "Music"
+                ]
+            },
+            {
+                "plot": "Animated video to accompany the record of the same name, released under the pseudonym of Suzy and the Red Stripes, but in reality Wings' with Linda on lead vocals."
+            },
+            {
+                "imdb-rating": "6.5/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "5 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

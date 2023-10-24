@@ -1,0 +1,114 @@
+[
+    {
+        "first": [
+            {
+                "title": "Capture of the 'Yegg' Bank Burglars"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjAzNTI3MzI0Nl5BMl5BanBnXkFtZTcwMzQ1MTYzMw@@._V1_QL75_UY281_CR46,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Crime",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A group of bank robbers meet at their campsite to plan a burglary. When everything is ready, they break into the bank and blow open the safe. Their getaway, though, is not a clean one. They ... Read all"
+            },
+            {
+                "imdb-rating": "5.2/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 1904 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0231321/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "None"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=zxx&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Edison Manufacturing Company"
+                    ],
+                    "link": [
+                        "/company/co0037035?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "11 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Silent"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "first": [
+            {
+                "title": "Murder in the First Person Singular"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjIyZDUyOWUtNzcxNC00NjVlLWE5ZjktYTc5OTBjZTNhMzhmXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "A murder plot by a terminally ill English teacher, to capitalize on the double indemnity clause in his life insurance, hires one of his students to do the deed."
+            },
+            {
+                "imdb-rating": "6.2/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjMwMzg1MjY0Ml5BMl5BanBnXkFtZTcwMzg5OTUwOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "William Windom",
+                "character_name": "Alfred Emerson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTkwMTQ2NzIzOV5BMl5BanBnXkFtZTgwNjI5ODEzMjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "John David Carson",
+                "character_name": "Peter"
+            },
+            {
+                "image": null,
+                "actor_name": "Tannis G. Montgomery",
+                "character_name": "Carolyn"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTA1ODkzNzIzOTBeQTJeQWpwZ15BbWU3MDYwMDkzMTg@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Martha Scott",
+                "character_name": "Mrs. Emerson"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmEwNGFiYmQtMWY1My00NmMwLTljMGQtZGE2YjM5OWYzYzY5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY140_CR60,0,140,140_.jpg",
+                "actor_name": "Noah Keen",
+                "character_name": "Halloran"
+            },
+            {
+                "image": null,
+                "actor_name": "Ren\u00e9e Lippin",
+                "character_name": "Marge Montopollis"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM4NzQxMzY5OF5BMl5BanBnXkFtZTcwODEzNjgyMQ@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jim Storm",
+                "character_name": "Savage Hawk"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzE1ZjRkYTItNmI1My00Yjg1LWE4ZGItOTE3YzQzYThjZTM3XkEyXkFqcGdeQXVyMTcyODY2NDQ@._V1_QL75_UX140_CR0,19,140,140_.jpg",
+                "actor_name": "Renata Vanni",
+                "character_name": "Mrs. Montopollis"
+            },
+            {
+                "image": null,
+                "actor_name": "Hal Riddle",
+                "character_name": "Cop"
+            }
+        ],
+        "Director": [
+            "Wes Kenney"
+        ],
+        "Writer": [
+            "Mann Rubin"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "June 10, 1974 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0071875/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Alan Landsburg Productions"
+                    ],
+                    "link": [
+                        "/company/co0128239?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 30 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.33 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

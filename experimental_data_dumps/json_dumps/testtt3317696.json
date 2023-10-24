@@ -1,0 +1,216 @@
+[
+    {
+        "first": [
+            {
+                "title": "There Is Many Like Us"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTgwNzE0NDY3Nl5BMl5BanBnXkFtZTgwNzkxMzQ3NjE@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Biography",
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "In 1943, Max Fronenberg spent one year digging a secret underground tunnel to escape out of a prison camp in Warsaw, Poland during the Holocaust while saving fifteen other prisoners in the p... Read all"
+            },
+            {
+                "imdb-rating": "7.8/10"
+            },
+            {
+                "metascore": "9"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MTk3OTgwM15BMl5BanBnXkFtZTcwODE1OTIwMw@@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Eric Roberts",
+                "character_name": "LT. Rauder"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTdmOTkwNWYtMmZkNi00ZGY0LTg2YjQtMjI2MzQ1NDYzNWQ4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Tyler Mauro",
+                "character_name": "Max"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTI4YzRkNGItNGJjMS00ZjZkLWEyNTAtM2Q1ZThhNzkzMzg1XkEyXkFqcGdeQXVyNTI5MDA4NjU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Kayleigh Gilbert",
+                "character_name": "Rena"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTExY2FjNzEtM2IxYi00NzkxLWJhMGItYWExNGZjYzViYTg0XkEyXkFqcGdeQXVyMjEzMDQ3MzI@._V1_QL75_UX140_CR0,10,140,140_.jpg",
+                "actor_name": "Michael Girgenti",
+                "character_name": "Karochic"
+            },
+            {
+                "image": null,
+                "actor_name": "Zach Silverman",
+                "character_name": "Goodman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTg5NzA4OTQyMl5BMl5BanBnXkFtZTcwNzQyMDIzMg@@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Douglas Bierman",
+                "character_name": "Mr. Federman"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmFjNmJhYzctZWQ3YS00YTQyLWI0ZWItMjU1M2FmYmNiZDYzXkEyXkFqcGdeQXVyMTkzNzY1Nzc@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "John Antorino",
+                "character_name": "Nazi Soldier Pilka"
+            },
+            {
+                "image": null,
+                "actor_name": "Michael D. Reynolds",
+                "character_name": "Barry"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Robinson",
+                "character_name": "Moses"
+            },
+            {
+                "image": null,
+                "actor_name": "Gabriella Nejman",
+                "character_name": "Stella"
+            },
+            {
+                "image": null,
+                "actor_name": "Darrin James",
+                "character_name": "Baruch"
+            },
+            {
+                "image": null,
+                "actor_name": "Stefanja Orlowska",
+                "character_name": "Halina"
+            },
+            {
+                "image": null,
+                "actor_name": "Keegan Perry",
+                "character_name": "General Mishka"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDZjOTljYjktODM2YS00ZGE0LTg3MWMtYTBhOTYzYWVkYjhjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Lucy Alex",
+                "character_name": "Camp Prisoner"
+            },
+            {
+                "image": null,
+                "actor_name": "Michele Arel",
+                "character_name": "Camp Prisoner"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNmMxNGU2MTYtNmQ3NS00YTYxLTgzZDEtNjUwMWJkMmE3NjU1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Gabriel Aronson",
+                "character_name": "Zucker"
+            },
+            {
+                "image": null,
+                "actor_name": "Jordan Bartz",
+                "character_name": "Sarnoff"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTdiN2M2ODQtZGM5Zi00MGMwLTllNjEtMDkzYTgxOTg0MDA0XkEyXkFqcGdeQXVyMzU0NzU5NzM@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Chalet Lizette Brannan",
+                "character_name": "Izabella"
+            }
+        ],
+        "Director": [
+            "Josh Webber"
+        ],
+        "Writers": [
+            "Josh Webber",
+            "Zachary Scott"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "April 4, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3317696/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States",
+                        "Canada",
+                        "Israel"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=IL&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official site",
+                        "Official Website"
+                    ],
+                    "link": [
+                        "http://www.thereismanylikeus.com/",
+                        "http://www.escapingtheholocaust.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Webber Films"
+                    ],
+                    "link": [
+                        "/company/co0625186?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$150,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

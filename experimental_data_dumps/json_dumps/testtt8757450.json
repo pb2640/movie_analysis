@@ -1,0 +1,101 @@
+[
+    {
+        "first": [
+            {
+                "title": "Las pel\u00edculas de Bruno Mattei"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNzNhNDk1OWUtMDIwNS00ODJlLWE2YjYtZGZjOGYwN2NkN2RiXkEyXkFqcGdeQXVyNTU0Nzc5MzI@._V1_QL75_UY281_CR158,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "A look into the films and career of cult film director Bruno Mattei."
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNzg2MjRlYWQtNDUyNi00Yjk1LTg0YmQtNjJmOTE3NjQ2NDAyXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_QL75_UY140_CR109,0,140,140_.jpg",
+                "actor_name": "Bruno Mattei",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Jordan Lopez"
+        ],
+        "Writer": [
+            "Jordan Lopez"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "November 26, 2016 (Mexico)"
+                    ],
+                    "link": [
+                        "/title/tt8757450/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Mexico"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=MX&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Spanish"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Vulture Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0698641?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "9 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

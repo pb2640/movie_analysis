@@ -1,0 +1,231 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Cleansing Hour"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTBmODVhM2EtMjI3Zi00N2NlLTg3ZWQtNDE5OWFkYmRlZTM1XkEyXkFqcGdeQXVyMzI3NzE2NzM@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Fantasy",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Another successful \"exorcism\" streamed online - or so it seems. Can the \"exorcist\", producer and their team bring the ratings up? Ratings skyrocket, when a real demon gets involved."
+            },
+            {
+                "imdb-rating": "6.0/10"
+            },
+            {
+                "metascore": "169"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDE5MTk5OF5BMl5BanBnXkFtZTgwNTQ3MjA1NjE@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Ryan Guzman",
+                "character_name": "Max"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDU5ZDIxZTctMmU4Zi00MmEzLTk5ZWUtN2ZlYTRjZDhiYTdjXkEyXkFqcGdeQXVyNDUxNjE3MA@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Kyle Gallner",
+                "character_name": "Drew"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDMwMDY4YWMtZmQxZS00MjJiLTkxMjUtYTk5NzYzNWI4NzU5XkEyXkFqcGdeQXVyMjA1MTQ2OTk@._V1_QL75_UX140_CR0,11,140,140_.jpg",
+                "actor_name": "Alix Angelis",
+                "character_name": "Lane"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDZlNmYwYTQtOTE3Ny00ZDIyLTk5MjYtMDk2MDU5MWJlZWFiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Chris Lew Kum Hoi",
+                "character_name": "Chris"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTcyNTcxMjI4N15BMl5BanBnXkFtZTgwNzc3NjU4NjE@._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Daniel Hoffmann-Gill",
+                "character_name": "Tommy"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZmVkNjYwNGUtNGQwMy00MGM2LTg5MmMtNjBlMjI5MjQ0NzViXkEyXkFqcGdeQXVyMjY2NjY1NTQ@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+                "actor_name": "Emma Holzer",
+                "character_name": "Riley"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTczOTEzMzgzMl5BMl5BanBnXkFtZTcwMjcyMzgwOA@@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Joanna David",
+                "character_name": "Schoolmarm"
+            },
+            {
+                "image": null,
+                "actor_name": "Ionut Grama",
+                "character_name": "Humberto"
+            },
+            {
+                "image": null,
+                "actor_name": "Lidy Aurora Meza",
+                "character_name": "Humberto's Family"
+            },
+            {
+                "image": null,
+                "actor_name": "Griselda Pizena Gafis",
+                "character_name": "Humberto's Family"
+            },
+            {
+                "image": null,
+                "actor_name": "Jury Manuel Meza",
+                "character_name": "Humberto's Family"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjgxODkzYWUtYzBkZC00OTlhLTkyYjQtYjZmMDY1NmQ3NTNlXkEyXkFqcGdeQXVyMTY3NTY5OTcx._V1_QL75_UX140_CR0,16,140,140_.jpg",
+                "actor_name": "Bogdan Farcas",
+                "character_name": "Julio"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWM4YTAxNzQtZjBkZi00NzlkLTlkMDctN2RhODJmYTQ3NWNhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Tara Karsian",
+                "character_name": "Possessed Lane"
+            },
+            {
+                "image": null,
+                "actor_name": "Jynarra Brinson",
+                "character_name": "Desiree"
+            },
+            {
+                "image": null,
+                "actor_name": "Ana Udroiu",
+                "character_name": "Brenda"
+            },
+            {
+                "image": null,
+                "actor_name": "Flaminzeanu Stanica",
+                "character_name": "Courier"
+            },
+            {
+                "image": null,
+                "actor_name": "Cayleigh Kissinger",
+                "character_name": "Karaoke Bar Patron"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTM3NjE3NjYtN2FlYi00M2FjLTk5ZTAtMmM5NjM5OWNmMjJiXkEyXkFqcGdeQXVyODM0MDMyOTE@._V1_QL75_UX140_CR0,8,140,140_.jpg",
+                "actor_name": "Dan Ursu",
+                "character_name": "Drunk Jerk"
+            }
+        ],
+        "Director": [
+            "Damien LeVeck"
+        ],
+        "Writers": [
+            "Damien LeVeck",
+            "Aaron Horwitz"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 3, 2020 (Taiwan)"
+                    ],
+                    "link": [
+                        "/title/tt8009906/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English",
+                        "Spanish",
+                        "Korean",
+                        "Arabic",
+                        "Latin"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=es&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ko&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=ar&sort=moviemeter,asc&ref_=tt_dt_ln",
+                        "/search/title?title_type=feature&primary_language=la&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Bucharest, Romania"
+                    ],
+                    "link": [
+                        "/search/title?locations=Bucharest%2C%20Romania&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Skubalon"
+                    ],
+                    "link": [
+                        "/company/co0580206?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-cumulativeworldwidegross": {
+                    "val": "$139,355"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 34 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39:1"
+                    ]
+                }
+            }
+        ]
+    }
+]

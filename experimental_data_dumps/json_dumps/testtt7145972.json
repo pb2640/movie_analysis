@@ -1,0 +1,144 @@
+[
+    {
+        "first": [
+            {
+                "title": "Kis Kiss Ka Kissa"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BYTUwODkxMzctYjc4Zi00MWQ5LWIyYTEtZWRkYzFjMGYxYTE2XkEyXkFqcGdeQXVyNTk2MjI3MzY@._V1_QL75_UY281_CR7,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama"
+                ]
+            },
+            {
+                "plot": "Seven friends in their forties - three couples and a bachelor, are surprised by a blackout during a party. The silence is broken by the sound of a kiss and a slap. In the confusion and commo... Read all"
+            },
+            {
+                "imdb-rating": "6.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOTU4ZjdmOTMtNjJhYi00MjU0LWI4NWQtNTMyZTkwOTdmNGE1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Manav Gohil",
+                "character_name": "Abhishek"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMDcyMzIzOTktYmNmZS00NjM1LWI1ZjctMjIwYTJmZjAwYjYxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,4,140,140_.jpg",
+                "actor_name": "Asawari Joshi",
+                "character_name": "Sumitra"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjQ1YzJhOTItZGI4OS00OTA2LTk0MGQtNWZkZDNhMWU2OWZlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjgyOTU0ODU@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Sandeep Kulkarni",
+                "character_name": "Parag"
+            },
+            {
+                "image": null,
+                "actor_name": "Sharvari Lohokare",
+                "character_name": "Aditi"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BN2Y1ZGFiZjYtNmFiNS00YjUxLTg3NjQtNzU5ZmY2ZjBiNTIyXkEyXkFqcGdeQXVyMjQ2MDI5ODE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Nitesh Pandey",
+                "character_name": "Varun"
+            },
+            {
+                "image": null,
+                "actor_name": "Sagar Talashikar",
+                "character_name": "Doctor"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjQwNTg3MTMxM15BMl5BanBnXkFtZTgwMTcyNzIxNzE@._V1_QL75_UY140_CR36,0,140,140_.jpg",
+                "actor_name": "Smita Tambe",
+                "character_name": "Shalaka"
+            }
+        ],
+        "Director": [
+            "Sameer Patil"
+        ],
+        "Writers": [
+            "Vivek Bele",
+            "Charudatta Bhagwat"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 9, 2017 (India)"
+                    ],
+                    "link": [
+                        "/title/tt7145972/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "India"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IN&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "Hindi"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=hi&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Chhoti Production Company"
+                    ],
+                    "link": [
+                        "/company/co0561783?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 24 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "16:9 HD"
+                    ]
+                }
+            }
+        ]
+    }
+]

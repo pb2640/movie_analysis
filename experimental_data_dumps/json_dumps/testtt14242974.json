@@ -1,0 +1,151 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Demon's Child"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BZDJkODRlMDYtMTk3OS00NDY2LWIzZTEtODViOGMyOWQxODljXkEyXkFqcGdeQXVyNjc5MjM5ODE@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Drama",
+                    "Horror",
+                    "Mystery"
+                ]
+            },
+            {
+                "plot": "In search for her missing sister, a young woman takes a job as a nurse to a young boy in a coma and hunts for clues in his sinister family home."
+            },
+            {
+                "imdb-rating": "4.7/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Mirko D'Antona",
+                "character_name": "Driver"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjJjNjdmZGUtNmFlNC00NzFjLWE0MjMtZWMyYTJlMjUyOTJlXkEyXkFqcGdeQXVyNTM1OTI0ODc@._V1_QL75_UY140_CR4,0,140,140_.jpg",
+                "actor_name": "Chiara Iezzi",
+                "character_name": "Carol"
+            },
+            {
+                "image": null,
+                "actor_name": "Fran Kirchmair",
+                "character_name": "Phoenix"
+            },
+            {
+                "image": null,
+                "actor_name": "Kateryna Korchynska",
+                "character_name": "Dora"
+            },
+            {
+                "image": null,
+                "actor_name": "Mattia Zandon",
+                "character_name": "Corey"
+            }
+        ],
+        "Director": [
+            "Eros D'Antona"
+        ],
+        "Writer": [
+            "Eros D'Antona"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt14242974/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Italy"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=IT&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Official Instagram"
+                    ],
+                    "link": [
+                        "https://www.instagram.com/thesolemnvowmovie/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Vertex Entertainment"
+                    ],
+                    "link": [
+                        "/company/co0786253?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 27 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.00 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Sitters"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2Q5OTA3NDctZmI3Ni00ODFjLWJjMjctMWRmZTQ0NDY0NDY4XkEyXkFqcGdeQXVyOTU2NzQxMjY@._V1_QL75_UY281_CR1,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Animation",
+                    "Family"
+                ]
+            },
+            {
+                "plot": "Add a plot in your language"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZTk5ZjliNTktZTg0OS00MGY0LTkwMjYtMTVlOGU1ZmJiZDBmXkEyXkFqcGdeQXVyMjU0MDc2MTA@._V1_QL75_UY140_CR24,0,140,140_.jpg",
+                "actor_name": "Lee Tockar",
+                "character_name": "Stick Bug"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Studio B",
+                        "TV-Loonland AG"
+                    ],
+                    "link": [
+                        "/company/co0080039?ref_=tt_dt_co_1",
+                        "/company/co0034827?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "11 minutes"
+                }
+            }
+        ]
+    }
+]

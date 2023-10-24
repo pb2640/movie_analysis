@@ -1,0 +1,130 @@
+[
+    {
+        "first": [
+            {
+                "title": "Divorced Dad"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BY2Y5MGE4NzEtYjIwOC00NTEyLTk1MDktOGY4ZDkwMzU2NTk2XkEyXkFqcGdeQXVyNTAwNjExOTU@._V1_QL75_UY281_CR44,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "A newly single man eases the pain of his midlife crisis by launching a public access talk show."
+            },
+            {
+                "imdb-rating": "7.7/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Matthew Kennedy",
+                "character_name": "Divorced Dad"
+            },
+            {
+                "image": null,
+                "actor_name": "Gilles Degagne",
+                "character_name": "Gilles"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWQxYTVhYWYtN2Q2MC00ZmQ4LTk5MjEtNjMwMDg1NWNmZjFmXkEyXkFqcGdeQXVyMTA5ODU5Nzg0._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Adam Brooks",
+                "character_name": "Dale Shaw"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNDYxMTc4ZDUtNWY2NS00NGQ1LTlkMDYtOWQ0ZDI1MzJlZjkyXkEyXkFqcGdeQXVyMTA2NjY2NzQ0._V1_QL75_UX140_CR0,16,140,140_.jpg",
+                "actor_name": "Sarah Stock",
+                "character_name": "Sarah Stock"
+            },
+            {
+                "image": null,
+                "actor_name": "Ted Kennedy",
+                "character_name": "Ted Gustaffson"
+            },
+            {
+                "image": null,
+                "actor_name": "Aaron Bland",
+                "character_name": "Aaron Bland"
+            }
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "February 15, 2018 (Canada)"
+                    ],
+                    "link": [
+                        "/title/tt6114202/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Production company's official website"
+                    ],
+                    "link": [
+                        "http://www.astron-6.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Astron-6"
+                    ],
+                    "link": [
+                        "/company/co0314310?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

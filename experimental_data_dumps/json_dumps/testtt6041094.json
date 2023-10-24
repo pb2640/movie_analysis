@@ -1,0 +1,106 @@
+[
+    {
+        "first": [
+            {
+                "title": "Hush"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMzI0NWEyMjctNzgwMy00YTQ2LWFmZDgtNGJhNjRjMDdkMjMyXkEyXkFqcGdeQXVyNjg4MzkxMzA@._V1_QL75_UX190_CR0,3,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Father and daughter enjoy a day at the park. A perfectly innocent moment, until it's not"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Joseph Covino",
+                "character_name": "Dad"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOWFmNWY4MjctYjY5Mi00MzU5LWIxYWItNDk5Mzg5NDkzNjZiXkEyXkFqcGdeQXVyNTIyMzYxMzc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Brooklyn Robinson",
+                "character_name": "Kaylee"
+            }
+        ],
+        "Director": [
+            "Logan Ward"
+        ],
+        "Writer": [
+            "Warren Duncan"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 16, 2016 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6041094/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Sinister Films"
+                    ],
+                    "link": [
+                        "/company/co0024512?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "3 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

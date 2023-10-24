@@ -1,0 +1,130 @@
+[
+    {
+        "first": [
+            {
+                "title": "Weeji"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNTYzMzg2MDMtMjIxNy00M2Q3LWI4NjQtMzFjZGU4ODAyN2M2XkEyXkFqcGdeQXVyNjc3Mzg4Nw@@._V1_QL75_UX190_CR0,6,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "Four friends attempt to communicate with the spirit world in a musty candle-lit basement. After infuriating a young demon, their knowledge may be their downfall in this dark comedic thriller... Read all"
+            },
+            {
+                "imdb-rating": "6.8/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Wes Aderhold",
+                "character_name": "Seth"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjJlMDBkZjAtYjFhNi00YWMzLThhZDYtMDY3MmZmMjY3NWVlXkEyXkFqcGdeQXVyMjIzOTczODE@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Abbie Cobb",
+                "character_name": "Piper"
+            },
+            {
+                "image": null,
+                "actor_name": "Wes Cole",
+                "character_name": "Photographer"
+            }
+        ],
+        "Director": [
+            "Allisyn Snyder"
+        ],
+        "Writer": [
+            "Allisyn Snyder"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "January 1, 2017 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt6264988/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "password: Funny123"
+                    ],
+                    "link": [
+                        "https://vimeo.com/189383154"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Molten Llama Films",
+                        "Watch The Footage"
+                    ],
+                    "link": [
+                        "/company/co0655837?ref_=tt_dt_co_1",
+                        "/company/co0655836?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "$2,000 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

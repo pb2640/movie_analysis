@@ -1,0 +1,196 @@
+[
+    {
+        "first": [
+            {
+                "title": "Money Talks"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BM2UzNTI3N2UtM2U4Mi00ZmY2LWFlNjgtZDgwMTMxYjEwMGE4XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Documentary",
+                    "Comedy"
+                ]
+            },
+            {
+                "plot": "From Allen Funt, the creator of TV's \"Candid Camera.\" The hidden camera is pointed at people dealing with money in all sorts of human and, often, hilarious circumstances."
+            },
+            {
+                "imdb-rating": "5.8/10"
+            },
+            {
+                "metascore": "2"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTYxNjU5NDMzN15BMl5BanBnXkFtZTYwOTQxODM3._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Muhammad Ali",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "David McHarris",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODA2MzI1MTM2N15BMl5BanBnXkFtZTcwOTI1MTgxNQ@@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Marian Mercer",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTczNTA0MDQ0MV5BMl5BanBnXkFtZTcwMjk5ODAzOA@@._V1_QL75_UX140_CR0,7,140,140_.jpg",
+                "actor_name": "Henny Youngman",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Jack London",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Joseph R. Sicari",
+                "character_name": "Self"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BZDJiMWRkNTYtMTZmNi00MmNhLTlmMzYtNjM3MmRmZGYzNGE2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_QL75_UX140_CR0,9,140,140_.jpg",
+                "actor_name": "Jackie Bright",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ann Myles",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Guy King",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Peter Hock",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Karen Fund",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Erin Peeters",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Tony Bell",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Ira Kosloff",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Robbie Manning",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Juliet Funt",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Lulu-May Brown",
+                "character_name": "Self"
+            },
+            {
+                "image": null,
+                "actor_name": "Joya Gingold",
+                "character_name": "Self"
+            }
+        ],
+        "Director": [
+            "Allen Funt"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "August 30, 1972 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0185509/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Allen Funt Productions"
+                    ],
+                    "link": [
+                        "/company/co0014046?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 21 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Mono"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "first": [
+            {
+                "title": "Urban Ground Squirrels"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTU3MTI2MTU2NF5BMl5BanBnXkFtZTYwNzA0ODc5._V1_QL75_UY281_CR15,0,190,281_.jpg"
+            },
+            {
+                "plot": "Urban Ground Squirrels is the hilarious tale of love, friendship, and experiences set against the battlefield of a modern college campus. From classrooms to dorm rooms, it's hard to keep it ... Read all"
+            },
+            {
+                "imdb-rating": "6.8/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Josh Jones",
+                "character_name": "Adam Parker"
+            },
+            {
+                "image": null,
+                "actor_name": "Angel Casey",
+                "character_name": "Rebecca"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMmZkZjk4MDYtY2NiMC00MjM5LTlmMDMtZWQwOWMyMzM3OTc3XkEyXkFqcGdeQXVyMTgxNDQyODc@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Brian Kimmet",
+                "character_name": "Karl Winters"
+            },
+            {
+                "image": null,
+                "actor_name": "Jason Christopher McNeil",
+                "character_name": "Ethan Rudman"
+            },
+            {
+                "image": null,
+                "actor_name": "Scott Tipping",
+                "character_name": "Dave"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTM2Nzg2OTY0N15BMl5BanBnXkFtZTcwNDM1MDU5NQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Bootsy Collins",
+                "character_name": "Bootsy"
+            },
+            {
+                "image": null,
+                "actor_name": "David Gradle",
+                "character_name": "Sharkey"
+            },
+            {
+                "image": null,
+                "actor_name": "David Slowik",
+                "character_name": "Guy"
+            },
+            {
+                "image": null,
+                "actor_name": "Teodoro 'Ted' Chino",
+                "character_name": "Vinny"
+            },
+            {
+                "image": null,
+                "actor_name": "Jessica Fritz",
+                "character_name": "Jessica"
+            },
+            {
+                "image": null,
+                "actor_name": "Angela Fullone",
+                "character_name": "Melissa"
+            },
+            {
+                "image": null,
+                "actor_name": "Petra Teague",
+                "character_name": "Christy"
+            },
+            {
+                "image": null,
+                "actor_name": "Natalie Lussow",
+                "character_name": "Amy"
+            },
+            {
+                "image": null,
+                "actor_name": "Marty Ziemer",
+                "character_name": "Dan Galico"
+            },
+            {
+                "image": null,
+                "actor_name": "Todd Hendricks",
+                "character_name": "Chicken Man"
+            },
+            {
+                "image": null,
+                "actor_name": "Matt Nelson",
+                "character_name": "Walter the R.A."
+            },
+            {
+                "image": null,
+                "actor_name": "Matthew Smith",
+                "character_name": "Smitty"
+            },
+            {
+                "image": null,
+                "actor_name": "David Horenberger",
+                "character_name": "Little David"
+            }
+        ],
+        "Director": [
+            "Mark Krieglstein"
+        ],
+        "Writer": [
+            "Matthew Wilkans"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Wiggle Puppy Productions"
+                    ],
+                    "link": [
+                        "http://www.ugsthemovie.com/"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Illinois, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Illinois%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

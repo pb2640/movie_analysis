@@ -1,0 +1,134 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Forgotten Man"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BNjhjNTllYjktOWNkMy00YmY3LWI5NGMtNDc5NjhkMTEzOWVkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Short"
+                ]
+            },
+            {
+                "plot": "The trials and tribulations of the underappreciated father-of-the-bride are outlined."
+            },
+            {
+                "imdb-rating": "7.0/10"
+            },
+            {
+                "metascore": "3"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWNiMjE3NTktMzA2MC00ZjYyLWEzOTUtNWE4MTI1NDBiODdmXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Robert Benchley",
+                "character_name": "Joe Doakes"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMThiM2ZjOGYtYzQ5NC00MTJlLWIxYmUtNDAyM2ExMzM5YzczXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_QL75_UY140_CR23,0,140,140_.jpg",
+                "actor_name": "Ruth Lee",
+                "character_name": "Mrs. Doakes"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAyOTY5MTkzOV5BMl5BanBnXkFtZTYwMDYxMDU0._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Norman Lloyd",
+                "character_name": "Billy Timmins - Daughter's Husband"
+            }
+        ],
+        "Director": [
+            "Leslie M. Roush"
+        ],
+        "Writer": [
+            "Robert Benchley"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 23, 1941 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt0033622/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=Paramount%20Studios%20-%205555%20Melrose%20Avenue%2C%20Hollywood%2C%20Los%20Angeles%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Paramount Pictures"
+                    ],
+                    "link": [
+                        "/company/co0023400?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "1.37 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

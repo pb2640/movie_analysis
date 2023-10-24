@@ -1,0 +1,112 @@
+[
+    {
+        "first": [
+            {
+                "title": "Shadows of Man"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BOTQ0MzUxNzEtYzA4Mi00ZjYwLWFhZmQtZDUxNjNkODc5ZmI2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDA5ODU0NDg@._V1_QL75_UX190_CR0,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Drama",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "Does loss define us? Does it tear us apart, haunting us from within? Or does it renew us, propelling our hearts and minds to new heights? The film chronicles the soaring moments and lowest d... Read all"
+            },
+            {
+                "imdb-rating": "8.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjQ5N2MyNjItZDhmZC00Y2I3LWFlZWItZTZlODM2ZTAwMmRjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,14,140,140_.jpg",
+                "actor_name": "Kendra Carelli",
+                "character_name": "Olivia"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjAxMDBlOWEtNTU3Zi00ZWU3LTgwZDAtMjA4MTJlZGZhYjk4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,13,140,140_.jpg",
+                "actor_name": "Jamie Costa",
+                "character_name": "Man"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYWVhNWYyNjAtMzE2NS00NDZiLWI1MGEtYmMzNWI5OTNlMWIxXkEyXkFqcGdeQXVyMjU1MDU0OTI@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Jean-Luc McMurtry",
+                "character_name": "Rambler"
+            },
+            {
+                "image": null,
+                "actor_name": "Bruce Williamson",
+                "character_name": "Landlord"
+            }
+        ],
+        "Director": [
+            "Taylor MacDonald"
+        ],
+        "Writers": [
+            "Ben Gerdts",
+            "Taylor MacDonald",
+            "Amanda McElynn"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "December 4, 2014 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt3425374/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "21 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "first": [
+            {
+                "title": "Paradox: A Rusty Lake Film"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTU4YWZjNmUtYzZhNC00OTU5LWEwOTUtMTA2YzUxM2MxOWI5XkEyXkFqcGdeQXVyMjE4MjM5NTI@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short",
+                    "Fantasy",
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "A detective must solve increasingly challenging puzzles as part of a bizarre game orchestrated by an old foe in order to escape the room he's in."
+            },
+            {
+                "imdb-rating": "7.7/10"
+            },
+            {
+                "metascore": "60"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "David Bowles",
+                "character_name": "Dale Vandermeer"
+            },
+            {
+                "image": null,
+                "actor_name": "Elena Kejvalov\u00e1",
+                "character_name": "Laura Vanderboom"
+            },
+            {
+                "image": null,
+                "actor_name": "Maarten Looise",
+                "character_name": "Mr. Crow"
+            },
+            {
+                "image": null,
+                "actor_name": "Bob Rafferty",
+                "character_name": "Mr. Crow"
+            },
+            {
+                "image": null,
+                "actor_name": "Robin Ras",
+                "character_name": "The Corrupted Soul"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BOGViYzNkNTEtMWZiZS00M2YyLTk2NGEtODVjNGNhMzNhNDM0XkEyXkFqcGdeQXVyNzk4Njg2OTA@._V1_QL75_UX140_CR0,15,140,140_.jpg",
+                "actor_name": "Kaycee Fillbright",
+                "character_name": "Card Catalog Puzzle"
+            }
+        ],
+        "Director": [
+            "Sean van Leijenhorst"
+        ],
+        "Writer": [
+            "Sean van Leijenhorst"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "September 20, 2018 (Netherlands)"
+                    ],
+                    "link": [
+                        "/title/tt8371922/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Netherlands",
+                        "Czech Republic"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NL&ref_=tt_dt_cn",
+                        "/search/title/?country_of_origin=CZ&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-akas": {
+                    "val": [],
+                    "link": []
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Doksy, Cesk\u00e1 L\u00edpa District, Czech Republic"
+                    ],
+                    "link": [
+                        "/search/title?locations=Doksy%2C%20Cesk%C3%A1%20L%C3%ADpa%20District%2C%20Czech%20Republic&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Rusty Lake",
+                        "The LAB - a media production company"
+                    ],
+                    "link": [
+                        "/company/co0697506?ref_=tt_dt_co_1",
+                        "/company/co0573639?ref_=tt_dt_co_2"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "19 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_aspectratio": {
+                    "val": [
+                        "2.39 : 1"
+                    ]
+                }
+            }
+        ]
+    }
+]

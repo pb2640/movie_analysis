@@ -1,0 +1,204 @@
+[
+    {
+        "first": [
+            {
+                "title": "Ethan Adler's Guide to Homicide"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjA3Y2M2NjUtY2FiNy00ZGFhLTliYzMtODhjZDY0ZDUwMzc5XkEyXkFqcGdeQXVyNTY0ODY5NzE@._V1_QL75_UX190_CR0,4,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "Enter the brilliant mind of Ethan Adler, a highly-perceptive teenager with a gruesome plan."
+            },
+            {
+                "imdb-rating": "9.1/10"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMzViODlkMTEtNjA3Mi00ODBhLThkMzctOTBiYjhkYjcyMTQ3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Harrison Osterfield",
+                "character_name": "Ethan Adler"
+            },
+            {
+                "image": null,
+                "actor_name": "Philip Ridout",
+                "character_name": "Nigel"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BODEzN2JlYzAtZjA3OC00MzdkLWI2ZmUtOGMwMWZkZTAwZDg5XkEyXkFqcGdeQXVyMjYxNDAzMTA@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Sam Halpenny",
+                "character_name": "Adam Adler"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Casse",
+                "character_name": "Juror"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BYjU1MmNhMDctNzJmOS00MDQwLWEzMjctNWJkMmY0YjY5YjRiXkEyXkFqcGdeQXVyNzU3MjA0NDI@._V1_QL75_UX140_CR0,1,140,140_.jpg",
+                "actor_name": "Patrice Bevans",
+                "character_name": "Stenographer"
+            },
+            {
+                "image": null,
+                "actor_name": "Luca Keaney",
+                "character_name": "Bobby Brittle"
+            },
+            {
+                "image": null,
+                "actor_name": "Scott Barrington",
+                "character_name": "Carl Brittle"
+            },
+            {
+                "image": null,
+                "actor_name": "Sam Fishenden",
+                "character_name": "Yoga Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Nicole Reece",
+                "character_name": "Juror"
+            },
+            {
+                "image": null,
+                "actor_name": "Rosa Didonna",
+                "character_name": "Yoga Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Jonathan Soukali",
+                "character_name": "Yoga Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Jade Flack",
+                "character_name": "Juror"
+            },
+            {
+                "image": null,
+                "actor_name": "Jonathan Ellis",
+                "character_name": "Clerk"
+            },
+            {
+                "image": null,
+                "actor_name": "Robert Law",
+                "character_name": "Juror"
+            },
+            {
+                "image": null,
+                "actor_name": "Lesley Layton",
+                "character_name": "Mallory Adler"
+            },
+            {
+                "image": null,
+                "actor_name": "Rosmin Monia",
+                "character_name": "Juror"
+            },
+            {
+                "image": null,
+                "actor_name": "Jack Bostman",
+                "character_name": "Yoga Student"
+            },
+            {
+                "image": null,
+                "actor_name": "Priscilla Gray",
+                "character_name": "Beverly Lewis"
+            }
+        ],
+        "Director": [
+            "Joshua Farrar"
+        ],
+        "Writer": [
+            "Flynn Jarvis"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "May 2017 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt6413428/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United Kingdom"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=GB&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "details-officialsites": {
+                    "val": [
+                        "Facebook Profile"
+                    ],
+                    "link": [
+                        "https://m.facebook.com/profile.php?id=199900653771681&tsid=0.9668925258625434&source=typeahead"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Orbital Productions"
+                    ],
+                    "link": [
+                        "/company/co0623497?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": [
+            {
+                "title-boxoffice-budget": {
+                    "val": "\u00a32,500 (estimated)"
+                }
+            }
+        ]
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "8 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

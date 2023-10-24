@@ -1,0 +1,200 @@
+[
+    {
+        "first": [
+            {
+                "title": "Dr. Benderfax"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMTQ4ODUwMTY3N15BMl5BanBnXkFtZTcwOTEwNDQ3MQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Comedy",
+                    "Sci-Fi",
+                    "Thriller"
+                ]
+            },
+            {
+                "plot": "Dr. Benderfax is on the verge of a mad scientist's career high: the discovery of a mysterious psychic phenomenon that will endow him with boundless fantastic powers. Unfortunately, his enigm... Read all"
+            },
+            {
+                "imdb-rating": "6.6/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": null,
+                "actor_name": "Nigel Hazeldine",
+                "character_name": "Dr. Benderfax"
+            },
+            {
+                "image": null,
+                "actor_name": "Steve Gouveia",
+                "character_name": "Andrew"
+            },
+            {
+                "image": null,
+                "actor_name": "Caroline Hazeldine",
+                "character_name": "Nurse Clench"
+            },
+            {
+                "image": null,
+                "actor_name": "Nicholas Berry",
+                "character_name": "Farance"
+            },
+            {
+                "image": null,
+                "actor_name": "Merodie Patterson",
+                "character_name": "Carmen"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BNjhjYTZjNTYtMjRmNi00NzUzLTg3MTEtZDFmNjUzZTBhYjVmXkEyXkFqcGdeQXVyMTkzMzE5NA@@._V1_QL75_UX140_CR0,12,140,140_.jpg",
+                "actor_name": "Jeff Blumberg",
+                "character_name": "Detective"
+            },
+            {
+                "image": null,
+                "actor_name": "Torie Bobrick",
+                "character_name": "Wig-tossing Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "David Calabrese",
+                "character_name": "Gorilla"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Conn",
+                "character_name": "Puzzle Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "Crash Corwin",
+                "character_name": "Haircut Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "P.F. Dumanis",
+                "character_name": "Doggboy Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "Gary Griffin",
+                "character_name": "Pill Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "Brian Hartshorn",
+                "character_name": "Army Jacks Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "Fran Hartshorn",
+                "character_name": "Dancing Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "Bernard Hastaba",
+                "character_name": "Man on street"
+            },
+            {
+                "image": null,
+                "actor_name": "Tom Hosler",
+                "character_name": "Park Gardener"
+            },
+            {
+                "image": null,
+                "actor_name": "Byron Houston",
+                "character_name": "Sweeping Patient"
+            },
+            {
+                "image": null,
+                "actor_name": "Joe Ivers",
+                "character_name": "Guard"
+            }
+        ],
+        "Director": [
+            "Tom Hosler"
+        ],
+        "Writer": [
+            "Tom Hosler"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-origin": {
+                    "val": [
+                        "United States"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=US&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "San Diego, California, USA"
+                    ],
+                    "link": [
+                        "/search/title?locations=San%20Diego%2C%20California%2C%20USA&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Sixth Avenue Pictures"
+                    ],
+                    "link": [
+                        "/company/co0076698?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            },
+            {
+                "title-techspec_soundmix": {
+                    "val": [
+                        "Stereo"
+                    ]
+                }
+            }
+        ]
+    }
+]

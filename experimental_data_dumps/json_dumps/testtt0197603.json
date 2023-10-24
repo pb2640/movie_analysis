@@ -1,0 +1,150 @@
+[
+    {
+        "first": [
+            {
+                "title": "Kanadiana"
+            },
+            {
+                "plot": "After robbing a diamond courier, two thieves throw their stolen treasure into the back of an unsuspecting woman's pickup truck when they are stopped by the police."
+            },
+            {
+                "imdb-rating": "7.2/10"
+            },
+            {
+                "metascore": "5"
+            }
+        ]
+    },
+    {
+        "actors": [
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTI3Mzg3ODM3Nl5BMl5BanBnXkFtZTYwMTQyNDg3._V1_QL75_UY140_CR35,0,140,140_.jpg",
+                "actor_name": "Thom Schioler",
+                "character_name": "PrettyBoy"
+            },
+            {
+                "image": null,
+                "actor_name": "Mr. Ryder",
+                "character_name": "Spinner"
+            },
+            {
+                "image": null,
+                "actor_name": "Angela Chalmers",
+                "character_name": "Daina"
+            },
+            {
+                "image": null,
+                "actor_name": "Daniel Greaves",
+                "character_name": "Mr.Clockwork"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMjAwNDE0MzcyNV5BMl5BanBnXkFtZTcwNDg1MTcyMQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg",
+                "actor_name": "Dan McLean",
+                "character_name": "Gaspump Dan"
+            },
+            {
+                "image": null,
+                "actor_name": "Ihor Procak",
+                "character_name": "Spinner"
+            },
+            {
+                "image": null,
+                "actor_name": "Lauren Ritz",
+                "character_name": "Officer Dale"
+            },
+            {
+                "image": "https://m.media-amazon.com/images/M/MV5BMTA0MzM4MjkxNzVeQTJeQWpwZ15BbWU3MDU5MTQyMzE@._V1_QL75_UX140_CR0,5,140,140_.jpg",
+                "actor_name": "Stephen Strachan",
+                "character_name": "Waiter"
+            },
+            {
+                "image": null,
+                "actor_name": "Christie Wilkes",
+                "character_name": "Kirsten"
+            }
+        ],
+        "Director": [
+            "Jon Einarsson Gustafsson"
+        ],
+        "Writers": [
+            "Jon Einarsson Gustafsson",
+            "Ihor Procak",
+            "Thom Schioler"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 7, 2002 (United Kingdom)"
+                    ],
+                    "link": [
+                        "/title/tt0197603/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "Canada"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=CA&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            },
+            {
+                "title-details-filminglocations": {
+                    "val": [
+                        "Gimli, Manitoba, Canada"
+                    ],
+                    "link": [
+                        "/search/title?locations=Gimli%2C%20Manitoba%2C%20Canada&ref_=tt_dt_loc"
+                    ]
+                }
+            },
+            {
+                "title-details-companies": {
+                    "val": [
+                        "Kanadiana Inc."
+                    ],
+                    "link": [
+                        "/company/co0065267?ref_=tt_dt_co_1"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "1 hour 25 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Color"
+                    ]
+                }
+            }
+        ]
+    }
+]

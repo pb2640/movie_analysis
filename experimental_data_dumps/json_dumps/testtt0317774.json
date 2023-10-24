@@ -1,0 +1,78 @@
+[
+    {
+        "first": [
+            {
+                "title": "Jumbo"
+            },
+            {
+                "genres": [
+                    "Short"
+                ]
+            },
+            {
+                "plot": "What happens when you suspect that your partner likes the house guest more than she likes you? A droll drama of unstated intentions in black, white and grey."
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Jim Marbrook"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "July 1998 (New Zealand)"
+                    ],
+                    "link": [
+                        "/title/tt0317774/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            },
+            {
+                "title-details-origin": {
+                    "val": [
+                        "New Zealand"
+                    ],
+                    "link": [
+                        "/search/title/?country_of_origin=NZ&ref_=tt_dt_cn"
+                    ]
+                }
+            },
+            {
+                "title-details-languages": {
+                    "val": [
+                        "English"
+                    ],
+                    "link": [
+                        "/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_ln"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "15 minutes"
+                }
+            },
+            {
+                "title-techspec_color": {
+                    "val": [
+                        "Black and White"
+                    ]
+                }
+            }
+        ]
+    }
+]

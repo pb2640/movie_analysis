@@ -1,0 +1,63 @@
+[
+    {
+        "first": [
+            {
+                "title": "The Kapre"
+            },
+            {
+                "poster_link": "https://m.media-amazon.com/images/M/MV5BMjZhNjBmODMtYjRhZC00MWU4LTgwMzctZTQ5MDFjMTlmMDFkXkEyXkFqcGdeQXVyMjg2NTY2MTg@._V1_QL75_UY281_CR11,0,190,281_.jpg"
+            },
+            {
+                "genres": [
+                    "Horror"
+                ]
+            },
+            {
+                "plot": "Two unsuspecting Americans awaken a large and legendary creature while camping in an enchanted Philippine forest."
+            },
+            {
+                "imdb-rating": "5.3/10"
+            },
+            {
+                "metascore": "1"
+            }
+        ]
+    },
+    {
+        "actors": [],
+        "Director": [
+            "Carlo Ledesma"
+        ],
+        "Writer": [
+            "Carlo Ledesma"
+        ],
+        "All cast & crew": [],
+        "Production, box office & more at IMDbPro": []
+    },
+    {
+        "details": [
+            {
+                "title-details-releasedate": {
+                    "val": [
+                        "October 1, 2022 (United States)"
+                    ],
+                    "link": [
+                        "/title/tt22171990/releaseinfo?ref_=tt_dt_rdat"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "boxOffice": []
+    },
+    {
+        "techspecs": [
+            {
+                "title-techspec_runtime": {
+                    "val": "10 minutes"
+                }
+            }
+        ]
+    }
+]
