@@ -6,7 +6,7 @@ import time
 
 if __name__ == "__main__":
     t0 = time.time()
-    data_path = 'data/json_dumps'
+    data_path = 'data/json_dumps/'
     csv_files_list = os.listdir(data_path)
     csv_files_path = []
     for csv_name in csv_files_list:
