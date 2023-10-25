@@ -12,7 +12,7 @@ if __name__ == "__main__":
     for csv_name in csv_files_list:
         csv_files_path.append(data_path+csv_name)
 
-    headers = ['first', 'actors', 'details', 'boxOffice', 'techspecs']
+    headers = ['movie_id', 'first', 'actors', 'details', 'boxOffice', 'techspecs']
     csv_created = False
 
     with open('data/csv_dumps/data.csv', 'w', newline='') as csv_file:
@@ -23,7 +23,8 @@ if __name__ == "__main__":
     for csv_file in csv_files_path:
         file_obj = open(csv_file)
         input = json.load(file_obj)
-        data = [input[0]['first'], input[1]['actors'], input[2]['details'], input[3]['boxOffice'], input[4]['techspecs']]
+        movie_id = csv_file.split('/')[2].split('.')[0]
+        data = [movie_id, input[0]['first'], input[1]['actors'], input[2]['details'], input[3]['boxOffice'], input[4]['techspecs']]
         write_to_csv(data)
     
     t1 = time.time()
