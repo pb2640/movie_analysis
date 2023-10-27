@@ -40,7 +40,7 @@ def extract_details_card_from_html_page(html):
     """
     json_object = {}
     soup = bs(html, "html.parser")
-    json_object["details"] = []
+    json_object["details"] = {}
     try:
         section_element = soup.find_all("section", {"data-testid": "Details"})
     except Exception as e:
@@ -83,7 +83,7 @@ def extract_details_card_from_html_page(html):
                             pass
                     # find all links and append the text to the list
                     new_obj = {key_name: {"val": a_arr, "link": a_href_arr}}
-                    json_object["details"].append(new_obj)
+                    json_object["details"] = new_obj
         except Exception as e:
             print("{} exception occured in div details section".format(e))
 
@@ -100,7 +100,7 @@ def extract_boxoffice_card_from_html_page(html):
     """
     json_object = {}
     soup = bs(html, "html.parser")
-    json_object["boxOffice"] = []
+    json_object["boxOffice"] = {}
     try:
         section_element = soup.find_all("section", {"data-testid": "BoxOffice"})
     except Exception as e:
