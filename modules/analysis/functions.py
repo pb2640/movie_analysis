@@ -16,7 +16,7 @@ import pandas as pd
 from sklearn.preprocessing import MultiLabelBinarizer
 
 
-def make_new_columns_boxOffice(orig_df, col_name, list_of_keys):
+def make_new_columns_boxOffice(curr_df, col_name, list_of_keys):
     """
     params will be(col_name,[list_of_keys]) ,
     the names in the list should be same as keys
@@ -56,6 +56,28 @@ def make_new_columns_first(curr_df, col_name, list_of_keys):
                 for key in list_of_keys:
                     if key in it:
                         curr_df[key][i] = it[key]
+    return curr_df
+
+
+def make_new_columns_details(curr_df, col_name, list_of_keys):
+    """
+    params will be(col_name,[list_of_keys]) ,
+    the names in the list should be same as keys
+    """
+    if(col_name not in curr_df.columns):
+        print("No such column exists in the df")
+    for key in list_of_keys:
+        curr_df[key] = ""
+    for i in range(len(curr_df)):
+        response_list = eval(curr_df["details"][i])
+        if(response_list):
+            response = response_list
+            for it in response:
+                for key in list_of_keys:
+                    if key in it:
+                        curr_df[key][i] = it[key]["val"]
+                        
+
     return curr_df
    
 
