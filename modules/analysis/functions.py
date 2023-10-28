@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 import sys
 
 def make_new_columns_boxOffice(curr_df,col_name, list_of_keys):
-=======
 """
 This script contains all functions
 
@@ -21,32 +19,23 @@ from sklearn.preprocessing import MultiLabelBinarizer
 
 
 def make_new_columns_boxOffice(orig_df, col_name, list_of_keys):
->>>>>>> 4f6298f9e3b7888b55495006822cb7b1a7a39c1a
     """
-    params will be(col_name,[list_of_keys]) ,
-    the names in the list should be same as keys
+   
     """
-<<<<<<< HEAD
     if(col_name not in curr_df.columns):
-=======
     curr_df = orig_df.copy()
     if (col_name not in curr_df.columns):
->>>>>>> 4f6298f9e3b7888b55495006822cb7b1a7a39c1a
         print("No such column exists in the df")
     for key in list_of_keys:
         curr_df[key] = ""
     for i in range(len(curr_df)):
         response_list = eval(curr_df["boxOffice"][i])
-<<<<<<< HEAD
         if(response_list):
-=======
         if (response_list):
->>>>>>> 4f6298f9e3b7888b55495006822cb7b1a7a39c1a
             response = response_list
             for it in response:
                 for key in list_of_keys:
                     if key in it:
-<<<<<<< HEAD
                         curr_df[key][i] = it[key]["val"]
                         
 
@@ -55,21 +44,16 @@ def make_new_columns_boxOffice(orig_df, col_name, list_of_keys):
     # delete the original column 
 
 def make_new_columns_first(curr_df, col_name, list_of_keys):
-=======
-                        curr_df[key][i] = it[key]["val"]       
+    curr_df[key][i] = it[key]["val"]       
     return curr_df
 
 
 def make_new_columns_first(orig_df, col_name, list_of_keys):
->>>>>>> 4f6298f9e3b7888b55495006822cb7b1a7a39c1a
     """
     params will be(col_name,[list_of_keys]) ,
     the names in the list should be same as keys
     """
-<<<<<<< HEAD
-=======
     curr_df = orig_df.copy()
->>>>>>> 4f6298f9e3b7888b55495006822cb7b1a7a39c1a
     if (col_name not in curr_df.columns):
         print("No such column exists in the df")
     for key in list_of_keys:
@@ -81,7 +65,6 @@ def make_new_columns_first(orig_df, col_name, list_of_keys):
             for it in response:
                 for key in list_of_keys:
                     if key in it:
-<<<<<<< HEAD
                         curr_df[key][i] = it[key]
     return curr_df
    
@@ -137,11 +120,6 @@ def extract_techspecs(input_str):
         print(input_str, e)
         sys.exit(1)
     return [runtime, soundmix, aspect_ratio]
-        
-            
-=======
-                        curr_df[key][i] = it[key]                
-    return curr_df
 
 
 def make_new_columns_details(orig_df, col_name, list_of_keys):
@@ -174,4 +152,3 @@ def encode_variable(orig_df, col_name):
                 index=curr_df.index,
                 columns=mlb.classes_))
     return curr_df
->>>>>>> 4f6298f9e3b7888b55495006822cb7b1a7a39c1a

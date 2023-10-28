@@ -127,6 +127,7 @@ def extract_boxoffice_card_from_html_page(html):
                     span_text = span.get_text()
                     new_obj = {key_name: {"val": span_text}}
                     json_object["boxOffice"].append(new_obj)
+                    json_object["details"] = new_obj
         except Exception as e:
             print("{} exception occured in boxoffice section".format(e))
     return json_object
