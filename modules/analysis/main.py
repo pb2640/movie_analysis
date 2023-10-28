@@ -29,9 +29,9 @@ if __name__ == "__main__":
         expanded_df["runtime"][i] = runtime
         expanded_df["soundmix"][i] = soundmix
         expanded_df["aspect_ratio"][i] = aspect_ratio
-    column_list = ['title', 'genres', 'plot',
-       'imdb-rating', 'imdb_rating', 'num_genres', 'num_actors', 'currency',
-       'budget_money', 'runtime', 'soundmix', 'aspect_ratio']
+    column_list = ['movie_id', 'title-boxoffice-budget', 'title', 'genres', 'plot', 'title-details-releasedate', 'title-details-origin', 
+                   'title-details-languages', 'title-details-filminglocations', 'title-details-companies', 'currency', 'budget_money', 
+                   'num_actors', 'num_genres', 'imdb_rating', 'runtime', 'soundmix', 'aspect_ratio']
 
     extract_df = extract_columns_from_dataframe(expanded_df,column_list)
     timestr = time.strftime("%Y%m%d-%H%M%S")
