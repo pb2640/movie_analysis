@@ -31,7 +31,7 @@ if __name__ == "__main__":
         expanded_df["aspect_ratio"][i] = aspect_ratio
     column_list = ['title', 'genres', 'plot',
        'imdb-rating', 'imdb_rating', 'num_genres', 'num_actors', 'currency',
-       'money', 'runtime', 'soundmix', 'aspect_ratio']
+       'budget_money', 'runtime', 'soundmix', 'aspect_ratio']
 
     extract_df = extract_columns_from_dataframe(expanded_df,column_list)
     timestr = time.strftime("%Y%m%d-%H%M%S")
