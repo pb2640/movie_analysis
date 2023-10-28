@@ -14,7 +14,7 @@ if __name__ == "__main__":
     expanded_df = make_new_columns_boxOffice(df,"boxOffice", ["title-boxoffice-budget","title-boxoffice-cumulativeworldwidegross","title-boxoffice-grossdomestic","title-boxoffice-openingweekenddomestic"])
     expanded_df = make_new_columns_first(expanded_df,'first',['title','poster_link','genres','plot','imdb-rating'])
     expanded_df = make_new_columns_details(expanded_df,"details",['title-details-releasedate','title-details-origin','title-details-languages','title-details-filminglocations','title-details-companies'])
-    # expanded_df = extract_techspecs()
+    expanded_df = extract_techspecs()
 
     # create new column num_actors, fills in 0 where no value is present
     expanded_df['num_actors'] = expanded_df['actors'].apply(lambda x: len(eval(x)))
@@ -27,4 +27,6 @@ if __name__ == "__main__":
     # expanded_df = encode_variable(expanded_df, 'genres')
 
     # Drop all unexpanded and unnecessary columns
-    expanded_df.drop(['first','boxOffice','poster_link','actors','details'], axis = 1, inplace = True)
+    #expanded_df.drop(['first','boxOffice','poster_link','actors','details'], axis = 1, inplace = True)
+    #expanded_df = expanded_df.reset_index(drop=True)
+    #expanded_df.to_csv()
