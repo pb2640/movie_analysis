@@ -154,16 +154,28 @@ def make_new_columns_details(orig_df, col_name, list_of_keys):
     return curr_df
 
 
-def encode_variable(orig_df, col_name):
-    mlb = MultiLabelBinarizer(sparse_output=True)
-    curr_df = orig_df.copy()
-    curr_df = curr_df.join(
-        pd.DataFrame.sparse.from_spmatrix(
-            mlb.fit_transform(curr_df.pop(col_name)),
-            index=curr_df.index,
-            columns=mlb.classes_,
-        )
-    )
+def encode_variable(curr_df, col_name):
+    # mlb = MultiLabelBinarizer(sparse_output=True)
+    # curr_df = orig_df.copy()
+    # curr_df = curr_df.join(
+    #     pd.DataFrame.sparse.from_spmatrix(
+    #         mlb.fit_transform(curr_df.pop(col_name)),
+    #         index=curr_df.index,
+    #         columns=mlb.classes_,
+    #     )
+    # )
+    # return curr_df
+    mlb = MultiLabelBinarizer()
+    mlb.fit(curr_df[col_name])
+
+    new_col_names = ["%s" % c for c in mlb.classes_]
+
+    # Create new DataFrame with transformed/one-hot encoded IDs
+    ids = pd.DataFrame(mlb.fit_transform(curr_df[col_name]), columns=new_col_names,index=curr_df[col_name].index)
+
+    # Concat with original `Label` column
+    curr_df = pd.concat( [curr_df, ids], axis=1 )
+
     return curr_df
 
 
