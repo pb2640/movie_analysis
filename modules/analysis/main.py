@@ -79,3 +79,32 @@ if __name__ == "__main__":
     extract_df = extract_columns_from_dataframe(expanded_df, column_list)
     timestr = time.strftime("%Y%m%d-%H%M%S")
     extract_df.to_csv("../../Data/csvs/{}.csv".format(timestr))
+
+    df_v2 = extract_df.drop(['movie_id','title','plot','title','title-details-filminglocations','title-details-companies','num_genres', 'imdb_rating', 'soundmix', 'aspect_ratio', 'title-boxoffice-budget'],axis = 1)
+    df_v2 = df_v2.dropna()
+    df_v2 = df_v2[df_v2['currency']=='$']
+    df_v2 = df_v2[df_v2['title-details-languages']!='[\'None\']']
+    df_v2 = df_v2.reset_index(drop=True)
+    none_lang_ind = []
+    for i in range(len(df_v2)):
+        if 'None' in df['title-details-languages'][i]:
+            none_lang_ind.append(i)
+    df_v2 = df_v2.drop(index=none_lang_ind,axis=1)
+    common_langs = ['[\'English\']','[\'French\']','[\'Spanish\']','[\'German\']','[\'Arabic\']','[\'Hindi\']','[\'Italian\']','[\'Chinese\']','[\'Mandarin\']','[\'Russian\']', '[\'Latin\']', '[\'Japanese\']', '[\'Persian\']', '[\'Bengali\']']
+    df_v2 = df_v2[df_v2['title-details-languages'].isin(common_langs)]
+    df_v2 = df_v2.reset_index(drop=True)
+
+    df_v2['genres'] = df_v2['genres'].astype(str)
+    df_v2['title-details-releasedate'] = df_v2['title-details-releasedate'].astype(str)
+    df_v2['title-details-origin'] = df_v2['title-details-origin'].astype(str)
+    df_v2['title-details-languages'] = df_v2['title-details-languages'].astype(str)
+    df_v2['runtime'] = df_v2['runtime'].astype(str)
+
+    df_v2['genres'] = df_v2['genres'].apply(lambda x: eval(x))
+    df_v2['title-details-languages'] = df_v2['title-details-languages'].apply(lambda x: eval(x))
+    df_v2 = encode_variable(df_v2,'genres')
+    df_v2 = encode_variable(df_v2, 'title-details-languages')
+    df_v2['release_year'] = df_v2['title-details-releasedate'].str.extract(r'(\d{4})').astype('category')
+    df_v2 = ddf_v2f.drop(['genres','title-details-languages','title-details-origin','title-details-releasedate'],axis=1)
+
+    df_v2['runtime'] = df_v2['runtime'].apply(lambda x: convert_runtime_to_minutes_int(x))

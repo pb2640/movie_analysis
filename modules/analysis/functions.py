@@ -155,6 +155,9 @@ def make_new_columns_details(orig_df, col_name, list_of_keys):
 
 
 def encode_variable(curr_df, col_name):
+    '''
+    Returns the dataframe with a new column for each of the values found in col_name, populated with 0/1 indicating its presence. 
+    '''
     # mlb = MultiLabelBinarizer(sparse_output=True)
     # curr_df = orig_df.copy()
     # curr_df = curr_df.join(
