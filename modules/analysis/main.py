@@ -115,6 +115,6 @@ if __name__ == "__main__":
     df_v2 = encode_variable(df_v2,'genres')
     df_v2 = encode_variable(df_v2, 'title-details-languages')
     df_v2['release_year'] = df_v2['title-details-releasedate'].str.extract(r'(\d{4})').astype('category')
-    df_v2 = ddf_v2f.drop(['genres','title-details-languages','title-details-origin','title-details-releasedate'],axis=1)
+    df_v2 = df_v2.drop(['genres','title-details-languages','title-details-origin','title-details-releasedate'],axis=1)
 
     df_v2['runtime'] = df_v2['runtime'].apply(lambda x: convert_runtime_to_minutes_int(x))
