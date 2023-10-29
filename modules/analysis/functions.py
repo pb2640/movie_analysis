@@ -1,6 +1,3 @@
-import sys
-
-
 """
 This script contains all functions
 
@@ -15,6 +12,7 @@ TODO : Log errors
 
 """
 import sys
+import re
 import pandas as pd
 from sklearn.preprocessing import MultiLabelBinarizer
 
@@ -225,3 +223,8 @@ def convert_runtime_to_minutes_int(input_str):
     minutes_ans += min_int
 
     return minutes_ans
+
+
+def convert_date_str_to_int_year(input_str):
+    resp = re.findall(r"(\d{4})", input_str)
+    return resp[0]
