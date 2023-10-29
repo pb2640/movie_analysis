@@ -33,12 +33,22 @@ if __name__ == "__main__":
     )
     expanded_df["currency"] = None
     expanded_df["budget_money"] = None
-    expanded_df["currency"] = expanded_df["title-boxoffice-budget"].apply(
-        money_str_to_currency
+    # delete commas in the budget str
+    expanded_df["title-boxoffice-budget"] = expanded_df[
+        "title-boxoffice-budget"
+    ].str.replace(",", "")
+    # extract currency
+    expanded_df["currency"] = expanded_df["title-boxoffice-budget"].str.extract(
+        r"(^\D+)"
     )
-    expanded_df["budget_money"] = expanded_df["title-boxoffice-budget"].apply(
-        money_str_to_int
+    # extract money int
+    expanded_df["budget_money"] = expanded_df["title-boxoffice-budget"].str.extract(
+        r"(\d+)"
     )
+    # convert int type of budget money to int
+    expanded_df["budget_money"] = pd.to_numeric(
+        expanded_df["budget_money"], errors="coerce"
+    ).astype("Int64")
     # create new column num_actors, fills in 0 where no value is present
     expanded_df["num_actors"] = expanded_df["actors"].apply(lambda x: len(eval(x)))
     expanded_df["num_genres"] = expanded_df["genres"].apply(lambda x: len(x))
