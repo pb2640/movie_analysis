@@ -1,6 +1,7 @@
 import pandas as pd
 from functions import *
 import time
+import cpi
 
 
 if __name__ == "__main__":
@@ -118,3 +119,7 @@ if __name__ == "__main__":
     df_v2 = df_v2.drop(['genres','title-details-languages','title-details-origin','title-details-releasedate'],axis=1)
 
     df_v2['runtime'] = df_v2['runtime'].apply(lambda x: convert_runtime_to_minutes_int(x))
+
+    # create a new column 'budget_adjusted', which contains the budget amount adjusted for inflation in 2021
+    for i in range(len(df)):
+        df['budget_adjusted'][i] = cpi.inflate(df['budget_money'][i],df['release_year'][i],to=2021)
