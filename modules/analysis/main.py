@@ -120,6 +120,8 @@ if __name__ == "__main__":
 
     df_v2['runtime'] = df_v2['runtime'].apply(lambda x: convert_runtime_to_minutes_int(x))
 
+    # filter for movies b/w 2008 and 2022 (since cpi package works till 2021)
+    df_v2 = df_v2[(df_v2['release_year'].astype('int')>2008) & (df_v2['release_year'].astype('int')<2022)]
     # create a new column 'budget_adjusted', which contains the budget amount adjusted for inflation in 2021
-    for i in range(len(df)):
-        df['budget_adjusted'][i] = cpi.inflate(df['budget_money'][i],df['release_year'][i],to=2021)
+    for i in range(len(df_v2)):
+        df_v2['budget_adjusted'][i] = cpi.inflate(df_v2['budget_money'][i],df_v2['release_year'][i],to=2021)
