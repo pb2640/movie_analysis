@@ -65,6 +65,17 @@ if __name__ == "__main__":
         expanded_df["runtime"][i] = runtime
         expanded_df["soundmix"][i] = soundmix
         expanded_df["aspect_ratio"][i] = aspect_ratio
+
+
+
+
+    '''
+    Write a function to convert a column of objects with dtype str to obj
+    if the var is an obj logically. eg "companies" column
+    is "['a','b','c']  
+    
+    
+    '''
     column_list = [
         "movie_id",
         "title-boxoffice-budget",
