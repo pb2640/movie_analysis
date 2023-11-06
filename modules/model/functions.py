@@ -12,6 +12,7 @@ This file is reproducible
 
 # import modules
 import time
+import pickle
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -56,6 +57,10 @@ class Model():
         # Make predictions on the test set
         
         self.total_time_taken_to_train_model = self.model_train_end_time - self.model_train_start_time
+
+        # Store model
+        with open("model.pkl", "wb") as file:
+            pickle.dump(self.model, file) 
 
     def test_model(self):
         self.y_pred = self.model.predict(self.X_test)
