@@ -68,11 +68,19 @@ class Model():
         print(pd.DataFrame)
 
 
-    def inference(self):
+    def inference(self, input_list):
         '''
         Provide the input to the model and get the prediction
         '''
-
+        self.inference_input = input_list
+        try:
+            self.inference_prediction = self.model.predict(input_list)
+        except Exception as e:
+            print("The following error occured while inferencing the model {}".format(e))
+            return None
+        
+        
+        return self.inference_prediction
 
 
 
