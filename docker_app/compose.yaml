@@ -1,11 +1,11 @@
 version: '3'
 
 services:
-  streamlit_app:
-    image: aman9608/data_viz_app
+  # streamlit_app:
+  #   image: aman9608/data_viz_app
     
-    ports:
-      - "8501:8501"  # Map a host port to the container's port if needed
+  #   ports:
+  #     - "8501:8501"  # Map a host port to the container's port if needed
 
   elasticsearch_app:
     build:
@@ -22,7 +22,8 @@ services:
       - elasticsearch_app
 
   ui_app:
-    image: ./ui_app
-    
+    build: ./ui_app
+    # image: ./app/ui_app
+
     ports:
       - "8080:8501"

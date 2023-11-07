@@ -3,7 +3,6 @@ This file uses streamlit for a web interface to enable model deployment and serv
 """
 import pandas as pd
 import streamlit as st
-import plotly.express as px
 import pickle
 model_file = 'model_1.pkl'
 
