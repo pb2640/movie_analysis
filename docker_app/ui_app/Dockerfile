@@ -14,7 +14,7 @@ RUN pip install -r requirements.txt
 COPY . /app
 
 # Set environment variables if needed (optional)
-ENV PORT=8080
+EXPOSE 8501
 
 # Command to run the Streamlit app
 CMD ["streamlit", "run", "uiapp.py"]

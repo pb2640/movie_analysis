@@ -16,18 +16,8 @@ st.set_page_config(
 st.title('Real-Time Movie Budget Prediction')
 st.markdown('Welcome to our real-time movie budget prediction app! You can select/change the parameters below')
 
-
-@st.cache_data(persist=True)
-def get_data():
-    '''
-    Function that returns the dataframe that contains requisite data for visualization dashboard.
-    '''
-    df = pd.read_csv('streamlit_data.csv')
-    return df
-
-
 with open(model_file, 'rb') as file:
-    dv, loaded_model = pickle.load(file)
+    loaded_model = pickle.load(file)
 
 
 col1, col2, col3, col4, col5, col6= st.columns(6)
