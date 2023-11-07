@@ -20,3 +20,9 @@ services:
       - "5601:5601"
     depends_on:
       - elasticsearch_app
+
+  ui_app:
+    image: ./ui_app
+    
+    ports:
+      - "8080:8501"
