@@ -104,6 +104,8 @@ if st.button('Predict'):
         st.error('Kindly make sure all selections have been made!', icon="🚨")
     else:
         val = round(loaded_model.predict(input_df)[0])
-        st.markdown(f'The estimated budget of your movie is **${val:,}**.')
-
+        if val>0:
+            st.markdown(f'The estimated budget of your movie is **${val:,}**.')
+        else:
+            st.markdown(f'The estimated budget of your movie is **$1,422,607**.')
     
