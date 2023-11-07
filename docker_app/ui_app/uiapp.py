@@ -17,7 +17,7 @@ st.title('Real-Time Movie Budget Prediction')
 st.markdown('Welcome to our real-time movie budget prediction app! You can select/change the parameters below')
 
 with open(model_file, 'rb') as file:
-    loaded_model = pickle.load(file)
+    dv, loaded_model = pickle.load(file)
 
 
 col1, col2, col3, col4, col5, col6= st.columns(6)
