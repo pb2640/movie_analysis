@@ -19,6 +19,4 @@ if __name__ == "__main__":
     model.report_model_results()
 
 
-
-
     print("Done")

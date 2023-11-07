@@ -27,7 +27,7 @@ def get_data():
 
 
 with open(model_file, 'rb') as file:
-    dv, loaded_model = pickle.load(file)
+    loaded_model = pickle.load(file)
 
 
 col1, col2, col3, col4, col5, col6= st.columns(6)
