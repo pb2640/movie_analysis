@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  streamlit_app:
+    image: aman9608/data_viz_app
+    
+    ports:
+      - "8501:8501"  # Map a host port to the container's port if needed
+
+  elasticsearch_app:
+    build:
+      context: ./elasticsearch_app
+    ports:
+      - "9200:9200"
+
+  app3:
+    build:
+      context: ./kibana_app
+    ports:
+      - "5601:5601"
