@@ -3,3 +3,5 @@ experimental_data_dumps/
 lib/
 bin/
 notebooks/
+extras/kaggle_similar_projects/movies.csv.zip
+extras/kaggle_similar_projects/movies.csv/movies.csv
